@@ -15,8 +15,7 @@ layout: sitepage
 
 我在2020年主持申请获批了国家自然科学基金(NSFC)青年基金项目。
 
-不要慌，我复制的师傅的主页，还在修改中.
-  [[My CV in PDF]]({{site.url}}/YuJiangCV.pdf) 
+不要慌，我复制的师傅的主页，还在修改中.[[My CV in PDF]]({{site.url}}/YuJiangCV.pdf) 
 
 I have broad interests in numerical methods in differential equations,
 controls, and optimization. I am also developing my hobby in robotics. Please feel
@@ -39,7 +38,7 @@ free to reach out to me if you are interested in any part of my research work.
 
 
 # Education
-* Ph.D., Control Science and Engineering, <a href="https://dongfangxy.github.io/">Shanghai Jiao Tong University</a>, Shanghai, Dec 2019. (Advisor:<a href="https://dongfangxy.github.io/">Prof. J.W</a>)
-* M.S., Microelectronics and Solid State Electronics, <a href="https://dongfangxy.github.io/">Harbin Institute of Technology</a>, Shenzhen, June 2015 (Advisor: <a href="https://dongfangxy.github.io/">Prof. M.W.</a>)
-* B.S., Electronics Science and Technology, <a href="https://dongfangxy.github.io/">Harbin Institute of Technology</a>, Weihai, June 2012
+* Ph.D., Control Science and Engineering, <a href="https://dongfangxy.github.io/">Shanghai Jiao Tong University</a>, Shanghai, Dec 2019. 
+* M.S., Microelectronics and Solid State Electronics, <a href="https://dongfangxy.github.io/">Harbin Institute of Technology</a>, Shenzhen, June 2015. 
+* B.S., Electronics Science and Technology, <a href="https://dongfangxy.github.io/">Harbin Institute of Technology</a>, Weihai, June 2012.
 
