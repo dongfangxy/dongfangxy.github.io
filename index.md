@@ -8,7 +8,7 @@ layout: sitepage
 [comment]: # (Insert my resume below)
 
 # About Me
-I copy from my shifu.
+不要慌，我复制的师傅的简历.
 Hello. My name is Yu Jiang. I am current a Senior Controls Engineer / Controls Researcher at ClearMotion. Prior to joining the company, I worked at MathWorks as a Software Engineer of Simulink Control Design Toolbox.  [[My CV in PDF]]({{site.url}}/YuJiangCV.pdf) 
 
 I lived in the New York City for five years and
