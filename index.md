@@ -17,9 +17,7 @@ layout: sitepage
 
 不要慌，我复制的师傅的主页，还在修改中.[[My CV in PDF]]({{site.url}}/YuJiangCV.pdf) 
 
-I have broad interests in numerical methods in differential equations,
-controls, and optimization. I am also developing my hobby in robotics. Please feel
-free to reach out to me if you are interested in any part of my research work.
+Please feel free to reach out to me if you are interested in any part of my research work.
 
 # Contact
 * Follow me on:
@@ -27,10 +25,6 @@ free to reach out to me if you are interested in any part of my research work.
 [ResearchGate](https://www.researchgate.net/profile/Chengxi_Zhang5)
 
 * Email: dongfangxy@163.com
-
-# Awards
-* 师傅的奖励都列到了这里.
-
 
 
 # Experiences
@@ -41,4 +35,13 @@ free to reach out to me if you are interested in any part of my research work.
 * Ph.D., Control Science and Engineering, <a href="https://dongfangxy.github.io/">Shanghai Jiao Tong University</a>, Shanghai, Dec 2019. 
 * M.S., Microelectronics and Solid State Electronics, <a href="https://dongfangxy.github.io/">Harbin Institute of Technology</a>, Shenzhen, June 2015. 
 * B.S., Electronics Science and Technology, <a href="https://dongfangxy.github.io/">Harbin Institute of Technology</a>, Weihai, June 2012.
+
+# Other information
+* 博士阶段：教育部博士研究生国家奖学金， 教育部辅导员工作新媒体项目上海交大心灵巴士公众平台顾问，上海交大三好学生，上海交大 2019 届研究生校友班级理事(2019-
+2024)。硕士阶段：二等奖学金。本科阶段：专业总成绩前 10%，各类奖学金共计五次，哈工
+大三好学生、 优秀团员。
+* Review for  Journals and Conferences
+Aerospace Science and Technology, IEEE/ASME Transactions on Mechatronics, IEEE Transactions on Cybernetics, IEEE Transactions on Circuits and Systems II: Express Briefs, Advances in Space Research, Nonlinear Dynamics, Transactions of the Institute of Measurement and Control, Journal of the Franklin Institute, 自动化学报, IEEE Access. 
+International Conference on Guidance, Navigation and Control (2020).
+
 
