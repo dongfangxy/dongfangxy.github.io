@@ -37,13 +37,11 @@ Please feel free to reach out to me if you are interested in any part of my rese
 * B.S., Electronics Science and Technology, <a href="https://dongfangxy.github.io/">Harbin Institute of Technology</a>, Weihai, June 2012.
 
 # Other information
-* Awards
-
+* Awards：&nbsp;
 博士阶段：教育部博士研究生国家奖学金， 教育部辅导员工作新媒体项目上海交大心灵巴士公众平台顾问，上海交大三好学生，上海交大 2019 届研究生校友班级理事(2019-
 2024)。硕士阶段：二等奖学金。本科阶段：专业总成绩前 10%，各类奖学金共计五次，哈工
 大三好学生、 优秀团员。
-* Review for  Journals and Conferences
-
+* Review for  Journals and Conferences：&nbsp;
 Aerospace Science and Technology, IEEE/ASME Transactions on Mechatronics, IEEE Transactions on Cybernetics, IEEE Transactions on Circuits and Systems II: Express Briefs, Advances in Space Research, Nonlinear Dynamics, Transactions of the Institute of Measurement and Control, Journal of the Franklin Institute, 自动化学报, IEEE Access. 
 International Conference on Guidance, Navigation and Control (2020).
 
