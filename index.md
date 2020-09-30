@@ -28,13 +28,13 @@ Please feel free to reach out to me if you are interested in any part of my rese
 
 
 # Experiences
-* Post Doctoral Researcher,  <a href="https://dongfangxy.github.io/">Harbin Institute of Technology, School of Electronics and Information</a>, Shenzhen, July 2017 - Present
+* Post Doctoral Researcher,  <a href="https://dongfangxy.github.io/">Harbin Institute of Technology, School of Electronics and Information</a>, Shenzhen, Dec 2019 - Present
 
 
 # Education
-* Ph.D., Control Science and Engineering, <a href="https://dongfangxy.github.io/">Shanghai Jiao Tong University</a>, Shanghai, Dec 2019. 
-* M.S., Microelectronics and Solid State Electronics, <a href="https://dongfangxy.github.io/">Harbin Institute of Technology</a>, Shenzhen, June 2015. 
-* B.S., Electronics Science and Technology, <a href="https://dongfangxy.github.io/">Harbin Institute of Technology</a>, Weihai, June 2012.
+* Ph.D., Control Science and Engineering, <a href="https://dongfangxy.github.io/">Shanghai Jiao Tong University</a>, Shanghai, Mar. 2015 - Dec 2019. 
+* M.S., Microelectronics and Solid State Electronics, <a href="https://dongfangxy.github.io/">Harbin Institute of Technology</a>, Shenzhen, Sep. 2012 - Jan. 2015. 
+* B.S., Electronics Science and Technology, <a href="https://dongfangxy.github.io/">Harbin Institute of Technology</a>, Weihai, Sep. 2008 - Jun. 2012.
 
 # Other information
 * Awards：&nbsp;
