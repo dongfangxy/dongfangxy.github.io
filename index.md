@@ -15,7 +15,10 @@ layout: sitepage
 
 我在2020年主持申请获批了国家自然科学基金(NSFC)青年基金项目。
 
+
+<!--
 复制了师傅的主页，我还在修改中....[[My CV in PDF]]({{site.url}}/YuJiangCV.pdf) 
+-->
 
 Please feel free to reach out to me if you are interested in any part of my research work.
 
@@ -24,7 +27,7 @@ Please feel free to reach out to me if you are interested in any part of my rese
 [Google Scholar](https://scholar.google.com/citations?user=oHzlz50AAAAJ&hl),
 [ResearchGate](https://www.researchgate.net/profile/Chengxi_Zhang5)
 
-* Email: dongfangxy@163.com
+* Email: <a href="mailto:dongfangxy@163.com"><span style="line-height:2;">dongfangxy@163.com</span>
 
 
 # Experiences
