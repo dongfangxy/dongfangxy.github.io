@@ -1,9 +1,9 @@
 ---
-title: Dawn in SJTU.
+title: Dawn in Shanghai Jiao Tong Universtiy.
 layout: news
 tag: jekyll
 category: notes
-author: Yu Jiang
+author: Chengxi Zhang
 comments: true
 ---
 
@@ -15,6 +15,6 @@ comments: true
 ![mysnowman]({{site.url}}/images/posts/2016-01-22-snowman.JPG)
 -->
 
-Dawn in Shanghai Jiao Tong Universtiy.
 
-<img src="{{site.url}}/images/posts/SJTUDawn.jpg " alt="" width="720" height="540" title="" align="" />
+
+<img src="{{site.url}}/images/posts/SJTUDawn.jpg " alt="" width="480" height="360" title="" align="" />
