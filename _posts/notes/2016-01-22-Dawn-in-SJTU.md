@@ -17,4 +17,4 @@ comments: true
 
 Dawn in Shanghai Jiao Tong Universtiy.
 
-<img src="{{site.url}}/images/posts/SJTUDawn.jpg " alt="" width="640" height="320" title="" align="" />
+<img src="{{site.url}}/images/posts/SJTUDawn.jpg " alt="" width="720" height="540" title="" align="" />
