@@ -15,7 +15,7 @@ layout: sitepage
 
 我在2020年主持申请获批了国家自然科学基金(NSFC)青年基金项目。
 
-不要慌，我复制的师傅的主页，还在修改中.[[My CV in PDF]]({{site.url}}/YuJiangCV.pdf) 
+复制了师傅的主页，我还在修改中....[[My CV in PDF]]({{site.url}}/YuJiangCV.pdf) 
 
 Please feel free to reach out to me if you are interested in any part of my research work.
 
