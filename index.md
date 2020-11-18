@@ -20,9 +20,9 @@ layout: sitepage
 复制了师傅的主页，我还在修改中....[[My CV in PDF]]({{site.url}}/YuJiangCV.pdf) 
 -->
 
-I am a Post-doctoral Fellow and Research Assistant in the School of Electronics and Information Engineering, Harbin Institute of Technology, Shenzhen campus, China. My research interests are control theory and space robotics. I have published more than 20 academic papers in various journals and conferences. Currently, I am in charge of one project for the National Natural Science Foundation of China. I received the B.S. and M.S. degrees in microelectronics and solid-state electronics from Harbin Institute of Technology, China, in 2012 and 2015, respectively. I received my Ph.D. degree in control science and engineering from Shanghai Jiao Tong University, China, in 2019. I am a board member of the Shanghai Jiao Tong University Ph.D. Alumni Association of the School of Aeronautics and Astronautics, from 2019 to 2024. I am a member of the Chinese Association of Automation and IEEE.
+I am a Post-doctoral Fellow and Research Assistant in the School of Electronics and Information Engineering, Harbin Institute of Technology (HIT), Shenzhen campus, China. My research interests are control theory and space robotics. I have published more than 20 academic papers in various journals and conferences. Currently, I am in charge of one project for the National Natural Science Foundation of China (NSFC). I received the B.S. and M.S. degrees in microelectronics and solid-state electronics from HIT, China, in 2012 and 2015, respectively. I received my Ph.D. degree in control science and engineering from Shanghai Jiao Tong University (SJTU), China, in 2019. I am a board member of SJTU Ph.D. Alumni Association of the School of Aeronautics and Astronautics, from 2019 to 2024. I am a member of the Chinese Association of Automation and IEEE.
 
-Recently, I work closely with Dr. [Jin Wu](https://zarathustr.github.io/) from the Hong Kong University of Science and Technology, Hong Kong, China.
+Recently, I work closely with Dr. [Jin Wu](https://zarathustr.github.io/) from the Hong Kong University of Science and Technology (HKUST), Hong Kong, China.
 
 Please feel free to reach out to me if you are interested in any part of my research work.
 
