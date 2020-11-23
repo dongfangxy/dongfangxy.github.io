@@ -50,7 +50,7 @@ Please feel free to reach out to me if you are interested in any part of my rese
 大三好学生、 优秀团员。
 * Review for  Journals and Conferences：&nbsp;
 Aerospace Science and Technology, IEEE/ASME Transactions on Mechatronics, IEEE Transactions on Cybernetics, IEEE Transactions on Circuits and Systems II: Express Briefs, Advances in Space Research, Nonlinear Dynamics, Transactions of the Institute of Measurement and Control, Journal of the Franklin Institute, 自动化学报, IEEE Access, 
-Proceedings of the Institution of Mechanical Engineers, Part G: Journal of Aerospace Engineering.
+Proceedings of the iMeche, Part G: Journal of Aerospace Engineering, Proceedings of the iMeche, Part I: Journal of Systems and Control Engineering.
 International Conference on Guidance, Navigation and Control (2020).
 
 
