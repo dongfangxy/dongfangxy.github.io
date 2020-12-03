@@ -44,6 +44,7 @@ Please feel free to reach out to me if you are interested in any part of my rese
 * B.S., Electronics Science and Technology, <a href="https://dongfangxy.github.io/">Harbin Institute of Technology</a>, Weihai, Sep. 2008 - Jun. 2012.
 
 # Other information
+* Service: 国家自然科学基金信息学部函评专家(Correspondence Review Expert of the Department of Information, National Natural Science Foundation of China, from 2020).
 * Awards：&nbsp;
 博士阶段：教育部博士研究生国家奖学金， 教育部辅导员工作新媒体项目上海交大心灵巴士公众平台顾问，上海交大三好学生，上海交大 2019 届研究生校友班级理事(2019-
 2024)。硕士阶段：二等奖学金。本科阶段：专业总成绩前 10%，各类奖学金共计五次，哈工
