@@ -3,9 +3,9 @@ layout: default
 ---
 {% include publications.html%}
 
-<h1>Recent Papers</h1>
+<h1>Recent Papers (Test)</h1>
 <ul>
-{% for papers in site.posts.papers limit:5%}
+{% for papers in site.posts limit:5%}
 {% if notes.category == "paper"%}
 <li>
   {{papers.date | date: '%D'}} <a href="{{site.baseurl}}{{ papers.url }}">{{ papers.title }}</a>
