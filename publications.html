@@ -11,6 +11,7 @@ layout: default
   {{papers.date | date: '%D'}} <a href="{{site.baseurl}}{{ papers.url }}">{{ papers.title }}</a>
   <p>{{papers.content}}</p>
 </li>
+{% endif %}
 {% endfor %}
 </ul>
 
