@@ -3,13 +3,13 @@ layout: default
 ---
 {% include publications.html%}
 
-
-<h1> Recent Papers</h1>
+<h1>Recent Papers</h1>
 <ul>
-{% for paper in site.papers limit:5%}
+{% for papers in site.posts limit:5%}
 <li>
-  {{paper.date | date: '%D'}} <a href="{{site.baseurl}}{{ paper.url }}">{{ paper.title }}</a>
-  <p>{{paper.content}}</p>
+  {{papers.date | date: '%D'}} <a href="{{site.baseurl}}{{ papers.url }}">{{ papers.title }}</a>
+  <p>{{papers.content}}</p>
 </li>
 {% endfor %}
 </ul>
+
