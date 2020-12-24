@@ -6,10 +6,10 @@ layout: default
 
 <h1> Recent Papers</h1>
 <ul>
-{% for papers in site.papers limit:5%}
+{% for paper in site.papers limit:5%}
 <li>
-  {{papers.date | date: '%D'}} <a href="{{site.baseurl}}{{ papers.url }}">{{ papers.title }}</a>
-  <p>{{papers.content}}</p>
+  {{paper.date | date: '%D'}} <a href="{{site.baseurl}}{{ paper.url }}">{{ paper.title }}</a>
+  <p>{{paper.content}}</p>
 </li>
 {% endfor %}
 </ul>
