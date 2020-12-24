@@ -2,3 +2,14 @@
 layout: default
 ---
 {% include publications.html%}
+
+
+<h1> Recent Papers</h1>
+<ul>
+{% for papers in site.papers limit:5%}
+<li>
+  {{papers.date | date: '%D'}} <a href="{{site.baseurl}}{{ papers.url }}">{{ papers.title }}</a>
+  <p>{{papers.content}}</p>
+</li>
+{% endfor %}
+</ul>
