@@ -6,8 +6,12 @@ category: paper
 author: Chengxi Zhang
 comments: true
 ---
-*Paper 1 Test.
-*Paper 2 Test.
+<ol>
+	<li>*Paper 1 Test.</li>
+	<li>*Paper 2 Test.</li>
+</ol>
+
+
 
 
 

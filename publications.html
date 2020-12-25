@@ -1,9 +1,7 @@
 ---
 layout: default
 ---
-{% include publications.html%}
-
-<h1>Recent Papers(Test)</h1>
+<h1>Recent Papers(test)</h1>
 <ul>
 {% for papers in site.posts limit:5%}
 {% if papers.category == "paper"%}
@@ -14,4 +12,12 @@ layout: default
 {% endif %}
 {% endfor %}
 </ul>
+
+<---
+<hr />是横线的意思
+--->
+<hr />
+
+{% include publications.html%}
+
 
