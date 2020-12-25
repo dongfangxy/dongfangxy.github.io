@@ -1,5 +1,5 @@
 ---
-title: Test-Paper1.
+title: Papers in Year 2021
 layout: sitepage
 tag: jekyll
 category: paper
@@ -7,8 +7,8 @@ author: Chengxi Zhang
 comments: true
 ---
 <ol>
-	<li>*Paper 1 Test.</li>
-	<li>*Paper 2 Test.</li>
+	<li>Paper 1 Test.</li>
+	<li>Paper 2 Test.</li>
 </ol>
 
 
