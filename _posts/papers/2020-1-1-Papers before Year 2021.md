@@ -1,9 +1,11 @@
-<!---
-
-<h3>
-	<strong>Papers before 2021</strong>
-</h3>
-
+---
+title: Papers before Year 2021
+layout: sitepage
+tag: jekyll
+category: paper
+author: Chengxi Zhang
+comments: true
+---
 <ol>
 	<li>
 		<b><span style="line-height:2;">Chengxi
@@ -122,5 +124,3 @@ II: Express Briefs</span></b><span style="line-height:2;">, 2020.&nbsp;</span><s
 		<span style="line-height:2;">Ming-Zhe Dai, Weiming Fu, Dangjun Zhao,&nbsp;</span><b><span style="line-height:2;">Chengxi Zhang</span></b><span style="line-height:2;">. Distributed self-triggered control with quantized edge state sampling and time delays,&nbsp;</span><b><span style="line-height:2;">2020 International Conference on Guidance, Navigation and Control</span></b><span style="line-height:2;">.</span> 
 	</li>
 </ol>
-
---->
