@@ -7,7 +7,7 @@ author: Chengxi Zhang
 comments: true
 ---
 <ol>
-	<li>Item in test.</li>
+	<li>Ming-Zhe Dai, Chengxi Zhang*, Henry Leung, Peng Dong, Bo Li. Distributed Integral-type Edge-event- and Self-triggered Synchronization for Nonlinear Multi-agent Systems. IEEE Transactions on Systems, Man and Cybernetics: Systems. (Minor Revision)</li>
 </ol>
 
 
