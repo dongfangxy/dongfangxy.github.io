@@ -8,6 +8,7 @@ comments: true
 ---
 <ol>
 	<li>Ming-Zhe Dai, <b>Chengxi Zhang*</b>, Henry Leung, Peng Dong, Bo Li. Distributed Integral-type Edge-event- and Self-triggered Synchronization for Nonlinear Multi-agent Systems. <b>IEEE Transactions on Systems, Man and Cybernetics: Systems</b>. (Minor Revision)</li>
+	<li><b>Chengxi Zhang</b>, Ming-Zhe Dai, Jin Wu, Bing Xiao, Bo Li, Mingjiang Wang. Neural-networks and event-based fault-tolerant control for spacecraft attitude stabilization, <b>Aerospace Science and Technology</b>. (Minor Revision)</li>
 
 </ol>
 
