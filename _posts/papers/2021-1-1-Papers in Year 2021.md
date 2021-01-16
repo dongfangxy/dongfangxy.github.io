@@ -11,7 +11,8 @@ comments: true
 	<li>Ming-Zhe Dai, <b>Chengxi Zhang*</b>, Henry Leung, Peng Dong, Bo Li. Distributed Integral-type Edge-event- and Self-triggered Synchronization for Nonlinear Multi-agent Systems. <b>IEEE Transactions on Systems, Man and Cybernetics: Systems</b>. (Under Revision)</li>
 	<li><b>Chengxi Zhang</b>, Ming-Zhe Dai, Jin Wu, Bing Xiao, Bo Li, Mingjiang Wang. Neural-networks and event-based fault-tolerant control for spacecraft attitude stabilization, <b>Aerospace Science and Technology</b>. (Under Revision)</li>
 	<li>Ming-Zhe Dai, Bing Xiao*, <b>Chengxi Zhang*</b>, Jin Wu. Event-Triggered Policy to Spacecraft Attitude Stabilization with Actuator Output Nonlinearities, <b>IEEE Transactions on Circuits and Systems II: Express Briefs</b>. (Under Revision)</li>
-	<li>Ming-Zhe Dai , Choon Ki Ahn, Jin Wu , <b>Chengxi Zhang</b>, Mingzhen Gui, Performance Adjustable Event-Triggered Synchronization Policies to Nonlinear Multi-Agent Systems, <b>IEEE Systems Journal</b>(Under Review)</li>
+	<li>Ming-Zhe Dai , Choon Ki Ahn, Jin Wu, <b>Chengxi Zhang</b>, Mingzhen Gui, Performance Adjustable Event-Triggered Synchronization Policies to Nonlinear Multi-Agent Systems, <b>IEEE Systems Journal. </b>(Under Review)</li>
+	<li>Ming-Zhe Dai, <b>Chengxi Zhang</b>, Peng Dong, Henry Leung. Lp function based event-triggered policy tospacecraft attitude tracking<b>IEEE Transactions on Automatic Control</b>(Under Revision)</li>
 
 </ol>
 
