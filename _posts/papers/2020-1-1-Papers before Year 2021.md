@@ -1,5 +1,5 @@
 ---
-title: Papers from Year 2018-2020
+title: Papers from Year 2018 - 2020
 layout: sitepage
 tag: jekyll
 category: paper
