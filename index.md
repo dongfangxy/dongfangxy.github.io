@@ -36,8 +36,8 @@ Please feel free to reach out to me if you are interested in any part of my rese
 
 
 # Experiences
-* New position, <a href="https://dongfangxy.github.io/">Future affiliation</a>, Location, 2021-
-* Post Doctoral Researcher,  <a href="https://dongfangxy.github.io/">Harbin Institute of Technology</a>, School of Electronics and Information, Shenzhen, Dec 2019 - 2021.
+* New Position, <a href="https://dongfangxy.github.io/">New Affiliation</a>, Location, 2021-
+* Post Doctoral Position,  <a href="https://dongfangxy.github.io/">Harbin Institute of Technology</a>, School of Electronics and Information, Shenzhen, Dec 2019 - 2021.
 
 
 # Education
