@@ -8,8 +8,8 @@ comments: true
 ---
 <ol>
 	<li>Haibin Wang, Mingyang Li, <b>Chengxi Zhang</b>, Xiaodong Shao. Event-Based Prescribed Performance Control for Dynamic Positioning Vessels, <b>IEEE Transactions on Circuits and Systems II: Express Briefs</b>. (in press, doi:10.1109/TCSII.2021.3050523)</li>
-	<li>Ming-Zhe Dai, Bing Xiao*, <b>Chengxi Zhang*</b>, Jin Wu. Event-Triggered Policy to Spacecraft Attitude Stabilization with Actuator Output Nonlinearities, <b>IEEE Transactions on Circuits and Systems II: Express Briefs</b>. (in press, doi:)</li>
-	<li>Yi Jiang, Kai Zhang, Jin Wu, <b>Chengxi Zhang</b>, Wenqian Xue, Tianyou Chai, Frank L. Lewis. $H_{\infty}$ based Minimal Energy Adaptive Control with Preset Convergence Rate, <b>IEEE Transactions on Cybernetics</b>. (in press, doi:)</li>
+	<li>Ming-Zhe Dai, Bing Xiao*, <b>Chengxi Zhang*</b>, Jin Wu. Event-Triggered Policy to Spacecraft Attitude Stabilization with Actuator Output Nonlinearities, <b>IEEE Transactions on Circuits and Systems II: Express Briefs</b>. (in press, doi:10.1109/TCSII.2021.3056761)</li>
+	<li>Yi Jiang, Kai Zhang, Jin Wu, <b>Chengxi Zhang</b>, Wenqian Xue, Tianyou Chai, Frank L. Lewis. H∞ based Minimal Energy Adaptive Control with Preset Convergence Rate, <b>IEEE Transactions on Cybernetics</b>. (in press, doi:)</li>
 </ol>
 
 
