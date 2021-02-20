@@ -24,7 +24,7 @@ From 2019-2021, I was a Post-doctoral Research Assistant in the School of Electr
 
 Recently, I work closely with [Dr. Jin Wu (吴荩)](https://zarathustr.github.io/) from the Hong Kong University of Science and Technology (HKUST), Hong Kong, China.
 
-In addition, my collaborators also include [Prof. Wei He (贺威)](http://saee.ustb.edu.cn/quantijiaoshi/2015-10-09/81.html) ,  [Prof. Choon Ki Ahn](http://control.korea.ac.kr/) ,  [Prof. Ming Liu (刘明)](https://ece.hkust.edu.hk/eelium) .
+In addition, my collaborators also include [Prof. Wei He (贺威)](http://saee.ustb.edu.cn/quantijiaoshi/2015-10-09/81.html) ,  [Prof. Choon Ki Ahn](http://control.korea.ac.kr/)，[Prof. Henry Leung](https://schulich.ucalgary.ca/contacts/henry-leung) ,  [Prof. Ming Liu (刘明)](https://ece.hkust.edu.hk/eelium).
 
 # Contact
 Please feel free to reach out to me if you are interested in any part of my research work.
