@@ -17,7 +17,7 @@ layout: sitepage
 复制了师傅的主页，我还在修改中....[[My CV in PDF]]({{site.url}}/YuJiangCV.pdf) 
 -->
 
-My research interests are control theory and space robotics. I have published more than 30 academic papers in various journals and conferences (See [Publications](https://dongfangxy.github.io/publications/)) . Currently, I am in charge of one project for the National Natural Science Foundation of China (NSFC). I received the B.S. and M.S. degrees in microelectronics and solid-state electronics from HIT, China, in 2012 and 2015, respectively. I received my Ph.D. degree in control science and engineering from Shanghai Jiao Tong University (SJTU), China, in 2019. I am a board member of SJTU Ph.D. Alumni Association of the School of Aeronautics and Astronautics, from 2019 to 2024. 
+My research interests are control theory and space robotics. I have published more than 30 academic papers in various journals and conferences (See [Publications](https://dongfangxy.github.io/publications/)) . Currently, I am in charge of one project for the National Natural Science Foundation of China (NSFC). I received the B.S. and M.S. degrees in microelectronics and solid-state electronics from HIT, China, in 2012 and 2015, respectively. I received my Ph.D. degree in control science and engineering from Shanghai Jiao Tong University (SJTU), China, in 2019. 
 
 Recently, I work closely with [Dr. Jin Wu (吴荩)](https://zarathustr.github.io/) from the Hong Kong University of Science and Technology (HKUST), Hong Kong, China.
 
@@ -45,10 +45,8 @@ Please feel free to reach out to me if you are interested in any part of my rese
 # Other information
 * Service: 
 国家自然科学基金信息学部函评专家 (Correspondence Review Expert of the National Natural Science Foundation of China, from 2020).
+* Reviewer for more than 20 journals and conferences：JGCD, AST, TMech, TCYB, TCAS2, etc.
 * Awards：
-博士阶段：博士研究生国家奖学金， 教育部辅导员工作新媒体项目上海交大心灵巴士公众平台顾问，上海交大三好学生，上海交大 2019 届研究生校友班级理事(2019-
-2024)。硕士阶段：二等奖学金。本科阶段：各类奖学金共计五次，哈工大三好学生、 优秀团员。
-* Reviewer for more than 20 journals：
-Journal of Guidance, Control, and Dynamics, Aerospace Science and Technology, IEEE/ASME Transactions on Mechatronics, IEEE Transactions on Cybernetics, IEEE Transactions on Circuits and Systems II: Express Briefs, etc.
+博士研究生国家奖学金， 教育部辅导员工作新媒体项目上海交大心灵巴士公众平台顾问，上海交大三好学生，上海交大 2019 届研究生校友班级理事(2019-2024)。
 
 
