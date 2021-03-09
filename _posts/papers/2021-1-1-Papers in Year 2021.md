@@ -10,6 +10,7 @@ comments: true
 	<li>Haibin Wang, Mingyang Li, <b>Chengxi Zhang</b>, Xiaodong Shao. Event-Based Prescribed Performance Control for Dynamic Positioning Vessels, <b>IEEE Transactions on Circuits and Systems II: Express Briefs</b>. (in press, doi:10.1109/TCSII.2021.3050523)</li>
 	<li>Ming-Zhe Dai, Bing Xiao*, <b>Chengxi Zhang*</b>, Jin Wu. Event-Triggered Policy to Spacecraft Attitude Stabilization with Actuator Output Nonlinearities, <b>IEEE Transactions on Circuits and Systems II: Express Briefs</b>. (in press, doi:10.1109/TCSII.2021.3056761)</li>
 	<li>Yi Jiang, Kai Zhang, Jin Wu, <b>Chengxi Zhang</b>, Wenqian Xue, Tianyou Chai, Frank L. Lewis. H∞ based Minimal Energy Adaptive Control with Preset Convergence Rate, <b>IEEE Transactions on Cybernetics</b>. (in press, doi:10.1109/TCYB.2021.3061894)</li>
+	<li>Jin Wu, Ming Liu, <b>Chengxi Zhang*</b>, Yulong Huang, Zebo Zhou. Geomagnetic Orbit Determination: EKF or UKF? <b>Aircraft Engineering and Aerospace Technology</b>. (Accept, doi:10.1108/AEAT-11-2020-0279)</li>
 </ol>
 
 
