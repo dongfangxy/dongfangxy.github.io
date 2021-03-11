@@ -17,7 +17,7 @@ layout: sitepage
 复制了师傅的主页，我还在修改中....[[My CV in PDF]]({{site.url}}/YuJiangCV.pdf) 
 -->
 
-My research interests are control theory and space robotics. I have published more than 30 academic papers in various journals and conferences (See [Publications](https://dongfangxy.github.io/publications/)) . Currently, I am in charge of one project for the National Natural Science Foundation of China (NSFC). I received the B.S. and M.S. degrees in microelectronics and solid-state electronics from HIT, China, in 2012 and 2015, respectively. I received my Ph.D. degree in control science and engineering from Shanghai Jiao Tong University (SJTU), China, in 2019. 
+My research interests are control theory and space robotics. I have published more than 30 academic papers in various journals and conferences (See [Publications](https://dongfangxy.github.io/publications/)) . Currently, I am supported by the National Natural Science Foundation of China (NSFC). I received the B.S. and M.S. degrees  from Harbin Institute of Technology, China, in 2012 and 2015. I received Ph.D. degree from Shanghai Jiao Tong University (SJTU), China, in 2019. 
 
 Recently, I work closely with [Dr. Jin Wu (吴荩)](https://zarathustr.github.io/) from the Hong Kong University of Science and Technology (HKUST), Hong Kong, China.
 
