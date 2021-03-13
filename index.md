@@ -9,7 +9,7 @@ layout: sitepage
 
 # About Me
 
-于2019年取得上海交通大学博士学位，于2012和2015年获得哈尔滨工业大学本科、硕士学位。研究主要集中于空间飞行器姿态控制、多飞行器姿态协同控制中所面临的扰动、不确定性抑制、容错控制等问题；以及多智能体系统的鲁棒一致性控制问题等。
+于2019年取得上海交通大学博士学位，2012和2015年获得哈尔滨工业大学本科、硕士学位。研究主要集中于空间飞行器姿态控制、多飞行器姿态协同控制中所面临的扰动、不确定性抑制、容错控制等问题；以及多智能体系统的鲁棒一致性控制问题等。
 
 于2018年开始，使用事件驱动控制方法设计可节约通信资源的非持续更新执行机构的姿态控制算法，以及非持续通信的多航天器姿态协同控制算法等。围绕航天器姿态控制问题，进行了一系列研究，包括单体航天器控制，多航天器姿态协同控制，面向故障诊断的学习观测器(Learning Observer)设计，简单高效的在线学习控制(Oline-Learning Control)，面向姿态控制系统安全控制算法设计等。研究针对复杂扰动、执行机构故障等问题，设计鲁棒高效的姿态控制算法。[研究成果](https://dongfangxy.github.io/publications/)主要发表于IEEE Transactions on Aerospace and Electronic Systems，Aerospace Science and Technology，Journal of Guidance, Control, and Dynamics，IEEE  Transactions  on  Instrumentation  and  Measurement,  IEEE/ASME  Transactions  on Mechatronics，IEEE Transactions on Circuits and Systems II: Express Briefs, IEEE System Journal 等航天、系统领域期刊逾30篇、申请国防专利3项；主持国家自然科学基金1项。
 
@@ -21,7 +21,8 @@ My research interests are control theory and space robotics. I have published mo
 
 Recently, I work closely with [Dr. Jin Wu (吴荩)](https://zarathustr.github.io/) from the Hong Kong University of Science and Technology (HKUST), Hong Kong, China.
 
-My collaborators also include [Prof. Wei He (贺威)](http://saee.ustb.edu.cn/quantijiaoshi/2015-10-09/81.html) ,  [Prof. Choon Ki Ahn](http://control.korea.ac.kr/)，[Prof. Henry Leung](https://schulich.ucalgary.ca/contacts/henry-leung) ,  [Prof. Ming Liu (刘明)](https://ece.hkust.edu.hk/eelium).
+My collaborators also include 
+[Prof. Wei He (贺威)](http://saee.ustb.edu.cn/quantijiaoshi/2015-10-09/81.html) ,  [Prof. Choon Ki Ahn](http://control.korea.ac.kr/)，[Prof. Henry Leung](https://schulich.ucalgary.ca/contacts/henry-leung) ,  [Prof. Ming Liu (刘明)](https://ece.hkust.edu.hk/eelium),  [Prof. Chong Li (李崇)](http://coe.ouc.edu.cn/2019/0819/c9094a256005/page.htm)， [Dr. Yi Jiang (姜艺) and Prof. Tianyou Chai (柴天佑)](https://yijiang1992.github.io/)
 
 # Contact
 * Follow me on:
