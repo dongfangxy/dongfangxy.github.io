@@ -24,6 +24,8 @@ My collaborators also include
 [Dr. Yi Jiang (姜艺) and Prof. Tianyou Chai (柴天佑)](https://yijiang1992.github.io/)
 [Prof. Caisheng Wei(魏才盛) and Dr. Ming-Zhe Dai(戴明哲)](http://faculty.csu.edu.cn/weicaisheng/zh_CN/index.htm).
 
+需要仿真文件请联系我。
+
 # Contact
 * Follow me on:
 [Google Scholar](https://scholar.google.com/citations?user=oHzlz50AAAAJ&hl),
@@ -46,7 +48,7 @@ My collaborators also include
 * Service: 
 国家自然科学基金信息学部函评专家 (Correspondence Review Expert of the National Natural Science Foundation of China, from 2020).
 * Awards：
-上海交大 2019 届研究生校友班级理事(2019-2024)。
+上海交大 2019 届研究生校友班级理事(2019-2024)，哈尔滨工业大学，深圳优秀博士后(2021)。
 * Reviewer for more than 20 journals and conferences：JGCD, AST, TMech, TCYB, TCAS2, etc.
 
 
