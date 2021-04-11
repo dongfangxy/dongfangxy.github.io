@@ -49,7 +49,7 @@ My collaborators also include
 国家自然科学基金信息学部函评专家 (Correspondence Review Expert of the National Natural Science Foundation of China, from 2020).
 * Awards：
 上海交大 2019 届研究生校友班级理事(2019-2024)，哈尔滨工业大学，深圳优秀博士后(2021)。
-* Reviewer for more than 20 journals and conferences：JGCD, AST, TMech, TCYB, TCAS2, etc.
+* Reviewer for more than 20 journals and conferences.
 
 
 
