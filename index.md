@@ -38,18 +38,18 @@ My collaborators also include
 * New Position, <a href="https://dongfangxy.github.io/">New Affiliation</a>, Location, 2021-
 * Post-doc Position,  <a href="https://dongfangxy.github.io/">Harbin Institute of Technology</a>, School of Electronics and Information, Shenzhen, Dec 2019 - 2021.
 
-
+<!--
 # Education
 * Ph.D., Control Science and Engineering, <a href="https://dongfangxy.github.io/">Shanghai Jiao Tong University</a>, Shanghai, Mar. 2015 - Dec. 2019. 
 * M.S.,  Microelectronics and Solid State Electronics, <a href="https://dongfangxy.github.io/">Harbin Institute of Technology</a>, Shenzhen, Sep. 2012 - Jan. 2015. 
 * B.S.,  Electronics Science and Technology, <a href="https://dongfangxy.github.io/">Harbin Institute of Technology</a>, Weihai, Sep. 2008 - Jun. 2012.
+-->
 
 # Other information
 * Service: 
-国家自然科学基金信息学部函评专家 (Correspondence Review Expert of the National Natural Science Foundation of China, from 2020).
+国家自然科学基金信息学部函评专家 (Correspondence Review Expert of the National Natural Science Foundation of China, from 2020), Reviewer for more than 20 journals and conferences.
 * Awards：
-上海交大 2019 届研究生校友班级理事(2019-2024)，哈尔滨工业大学，深圳优秀博士后(2021)。
-* Reviewer for more than 20 journals and conferences.
+上海交大 2019 届研究生校友班级理事(2019-2024)，哈尔滨工业大学,深圳优秀博士后(2021)。
 
 
 
