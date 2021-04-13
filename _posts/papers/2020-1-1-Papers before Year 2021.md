@@ -40,7 +40,7 @@ self-triggered control of attitude coordination to multi-spacecraft formation. <
 Technology</span></b><span style="line-height:1;">, 2020.&nbsp;</span> 
 	</li>
 	<li>
-		<span style="line-height:2;"><strong><span style="line-height:1;">Chengxi Zhang</span></strong><span style="line-height:1;">, Jin Wu, Yulong Huang, Yu Jiang, Ming-Zhe Dai, Mingjiang Wang, Constructive Schemes to Spacecraft Attitude Control with Low Communication Frequency using Sampled-Data and Encryption Approaches,&nbsp;</span><strong><span style="line-height:1;">Aircraft Engineering and Aerospace Technology</span></strong><strong><span style="line-height:1;">,&nbsp;</span></strong><span style="line-height:1;">2020. (to be published, doi:</span><span style="color:#31353B;font-family:Verdana, &quot;font-size:14px;line-height:1;">10.1108/AEAT-08-2020-0157</span><span style="line-height:1;">)</span><br />
+		<span style="line-height:2;"><strong><span style="line-height:1;">Chengxi Zhang</span></strong><span style="line-height:1;">, Jin Wu, Yulong Huang, Yu Jiang, Ming-Zhe Dai, Mingjiang Wang, Constructive Schemes to Spacecraft Attitude Control with Low Communication Frequency using Sampled-Data and Encryption Approaches,&nbsp;</span><strong><span style="line-height:1;">Aircraft Engineering and Aerospace Technology</span></strong><strong><span style="line-height:1;">,&nbsp;</span></strong><br />
 </span> 
 	</li>
 	<li>
