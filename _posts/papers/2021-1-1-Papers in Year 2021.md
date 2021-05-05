@@ -13,6 +13,7 @@ comments: true
 	<li>Jin Wu, Ming Liu, <b>Chengxi Zhang*</b>, Yulong Huang, Zebo Zhou. Geomagnetic Orbit Determination: EKF or UKF? <b>Aircraft Engineering and Aerospace Technology</b>. (Accept, doi:10.1108/AEAT-11-2020-0279)</li>
 	<li>Caisheng Wei, Mingzhen Gui, <b>Chengxi Zhang</b>, Yuxin Liao, Ming-zhe Dai, Biao Luo. Adaptive Appointed-Time Consensus Control of Networked Euler-Lagrange Systems with Connectivity Preservation<b>IEEE Transactions on Cybernetics</b>. (Accept, doi:)</li>
 	<li><b>Chengxi Zhang</b>, Ming-Zhe Dai, Jin Wu, Bing Xiao, Bo Li, Mingjiang Wang. Neural-networks and event-based fault-tolerant control for spacecraft attitude stabilization.<b> Aerospace Science and Technology</b>(Accept, doi:)</li>
+	<li><b>Chengxi Zhang</b>, Hui-Jie Sun, Jin Wu, Zhongyang Fei, Yu Jiang, Guanhua Zhang. Spacecraft Attitude Control with Mutating Orbital Rate and Actuator Fading under Markovian Jump Framework.<b> Aircraft Engineering and Aerospace Technology</b>(Accept, doi: 10.1108/AEAT-12-2020-0299)</li>
 </ol>
 
 
