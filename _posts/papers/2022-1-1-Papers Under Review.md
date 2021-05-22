@@ -8,7 +8,7 @@ comments: true
 ---
 <ol>
 	<li><b>Chengxi Zhang</b>, Peng Dong, Henry Leung, Jin Wu, Kai Shen. Reset and Prescribed Performance Control Policy to Spacecraft Attitude Regulation <b>Aircraft Engineering and Aerospace Technology</b>. (Under Review)</li>
-	<li>Dechao Ran<b>Chengxi Zhang*</b>, Bing Xiao. Reset and Prescribed Performance Control Policy to Spacecraft Attitude Regulation<b> International Journal of Robust and Nonlinear Control</b>. (Under Review)</li>
+	<li>Dechao Ran<b>Chengxi Zhang*</b>, Bing Xiao. Limited-Information Learning Observer for Simultaneous Estimation of States and Parameters<b> International Journal of Robust and Nonlinear Control</b>. (Under Review)</li>
 	<li>Zhenhua Pan, <b>Chengxi Zhang</b>, Yuanqing Xia, Hao Xiong, Xiaodong Shao. An Improved Artificial Potential Field Method for Path Planning and Formation Control of the Multi-UAV Systems <b> IEEE Transactions on Circuits and Systems II: Express Briefs</b>. (Under Review)</li>
 	<li>Jiaolong Wang, Jin Wu, <b>Chengxi Zhang</b> On the State Independency and Log-linearity of Error Propagation for Discrete Group Affine Systems with Application to Attitude Estimation <b> Aircraft Engineering and Aerospace Technology</b> (Under Review)</li>
 	<li>Xinsheng Wang, Shimin Fan, Ming-Zhe Dai, <b>Chengxi Zhang</b>. On Model-Order Reduction of Interconnect Circuit Network: A Fast and Accurate Method. <b>Mathematics</b> (Under Review)</li>
@@ -18,7 +18,7 @@ comments: true
 . <b>IEEE Sensors Journal </b> (Under Review)</li>
 	<li>Ming-Zhe Dai, Choon Ki Ahn, Jin Wu , <b>Chengxi Zhang</b>, Mingzhen Gui. Performance Adjustable Event-Triggered Synchronization Policies to Nonlinear Multi-Agent Systems
 . <b>IEEE System Journal </b> (Under Review)</li>
-	<li>Ming-Zhe Dai, <b>Chengxi Zhang</b>, Henry Leung, Peng Dong, Bo Li. Distributed Integral-Type Edge Event- and Self-Triggered Synchronization for Nonlinear Multi-Agent Systems . <b>IEEE Transactions on Systems, Man and Cybernetics: Systems  </b> (Under Review)</li>
+	<li>Ming-Zhe Dai, <b>Chengxi Zhang*</b>, Henry Leung, Peng Dong, Bo Li. Distributed Integral-Type Edge Event- and Self-Triggered Synchronization for Nonlinear Multi-Agent Systems . <b>IEEE Transactions on Systems, Man and Cybernetics: Systems  </b> (Under Review)</li>
 </ol>
 
 
