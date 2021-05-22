@@ -8,7 +8,7 @@ comments: true
 ---
 <ol>
 	<li><b>Chengxi Zhang</b>, Peng Dong, Henry Leung, Jin Wu, Kai Shen. Reset and Prescribed Performance Control Policy to Spacecraft Attitude Regulation <b>Aircraft Engineering and Aerospace Technology</b>. (Under Review)</li>
-	<li>Dechao Ran<b>Chengxi Zhang*</b>, Bing Xiao. Limited-Information Learning Observer for Simultaneous Estimation of States and Parameters<b> International Journal of Robust and Nonlinear Control</b>. (Under Review)</li>
+	<li>Dechao Ran，<b>Chengxi Zhang*</b>, Bing Xiao. Limited-Information Learning Observer for Simultaneous Estimation of States and Parameters<b> International Journal of Robust and Nonlinear Control</b>. (Under Review)</li>
 	<li>Zhenhua Pan, <b>Chengxi Zhang</b>, Yuanqing Xia, Hao Xiong, Xiaodong Shao. An Improved Artificial Potential Field Method for Path Planning and Formation Control of the Multi-UAV Systems <b> IEEE Transactions on Circuits and Systems II: Express Briefs</b>. (Under Review)</li>
 	<li>Jiaolong Wang, Jin Wu, <b>Chengxi Zhang</b> On the State Independency and Log-linearity of Error Propagation for Discrete Group Affine Systems with Application to Attitude Estimation <b> Aircraft Engineering and Aerospace Technology</b> (Under Review)</li>
 	<li>Xinsheng Wang, Shimin Fan, Ming-Zhe Dai, <b>Chengxi Zhang</b>. On Model-Order Reduction of Interconnect Circuit Network: A Fast and Accurate Method. <b>Mathematics</b> (Under Review)</li>
