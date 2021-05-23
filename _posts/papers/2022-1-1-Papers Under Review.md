@@ -19,6 +19,7 @@ comments: true
 	<li>Ming-Zhe Dai, Choon Ki Ahn, Jin Wu , <b>Chengxi Zhang</b>, Mingzhen Gui. Performance Adjustable Event-Triggered Synchronization Policies to Nonlinear Multi-Agent Systems
 . <b>IEEE System Journal </b> (Under Review)</li>
 	<li>Ming-Zhe Dai, <b>Chengxi Zhang*</b>, Henry Leung, Peng Dong, Bo Li. Distributed Integral-Type Edge Event- and Self-Triggered Synchronization for Nonlinear Multi-Agent Systems . <b>IEEE Transactions on Systems, Man and Cybernetics: Systems  </b> (Under Review)</li>
+	<li>Jihe Wang, Jinxiu Zhang,<b>Chengxi Zhang</b>. Analytical Solution of Satellite Formation Impulsive Reconfiguration Considering Passive Safety Constraints. <b>Aerospace Science and Technology</b> (Under Review)</li>
 </ol>
 
 
