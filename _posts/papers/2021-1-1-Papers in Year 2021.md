@@ -14,9 +14,8 @@ comments: true
 	<li>Caisheng Wei, Mingzhen Gui, <b>Chengxi Zhang</b>, Yuxin Liao, Ming-zhe Dai, Biao Luo. Adaptive Appointed-Time Consensus Control of Networked Euler-Lagrange Systems with Connectivity Preservation<b>IEEE Transactions on Cybernetics</b>. (Accept, doi:)</li>
 	<li><b>Chengxi Zhang</b>, Ming-Zhe Dai, Jin Wu, Bing Xiao, Bo Li, Mingjiang Wang. Neural-networks and event-based fault-tolerant control for spacecraft attitude stabilization.<b> Aerospace Science and Technology</b>(Accept, doi:)</li>
 	<li><b>Chengxi Zhang</b>, Hui-Jie Sun, Jin Wu, Zhongyang Fei, Yu Jiang, Guanhua Zhang. Spacecraft Attitude Control with Mutating Orbital Rate and Actuator Fading under Markovian Jump Framework.<b> Aircraft Engineering and Aerospace Technology</b>(Accept, doi: 10.1108/AEAT-12-2020-0299)</li>
-	<li>Xinsheng Wang, Shimin Fan, Ming-Zhe Dai, <b>Chengxi Zhang</b>. On Model-Order Reduction of Interconnect Circuit Network: A Fast and Accurate Method. <b>Mathematics</b> (Accept, doi:)</li>
-	<li>Ming-Zhe Dai, Choon Ki Ahn, Jin Wu , <b>Chengxi Zhang</b>, Mingzhen Gui. Performance Adjustable Event-Triggered Synchronization Policies to Nonlinear Multi-Agent Systems
-. <b>IEEE System Journal </b> Accept)</li>
+	<li>Xinsheng Wang, Shimin Fan, Ming-Zhe Dai, <b>Chengxi Zhang</b>. On Model-Order Reduction of Interconnect Circuit Network: A Fast and Accurate Method. <b>Mathematics</b> </li>
+	<li>Ming-Zhe Dai, Choon Ki Ahn, Jin Wu , <b>Chengxi Zhang</b>, Mingzhen Gui. Performance Adjustable Event-Triggered Synchronization Policies to Nonlinear Multi-Agent Systems. <b>IEEE Systems Journal </b>  (Accept)</li>
 </ol>
 
 
