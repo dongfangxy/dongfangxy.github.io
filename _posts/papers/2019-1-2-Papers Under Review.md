@@ -16,8 +16,6 @@ comments: true
 	<li>Jin Wu, Chong Li, <b>Chengxi Zhang</b>, Yi Jiang, Yulong Huang, Lujia Wang, Ming Liu. Trust-Region Solver of A Nonlinear Magnetometer Disturbance Estimation Problem
 . <b>IEEE Sensors Journal </b> (Under Review)</li>
 	<li>Jin Wu, Zebo Zhou, <b>Chengxi Zhang</b>, Yi Jiang, Chong Li. Efficient Autonomous Orbit Determination: Geomagnetic Dipole Model Approach. <b>Unmanned Systems</b> (Under Review)</li>
-	<li>Ming-Zhe Dai, Choon Ki Ahn, Jin Wu , <b>Chengxi Zhang</b>, Mingzhen Gui. Performance Adjustable Event-Triggered Synchronization Policies to Nonlinear Multi-Agent Systems
-. <b>IEEE System Journal </b> (Under Review)</li>
 	<li>Ming-Zhe Dai, <b>Chengxi Zhang*</b>, Henry Leung, Peng Dong, Bo Li. Distributed Integral-Type Edge Event- and Self-Triggered Synchronization for Nonlinear Multi-Agent Systems . <b>IEEE Transactions on Systems, Man and Cybernetics: Systems  </b> (Under Review)</li>
 	<li>Jihe Wang, Jinxiu Zhang,<b>Chengxi Zhang</b>. Analytical Solution of Satellite Formation Impulsive Reconfiguration Considering Passive Safety Constraints. <b>Aerospace Science and Technology</b> (Under Review)</li>
 	<li>--, --,<b>Chengxi Zhang</b>.Event-triggered Adaptive Formation Keeping and Interception Scheme for Autonomous Surface Vehicles under Malicious Attacks . <b>IEEE Transactions on Industrial Informatics
