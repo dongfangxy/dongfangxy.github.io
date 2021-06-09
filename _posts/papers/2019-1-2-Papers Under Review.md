@@ -21,6 +21,7 @@ comments: true
 	<li>--, --,<b>Chengxi Zhang</b>.Event-triggered Adaptive Formation Keeping and Interception Scheme for Autonomous Surface Vehicles under Malicious Attacks . <b>IEEE Transactions on Industrial Informatics
 </b> (Under Review)</li>
 	<li>-- --, J. W., C. L.，<b>Chengxi Zhang</b> The Pre-process DV-UKF Algorithm for High Precision Attitude Measurement with Low- Cost Inertial Sensors. <b> Aircraft Engineering and Aerospace Technology</b> (Under Review)</li>
+	<li><b>Chengxi Zhang</b>, Choon Ki Ahn, Jin Wu, Wei He. Online-Learning Control with Weakened Saturation Response to Attitude Tracking: A Variable Learning Intensity Approach. <b>Aerospace Science and Technology</b> (Under Review)</li>
 </ol>
 
 
