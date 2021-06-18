@@ -20,6 +20,7 @@ comments: true
 </b> (Under Review)</li>
 	<li>-- --, J. W., C. L.，<b>Chengxi Zhang</b> The Pre-process DV-UKF Algorithm for High Precision Attitude Measurement with Low- Cost Inertial Sensors. <b> Aircraft Engineering and Aerospace Technology</b> (Under Review)</li>
 	<li><b>Chengxi Zhang</b>, Choon Ki Ahn, Jin Wu, Wei He. Online-Learning Control with Weakened Saturation Response to Attitude Tracking: A Variable Learning Intensity Approach. <b>Aerospace Science and Technology</b> (Under Review)</li>
+	<li>-- --, <b>Chengxi Zhang</b>. Fault-tolerant Control of Spacecraft Attitude Regulation: A Concise Adaptive Dual-mode Scheme.  <b> Aircraft Engineering and Aerospace Technology</b> (Under Review)</li>
 </ol>
 
 
