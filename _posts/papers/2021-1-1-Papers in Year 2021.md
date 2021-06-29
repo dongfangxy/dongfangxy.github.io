@@ -18,6 +18,7 @@ comments: true
 	<li>Ming-Zhe Dai, Choon Ki Ahn, Jin Wu , <b>Chengxi Zhang</b>, Mingzhen Gui. Performance Adjustable Event-Triggered Synchronization Policies to Nonlinear Multi-Agent Systems. <b>IEEE Systems Journal </b>  (Accept)</li>
 	<li>Jin Wu, Chong Li, <b>Chengxi Zhang</b>, Yi Jiang, Yulong Huang, Lujia Wang, Ming Liu. Trust-Region Solver of A Nonlinear Magnetometer Disturbance Estimation Problem
 . <b>IEEE Sensors Journal </b> (Accept)</li>
+	<li>Mingzhen Gui, Xiaolin Ning, <b>Chengxi Zhang</b>, Ming-Zhe Dai. A Time Delay/Star Angle Integrated Navigation Method Based on the Event-triggered Implicit Unscented Kalman Filter. <b>IEEE Transactions on Instrumentation and Measurement</b> (Accept)</li>
 </ol>
 
 
