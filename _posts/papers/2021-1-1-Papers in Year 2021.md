@@ -21,6 +21,7 @@ comments: true
 	<li>Mingzhen Gui, Xiaolin Ning, <b>Chengxi Zhang</b>, Ming-Zhe Dai. A Time Delay/Star Angle Integrated Navigation Method Based on the Event-triggered Implicit Unscented Kalman Filter. <b>IEEE Transactions on Instrumentation and Measurement</b> (Accept)</li>
 	<li><b>Chengxi Zhang</b>, Peng Dong, Henry Leung, Jin Wu, Kai Shen. Reset and Prescribed Performance Approach to Spacecraft Attitude Regulation. <b>Aircraft Engineering and Aerospace Technology</b>. (Accept)</li>
 	<li><b>Chengxi Zhang</b>, Choon Ki Ahn, Jin Wu, Wei He. Online-Learning Control with Weakened Saturation Response to Attitude Tracking: A Variable Learning Intensity Approach. <b>Aerospace Science and Technology</b> (Accept)</li>
+	<li>Guangwei Wang, Bo Wang, <b>Chengxi Zhang</b>. Fixed-Time Third-Order Super-Twisting-Like Sliding Mode Motion Control for Piezoelectric Nanopositioning Stage. <b>Mathematics</b> (Accept)</li>
 </ol>
 
 
