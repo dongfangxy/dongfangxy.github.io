@@ -19,6 +19,7 @@ comments: true
 	<li>-- --, J. W., C. L.，<b>Chengxi Zhang</b> The Pre-process DV-UKF Algorithm for High Precision Attitude Measurement with Low- Cost Inertial Sensors. <b> Aircraft Engineering and Aerospace Technology</b> (Under Review)</li>
 	<li>-- --, <b>Chengxi Zhang</b>. Fault-tolerant Control of Spacecraft Attitude Regulation: A Concise Adaptive Dual-mode Scheme.  <b> Aircraft Engineering and Aerospace Technology</b> (Under Review)</li>
 	<li>Dang-Jun Zhao, Ming-Zhe Dai, Jin Wu, Yu Lu, <b> Chengxi Zhang</b> Multi-Spacecraft Attitude Synchronization Based on Performance Adjustable Event-Triggered Control. <b>Aerospace</b> </li>
+	<li>Jiaolong Wang, <b>Chengxi Zhang</b>, Jin Wu, Ming Liu. Robust Student’s t Based Invariant Kalman Filtering for Lie Groups Attitude Dynamics with Heavy-tailed Process Noise. <b>Machines</b> </li>
 </ol>
 
 
