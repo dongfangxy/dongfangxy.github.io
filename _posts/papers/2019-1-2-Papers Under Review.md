@@ -8,7 +8,6 @@ comments: true
 ---
 <ol>
 	<li>Dechao Ran，<b>Chengxi Zhang*</b>, Bing Xiao. Limited-Information Learning Observer for Simultaneous Estimation of States and Parameters. <b> International Journal of Robust and Nonlinear Control</b>. (Under Review)</li>
-	<li>Zhenhua Pan, <b>Chengxi Zhang</b>, Yuanqing Xia, Hao Xiong, Xiaodong Shao. An Improved Artificial Potential Field Method for Path Planning and Formation Control of the Multi-UAV Systems. <b> IEEE Transactions on Circuits and Systems II: Express Briefs</b>. (Under Review)</li>
 	<li>J. W., J. W., <b>Chengxi Zhang</b> On the State Independency and Log-linearity of Error Propagation for Discrete Group Affine Systems with Application to Attitude Estimation. <b> Aircraft Engineering and Aerospace Technology</b> (Under Review)</li>
 	<li>Jin Wu, Miaomiao Wang, Hassen Fourati, Ming Liu, Hui Li, Yilong Zhu<b>Chengxi Zhang</b>. Generalized n-Dimensional Rigid Registration: Theory and Application. <b>IEEE Transactions on Cybernetics </b> (Under Review)</li>
 	<li>Jin Wu, Zebo Zhou, <b>Chengxi Zhang</b>, Yi Jiang, Chong Li. Efficient Autonomous Orbit Determination: Geomagnetic Dipole Model Approach. <b>Unmanned Systems</b> (Under Review)</li>
