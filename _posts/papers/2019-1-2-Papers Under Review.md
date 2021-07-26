@@ -19,6 +19,8 @@ comments: true
 	<li>-- --, <b>Chengxi Zhang</b>. Fault-tolerant Control of Spacecraft Attitude Regulation: A Concise Adaptive Dual-mode Scheme.  <b> Aircraft Engineering and Aerospace Technology</b> (Under Review)</li>
 	<li>Dang-Jun Zhao, Ming-Zhe Dai, Jin Wu, Yu Lu, <b> Chengxi Zhang</b> Multi-Spacecraft Attitude Synchronization Based on Performance Adjustable Event-Triggered Control. <b>Aerospace</b> </li>
 	<li>Jiaolong Wang, <b>Chengxi Zhang</b>, Jin Wu, Ming Liu. Robust Student’s t Based Invariant Kalman Filtering for Lie Groups Attitude Dynamics with Heavy-tailed Process Noise. <b>Machines</b> </li>
+	<li>Jie Liu, Dang-Jun Zhao, Jin Wu, <b>Chengxi Zhang</b>, Mingzhe Dai. Integral-Type Edge-Event- and Edge-Self-Triggered Synchronization to Multi-Agent Systems with Lur'e Nonlinear Dynamics. <b>Applied Sciences</b></li>
+
 </ol>
 
 
@@ -26,11 +28,7 @@ comments: true
 
 
 <!--
-
 	<li>Ming-Zhe Dai, <b>Chengxi Zhang*</b>, Henry Leung, Peng Dong, Bo Li. Distributed Integral-type Edge-event- and Self-triggered Synchronization for Nonlinear Multi-agent Systems. <b>IEEE Transactions on Systems, Man and Cybernetics: Systems</b>. (Under Revision)</li>
-	<li><b>Chengxi Zhang</b>, Ming-Zhe Dai, Jin Wu, Bing Xiao, Bo Li, Mingjiang Wang. Neural-networks and event-based fault-tolerant control for spacecraft attitude stabilization, <b>Aerospace Science and Technology</b>. (Under Revision)</li>
-	
-	<li>Ming-Zhe Dai , Choon Ki Ahn, Jin Wu, <b>Chengxi Zhang</b>, Mingzhen Gui, Performance Adjustable Event-Triggered Synchronization Policies to Nonlinear Multi-Agent Systems, <b>IEEE Systems Journal. </b>(Under Review)</li>
 	<li>Ming-Zhe Dai, <b>Chengxi Zhang</b>, Peng Dong, Henry Leung. Lp function based event-triggered policy tospacecraft attitude tracking<b>IEEE Transactions on Automatic Control</b>(Under Revision)</li>
 
 </font>这个用来调整行间距
