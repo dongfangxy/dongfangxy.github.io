@@ -21,6 +21,7 @@ comments: true
 	<li>Jie Liu, Dang-Jun Zhao, Jin Wu, <b>Chengxi Zhang</b>, Mingzhe Dai. Integral-Type Edge-Event- and Edge-Self-Triggered Synchronization to Multi-Agent Systems with Lur'e Nonlinear Dynamics. <b>Applied Sciences</b></li>
 	<li>Jiaolong Wang, <b>Chengxi Zhang</b>, Jinyu Liu, Caisheng Wei. Adaptive Invariant Kalman Filtering for Lie Groups Attitude Estimation with Biased and Heavy-tailed Process Noise. <b>Aerospace</b> </li>
 	<li>Caisheng Wei; Xia Wu; Bing Xiao; Jin Wu; <b>Chengxi Zhang</b>. Adaptive leader-following performance guaranteed formation control for multiple spacecraft with collision avoidance and connectivity assurance. <b>Aerospace Science and Technology</b></li>
+	<li>Jin Wu, -etc.-, Chengxi Zhang, --. On Similarity Transformation Problems. <b>IEEE Transactions on Automation Science and Engineering</b></li>
 </ol>
 
 
