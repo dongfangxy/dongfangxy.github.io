@@ -22,6 +22,7 @@ comments: true
 	<li>Jiaolong Wang, <b>Chengxi Zhang</b>, Jinyu Liu, Caisheng Wei. Adaptive Invariant Kalman Filtering for Lie Groups Attitude Estimation with Biased and Heavy-tailed Process Noise. <b>Aerospace</b> </li>
 	<li>Caisheng Wei; Xia Wu; Bing Xiao; Jin Wu; <b>Chengxi Zhang</b>. Adaptive leader-following performance guaranteed formation control for multiple spacecraft with collision avoidance and connectivity assurance. <b>Aerospace Science and Technology</b></li>
 	<li>Jin Wu, -etc.-, Chengxi Zhang, --. On Similarity Transformation Problems. <b>IEEE Transactions on Automation Science and Engineering</b></li>
+	<li>MD. Chengxi Zhang, -- ---. Attitude Tracking for Rigid Body Maneuvers Subject to Actuator Output Fluctuations: A Robust Adaptive Event-Triggered Approach. <b>IEEE Transactions on Aerospace and Electronic Systems</b></li>
 </ol>
 
 
