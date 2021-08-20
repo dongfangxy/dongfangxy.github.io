@@ -24,6 +24,7 @@ comments: true
 	<li>Guangwei Wang, Bo Wang, <b>Chengxi Zhang</b>. Fixed-Time Third-Order Super-Twisting-Like Sliding Mode Motion Control for Piezoelectric Nanopositioning Stage. <b>Mathematics</b>  </li>
 	<li>Zhenhua Pan, <b>Chengxi Zhang</b>, Yuanqing Xia, Hao Xiong, Xiaodong Shao. An Improved Artificial Potential Field Method for Path Planning and Formation Control of the Multi-UAV Systems. <b> IEEE Transactions on Circuits and Systems II: Express Briefs</b>. (Accept)</li>
 	<li>Dechao Ran，<b>Chengxi Zhang*</b>, Bing Xiao. Limited-Information Learning Observer for Simultaneous Estimation of States and Parameters. <b> International Journal of Robust and Nonlinear Control</b>.  (Accept)</li>
+	<li><b>Chengxi Zhang</b>, Choon Ki Ahn, Jin Wu, Wei He, Yi Jiang, Ming Liu. Robustification of Learning Observers to Uncertainty Identification via Time-varying Learning Intensity. <b>IEEE Transactions on Circuits and Systems II: Express Briefs</b></li>
 </ol>
 
 
