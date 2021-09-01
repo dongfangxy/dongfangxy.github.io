@@ -26,6 +26,7 @@ comments: true
 	<li>Dechao Ran，<b>Chengxi Zhang*</b>, Bing Xiao. Limited-Information Learning Observer for Simultaneous Estimation of States and Parameters. <b> International Journal of Robust and Nonlinear Control</b>.  (Accept)</li>
 	<li><b>Chengxi Zhang</b>, Choon Ki Ahn, Jin Wu, Wei He, Yi Jiang, Ming Liu. Robustification of Learning Observers to Uncertainty Identification via Time-varying Learning Intensity. <b>IEEE Transactions on Circuits and Systems II: Express Briefs</b></li>
 	<li>Jiaolong Wang, <b>Chengxi Zhang</b>, Jin Wu, Ming Liu.  Robust Student's t Based Invariant Kalman Filtering for Lie Groups Attitude Dynamics with Heavy-tailed Process Noise.  <b>Machines</b> </li>
+	<li>Yu Lu, Pengpeng Ye, Ming-Zhe Dai, Jin Wu, <b>Chengxi Zhang</b>. Fault-tolerant Control of Spacecraft Attitude Regulation: A Concise Adaptive Dual-mode Scheme.  <b> Aircraft Engineering and Aerospace Technology</b> </li>
 </ol>
 
 
