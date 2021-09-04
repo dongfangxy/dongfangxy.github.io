@@ -12,8 +12,6 @@ comments: true
 	<li>Jin Wu, Zebo Zhou, <b>Chengxi Zhang</b>, Yi Jiang, Chong Li. Efficient Autonomous Orbit Determination: Geomagnetic Dipole Model Approach. <b>Unmanned Systems</b> (Under Review)</li>
 	<li>Ming-Zhe Dai, <b>Chengxi Zhang*</b>, Henry Leung, Peng Dong, Bo Li. Distributed Integral-Type Edge Event- and Self-Triggered Synchronization for Nonlinear Multi-Agent Systems . <b>IEEE Transactions on Systems, Man and Cybernetics: Systems  </b> (Under Review)</li>
 	<li>Jihe Wang, Jinxiu Zhang,<b>Chengxi Zhang</b>. Analytical Solution of Satellite Formation Impulsive Reconfiguration Considering Passive Safety Constraints. <b>Aerospace Science and Technology</b> (Under Review)</li>
-	<li>--, --,<b>Chengxi Zhang</b>.Event-triggered Adaptive Formation Keeping and Interception Scheme for Autonomous Surface Vehicles under Malicious Attacks . <b>IEEE Transactions on Industrial Informatics
-</b> (Under Review)</li>
 	<li>-- --, J. W., C. L.，<b>Chengxi Zhang</b> The Pre-process DV-UKF Algorithm for High Precision Attitude Measurement with Low- Cost Inertial Sensors. <b> Aircraft Engineering and Aerospace Technology</b> (Under Review)</li>
 	<li>Dang-Jun Zhao, Ming-Zhe Dai, Jin Wu, Yu Lu, <b> Chengxi Zhang</b> Multi-Spacecraft Attitude Synchronization Based on Performance Adjustable Event-Triggered Control. <b>Aerospace</b> </li>
 	<li>Jie Liu, Dang-Jun Zhao, Jin Wu, <b>Chengxi Zhang</b>, Mingzhe Dai. Integral-Type Edge-Event- and Edge-Self-Triggered Synchronization to Multi-Agent Systems with Lur'e Nonlinear Dynamics. <b>Applied Sciences</b></li>
