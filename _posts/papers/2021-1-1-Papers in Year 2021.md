@@ -28,6 +28,7 @@ comments: true
 	<li>Jiaolong Wang, <b>Chengxi Zhang</b>, Jin Wu, Ming Liu.  Robust Student's t Based Invariant Kalman Filtering for Lie Groups Attitude Dynamics with Heavy-tailed Process Noise.  <b>Machines</b> </li>
 	<li>Yu Lu, Pengpeng Ye, Ming-Zhe Dai, Jin Wu, <b>Chengxi Zhang</b>. Fault-tolerant Control of Spacecraft Attitude Regulation: A Concise Adaptive Dual-mode Scheme.  <b> Aircraft Engineering and Aerospace Technology</b> </li>
 	<li>Yu Lu, Rong Su, <b>Chengxi Zhang</b>, Lei Qiao. Event-triggered Adaptive Formation Keeping and Interception Scheme for Autonomous Surface Vehicles under Malicious Attacks . <b>IEEE Transactions on Industrial Informatics </b> </li>
+	<li>Jihe Wang, Jinxiu Zhang,<b>Chengxi Zhang</b>. Analytical Solution of Satellite Formation Impulsive Reconfiguration Considering Passive Safety Constraints. <b>Aerospace Science and Technology</b>  </li>
 </ol>
 
 
