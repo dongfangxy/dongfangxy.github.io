@@ -17,6 +17,7 @@ comments: true
 	<li>Caisheng Wei; Xia Wu; Bing Xiao; Jin Wu; <b>Chengxi Zhang</b>. Adaptive leader-following performance guaranteed formation control for multiple spacecraft with collision avoidance and connectivity assurance. <b>Aerospace Science and Technology</b></li>
 	<li>Jin Wu, -etc.-, Chengxi Zhang, --. On Similarity Transformation Problems. <b>IEEE Transactions on Automation Science and Engineering</b></li>
 	<li>MD. Chengxi Zhang, -- ---. Attitude Tracking for Rigid Body Maneuvers Subject to Actuator Output Fluctuations: A Robust Adaptive Event-Triggered Approach. <b>IEEE Transactions on Aerospace and Electronic Systems</b></li>
+	<li>Kai Shen, Chengxi Zhang, Peng Dong, Zhongliang Jing, Henry Leung. Consensus-Based Labeled Multi-Bernoulli Filter with Event-triggered Communication. <b> IEEE Transactions on Signal Processing</b></li>
 </ol>
 
 
