@@ -12,7 +12,6 @@ comments: true
 	<li>Jin Wu, Zebo Zhou, <b>Chengxi Zhang</b>, Yi Jiang, Chong Li. Efficient Autonomous Orbit Determination: Geomagnetic Dipole Model Approach. <b>Unmanned Systems</b> (Under Review)</li>
 	<li>-- --, J. W., C. L.，<b>Chengxi Zhang</b> The Pre-process DV-UKF Algorithm for High Precision Attitude Measurement with Low- Cost Inertial Sensors. <b> Aircraft Engineering and Aerospace Technology</b> (Under Review)</li>
 	<li>Dang-Jun Zhao, Ming-Zhe Dai, Jin Wu, Yu Lu, <b> Chengxi Zhang</b> Multi-Spacecraft Attitude Synchronization Based on Performance Adjustable Event-Triggered Control. <b>Aerospace</b> </li>
-	<li>Jie Liu, Dang-Jun Zhao, Jin Wu, <b>Chengxi Zhang</b>, Mingzhe Dai. Integral-Type Edge-Event- and Edge-Self-Triggered Synchronization to Multi-Agent Systems with Lur'e Nonlinear Dynamics. <b>Applied Sciences</b></li>
 	<li>Jiaolong Wang, <b>Chengxi Zhang</b>, Jinyu Liu, Caisheng Wei. Adaptive Invariant Kalman Filtering for Lie Groups Attitude Estimation with Biased and Heavy-tailed Process Noise. <b>Aerospace</b> </li>
 	<li>Caisheng Wei; Xia Wu; Bing Xiao; Jin Wu; <b>Chengxi Zhang</b>. Adaptive leader-following performance guaranteed formation control for multiple spacecraft with collision avoidance and connectivity assurance. <b>Aerospace Science and Technology</b></li>
 	<li>Jin Wu, -etc.-, Chengxi Zhang, --. On Similarity Transformation Problems. <b>IEEE Transactions on Automation Science and Engineering</b></li>
