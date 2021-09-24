@@ -15,7 +15,7 @@ layout: sitepage
 复制了师傅的主页，我还在修改中....[[My CV in PDF]]({{site.url}}/YuJiangCV.pdf) 
 -->
 
-My research interests are control theory, space vehicleI and maritime robotics. I have published more than 40 academic papers in various journals and conferences (See [Publications](https://dongfangxy.github.io/publications/))  and as a reviewer for more than 20 journals, conferences , including the National Natural Science Foundation of China (NSFC). I received the B.S. and M.S. degrees  from Harbin Institute of Technology, China, in 2012 and 2015. I received Ph.D. degree from Shanghai Jiao Tong University (SJTU), China, in 2019.  I am invited as a Lead Guest Edior of Symmetry to handle a Special Issue on Recent Progress in Robot Control Systems: Theory and Applications.
+I received the B.S. and M.S. degrees  from Harbin Institute of Technology, China, in 2012 and 2015. I received Ph.D. degree from Shanghai Jiao Tong University (SJTU), China, in 2019. My research interests are control theory, space vehicleI and maritime robotics. I have published more than 40 academic papers (See [Publications](https://dongfangxy.github.io/publications/))  and as a reviewer for more than 20 journals, conferences , including the National Natural Science Foundation of China (NSFC).  I am also a Guest Edior of Symmetry, Special Issue on Recent Progress in Robot Control Systems: Theory and Applications.
 
 <!--
 Recently, I work closely with [Dr. Jin Wu (吴荩)](https://zarathustr.github.io/) from the Hong Kong University of Science and Technology (HKUST), Hong Kong, China.
