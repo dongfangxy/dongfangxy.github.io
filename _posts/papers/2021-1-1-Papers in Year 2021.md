@@ -31,6 +31,7 @@ comments: true
 	<li>Jihe Wang, Jinxiu Zhang,<b>Chengxi Zhang</b>. Analytical Solution of Satellite Formation Impulsive Reconfiguration Considering Passive Safety Constraints. <b>Aerospace Science and Technology</b>  </li>
 	<li>Ming-Zhe Dai, <b>Chengxi Zhang*</b>, Henry Leung, Peng Dong, Bo Li. Distributed Integral-Type Edge Event- and Self-Triggered Synchronization for Nonlinear Multi-Agent Systems . <b>IEEE Transactions on Systems, Man and Cybernetics: Systems  </b> (Accept with minor revision)</li>
 	<li>Mingzhe Dai, Jie Liu, Jin Wu, <b>Chengxi Zhang</b>Dang-Jun Zhao. Integral-Type Edge-Event- and Edge-Self-Triggered Synchronization to Multi-Agent Systems with Lur'e Nonlinear Dynamics. <b>Applied Sciences</b></li>
+	<li>Ming-Zhe Dai, Choon Ki Ahn, Chengxi Zhang, Caisheng Wei, Jin Wu. On Prescribed Performance Synchronization to QUAD Nonlinear Multi-Agent Networks <b>IEEE Transactions on Circuits and Systems II: Express Briefs </b></li>
 </ol>
 
 
