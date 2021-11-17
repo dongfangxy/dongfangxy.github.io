@@ -12,7 +12,7 @@ comments: true
 Zhang</span></b><span style="line-height:1;">, Ming-Zhe Dai, Peng Dong, Henry Leung, Jihe Wang. Fault-Tolerant
 Attitude Stabilization for Spacecraft with Low-Frequency Actuator Updates: An
 Integral-Type Event-Triggered Approach, </span><b><span style="line-height:1;">IEEE
-Transactions on Aerospace and Electronic Systems</span></b><span style="line-height:1;">, 2020.&nbsp;</span><span style="line-height:1;">&nbsp;</span> 
+Transactions on Aerospace and Electronic Systems (ESI Highly cited papers)</span> </b><span style="line-height:1;">, 2020.&nbsp;</span><span style="line-height:1;">&nbsp;</span> 
 	</li>
 	<li>
 		<b><span style="line-height:1;">Chengxi
