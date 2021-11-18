@@ -9,7 +9,7 @@ layout: sitepage
 
 # About Me
 
-2019年上海交通大学控制学科博士学位，2012/2015年哈尔滨工业大学微电子学科本科、硕士学位。研究方向涉及航天器、船舶控制，分布式星座优化设计，地理数据管理，航天器测绘策略规划及测绘性能分析。发表SCI论文50余篇，参见[研究成果](https://dongfangxy.github.io/publications/)(需仿真文件请联系我)、申请国防专利3项；主持国家自然科学基金1项，主持深圳市科技研发技术攻关重点项目子课题1项。[哈工大深圳优秀博士后](http://www.hitsz.edu.cn/article/view/id-118575.html), NSFC信息学部函评审稿人。作为Guest Editor 组织专刊 [Recent Progress in Robot Control Systems: Theory and Applications of Symmetry](https://www.mdpi.com/journal/symmetry/special_issues/Recent_Progress_Robot_Control_Systems_Theory_Applications)。
+2019年上海交通大学控制学科博士学位，2012/2015年哈尔滨工业大学微电子学科本科、硕士学位。研究方向涉及刚体航天器、船舶的动力学与控制，测绘策略规划等。发表SCI论文50余篇，包含ESI高被引论文1篇，参见[研究成果](https://dongfangxy.github.io/publications/)(需仿真文件请联系我)、申请国防专利3项；主持国家自然科学基金1项，主持深圳市科技研发技术攻关重点项目子课题1项。[哈工大深圳优秀博士后](http://www.hitsz.edu.cn/article/view/id-118575.html)。作为Guest Editor 组织专刊 [Recent Progress in Robot Control Systems: Theory and Applications of Symmetry](https://www.mdpi.com/journal/symmetry/special_issues/Recent_Progress_Robot_Control_Systems_Theory_Applications)。
 
 <!--
 复制了师傅的主页，我还在修改中....[[My CV in PDF]]({{site.url}}/YuJiangCV.pdf) 
