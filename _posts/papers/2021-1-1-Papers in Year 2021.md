@@ -33,6 +33,7 @@ comments: true
 	<li>Mingzhe Dai, Jie Liu, Jin Wu, <b>Chengxi Zhang</b>Dang-Jun Zhao. Integral-Type Edge-Event- and Edge-Self-Triggered Synchronization to Multi-Agent Systems with Lur'e Nonlinear Dynamics. <b>Applied Sciences</b></li>
 	<li>Ming-Zhe Dai, Choon Ki Ahn, Chengxi Zhang, Caisheng Wei, Jin Wu. On Prescribed Performance Synchronization to QUAD Nonlinear Multi-Agent Networks <b>IEEE Transactions on Circuits and Systems II: Express Briefs </b></li>
 	<li>Jiaolong Wang, <b>Chengxi Zhang</b>,Jin Wu. On the State Independency and Log-linearity of Error Propagation for Discrete Group Affine Systems with Application to Attitude Estimation. <b> Aircraft Engineering and Aerospace Technology</b></li>
+	<li>Caisheng Wei; Xia Wu; Bing Xiao; Jin Wu; <b>Chengxi Zhang</b>. Adaptive leader-following performance guaranteed formation control for multiple spacecraft with collision avoidance and connectivity assurance. <b>Aerospace Science and Technology</b></li>
 </ol>
 
 
