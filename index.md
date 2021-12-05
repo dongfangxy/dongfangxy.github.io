@@ -9,13 +9,13 @@ layout: sitepage
 
 # About Me
 
-2019年上海交通大学控制学科博士学位，2012/2015年哈尔滨工业大学微电子学科本科、硕士学位。研究方向涉及刚体航天器、船舶的动力学与控制，测绘策略规划等。发表SCI论文50余篇，包含ESI高被引论文1篇，参见[研究成果](https://dongfangxy.github.io/publications/)(需仿真文件请联系我)、申请国防专利3项；主持国家自然科学基金1项，主持深圳市科技研发技术攻关重点项目子课题1项。[哈工大深圳优秀博士后](http://www.hitsz.edu.cn/article/view/id-118575.html)。作为Guest Editor 组织专刊 [Recent Progress in Robot Control Systems: Theory and Applications of Symmetry](https://www.mdpi.com/journal/symmetry/special_issues/Recent_Progress_Robot_Control_Systems_Theory_Applications)。
+2019年上海交通大学控制学科博士学位，2012/2015年哈尔滨工业大学微电子学科本科、硕士学位。研究方向涉及动力学控制、故障诊断，测绘策略规划等。发表SCI论文50余篇，包含ESI高被引论文1篇，参见[研究成果](https://dongfangxy.github.io/publications/)(需仿真文件请联系我)、申请国防专利3项；主持国家自然科学基金1项，主持深圳市科技研发技术攻关重点项目子课题1项。[哈工大深圳优秀博士后](http://www.hitsz.edu.cn/article/view/id-118575.html)。作为Guest Editor 组织专刊 [Recent Progress in Robot Control Systems: Theory and Applications of Symmetry](https://www.mdpi.com/journal/symmetry/special_issues/Recent_Progress_Robot_Control_Systems_Theory_Applications)。
 
 <!--
 复制了师傅的主页，我还在修改中....[[My CV in PDF]]({{site.url}}/YuJiangCV.pdf) 
 -->
 
-I received the B.S. and M.S. degrees  from Harbin Institute of Technology, China, in 2012 and 2015. I received Ph.D. degree from Shanghai Jiao Tong University (SJTU), China, in 2019. My research interests are control theory, space vehicleI and maritime robotics. I have published more than 50 academic papers, including 1 ESI  Highly cited papers (See [Publications](https://dongfangxy.github.io/publications/))  and as a reviewer for more than 30 journals, conferences , including the National Natural Science Foundation of China (NSFC).  I am also a Guest Edior of Symmetry, [Special Issue on Recent Progress in Robot Control Systems: Theory and Applications](https://www.mdpi.com/journal/symmetry/special_issues/Recent_Progress_Robot_Control_Systems_Theory_Applications).
+I received the B.S. and M.S. degrees  from Harbin Institute of Technology, China, in 2012 and 2015. I received Ph.D. degree from Shanghai Jiao Tong University (SJTU), China, in 2019. My research interests are control theory and space robotics. I have published more than 50 academic papers, including 1 ESI  Highly cited papers (See [Publications](https://dongfangxy.github.io/publications/))  and as a reviewer for more than 30 journals, conferences , including the National Natural Science Foundation of China (NSFC).  I am also a Guest Edior of Symmetry, [Special Issue on Recent Progress in Robot Control Systems: Theory and Applications](https://www.mdpi.com/journal/symmetry/special_issues/Recent_Progress_Robot_Control_Systems_Theory_Applications).
 
 <!--
 Recently, I work closely with [Dr. Jin Wu (吴荩)](https://zarathustr.github.io/) from the Hong Kong University of Science and Technology (HKUST), Hong Kong, China.
