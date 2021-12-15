@@ -6,9 +6,9 @@ category: paper
 author: Chengxi Zhang
 comments: true
 ---
-<---
+<!--
 I was supervised by [Prof. Mingjiang Wang(王明江)](http://faculty.hitsz.edu.cn/wangmingjiang)，[Prof. Jihe Wang (王继河)](http://tianqin.sysu.edu.cn/zh-hans/members/wang-ji-he)<br/> 
---->
+-->
 
 Recently, I work closely with [Dr. Jin Wu (吴荩)](https://zarathustr.github.io/) from the Hong Kong University of Science and Technology (HKUST), Hong Kong, China. 
 
