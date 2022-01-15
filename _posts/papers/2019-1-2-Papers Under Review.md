@@ -17,7 +17,6 @@ comments: true
 	<li>MD. Chengxi Zhang, -- ---. Attitude Tracking for Rigid Body Maneuvers Subject to Actuator Output Fluctuations: A Robust Adaptive Event-Triggered Approach. <b>IEEE Transactions on Aerospace and Electronic Systems</b></li>
 	<li>Kai Shen, Chengxi Zhang, Peng Dong, Zhongliang Jing, Henry Leung. Consensus-Based Labeled Multi-Bernoulli Filter with Event-triggered Communication. <b> IEEE Transactions on Signal Processing</b></li>
 	<li>Ming-Zhen Gui, Caisheng Wei, Xiaolin Ning, Chengxi Zhang, Dang-Jun Zhao, Ming-Zhe Dai. Parameter-independent Event-triggered Implicit UKF for the Celestial Navigation using Time Delay Measurement <b>IEEE Transactions on Aerospace and Electronic Systems</b></li>
-	<li>Wuxing Chen, Kaixiang Yang, Yifan Shi, Qiying Feng, Chengxi Zhang and Zhiwen Yu,Kernel-based Class-specific Broad Learning System for software defect prediction<b>2021 International Conference on Information, Cybernetics, and Computational Social Systems</b></li>
 	<li>Wenquan Gong; Bo LI; Bing Xiao; Dechao Ran; Chengxi Zhang; Yongsheng Yang. Finite-time learning observer based fault-tolerant attitude tracking control for a quadrotor UAV with prescribed performance. <b>Nonlinear Dynamics</b></li>
 </ol>
 
