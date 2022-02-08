@@ -9,7 +9,6 @@ comments: true
 <ol>
 	<li>Jin Wu, Miaomiao Wang, Hassen Fourati, Ming Liu, Hui Li, Yilong Zhu<b>Chengxi Zhang</b>. Generalized n-Dimensional Rigid Registration: Theory and Application. <b>IEEE Transactions on Cybernetics </b> (Under Review)</li>
 	<li>Jin Wu, Zebo Zhou, <b>Chengxi Zhang</b>, Yi Jiang, Chong Li. Efficient Autonomous Orbit Determination: Geomagnetic Dipole Model Approach. <b>Unmanned Systems</b> (Under Review)</li>
-	<li>-- --, J. W., C. L.，<b>Chengxi Zhang</b> The Pre-process DV-UKF Algorithm for High Precision Attitude Measurement with Low- Cost Inertial Sensors. <b> Aircraft Engineering and Aerospace Technology</b> (Under Review)</li>
 	<li>Dang-Jun Zhao, Ming-Zhe Dai, Jin Wu, Yu Lu, <b> Chengxi Zhang</b> Multi-Spacecraft Attitude Synchronization Based on Performance Adjustable Event-Triggered Control. <b>Aerospace</b> </li>
 	<li>Jiaolong Wang, <b>Chengxi Zhang</b>, Jinyu Liu, Caisheng Wei. Adaptive Invariant Kalman Filtering for Lie Groups Attitude Estimation with Biased and Heavy-tailed Process Noise. <b>Aerospace</b> </li>
 	
