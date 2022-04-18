@@ -13,6 +13,7 @@ comments: true
 	<li>Chao Chen, Shanlin Yi, Feng Wang, <b>Chengxi Zhang</b>, Qingmin Yu. Prescribed Performance Tracking Control of Multi-Link Robotic Manipulator with Uncertainties. <b> Mathematical Foundations of Computing</b></li> 
 	<li>Dang-Jun Zhao, Xinhe Yang, Ming-Zhe Dai, Jin Wu, <b>Chengxi Zhang</b> Multi-Spacecraft Attitude Synchronization Based on Performance
 Adjustable Event-Triggered Control. <b>Advances in Space Research</b> </li>
+	<li>Jin Wu, Miaomiao Wang, Hassen Fourati, Hui Li, Yilong Zhu, <b>Chengxi Zhang</b>, Yi Jiang, Xiangcheng Hu, Ming Liu. Generalized n-Dimensional Rigid Registration: Theory and Applications.  <b>IEEE Transactions on Cybernetics</b> </li>
 </ol>
 
 

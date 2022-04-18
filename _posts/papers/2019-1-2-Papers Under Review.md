@@ -7,7 +7,6 @@ author: Chengxi Zhang
 comments: true
 ---
 <ol>
-	<li>Jin Wu, Miaomiao Wang, Hassen Fourati, Ming Liu, Hui Li, Yilong Zhu<b>Chengxi Zhang</b>. Generalized n-Dimensional Rigid Registration: Theory and Application. <b></b> </li>
 	<li>Jin Wu, Zebo Zhou, <b>Chengxi Zhang</b>, Yi Jiang, Chong Li. Efficient Autonomous Orbit Determination: Geomagnetic Dipole Model Approach. <b></b> </li>
 	<li>Jiaolong Wang, <b>Chengxi Zhang</b>, Jinyu Liu, Caisheng Wei. Adaptive Invariant Kalman Filtering for Lie Groups Attitude Estimation with Biased and Heavy-tailed Process Noise. <b></b> </li>
 	<li>Jin Wu, -etc.-, Chengxi Zhang, --. On Similarity Transformation Problems. <b></b></li>
