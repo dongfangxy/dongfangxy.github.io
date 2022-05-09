@@ -15,10 +15,10 @@ layout: sitepage
 复制了师傅的主页，我还在修改中....[[My CV in PDF]]({{site.url}}/YuJiangCV.pdf) 
 -->
 
-I was born in Qufu, Shandong, China. I received the B.S. and M.S. degrees in electronic science and technology from the Harbin Institute of Technology (HIT), Harbin, China, in 2012 and 2015, respectively, and the Ph.D. degree in control science and engineering from Shanghai Jiao Tong University (SJTU), Shanghai, China, in 2019. I was with the School of Electronic and Information Engineering, HIT Shenzhen campus, Shenzhen, China from 2020-2022. In 2021, I received the first batch Outstanding Postdoctoral Awards of HIT Shenzhen (one of fifteen). 
-I was a Guest Editor of a [Special Issue on Recent Progress in Robot Control Systems: Theory and Applications of Symmetry](https://www.mdpi.com/journal/symmetry/special_issues/Recent_Progress_Robot_Control_Systems_Theory_Applications) and an Editoral Board Member of [AppliedMath(Publisher MPDI)](https://www.mdpi.com/journal/appliedmath/editors).
+I was born in Qufu, Shandong, China. I received the B.S. and M.S. degrees in electronic science and technology from the Harbin Institute of Technology (HIT), Harbin, China, in 2012 and 2015, respectively, and the Ph.D. degree in control science and engineering from Shanghai Jiao Tong University (SJTU), Shanghai, China, in 2019. I was with the School of Electronic and Information Engineering, HIT Shenzhen campus, Shenzhen, China from 2020-2022. In 2021, I received the first batch Outstanding Postdoctoral Awards of HIT Shenzhen. 
+I was a Guest Editor of a [Special Issue on Recent Progress in Robot Control Systems: Theory and Applications of Symmetry](https://www.mdpi.com/journal/symmetry/special_issues/Recent_Progress_Robot_Control_Systems_Theory_Applications) and an Editorial Board Member of [AppliedMath (Publisher MDPI)](https://www.mdpi.com/journal/appliedmath/editors).
 
-My research interests are control theory and space robotics. I have published over 60 academic papers, including 1 ESI  Highly Cited Papers (See [Publications](https://dongfangxy.github.io/publications/)).
+My research interests are control theory and space robotics. I have published over 60 academic papers, including 1 ESI  Highly Cited Paper (See [Publications](https://dongfangxy.github.io/publications/)).
 
 <!--
 Recently, I work closely with [Dr. Jin Wu (吴荩)](https://zarathustr.github.io/) from the Hong Kong University of Science and Technology (HKUST), Hong Kong, China.
