@@ -14,6 +14,7 @@ comments: true
 	<li>Ming-Zhen Gui, Caisheng Wei, Xiaolin Ning, Chengxi Zhang, Dang-Jun Zhao, Ming-Zhe Dai. Parameter-independent Event-triggered Implicit UKF for the Celestial Navigation using Time Delay Measurement <b></b></li>
 	<li>Wenquan Gong; Bo LI; Bing Xiao; Dechao Ran; Chengxi Zhang; Yongsheng Yang. Finite-time learning observer based fault-tolerant attitude tracking control for a quadrotor UAV with prescribed performance. <b></b></li>
 	<li>Hui Liu, Bo LI, Bing Xiao, Dechao Ran, Chengxi Zhang.  Reinforcement learning-based tracking control for a quadrotor unmanned aerial vehicle under external disturbances</li>
+	<li>Chong Li, Yuchen Wang, Choon Ki Ahn, Chengxi Zhang, Bo Wang.  Milli-Hertz Frequency Tuning Architecture Towards High Repeatable Micromachined Axi-Symmetry Gyroscopes.</li>
 </ol>
 
 
