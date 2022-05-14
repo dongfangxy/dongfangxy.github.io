@@ -15,6 +15,7 @@ comments: true
 	<li>Wenquan Gong; Bo LI; Bing Xiao; Dechao Ran; Chengxi Zhang; Yongsheng Yang. Finite-time learning observer based fault-tolerant attitude tracking control for a quadrotor UAV with prescribed performance. <b></b></li>
 	<li>Hui Liu, Bo LI, Bing Xiao, Dechao Ran, Chengxi Zhang.  Reinforcement learning-based tracking control for a quadrotor unmanned aerial vehicle under external disturbances</li>
 	<li>Chong Li, Yuchen Wang, Choon Ki Ahn, Chengxi Zhang, Bo Wang.  Milli-Hertz Frequency Tuning Architecture Towards High Repeatable Micromachined Axi-Symmetry Gyroscopes.</li>
+	<li>Bin Zhou, Bing Huang, Yumin Su, Chengxi Zhang. Interleaved periodic event-triggered communications based distributed formation control for cooperative unmanned surface vessels</li>
 </ol>
 
 
