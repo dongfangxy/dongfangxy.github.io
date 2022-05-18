@@ -27,7 +27,8 @@ Recently, I work closely with [Dr. Jin Wu (吴荩)](https://zarathustr.github.io
 # Contact
 * Follow me on:
 [Google Scholar](https://scholar.google.com/citations?user=oHzlz50AAAAJ&hl),
-[ResearchGate](https://www.researchgate.net/profile/Chengxi_Zhang5)
+[ResearchGate](https://www.researchgate.net/profile/Chengxi_Zhang5)，
+[ORCID](https://orcid.org/0000-0002-3130-6497)
 
 * Email: <a href="mailto:dongfangxy@163.com"><span style="line-height:2;">dongfangxy@163.com</span>
 
