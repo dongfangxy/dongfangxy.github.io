@@ -8,7 +8,6 @@ comments: true
 ---
 <ol>
 	<li>Jin Wu, Zebo Zhou, <b>Chengxi Zhang</b>, Yi Jiang, Chong Li. Efficient Autonomous Orbit Determination: Geomagnetic Dipole Model Approach. <b></b> </li>
-	<li>Jiaolong Wang, <b>Chengxi Zhang</b>, Jinyu Liu, Caisheng Wei. Adaptive Invariant Kalman Filtering for Lie Groups Attitude Estimation with Biased and Heavy-tailed Process Noise. <b></b> </li>
 	<li>Jin Wu, -etc.-, Chengxi Zhang, --. On Similarity Transformation Problems. <b></b></li>
 	<li>MD. Chengxi Zhang, -- ---. Attitude Tracking for Rigid Body Maneuvers Subject to Actuator Output Fluctuations: A Robust Adaptive Event-Triggered Approach. <b></b></li>
 	<li>Ming-Zhen Gui, Caisheng Wei, Xiaolin Ning, Chengxi Zhang, Dang-Jun Zhao, Ming-Zhe Dai. Parameter-independent Event-triggered Implicit UKF for the Celestial Navigation using Time Delay Measurement <b></b></li>

@@ -14,6 +14,7 @@ comments: true
 	<li>Dang-Jun Zhao, Xinhe Yang, Ming-Zhe Dai, Jin Wu, <b>Chengxi Zhang</b> Multi-Spacecraft Attitude Synchronization Based on Performance
 Adjustable Event-Triggered Control. <b>Advances in Space Research</b> </li>
 	<li>Jin Wu, Miaomiao Wang, Hassen Fourati, Hui Li, Yilong Zhu, <b>Chengxi Zhang</b>, Yi Jiang, Xiangcheng Hu, Ming Liu. Generalized n-Dimensional Rigid Registration: Theory and Applications.  <b>IEEE Transactions on Cybernetics</b> </li>
+	<li>Jiaolong Wang, <b>Chengxi Zhang</b>, Jinyu Liu, Caisheng Wei, Haitao Liu. Adaptive Invariant Kalman Filtering for Lie Groups Attitude Estimation with Biased and Heavy-tailed Process Noise. <b>Transactions of the Institute of Measurement and Control</b> </li>
 </ol>
 
 
