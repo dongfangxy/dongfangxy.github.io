@@ -9,7 +9,7 @@ layout: sitepage
 
 # About Me
 
-2019年上海交通大学控制学科博士学位，2012/2015年哈尔滨工业大学微电子学科本科、硕士学位。研究方向涉及动力学控制、故障诊断算法设计及应用与优化等。发表学术论文60余篇，包含ESI高被引论文1篇，参见[研究成果](https://dongfangxy.github.io/publications/)(需仿真文件请联系我)、申请国防专利3项；主持国家自然科学基金1项，主持深圳市科技研发技术攻关重点项目子课题1项。[哈工大深圳优秀博士后](http://www.hitsz.edu.cn/article/view/id-118575.html)。作为[Symmetry](https://www.mdpi.com/journal/symmetry/special_issues/Recent_Progress_Robot_Control_Systems_Theory_Applications) Guest Editor 组织专刊(2021-今)， MDPI期刊 [AppliedMath](https://www.mdpi.com/journal/appliedmath/editors) 编委(2022-今)。
+2019年上海交通大学控制学科博士学位，2012/2015年哈尔滨工业大学微电子学科本科、硕士学位。研究方向涉及动力学控制、故障诊断算法设计及应用与优化等。发表学术论文60余篇，包含ESI高被引论文1篇，参见[研究成果](https://dongfangxy.github.io/publications/)(需仿真文件请联系我)、申请国防专利3项；主持国家自然科学基金1项，主持深圳市科技研发技术攻关重点项目子课题1项。[哈尔滨工业大学深圳优秀博士后](http://www.hitsz.edu.cn/article/view/id-118575.html)。作为[Symmetry](https://www.mdpi.com/journal/symmetry/special_issues/Recent_Progress_Robot_Control_Systems_Theory_Applications) Guest Editor 组织专刊(2021-今)， 期刊 [AppliedMath](https://www.mdpi.com/journal/appliedmath/editors) 编委(2022-今)。
 
 <!--
 复制了师傅的主页，我还在修改中....[[My CV in PDF]]({{site.url}}/YuJiangCV.pdf) 
