@@ -7,6 +7,8 @@ author: Chengxi Zhang
 comments: true
 ---
 <ol>
+No longer listed.
+<!--
 	<li>Jin Wu, Zebo Zhou, <b>Chengxi Zhang</b>, Yi Jiang, Chong Li. Efficient Autonomous Orbit Determination: Geomagnetic Dipole Model Approach. <b></b> </li>
 	<li>Jin Wu, -etc.-, Chengxi Zhang, --. On Similarity Transformation Problems. <b></b></li>
 	<li>MD. Chengxi Zhang, -- ---. Attitude Tracking for Rigid Body Maneuvers Subject to Actuator Output Fluctuations: A Robust Adaptive Event-Triggered Approach. <b></b></li>
@@ -15,6 +17,7 @@ comments: true
 	<li>Hui Liu, Bo LI, Bing Xiao, Dechao Ran, Chengxi Zhang.  Reinforcement learning-based tracking control for a quadrotor unmanned aerial vehicle under external disturbances</li>
 	<li>Bin Zhou, Bing Huang, Yumin Su, Chengxi Zhang. Interleaved periodic event-triggered communications based distributed formation control for cooperative unmanned surface vessels</li>
 	<li>Jiehui Su, Guangwei Wang, Chengxi Zhang, Complaint Constant Force Mechanism using Variable Stiffness Leaf-Spring-Like Beam: Design and Experiment</li>
+-->
 </ol>
 
 
