@@ -17,6 +17,7 @@ Adjustable Event-Triggered Control. <b>Advances in Space Research</b> </li>
 	<li>Jiaolong Wang, <b>Chengxi Zhang</b>, Jinyu Liu, Caisheng Wei, Haitao Liu. Adaptive Invariant Kalman Filtering for Lie Groups Attitude Estimation with Biased and Heavy-tailed Process Noise. <b>Transactions of the Institute of Measurement and Control</b> </li>
 	<li>Yu Yan, Peng Liu, Jin Zhao, Chengxi Zhang, Guangwei Wang. Deep Reinforcement Learning in Playing Tetris with Robotic Arm Experiment. <b>Transactions of the Institute of Measurement and Control</b></li>
 	<li>Zhaoxiang Niu, Ming-Zhe Dai, Junyang Gao, Chengxi Zhang, Jin Wu. Prescribed Performance Spacecraft Attitude Tracking with Disturbance Observer: A Performance-Adjustable Policy. <b>Advances in Space Research</b></li>
+	<li>Chong Li, Yuchen Wang, Choon Ki Ahn, Chengxi Zhang, Bo Wang. Milli-Hertz Frequency Tuning Architecture Towards High Repeatable Micromachined Axi-Symmetry Gyroscopes. <b>IEEE Transactions on Industrial Electronics</b></li>
 </ol>
 
 
