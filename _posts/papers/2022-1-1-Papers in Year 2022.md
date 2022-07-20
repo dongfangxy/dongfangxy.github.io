@@ -18,6 +18,7 @@ Adjustable Event-Triggered Control. <b>Advances in Space Research</b> </li>
 	<li>Yu Yan, Peng Liu, Jin Zhao, Chengxi Zhang, Guangwei Wang. Deep Reinforcement Learning in Playing Tetris with Robotic Arm Experiment. <b>Transactions of the Institute of Measurement and Control</b></li>
 	<li>Zhaoxiang Niu, Ming-Zhe Dai, Junyang Gao, Chengxi Zhang, Jin Wu. Prescribed Performance Spacecraft Attitude Tracking with Disturbance Observer: A Performance-Adjustable Policy. <b>Advances in Space Research</b></li>
 	<li>Chong Li, Yuchen Wang, Choon Ki Ahn, Chengxi Zhang, Bo Wang. Milli-Hertz Frequency Tuning Architecture Towards High Repeatable Micromachined Axi-Symmetry Gyroscopes. <b>IEEE Transactions on Industrial Electronics</b></li>
+	<li>Lei Zhao, Changqing Yuan, ..., Chengxi Zhang. Multiple Magneto Plasma Sail Formation Reconfiguration around Heliocentric Elliptic Displaced Orbit. <b>Astrophysics and Space Science</b></li>
 </ol>
 
 
