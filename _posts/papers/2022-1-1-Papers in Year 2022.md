@@ -19,6 +19,7 @@ Adjustable Event-Triggered Control. <b>Advances in Space Research</b> </li>
 	<li>Zhaoxiang Niu, Ming-Zhe Dai, Junyang Gao, Chengxi Zhang, Jin Wu. Prescribed Performance Spacecraft Attitude Tracking with Disturbance Observer: A Performance-Adjustable Policy. <b>Advances in Space Research</b></li>
 	<li>Chong Li, Yuchen Wang, Choon Ki Ahn, Chengxi Zhang, Bo Wang. Milli-Hertz Frequency Tuning Architecture Towards High Repeatable Micromachined Axi-Symmetry Gyroscopes. <b>IEEE Transactions on Industrial Electronics</b></li>
 	<li>Lei Zhao, Changqing Yuan, Shengping Gong, Chengxi Zhang. Multiple Magneto Plasma Sail Formation Reconfiguration around Heliocentric Elliptic Displaced Orbit. <b>Astrophysics and Space Science</b></li>
+	<li>Hui Liu, Bo Li, Bing Xiao, Dechao Ran, Chengxi Zhang. Reinforcement learning-based tracking control for a quadrotor unmanned aerial vehicle under external disturbances. <b>International Journal of Robust and Nonlinear Control</b> </li>
 </ol>
 
 
