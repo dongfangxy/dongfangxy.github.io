@@ -14,7 +14,6 @@ No longer listed.
 	<li>MD. Chengxi Zhang, -- ---. Attitude Tracking for Rigid Body Maneuvers Subject to Actuator Output Fluctuations: A Robust Adaptive Event-Triggered Approach. <b></b></li>
 	<li>Ming-Zhen Gui, Caisheng Wei, Xiaolin Ning, Chengxi Zhang, Dang-Jun Zhao, Ming-Zhe Dai. Parameter-independent Event-triggered Implicit UKF for the Celestial Navigation using Time Delay Measurement <b></b></li>
 	<li>Wenquan Gong; Bo LI; Bing Xiao; Dechao Ran; Chengxi Zhang; Yongsheng Yang. Finite-time learning observer based fault-tolerant attitude tracking control for a quadrotor UAV with prescribed performance. <b></b></li>
-	<li>Hui Liu, Bo LI, Bing Xiao, Dechao Ran, Chengxi Zhang.  Reinforcement learning-based tracking control for a quadrotor unmanned aerial vehicle under external disturbances</li>
 	<li>Bin Zhou, Bing Huang, Yumin Su, Chengxi Zhang. Interleaved periodic event-triggered communications based distributed formation control for cooperative unmanned surface vessels</li>
 	<li>Jiehui Su, Guangwei Wang, Chengxi Zhang, Complaint Constant Force Mechanism using Variable Stiffness Leaf-Spring-Like Beam: Design and Experiment</li>
 -->
