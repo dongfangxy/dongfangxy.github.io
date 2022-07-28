@@ -16,9 +16,9 @@ layout: sitepage
 -->
 
 I was born in Qufu, Shandong, China. I received the B.S. and M.S. degrees in electronic science and technology from the Harbin Institute of Technology (HIT), China, in 2012 and 2015, respectively, and the Ph.D. degree in control science and engineering from Shanghai Jiao Tong University (SJTU), China, in 2019. I was with the School of Electronic and Information Engineering, HIT Shenzhen campus, China, from 2020-2022. In 2021, I received the [Outstanding Postdoctoral Awards of HIT Shenzhen](http://www.hitsz.edu.cn/article/view/id-118575.html). 
-I am a Guest Editor of [Symmetry](https://www.mdpi.com/journal/symmetry/special_issues/Recent_Progress_Robot_Control_Systems_Theory_Applications) (2021-Present ),  [Mathematics](https://www.mdpi.com/journal/mathematics/special_issues/09O2330789) (2022-Present), and an Editorial Board Member of [AppliedMath (Publisher MDPI)](https://www.mdpi.com/journal/appliedmath/editors) (2022-Present).
+I am a Guest Editor of [Symmetry](https://www.mdpi.com/journal/symmetry/special_issues/Recent_Progress_Robot_Control_Systems_Theory_Applications) (2021-Present ),  [Mathematics](https://www.mdpi.com/journal/mathematics/special_issues/09O2330789) (2022-Present) on robotics and system control topics, and an Editorial Board Member of [AppliedMath (Publisher MDPI)](https://www.mdpi.com/journal/appliedmath/editors) (2022-Present).
 
-My interests are multi-agent systems, fault-tolerant control and applications in robotics. I have published over 60 academic papers, including 1 ESI  Highly Cited Paper (See [Publications](https://dongfangxy.github.io/publications/)).
+My interests are robotics and control; system identification and applications. I have published over 60 papers (See [Publications](https://dongfangxy.github.io/publications/)).
 
 <!--
 Recently, I work closely with [Dr. Jin Wu (吴荩)](https://zarathustr.github.io/) from the Hong Kong University of Science and Technology (HKUST), Hong Kong, China.
