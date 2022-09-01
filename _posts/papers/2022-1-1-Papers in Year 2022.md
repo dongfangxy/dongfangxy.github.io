@@ -22,6 +22,7 @@ Adjustable Event-Triggered Control. <b>Advances in Space Research</b> </li>
 	<li>Hui Liu, Bo Li, Bing Xiao, Dechao Ran, Chengxi Zhang. Reinforcement learning-based tracking control for a quadrotor unmanned aerial vehicle under external disturbances. <b>International Journal of Robust and Nonlinear Control</b> </li>
 	<li>Chen Cheng, Zian Wang, Chengxi Zhang, Yang Yang. Attitude control method of unmanned helicopter based on asymmetric tracking differentiator and fal-extended state observer. <b>Mathematics</b></li>
 	<li>Zheng Gong, Zian Wang, Chengchuan Yang, Zhengxue Li, Mingzhe Dai, Chengxi Zhang. Performance analysis on the small-scale Reusable Launch Vehicle. <b>Symmetry</b></li>
+	<li>Shengchen Mao, Zheng Gong, Zheng Ye, Zian Wang, Tongqing Guo, Chengxi Zhang. Linear active disturbance rejection based vertical takeoff and acceleration strategy with simplified vehicle operations for electric vertical takeoff or landing vehicles. <b>Mathematics</b></li>
 </ol>
 
 
