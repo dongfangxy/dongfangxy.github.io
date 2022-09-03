@@ -32,10 +32,10 @@ Recently, I work closely with [Dr. Jin Wu (吴荩)](https://zarathustr.github.io
 [Orcid](https://orcid.org/0000-0002-3130-6497),
 [Official Page](http://iot.jiangnan.edu.cn/info/1060/5339.htm)
 
-* Email: <a href="mailto:dongfangxy@163.com"><span style="line-height:2;">dongfangxy@163.com</span>;  <a href="mailto:cxzhang@jiangnan.edu.cn"><span style="line-height:2;">cxzhang@jiangnan.edu.cn</span>
-
+* Email: dongfangxy@163.com; cxzhang@jiangnan.edu.cn
 
 <!--
+<a href="mailto:dongfangxy@163.com"><span style="line-height:2;">dongfangxy@163.com</span>;  <a href="mailto:cxzhang@jiangnan.edu.cn"><span style="line-height:2;">cxzhang@jiangnan.edu.cn</span>
 # Experiences
 * New Position, <a href="https://dongfangxy.github.io/">New Affiliation</a>, Location, 2021-
 * Post-doc Position,  <a href="https://dongfangxy.github.io/">Harbin Institute of Technology</a>, School of Electronics and Information, Shenzhen, Dec 2019 - 2021.
