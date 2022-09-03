@@ -9,13 +9,14 @@ layout: sitepage
 
 # About Me
 
-2019年上海交通大学控制学科博士学位，2012/2015年哈尔滨工业大学微电子学科本科、硕士学位。研究方向涉及动力学控制、故障诊断算法设计及应用与优化等。发表学术论文60余篇，包含ESI高被引论文1篇，参见[研究成果](https://dongfangxy.github.io/publications/)(需仿真文件请联系我)、申请国防专利3项；主持国家自然科学基金1项，主持深圳市科技研发技术攻关重点项目子课题1项，参与深圳科技计划基础研究学科布局项目等。[哈尔滨工业大学深圳优秀博士后](http://www.hitsz.edu.cn/article/view/id-118575.html)。作为Guest Editor为[Symmetry](https://www.mdpi.com/journal/symmetry/special_issues/Recent_Progress_Robot_Control_Systems_Theory_Applications) (2021-今)、[Mathematics](https://www.mdpi.com/journal/mathematics/special_issues/09O2330789) (2022-今)组织专刊(Lead by [Prof. Ming Liu 刘明教授](http://homepage.hit.edu.cn/liuming23) )， 期刊 [AppliedMath](https://www.mdpi.com/journal/appliedmath/editors) 编委(2022-今)、[IoT (Internet of Things)](https://www.mdpi.com/journal/IoT/editors)编委(2022-今)。
+2019年上海交通大学控制学科博士学位，2012/2015年哈尔滨工业大学微电子学科本科、硕士学位。研究方向涉及空间机器人容错控制、智能规划与调度及控制应用与优化等。
+发表学术论文60余篇，包含ESI高被引论文1篇，参见[研究成果](https://dongfangxy.github.io/publications/)、申请国防专利3项；主持国家自然科学基金1项，主持深圳市科技研发技术攻关重点项目子课题1项，参与深圳科技计划基础研究学科布局项目等。[哈尔滨工业大学深圳优秀博士后](http://www.hitsz.edu.cn/article/view/id-118575.html)。作为Guest Editor为[Symmetry](https://www.mdpi.com/journal/symmetry/special_issues/Recent_Progress_Robot_Control_Systems_Theory_Applications) (2021-今)、[Mathematics](https://www.mdpi.com/journal/mathematics/special_issues/09O2330789) (2022-今)组织专刊(Lead by [Prof. Ming Liu 刘明教授](http://homepage.hit.edu.cn/liuming23) )， 期刊 [AppliedMath](https://www.mdpi.com/journal/appliedmath/editors) 编委(2022-今)、[IoT (Internet of Things)](https://www.mdpi.com/journal/IoT/editors)编委(2022-今)。
 
 <!--
 复制了师傅的主页，我还在修改中....[[My CV in PDF]]({{site.url}}/YuJiangCV.pdf) 
 -->
 
-I was born in Qufu, Shandong, China. I received the B.S. and M.S. degrees in electronic science and technology from the Harbin Institute of Technology (HIT), China, in 2012 and 2015, respectively, and the Ph.D. degree in control science and engineering from Shanghai Jiao Tong University (SJTU), China, in 2019. I was with the School of Electronic and Information Engineering, HIT Shenzhen campus, China, from 2020-2022. In 2021, I received the [Outstanding Postdoctoral Awards of HIT Shenzhen](http://www.hitsz.edu.cn/article/view/id-118575.html). 
+I was born in Qufu, Shandong, China. I received the B.S. and M.S. degrees in electronic science and technology from the Harbin Institute of Technology (HIT), China, in 2012 and 2015, and the Ph.D. degree in control science and engineering from Shanghai Jiao Tong University (SJTU), China, in 2019. I was with the HIT Shenzhen, China, from 2020-2022, as a post-doctoral researcher and received the [Outstanding Postdoctoral Awards of HIT Shenzhen](http://www.hitsz.edu.cn/article/view/id-118575.html). 
 I am a Guest Editor of [Symmetry](https://www.mdpi.com/journal/symmetry/special_issues/Recent_Progress_Robot_Control_Systems_Theory_Applications) (2021-Present ),  [Mathematics](https://www.mdpi.com/journal/mathematics/special_issues/09O2330789) (2022-Present) on robotics and system control topics, and an Editorial Board Member of [AppliedMath](https://www.mdpi.com/journal/appliedmath/editors) (2022-Present) and [IoT (Internet of Things)](https://www.mdpi.com/journal/IoT/editors)(2022-Present).
 
 My interests are robotics and control; system identification and applications. I have published over 60 papers (See [Publications](https://dongfangxy.github.io/publications/)).
@@ -31,7 +32,7 @@ Recently, I work closely with [Dr. Jin Wu (吴荩)](https://zarathustr.github.io
 [Orcid](https://orcid.org/0000-0002-3130-6497),
 [Official Page](http://iot.jiangnan.edu.cn/info/1060/5339.htm)
 
-* Email: <a href="mailto:dongfangxy@163.com"><span style="line-height:2;">dongfangxy@163.com</span>
+* Email: <a href="mailto:dongfangxy@163.com"><span style="line-height:2;">dongfangxy@163.com</span>;  <a href="mailto:cxzhang@jiangnan.edu.cn"><span style="line-height:2;">cxzhang@jiangnan.edu.cn</span>
 
 
 <!--
