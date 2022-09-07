@@ -23,6 +23,7 @@ Adjustable Event-Triggered Control. <b>Advances in Space Research</b> </li>
 	<li>Chen Cheng, Zian Wang, Chengxi Zhang, Yang Yang. Attitude control method of unmanned helicopter based on asymmetric tracking differentiator and fal-extended state observer. <b>Mathematics</b></li>
 	<li>Zheng Gong, Zian Wang, Chengchuan Yang, Zhengxue Li, Mingzhe Dai, Chengxi Zhang. Performance analysis on the small-scale Reusable Launch Vehicle. <b>Symmetry</b></li>
 	<li>Shengchen Mao, Zheng Gong, Zheng Ye, Zian Wang, Tongqing Guo, Chengxi Zhang. Linear active disturbance rejection based vertical takeoff and acceleration strategy with simplified vehicle operations for electric vertical takeoff or landing vehicles. <b>Mathematics</b></li>
+	<li>Chen Cheng, Zian Wang, Zheng Gong, Pengcheng Cai, Chengxi Zhang. Prediction and Compensation Model of Longitudinal and Lateral Deck Motion for Automatic Landing Guidance System. <b>Mathematics</b></li>
 </ol>
 
 
