@@ -25,6 +25,7 @@ Adjustable Event-Triggered Control. <b>Advances in Space Research</b> </li>
 	<li>Shengchen Mao, Zheng Gong, Zheng Ye, Zian Wang, Tongqing Guo, Chengxi Zhang. Linear active disturbance rejection based vertical takeoff and acceleration strategy with simplified vehicle operations for electric vertical takeoff or landing vehicles. <b>Mathematics</b></li>
 	<li>Chen Cheng, Zian Wang, Zheng Gong, Pengcheng Cai, Chengxi Zhang. Prediction and Compensation Model of Longitudinal and Lateral Deck Motion for Automatic Landing Guidance System. <b>Mathematics</b></li>
 	<li>Lei Zhao, Changqing Yuan, Shengping Gong, Chengxi Zhang, Qingbo Hao, Zhengguang Li. Formation Flying for Magnetic Sails around Artificial Equilibrium Points <b>Advances in Space Research</b></li>
+	<li>Jiehui Su, Guangwei Wang, Chengxi Zhang. Complaint Constant Force Mechanism using Variable Stiffness Leaf-Spring-Like Beam: Design and Experiment <b>Mathematical Foundations of Computing</b> </li>
 </ol>
 
 
