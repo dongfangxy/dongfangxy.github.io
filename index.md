@@ -7,30 +7,43 @@ layout: sitepage
 
 [comment]: # (Insert my resume below)
 
-# About Me
+## About Me
 <!--
 2019年上海交通大学控制学科博士学位，2012/2015年哈尔滨工业大学微电子学科本科、硕士学位。作为Guest Editor为[Symmetry](https://www.mdpi.com/journal/symmetry/special_issues/Recent_Progress_Robot_Control_Systems_Theory_Applications) (2021-今)、[Mathematics](https://www.mdpi.com/journal/mathematics/special_issues/09O2330789) (2022-今)组织专刊， 期刊 [AppliedMath](https://www.mdpi.com/journal/appliedmath/editors) 编委(2022-今)、[IoT (Internet of Things)](https://www.mdpi.com/journal/IoT/editors)编委(2022-今)。
 复制了师傅的主页，我还在修改中....[[My CV in PDF]]({{site.url}}/YuJiangCV.pdf) 
 -->
 
 I was born in Qufu, Shandong, China. I received the B.S. and M.S. degrees in electronic science and technology from the Harbin Institute of Technology (HIT, 哈尔滨工业大学), China, in 2012 and 2015, and the Ph.D. degree in control science and engineering from Shanghai Jiao Tong University (SJTU, 上海交通大学), China, in 2019. I worked at HIT Shenzhen, China, from 2020-2022, as Post-Doc and received the [Outstanding Postdoctoral Awards of HIT Shenzhen](http://www.hitsz.edu.cn/article/view/id-118575.html). 
+<!--
 I serves as Guest Editor of [Symmetry](https://www.mdpi.com/journal/symmetry/special_issues/Recent_Progress_Robot_Control_Systems_Theory_Applications),  [Mathematics](https://www.mdpi.com/journal/mathematics/special_issues/09O2330789) (Lead by [Prof. Ming Liu 刘明教授](http://homepage.hit.edu.cn/liuming23) ) on robotics and system control topics, Guest Associate Editor of [Frontiers in Control Engineering](https://www.frontiersin.org/journals/control-engineering/sections/control-and-automation-systems/editors), Editorial Board Members of [AppliedMath](https://www.mdpi.com/journal/appliedmath/editors), [IoT (Internet of Things)](https://www.mdpi.com/journal/IoT/editors) and Associate Editor of  [Frontiers in Aerospace Engineering](https://www.frontiersin.org/journals/aerospace-engineering/editors). 
+-->
 
-My interests are robotics and control, intelligent planning and scheduling, system identification ,and applications. I have published over 70 papers (See [Publications](https://dongfangxy.github.io/publications/)).
+### Academic Services
+- Guest Editor, [Symmetry](https://www.mdpi.com/journal/symmetry/special_issues/Recent_Progress_Robot_Control_Systems_Theory_Applications),  (2021-2023)
+- Guest Editor, [Mathematics](https://www.mdpi.com/journal/mathematics/special_issues/09O2330789) (Lead by [Prof. Ming Liu 刘明教授](http://homepage.hit.edu.cn/liuming23) ) (2022-2023)
+- Guest Topical Editor, [Frontiers in Control Engineering](https://www.frontiersin.org/journals/control-engineering/sections/control-and-automation-systems/editors) (2022-2023)
+- Editorial Board Members, [AppliedMath](https://www.mdpi.com/journal/appliedmath/editors) (2022-present)
+- Editorial Board Members, [IoT (Internet of Things)](https://www.mdpi.com/journal/IoT/editors) (2022-present)
+- Associate Editor, [Frontiers in Aerospace Engineering](https://www.frontiersin.org/journals/aerospace-engineering/editors) (2022-present)
+
+### Reserch Interests
+Robotics and control, intelligent planning and scheduling, system identification ,and applications. 
+I have published over 70 papers (See [Publications](https://dongfangxy.github.io/publications/)).
 
 发表学术论文70余篇、申请国防专利3项；主持国家自然科学基金1项，主持深圳市科技研发技术攻关重点项目子课题1项，参与深圳科技计划基础研究学科布局项目等。
+
 <!--
 Recently, I work closely with [Dr. Jin Wu (吴荩)](https://zarathustr.github.io/) from the Hong Kong University of Science and Technology (HKUST), Hong Kong, China.
 -->
 
-# Contact
-* Follow me on:
+## Contact
+- Follow me on:
 [Google Scholar](https://scholar.google.com/citations?user=oHzlz50AAAAJ&hl),
 [ResearchGate](https://www.researchgate.net/profile/Chengxi_Zhang5),
 [Orcid](https://orcid.org/0000-0002-3130-6497),
 [Official Page](http://iot.jiangnan.edu.cn/info/1060/5339.htm)
 
-* Email: dongfangxy@163.com; cxzhang@jiangnan.edu.cn
+- Email: dongfangxy@163.com; cxzhang@jiangnan.edu.cn
 
 <!--
 <a href="mailto:dongfangxy@163.com"><span style="line-height:2;">dongfangxy@163.com</span>;  <a href="mailto:cxzhang@jiangnan.edu.cn"><span style="line-height:2;">cxzhang@jiangnan.edu.cn</span>
