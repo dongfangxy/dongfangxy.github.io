@@ -25,14 +25,13 @@ I have published over 70 papers (See [Publications](https://dongfangxy.github.io
 发表学术论文70余篇、申请国防专利3项；主持国家自然科学基金1项，主持深圳市科技研发技术攻关重点项目子课题1项，参与深圳科技计划基础研究学科布局项目等。
 
 ### Academic Services
-<p style="line-height:100%"> 
-- Guest Editor, [Symmetry](https://www.mdpi.com/journal/symmetry/special_issues/Recent_Progress_Robot_Control_Systems_Theory_Applications),  (2021-2023)
-- Guest Editor, [Mathematics](https://www.mdpi.com/journal/mathematics/special_issues/09O2330789) (Lead by [Prof. Ming Liu 刘明教授](http://homepage.hit.edu.cn/liuming23) ) (2022-2023)
-- Guest Topical Editor, [Frontiers in Control Engineering](https://www.frontiersin.org/journals/control-engineering/sections/control-and-automation-systems/editors) (2022-2023)
-- Editorial Board Members, [AppliedMath](https://www.mdpi.com/journal/appliedmath/editors) (2022-present)
-- Editorial Board Members, [IoT (Internet of Things)](https://www.mdpi.com/journal/IoT/editors) (2022-present)
-- Associate Editor, [Frontiers in Aerospace Engineering](https://www.frontiersin.org/journals/aerospace-engineering/editors) (2022-present)
-</p>
+- Guest Editor, [Symmetry](https://www.mdpi.com/journal/symmetry/special_issues/Recent_Progress_Robot_Control_Systems_Theory_Applications),  (2021-2023) 
+- Guest Editor, [Mathematics](https://www.mdpi.com/journal/mathematics/special_issues/09O2330789) (Lead by [Prof. Ming Liu 刘明教授](http://homepage.hit.edu.cn/liuming23) ) (2022-2023) 
+- Guest Topical Editor, [Frontiers in Control Engineering](https://www.frontiersin.org/journals/control-engineering/sections/control-and-automation-systems/editors) (2022-2023) 
+- Editorial Board Members, [AppliedMath](https://www.mdpi.com/journal/appliedmath/editors) (2022-present) 
+- Editorial Board Members, [IoT (Internet of Things)](https://www.mdpi.com/journal/IoT/editors) (2022-present) 
+- Associate Editor, [Frontiers in Aerospace Engineering](https://www.frontiersin.org/journals/aerospace-engineering/editors) (2022-present) 
+
 
 <!--
 Recently, I work closely with [Dr. Jin Wu (吴荩)](https://zarathustr.github.io/) from the Hong Kong University of Science and Technology (HKUST), Hong Kong, China.
