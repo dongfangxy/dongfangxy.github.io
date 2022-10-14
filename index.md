@@ -30,7 +30,11 @@ I have published over 70 papers (See [Publications](https://dongfangxy.github.io
 [ResearchGate](https://www.researchgate.net/profile/Chengxi_Zhang5),
 [Orcid](https://orcid.org/0000-0002-3130-6497),
 [Official Page](http://iot.jiangnan.edu.cn/info/1060/5339.htm) 
-- Email: dongfangxy@163.com; cxzhang@jiangnan.edu.cn
+- Email: dongfangxy@163.com; cxzhang@jiangnan.edu.cn 
+- Key Laboratory of Advanced Control for Light Industry Processes, Ministry of Education, Jiangnan University; <br />
+School of Internet of Things Engineering, Jiangnan University, Wuxi 214122, China.
+
+
 
 ### Academic Services
 - Guest Editor, [Symmetry](https://www.mdpi.com/journal/symmetry/special_issues/Recent_Progress_Robot_Control_Systems_Theory_Applications), Special Issue: Recent Progress in Robot Control Systems: Theory and Applications,  (2021-2023) 
