@@ -31,7 +31,7 @@ I have published over 70 papers (See [Publications](https://dongfangxy.github.io
 [Orcid](https://orcid.org/0000-0002-3130-6497),
 [Official Page](http://iot.jiangnan.edu.cn/info/1060/5339.htm) 
 - Email: dongfangxy@163.com; cxzhang@jiangnan.edu.cn 
-- Key Laboratory of Advanced Control for Light Industry Processes, Ministry of Education, Jiangnan University; <br />
+- Key Laboratory of Advanced Control for Light Industry Processes, Ministry of Education, Jiangnan University; <br>
 School of Internet of Things Engineering, Jiangnan University, Wuxi 214122, China.
 
 
