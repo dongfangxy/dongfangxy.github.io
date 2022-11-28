@@ -7,7 +7,8 @@ author: Chengxi Zhang
 comments: true
 ---
 <ol>
-	<li>Chen Cheng , Zian Wang, Zheng Gong , Pengcheng Cai , Chengxi Zhang , Yi Li. Autonomous navigation and obstacle avoidance for Small VTOL UAV in unknown environments <b>Symmetry</b></li>
+	<li>Chen Cheng , Zian Wang, Zheng Gong , Pengcheng Cai , Chengxi Zhang , Yi Li. Autonomous navigation and obstacle avoidance for Small VTOL UAV in unknown environments <b>Symmetry.</b></li>
+	<li>Zian Wang, Zheng Gong *, Yang Yang, YongZhen Liu, Pengcheng Cai, Chengxi Zhang. Guidance law for autonomous takeoff and landing of unmanned helicopter on mobile platform based on asymmetric tracking differentiator. <b>Mathematics</b>.</li>
 </ol>
 
 
