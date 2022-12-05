@@ -6,7 +6,7 @@ layout: blog
 <h1> Recent Posts </h1>
 <ul>
 {% for notes in site.posts limit:5%}
-{% if notes.category == "news" or notes.category == "notes" %}
+{% if notes.category == "research"%}
 <li>
   {{notes.date | date: '%D'}} <a href="{{site.baseurl}}{{ notes.url }}">{{ notes.title }}</a>
   <p>{{notes.content}}</p>

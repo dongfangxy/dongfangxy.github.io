@@ -1,7 +1,7 @@
 ---
 title: Research Showcase 研究展示
 meta: 
-category: news
+category: research
 layout: news
 comments: true
 tag: [Career]
