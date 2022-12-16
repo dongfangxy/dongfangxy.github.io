@@ -7,8 +7,7 @@ author: Chengxi Zhang
 comments: true
 ---
 <ol>
-	<li>Lei Zhao, Changqing Yuan, Shengping Gong, Chengxi Zhang, Qingbo Hao, Zhengguang Li. Formation Flying for Magnetic Sails around Artificial Equilibrium Points <b>Advances in Space Research</b></li>
-	<li>Lei Zhao, Changqing Yuan, Shengping Gong, Chengxi Zhang. Magneto Plasma Sail Formation Reconfiguration around Heliocentric Elliptic Displaced Orbit. <b>Astrophysics and Space Science</b></li>
+
 </ol>
 
 
