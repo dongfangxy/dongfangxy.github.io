@@ -7,7 +7,8 @@ author: Chengxi Zhang
 comments: true
 ---
 <ol>
-
+	<li>Qingxian Jia, Yule Gui, Yunhua Wu, Chengxi Zhang. Disturbance Observer-based Performance Guaranteed Fault-Tolerant Control for Multi-Spacecraft Formation Reconfiguration with Collision Avoidance
+. <b>Aerospace Science and Technology</b>. </li>
 </ol>
 
 
