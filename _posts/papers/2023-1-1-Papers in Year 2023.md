@@ -9,6 +9,7 @@ comments: true
 <ol>
 	<li>Qingxian Jia, Yule Gui, Yunhua Wu, Chengxi Zhang. Disturbance Observer-based Performance Guaranteed Fault-Tolerant Control for Multi-Spacecraft Formation Reconfiguration with Collision Avoidance. <b>Aerospace Science and Technology</b>. </li>
 	<li>Qingxian Jia, Junnan Gao, Chengxi Zhang, Zhong Zheng. Robust Relative Orbit Synchronization for Spacecraft Cluster：A Distributed Learning Sliding Mode Control Approach. <b>Transactions of the Institute of Measurement and Control </b>. </li>
+	<li>Kai Shen, Chengxi Zhang, Peng Dong, Zhongliang Jing, Henry Leung.  Consensus-Based Labeled Multi-Bernoulli Filter with Adaptive Event-triggered Communication. <b>IEEE Transactions on Circuits and Systems II: Express Briefs</b>. </li>
 </ol>
 
 
