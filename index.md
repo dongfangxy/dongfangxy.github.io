@@ -38,7 +38,7 @@ School of Internet of Things Engineering, Jiangnan University, Wuxi 214122, Chin
 
 
 ### Academic Services
-- Guest Editor, [Symmetry](https://www.mdpi.com/journal/symmetry/special_issues/Recent_Progress_Robot_Control_Systems_Theory_Applications), Special Issue: Recent Progress in Robot Control Systems: Theory and Applications,  (2021-2023) 
+- Guest Editor, [Symmetry](https://www.mdpi.com/journal/symmetry/special_issues/Recent_Progress_Robot_Control_Systems_Theory_Applications), Special Issue: Recent Progress in Robot Control Systems: Theory and Applications, (Volume I, Volume II),  (2021-2023) 
 - Guest Editor, [Mathematics](https://www.mdpi.com/journal/mathematics/special_issues/09O2330789), Special Issue: Applications of Machine Learning in Spacecraft and Aerospace Systems, ( Lead by [Prof. Ming Liu 刘明教授](http://homepage.hit.edu.cn/liuming23) ) (2022-2023)  
 - Guest Topical Editor, [Frontiers in Control Engineering](https://www.frontiersin.org/journals/control-engineering/sections/control-and-automation-systems/editors), Topic: Learning-type Control Strategy: Theory and Applications (2022-2023) 
 - Editorial Board Member, [Aerospace Systems](https://www.springer.com/journal/42401/editors) (Springer and SJTU)
