@@ -22,7 +22,7 @@ I serves as Guest Editor of [Symmetry](https://www.mdpi.com/journal/symmetry/spe
 Robotics and control, intelligent planning, and applications. 
 I have published over 70 Papers (See [Publications](https://dongfangxy.github.io/publications/)).
 
-发表学术论文70余篇、申请国防专利3项；主持国家自然科学基金1项，主持深圳市科技研发技术攻关重点项目子课题1项，参与国家重点研发计划重点专项课题、深圳科技计划基础研究学科布局项目等。
+发表学术论文70余篇、申请国防专利3项；主持国家自然科学基金1项，主持深圳市科技研发技术攻关重点项目子课题1项，主持中央高校基本科研计划基金1项，参与国家地球观测与导航重点研发计划、深圳科技计划基础研究学科布局项目等多项其他项目。
 
 ### Contact
 - Follow me on:
