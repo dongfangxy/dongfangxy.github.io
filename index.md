@@ -13,16 +13,14 @@ layout: sitepage
 复制了师傅的主页，我还在修改中....[[My CV in PDF]]({{site.url}}/YuJiangCV.pdf) 
 -->
 
-I was born in Qufu, China. I received the B.S. and M.S. degrees in electronic science and technology from the Harbin Institute of Technology (HIT, 哈尔滨工业大学), China, in 2012 and 2015, and the Ph.D. degree in control science and engineering from Shanghai Jiao Tong University (SJTU, 上海交通大学), China, in 2019. I worked at HIT Shenzhen, China, from 2020-2022 and received the [Outstanding Postdoctoral Awards of HIT Shenzhen](http://www.hitsz.edu.cn/article/view/id-118575.html). Since 2022, I am an Associate Professor of [Jiangnan Univerisity, Wuxi China (江南大学, 中国无锡)](https://www.jiangnan.edu.cn/).
-<!--
-I serves as Guest Editor of [Symmetry](https://www.mdpi.com/journal/symmetry/special_issues/Recent_Progress_Robot_Control_Systems_Theory_Applications),  [Mathematics](https://www.mdpi.com/journal/mathematics/special_issues/09O2330789) (Lead by [Prof. Ming Liu 刘明教授](http://homepage.hit.edu.cn/liuming23) ) on robotics and system control topics, Guest Associate Editor of [Frontiers in Control Engineering](https://www.frontiersin.org/journals/control-engineering/sections/control-and-automation-systems/editors), Editorial Board Members of [AppliedMath](https://www.mdpi.com/journal/appliedmath/editors), [IoT (Internet of Things)](https://www.mdpi.com/journal/IoT/editors) and Associate Editor of  [Frontiers in Aerospace Engineering](https://www.frontiersin.org/journals/aerospace-engineering/editors). 
--->
+I was born in Qufu, China. I received the B.S. and M.S. degrees in electronic science and technology from the Harbin Institute of Technology (HIT, 哈尔滨工业大学), China, in 2012 and 2015, and the Ph.D. degree in control science and engineering from Shanghai Jiao Tong University (上海交通大学), China, in 2019. I worked at HIT Shenzhen, China, from 2020-2022 and received the [Outstanding Postdoctoral Awards of HIT Shenzhen](http://www.hitsz.edu.cn/article/view/id-118575.html). Since 2022, I am an Associate Professor of [Jiangnan Univerisity, Wuxi China (江南大学, 中国无锡)](https://www.jiangnan.edu.cn/).
+
 
 ### Reserch Interests
 Robotics and control, intelligent planning, and applications. 
 I have published over 70 Papers (See [Publications](https://dongfangxy.github.io/publications/)).
 
-发表学术论文70余篇、申请国防专利3项；主持国家自然科学基金1项，主持深圳市科技研发技术攻关重点项目子课题1项，参与国家重点研发计划重点专项课题、深圳科技计划基础研究学科布局项目等。
+发表学术论文70余篇、申请国防专利3项；主持国家自然科学基金1项，主持深圳市科技研发技术攻关重点项目子课题1项，主持中央高校基本科研计划基金1项，参与国家地球观测与导航重点研发计划、深圳科技计划基础研究学科布局项目等多项其他项目。
 
 ### Contact
 - Follow me on:
@@ -37,14 +35,19 @@ School of Internet of Things Engineering, Jiangnan University, Wuxi 214122, Chin
 
 
 ### Academic Services
-- Guest Editor, [Symmetry](https://www.mdpi.com/journal/symmetry/special_issues/Recent_Progress_Robot_Control_Systems_Theory_Applications), Special Issue: Recent Progress in Robot Control Systems: Theory and Applications (Volume I, Volume II),  (2021-2023) 
-- Guest Editor, [Mathematics](https://www.mdpi.com/journal/mathematics/special_issues/09O2330789), Special Issue: Applications of Machine Learning in Spacecraft and Aerospace Systems, ( Lead by [Prof. Ming Liu 刘明教授](http://homepage.hit.edu.cn/liuming23) ) (2022-2023)  
+- Guest Editor, [Mathematics](https://www.mdpi.com/journal/mathematics/special_issues/09O2330789), Special Issue: Applications of Machine Learning in Spacecraft and Aerospace Systems, ( Lead by [Prof. Ming Liu 刘明教授, Harbin Institute of Technology, China.](http://homepage.hit.edu.cn/liuming23) ) (2022-2023)  
+- Guest Editor, [Aerospace](https://www.mdpi.com/journal/aerospace/special_issues/U81MBDN1BK), Special Issue: Satellite Formation Flying: Dynamics and Control ( Lead by [Prof. Danil Ivanov, Federal Research Center, Keldysh Institute of Applied Mathematics of the Russian Academy of Sciences, Russia](https://keldysh.ru/microsatellites/eng/team.html) ) (2022-2023)  
+- Guest Editor, [Applied Sciences](https://www.mdpi.com/journal/aerospace/special_issues/U81MBDN1BK), Special Issue: Autonomous Formation Systems: Guidance, Dynamics and Control, ( Lead by [Prof. Jihe Wang, Sun Yat-Sen University, China](https://tianqin.sysu.edu.cn/members/wang-ji-he) ) (2022-2023)  
+- Guest Editor, [Symmetry](https://www.mdpi.com/journal/symmetry/special_issues/Z28KR0YVB3), Special Issue: Recent Progress in Robot Control Systems: Theory and Applications (Volume I, Volume II),  (2021-2023) 
 - Guest Topical Editor, [Frontiers in Control Engineering](https://www.frontiersin.org/journals/control-engineering/sections/control-and-automation-systems/editors), Topic: Learning-type Control Strategy: Theory and Applications (2022-2023) 
-- Editorial Board Member, [Aerospace Systems](https://www.springer.com/journal/42401/editors) (Springer and SJTU)
+- Editorial Board Member, [Aerospace Systems](https://www.springer.com/journal/42401/editors) (Springer and Shanghai Jiao Tong University)
 - Editorial Board Member, [AppliedMath](https://www.mdpi.com/journal/appliedmath/editors) (2022-present) 
 - Editorial Board Member, [IoT (Internet of Things)](https://www.mdpi.com/journal/IoT/editors) (2022-present) 
 - Associate Editor, [Frontiers in Aerospace Engineering](https://www.frontiersin.org/journals/aerospace-engineering/editors) (2022-present) 
-- Session Chair, 2022 Jiangsu Annual Conference of Automation (JACA2022, Wuxi, 2022.11.19).
+
+### Conference Services
+- Session Chair, 2022 Jiangsu Annual Conference of Automation (JACA2022, Wuxi, 2022.11.19)
+
 
 
 <!--

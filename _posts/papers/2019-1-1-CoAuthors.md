@@ -18,7 +18,7 @@ My collaborators also include：
 [Prof. Jinxiu Zhang (张锦绣，中山)](https://saa.sysu.edu.cn/teacher/448), 
 [Prof. Ming Liu (刘明，哈工大)](http://homepage.hit.edu.cn/liuming23)<br/>
 [Prof. Bing Xiao (肖冰，西工大)](https://teacher.nwpu.edu.cn/xiaobing)，[Prof. Bo Li (李波，上海海事)](https://ilse.shmtu.edu.cn/2020/1117/c5133a31914/page.htm),  [Prof. Chong Li (李崇，中国海洋)](http://coe.ouc.edu.cn/2019/0819/c9094a256005/page.htm)<br/>
-[Prof. Wei He (贺威，北科大)](http://saee.ustb.edu.cn/quantijiaoshi/2015-10-09/81.html),  [Prof. Choon Ki Ahn](http://control.korea.ac.kr/)，[Prof. Henry Leung](https://schulich.ucalgary.ca/contacts/henry-leung), <br/>
+[Prof. Wei He (贺威，北科大)](http://saee.ustb.edu.cn/quantijiaoshi/2015-10-09/81.html),  [Prof. Choon Ki Ahn](http://control.korea.ac.kr/)，[Prof. Henry Leung](https://www.ucalgary.ca/aerospace/leung), <br/>
 [Prof. Yi Jiang (姜艺，东北)](https://yijiang1992.github.io/)
 [Prof. Caisheng Wei(魏才盛，中南) and Dr. Ming-Zhe Dai(戴明哲，中南)](http://faculty.csu.edu.cn/weicaisheng/zh_CN/index.htm), <br/>
 [Prof. Mingzhen Gui(桂明臻，中南) and Prof. Xiaolin Ning(宁晓琳)](http://faculty.csu.edu.cn/guimingzhen/zh_CN/index.htm), <br/>
