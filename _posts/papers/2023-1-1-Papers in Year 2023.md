@@ -11,6 +11,8 @@ comments: true
 	<li>Qingxian Jia, Junnan Gao, Chengxi Zhang, Zhong Zheng. Robust Relative Orbit Synchronization for Spacecraft Cluster：A Distributed Learning Sliding Mode Control Approach. <b>Transactions of the Institute of Measurement and Control </b>. </li>
 	<li>Kai Shen, Chengxi Zhang, Peng Dong, Zhongliang Jing, Henry Leung.  Consensus-Based Labeled Multi-Bernoulli Filter with Adaptive Event-triggered Communication. <b>IEEE Transactions on Circuits and Systems II: Express Briefs</b>. </li>
 	<li>Zian Wang, Lei Hu, Wanghua Fei, Dapeng Zhou, Dapeng Yang, Chenxi Ma, Zheng Gong, Jin Wu, Chengxi Zhang, Yi Yang. High-performance Attitude Control Design of Supersonic Tailless Aircraft: A Cascaded Disturbance Rejection Approach. <b>Aerospace</b></li>
+	<li>Qinxian Jia, Rui Ma, Chengxi Zhang, Renuganth Varatharajoo. Spacecraft Attitude Fault-Tolerant Stabilization against Loss of Actuator Effectiveness: An Iterative Learning Sliding Mode. <b>Advances in Space Research</b> </li>
+
 </ol>
 
 
