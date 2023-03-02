@@ -12,6 +12,7 @@ comments: true
 	<li>Kai Shen, Chengxi Zhang, Peng Dong, Zhongliang Jing, Henry Leung.  Consensus-Based Labeled Multi-Bernoulli Filter with Adaptive Event-triggered Communication. <b>IEEE Transactions on Circuits and Systems II: Express Briefs</b>. </li>
 	<li>Zian Wang, Lei Hu, Wanghua Fei, Dapeng Zhou, Dapeng Yang, Chenxi Ma, Zheng Gong, Jin Wu, Chengxi Zhang, Yi Yang. High-performance Attitude Control Design of Supersonic Tailless Aircraft: A Cascaded Disturbance Rejection Approach. <b>Aerospace</b></li>
 	<li>Qinxian Jia, Rui Ma, Chengxi Zhang, Renuganth Varatharajoo. Spacecraft Attitude Fault-Tolerant Stabilization against Loss of Actuator Effectiveness: An Iterative Learning Sliding Mode. <b>Advances in Space Research</b> </li>
+	<li>Lu Bai, Chengxi Zhang, Jihe Wang. Evaluation and Comparison of Three Fuel Optimal Impulsive Control Strategies for Satellite Formation Reconfiguration <b>6th IEEE International Conference on Industrial Cyber-Physical Systems (ICPS 2023)</b> </li>
 
 </ol>
 
