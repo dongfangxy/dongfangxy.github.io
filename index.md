@@ -31,6 +31,7 @@ I have published over 70 Papers (See [Publications](https://dongfangxy.github.io
 - Email: dongfangxy@163.com; cxzhang@jiangnan.edu.cn 
 - Key Laboratory of Advanced Control for Light Industry Processes, Ministry of Education, Jiangnan University; <br>
 School of Internet of Things Engineering, Jiangnan University, Wuxi 214122, China.
+- 轻工过程先进控制教育部重点实验室
 
 
 
