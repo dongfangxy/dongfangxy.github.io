@@ -14,6 +14,7 @@ comments: true
 	<li>Qinxian Jia, Rui Ma, Chengxi Zhang, Renuganth Varatharajoo. Spacecraft Attitude Fault-Tolerant Stabilization against Loss of Actuator Effectiveness: An Iterative Learning Sliding Mode. <b>Advances in Space Research</b> </li>
 	<li>Lu Bai, Chengxi Zhang, Jihe Wang. Evaluation and Comparison of Three Fuel Optimal Impulsive Control Strategies for Satellite Formation Reconfiguration <b>6th IEEE International Conference on Industrial Cyber-Physical Systems (ICPS 2023)</b> </li>
 	<li>Ming-Zhe Dai, Dang-Jun Zhao, Chengxi Zhang, Peng Dong, Henry Leung. Performance adjustable event-triggered policy to spacecraft attitude tracking <b>Advances in Space Research</b> </li>
+	<li>Mingzhen Gui, Caisheng Wei, Yifeng Wei, Kai Xiong, Chengxi Zhang, Ming-Zhe Dai. Parameter-independent Event-triggered Implicit UKF for the Celestial Navigation using Time Delay Measurement <b>Mathematics</b></li>
 </ol>
 
 
