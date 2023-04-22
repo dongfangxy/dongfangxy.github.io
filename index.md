@@ -13,7 +13,7 @@ layout: sitepage
 复制了师傅的主页，我还在修改中....[[My CV in PDF]]({{site.url}}/YuJiangCV.pdf) 
 -->
 
-I was born in Qufu, China. I received the B.S. and M.S. degrees in electronic science and technology from the Harbin Institute of Technology (HIT, 哈尔滨工业大学), China, in 2012 and 2015, and the Ph.D. degree in control science and engineering from Shanghai Jiao Tong University (上海交通大学), China, in 2019. I worked at HIT Shenzhen, China, from 2020-2022 and received the [Outstanding Postdoctoral Awards of HIT Shenzhen](http://www.hitsz.edu.cn/article/view/id-118575.html). Since 2022, I am an Associate Professor of [Jiangnan Univerisity, Wuxi China (江南大学, 中国无锡)](https://www.jiangnan.edu.cn/).
+I was born in Qufu, China. I received the B.S. and M.S. degrees in electronic science and technology from the Harbin Institute of Technology (HIT, 哈尔滨工业大学), China, in 2012 and 2015, and the Ph.D. degree in control science and engineering from Shanghai Jiao Tong University (上海交通大学), China, in 2019. I worked at HIT (深圳市物联网终端关键技术重点实验室), China from 2020-2022 and received the [Outstanding Postdoctoral Awards of HIT Shenzhen](http://www.hitsz.edu.cn/article/view/id-118575.html). Since 2022, I have been an Associate Professor of [Jiangnan Univerisity, Wuxi China (江南大学, 中国无锡)](https://www.jiangnan.edu.cn/).
 
 
 ### Reserch Interests
@@ -48,6 +48,7 @@ School of Internet of Things Engineering, Jiangnan University, Wuxi 214122, Chin
 
 ### Conference Services
 - Session Chair, 2022 Jiangsu Annual Conference of Automation (JACA2022, Wuxi, 2022.11.19)
+
 
 
 
