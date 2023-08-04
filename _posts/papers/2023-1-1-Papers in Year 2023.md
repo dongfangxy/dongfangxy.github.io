@@ -8,7 +8,7 @@ comments: true
 ---
 <ol>
 	<li>Qingxian Jia, Yule Gui, Yunhua Wu, Chengxi Zhang. Disturbance Observer-based Performance Guaranteed Fault-Tolerant Control for Multi-Spacecraft Formation Reconfiguration with Collision Avoidance. <b>Aerospace Science and Technology</b>. </li>
-	<li>Qingxian Jia, Junnan Gao, Chengxi Zhang, Zhong Zheng. Robust Relative Orbit Synchronization for Spacecraft Cluster：A Distributed Learning Sliding Mode Control Approach. <b>Transactions of the Institute of Measurement and Control </b>. </li>
+	<li>Qingxian Jia, Junnan Gao, Chengxi Zhang, Zhong Zheng. Robust Relative Orbit Synchronization for Spacecraft Cluster: A Distributed Learning Sliding Mode Control Approach. <b>Transactions of the Institute of Measurement and Control</b>. </li>
 	<li>Kai Shen, Chengxi Zhang, Peng Dong, Zhongliang Jing, Henry Leung.  Consensus-Based Labeled Multi-Bernoulli Filter with Adaptive Event-triggered Communication. <b>IEEE Transactions on Circuits and Systems II: Express Briefs</b>. </li>
 	<li>Zian Wang, Lei Hu, Wanghua Fei, Dapeng Zhou, Dapeng Yang, Chenxi Ma, Zheng Gong, Jin Wu, Chengxi Zhang, Yi Yang. High-performance Attitude Control Design of Supersonic Tailless Aircraft: A Cascaded Disturbance Rejection Approach. <b>Aerospace</b></li>
 	<li>Qinxian Jia, Rui Ma, Chengxi Zhang, Renuganth Varatharajoo. Spacecraft Attitude Fault-Tolerant Stabilization against Loss of Actuator Effectiveness: An Iterative Learning Sliding Mode. <b>Advances in Space Research</b> </li>
@@ -16,7 +16,9 @@ comments: true
 	<li>Ming-Zhe Dai, Dang-Jun Zhao, Chengxi Zhang, Peng Dong, Henry Leung. Performance adjustable event-triggered policy to spacecraft attitude tracking <b>Advances in Space Research</b> </li>
 	<li>Mingzhen Gui, Caisheng Wei, Yifeng Wei, Kai Xiong, Chengxi Zhang, Ming-Zhe Dai. Parameter-independent Event-triggered Implicit UKF for the Celestial Navigation using Time Delay Measurement . <b>Mathematics</b></li>
 	<li>Jiaolong Wang, Chengxi Zhang, Choon Ki Ahn, Jin Wu, Ming Liu. Continuous-Discrete Cubature Kalman Filter with Log-Euclidean Metric-based Covariance Integration.  <b>IEEE Transactions on Circuits and Systems II: Express Briefs</b></li>
+    <li>Weijia Lu, Chengxi Zhang, Fei Liu, Shunyi Zhao, Xiaoli Luan, Jin Wu. Paint surface estimation and trajectory planning for automated painting systems.  <b>Mathematical Foundations of Computing</b></li>
 </ol>
+
 
 
 
