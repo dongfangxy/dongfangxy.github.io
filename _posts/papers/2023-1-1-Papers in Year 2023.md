@@ -17,7 +17,12 @@ comments: true
 	<li>Mingzhen Gui, Caisheng Wei, Yifeng Wei, Kai Xiong, Chengxi Zhang, Ming-Zhe Dai. Parameter-independent Event-triggered Implicit UKF for the Celestial Navigation using Time Delay Measurement . <b>Mathematics</b></li>
 	<li>Jiaolong Wang, Chengxi Zhang, Choon Ki Ahn, Jin Wu, Ming Liu. Continuous-Discrete Cubature Kalman Filter with Log-Euclidean Metric-based Covariance Integration.  <b>IEEE Transactions on Circuits and Systems II: Express Briefs</b></li>
     <li>Weijia Lu, Chengxi Zhang, Fei Liu, Shunyi Zhao, Xiaoli Luan, Jin Wu. Paint surface estimation and trajectory planning for automated painting systems.  <b>Mathematical Foundations of Computing</b></li>
+     <li>Kai Shen, Chengxi Zhang, Peng Dong, Zhongliang Jing, Henry Leung.Distributed Multi-target Tracking with Low Information Updates via an Integral-type Event-based Approach.  <b>Signal Processing</b></li>
+    <li>Mingzhen Gui, Hua Yang, Dangjun Zhao, MingZhe Dai, Chengxi Zhang. Analysis and Compensation of Sun Direction Error on Solar Disk Velocity Difference<b>Mathematics</b>2023, 11(17), 3716</li>
+    <li>Shunyi Zhao, Zheng Zhou, Chengxi Zhang, Jin Wu, Fei Liu, Guangyi Shi. Localization of Underground Pipe Jacking Machinery: An Reliable, Real-time and Robust INS/OD Solution <b>Control Engineering Practice
+</b></li>
 </ol>
+
 
 
 
