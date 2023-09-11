@@ -46,8 +46,17 @@ School of Internet of Things Engineering, Jiangnan University, Wuxi 214122, Chin
 
 - Session Chair, 2022 Jiangsu Annual Conference of Automation (JACA2022, Wuxi, 2022.11.19)
 
-
-
+### Publications
+<ul>
+{% for papers in site.posts limit:10%}
+{% if papers.category == "paper"%}
+<li>
+  {{papers.date | date: '%D'}} <a href="{{site.baseurl}}{{ papers.url }}">{{ papers.title }}</a>
+  <p>{{papers.content}}</p>
+</li>
+{% endif %}
+{% endfor %}
+</ul>
 
 <!--
 Recently, I work closely with [Dr. Jin Wu (吴荩)](https://zarathustr.github.io/) from the Hong Kong University of Science and Technology (HKUST), Hong Kong, China.
