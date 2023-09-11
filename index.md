@@ -41,14 +41,9 @@ School of Internet of Things Engineering, Jiangnan University, Wuxi 214122, Chin
 - Editorial Board Member, [IoT (Internet of Things)](https://www.mdpi.com/journal/IoT/editors) (2022-present) 
 - Associate Editor, [Frontiers in Aerospace Engineering](https://www.frontiersin.org/journals/aerospace-engineering/editors) (2022-present) 
 - Guest Editor: 
-	- [Mathematics](https://www.mdpi.com/journal/mathematics/special_issues/09O2330789), Special Issue: Applications of Machine Learning in Spacecraft and Aerospace Systems, ( Lead by [Prof. Ming Liu 刘明教授, HIT.](http://homepage.hit.edu.cn/liuming23) ) (2022- ) ; 
-	- [Aerospace](https://www.mdpi.com/journal/aerospace/special_issues/U81MBDN1BK), Special Issue: Satellite Formation Flying: Dynamics and Control ( Lead by [Prof. Danil Ivanov, Federal Research Center, Russia](https://keldysh.ru/microsatellites/eng/team.html) ) (2022- ) ; 
-	- [Applied Sciences](https://www.mdpi.com/journal/aerospace/special_issues/U81MBDN1BK), Special Issue: Autonomous Formation Systems: Guidance, Dynamics and Control, ( Lead by [Prof. Jihe Wang 王继河教授](https://tianqin.sysu.edu.cn/members/wang-ji-he) ) (2022- ) ; 
-	- [Symmetry](https://www.mdpi.com/journal/symmetry/special_issues/Z28KR0YVB3), Special Issue: Recent Progress in Robot Control Systems: Theory and Applications (Volume I, Volume II),  (2021- ); 
 	- [MDPI, See more](https://sciprofiles.com/profile/editorial_contribution/eFIxK2sxdHVEN0tCd1EwVUJMRFFzcE80akpzQzNjLzA1MVY3RzZsS3VMYz0)
 	- [Frontiers in Control Engineering](https://www.frontiersin.org/journals/control-engineering/sections/control-and-automation-systems/editors), Topic: Learning-type Control Strategy: Theory and Applications (2022-2023) 
 
-### Conference Services
 - Session Chair, 2022 Jiangsu Annual Conference of Automation (JACA2022, Wuxi, 2022.11.19)
 
 
