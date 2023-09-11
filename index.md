@@ -40,10 +40,9 @@ School of Internet of Things Engineering, Jiangnan University, Wuxi 214122, Chin
 - Editorial Board Member, [AppliedMath](https://www.mdpi.com/journal/appliedmath/editors) (2022-present) 
 - Editorial Board Member, [IoT (Internet of Things)](https://www.mdpi.com/journal/IoT/editors) (2022-present) 
 - Associate Editor, [Frontiers in Aerospace Engineering](https://www.frontiersin.org/journals/aerospace-engineering/editors) (2022-present) 
-- Guest Editor: 
-	- [MDPI, See more](https://sciprofiles.com/profile/editorial_contribution/eFIxK2sxdHVEN0tCd1EwVUJMRFFzcE80akpzQzNjLzA1MVY3RzZsS3VMYz0)
-	- [Frontiers in Control Engineering](https://www.frontiersin.org/journals/control-engineering/sections/control-and-automation-systems/editors), Topic: Learning-type Control Strategy: Theory and Applications (2022-2023) 
-
+- Guest Editor:  [See more](https://sciprofiles.com/profile/editorial_contribution/eFIxK2sxdHVEN0tCd1EwVUJMRFFzcE80akpzQzNjLzA1MVY3RzZsS3VMYz0)
+	<!--[Frontiers in Control Engineering](https://www.frontiersin.org/journals/control-engineering/sections/control-and-automation-systems/editors), Topic: Learning-type Control Strategy: Theory and Applications (2022-2023) 
+	-->
 - Session Chair, 2022 Jiangsu Annual Conference of Automation (JACA2022, Wuxi, 2022.11.19)
 
 ### Publications
