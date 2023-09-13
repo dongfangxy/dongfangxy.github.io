@@ -21,6 +21,8 @@ comments: true
     <li>Mingzhen Gui, Hua Yang, Dangjun Zhao, MingZhe Dai, Chengxi Zhang. Analysis and Compensation of Sun Direction Error on Solar Disk Velocity Difference<b>Mathematics</b>2023, 11(17), 3716</li>
     <li>Shunyi Zhao, Zheng Zhou, Chengxi Zhang, Jin Wu, Fei Liu, Guangyi Shi. Localization of Underground Pipe Jacking Machinery: An Reliable, Real-time and Robust INS/OD Solution <b>Control Engineering Practice
 </b></li>
+    <li>Zhaoxiang Niu, Ming-Zhe Dai, Junyang Gao, Caisheng Wei, Chengxi Zhang. Performance-adjustable PPC policies for spacecraft attitude-orbit coupled tracking under event-triggered sampling
+ <b>International Journal of Robust and Nonlinear Control</b></li>
 </ol>
 
 
