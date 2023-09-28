@@ -36,10 +36,10 @@ School of Internet of Things Engineering, Jiangnan University, Wuxi 214122, Chin
 
 
 ### Academic Services
-- Editorial Board Member, [Aerospace Systems](https://www.springer.com/journal/42401/editors) (Springer and Shanghai Jiao Tong University)
-- Editoral Board Member, [AI and Autonomous Systems](https://elspub.com/journals/artificial-intelligence-and-autonomous-systems/editorial_board/) (2023-present)
-- Editorial Board Member, [AppliedMath](https://www.mdpi.com/journal/appliedmath/editors) (2022-present) 
-- Editorial Board Member, [IoT (Internet of Things)](https://www.mdpi.com/journal/IoT/editors) (2022-present) 
+- Editorial Board, [Aerospace Systems](https://www.springer.com/journal/42401/editors) (Springer and Shanghai Jiao Tong University)
+- Editorial Board, [AI and Autonomous Systems](https://elspub.com/journals/artificial-intelligence-and-autonomous-systems/editorial_board/) (2023-present)
+- Editorial Board, [AppliedMath](https://www.mdpi.com/journal/appliedmath/editors) (2022-present) 
+- Editorial Board, [IoT (Internet of Things)](https://www.mdpi.com/journal/IoT/editors) (2022-present) 
 - Associate Editor, [Frontiers in Aerospace Engineering](https://www.frontiersin.org/journals/aerospace-engineering/editors) (2022-present) 
   <!--[Frontiers in Control Engineering](https://www.frontiersin.org/journals/control-engineering/sections/control-and-automation-systems/editors), Topic: Learning-type Control Strategy: Theory and Applications (2022-2023) 
   -->
