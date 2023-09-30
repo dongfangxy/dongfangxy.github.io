@@ -23,8 +23,9 @@ comments: true
 </b></li>
     	<li>Zhaoxiang Niu, Ming-Zhe Dai, Junyang Gao, Caisheng Wei, Chengxi Zhang. Performance-adjustable PPC policies for spacecraft attitude-orbit coupled tracking under event-triggered sampling
  <b>International Journal of Robust and Nonlinear Control</b></li>
-	<li>Qingxian Jia, Junnan Gao, Chengxi Zhang, Choon Ki Ahn, Dan Yu. Dynamic Event-Triggered Attitude Synchronization of Multi-Spacecraft Formation via a Learning Neural Network Control Approach
- <b>Aerospace Science and Technology</b></li>
+	<li>Qingxian Jia, Junnan Gao, Chengxi Zhang, Choon Ki Ahn, Dan Yu. Dynamic Event-Triggered Attitude Synchronization of Multi-Spacecraft Formation via a Learning Neural Network Control Approach  <b>Aerospace Science and Technology</b></li>
+	<li>Shunyi Zhao, Yingying Li, Chengxi Zhang, Xiaoli Luan, Fei Liu, Ruomu Tan. Robustification of Finite Impulse Response Filter for Nonlinear Systems with Model Uncertainties
+  <b>IEEE Transactions on Instrumentation and Measurement</b></li>
 
 </ol>
 
