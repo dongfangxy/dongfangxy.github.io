@@ -20,7 +20,13 @@ I was born in Qufu, China. I received the B.S. and M.S. degrees in electronic sc
 Robotics and control, intelligent planning, and applications. 
 I have published over 80 Papers, including 2 ESI 1% Highly Cited Papers (See [Publications](https://dongfangxy.github.io/publications/)).
 
+I am listed in the [Top 2% scientists worldwide in 2022](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/6), published by Stanford University and Elsevier.
+
+
+
 发表学术论文80余篇、申请国防专利3项；主持国家自然科学基金1项，主持深圳市科技研发技术攻关重点项目子课题1项，主持中央高校基本科研计划基金1项，参与国家地球观测与导航重点研发计划、深圳科技计划基础研究学科布局项目等多项其他项目。
+
+入选斯坦福大学-爱思唯尔全球前2%科学家名单(2022年)
 
 ### Contact
 - Follow me on:
