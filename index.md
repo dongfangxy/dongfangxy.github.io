@@ -16,7 +16,7 @@ layout: sitepage
 I was born in Qufu, China. I received the B.S. and M.S. degrees in electronic science and technology from the Harbin Institute of Technology (HIT, 哈尔滨工业大学), China, in 2012 and 2015, and the Ph.D. degree in control science and engineering from Shanghai Jiao Tong University (上海交通大学), China, in 2019. I worked at HIT (深圳市物联网终端关键技术重点实验室), China from 2020-2022 and received the [Outstanding Postdoctoral Awards of HIT Shenzhen](http://www.hitsz.edu.cn/article/view/id-118575.html). Since 2022, I have been an Associate Professor of [Jiangnan Univerisity, Wuxi China (江南大学, 中国无锡)](https://www.jiangnan.edu.cn/).
 
 
-### Research Interests
+### Research Interests and Academic Information
 Robotics and control, intelligent planning, and applications. 
 I have published over 80 Papers, including 2 ESI 1% Highly Cited Papers (See [Publications](https://dongfangxy.github.io/publications/)).
 
