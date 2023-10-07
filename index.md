@@ -18,11 +18,12 @@ I was born in Qufu, China. I received the B.S. and M.S. degrees in electronic sc
 
 ### Research Interests and Academic Information
 Robotics and control, intelligent planning, and applications. 
+
 I have published over 80 Papers, including 2 ESI 1% Highly Cited Papers (See [Publications](https://dongfangxy.github.io/publications/)).
 
 I am Selected for Hangzhou Dinghu High-level Talent Program for Robotics(2023).
 
-I am listed in the **[Top 2% of Scientists World-wide in 2022](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/6)**, published by Stanford University and Elsevier B.V.
+I am listed in **[Top 2% of Scientists World-wide in 2022](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/6)**, by Stanford University and Elsevier B.V.
 
 
 
@@ -30,7 +31,7 @@ I am listed in the **[Top 2% of Scientists World-wide in 2022](https://elsevier.
 
 入选杭州鼎湖高层次人才项目(2023年)
 
-入选斯坦福大学-爱思唯尔全球前2%科学家名单(2022年)
+入选**斯坦福大学-爱思唯尔全球前2%科学家名单**(2022年)
 
 ### Contact
 - Follow me on:
