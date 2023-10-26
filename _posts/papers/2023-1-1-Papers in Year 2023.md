@@ -26,7 +26,7 @@ comments: true
 	<li>Qingxian Jia, Junnan Gao, Chengxi Zhang, Choon Ki Ahn, Dan Yu. Dynamic Event-Triggered Attitude Synchronization of Multi-Spacecraft Formation via a Learning Neural Network Control Approach  <b>Aerospace Science and Technology</b></li>
 	<li>Shunyi Zhao, Yingying Li, Chengxi Zhang, Xiaoli Luan, Fei Liu, Ruomu Tan. Robustification of Finite Impulse Response Filter for Nonlinear Systems with Model Uncertainties
   <b>IEEE Transactions on Instrumentation and Measurement</b></li>
-
+    <li>Rui Shu, Qingxian Jia, Yunhua Wu, He Liao, Chengxi Zhang. Robust Active Fault-Tolerant Configuration Control for Spacecraft Formation via Learning RBFNN Approaches<b>ASCE Journal of Aerospace Engineering</b></li>
 </ol>
 
 
