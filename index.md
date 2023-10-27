@@ -55,7 +55,7 @@ School of Internet of Things Engineering, Jiangnan University, Wuxi 214122, Chin
   <!--[Frontiers in Control Engineering](https://www.frontiersin.org/journals/control-engineering/sections/control-and-automation-systems/editors), Topic: Learning-type Control Strategy: Theory and Applications (2022-2023) 
   -->
 - Session Chair, 2022 Jiangsu Annual Conference of Automation (JACA2022, Wuxi, 2022.11.19)
-- Invited Session Chair, 36th Chinese Control and Decision Conference (CDC2024, Xi An 西安, Invited by Prof. Hanlin Dong)
+- Invited Session Chair, 36th Chinese Control and Decision Conference (CCDC2024, Xi An 西安, Invited by Prof. Hanlin Dong)
 
 ### Publications
 <ul>
