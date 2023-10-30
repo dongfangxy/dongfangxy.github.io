@@ -23,7 +23,7 @@ I have published over 90 Papers, including 2 ESI 1% Highly Cited Papers (See [Pu
 
 I am Selected for Hangzhou Dinghu High-level Talent Program for Robotics(2023).
 
-I am listed in **[Top 2% of Scientists World-wide in 2022](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/6)**, by Stanford University and Elsevier B.V.
+I am listed in **[World’s Top 2% Scientists in 2022](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/6)**, by John P.A. Ioannidis, Stanford University and Elsevier.
 
 
 
@@ -31,7 +31,7 @@ I am listed in **[Top 2% of Scientists World-wide in 2022](https://elsevier.digi
 
 入选杭州鼎湖高层次人才项目(2023年)
 
-入选**斯坦福大学-爱思唯尔全球前2%科学家名单**(2022年)
+入选**斯坦福大学-爱思唯尔全球前2%科学家名单**(2022年，航空航天领域中国大陆地区173名)
 
 ### Contact
 - Follow me on:
