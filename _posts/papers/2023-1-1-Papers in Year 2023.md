@@ -18,15 +18,15 @@ comments: true
 	<li>Jiaolong Wang, Chengxi Zhang, Choon Ki Ahn, Jin Wu, Ming Liu. Continuous-Discrete Cubature Kalman Filter with Log-Euclidean Metric-based Covariance Integration.  <b>IEEE Transactions on Circuits and Systems II: Express Briefs</b></li>
     	<li>Weijia Lu, Chengxi Zhang, Fei Liu, Shunyi Zhao, Xiaoli Luan, Jin Wu. Paint surface estimation and trajectory planning for automated painting systems.  <b>Mathematical Foundations of Computing</b></li>
      	<li>Kai Shen, Chengxi Zhang, Peng Dong, Zhongliang Jing, Henry Leung.Distributed Multi-target Tracking with Low Information Updates via an Integral-type Event-based Approach.  <b>Signal Processing</b></li>
-    	<li>Mingzhen Gui, Hua Yang, Dangjun Zhao, MingZhe Dai, Chengxi Zhang. Analysis and Compensation of Sun Direction Error on Solar Disk Velocity Difference<b>Mathematics</b>2023, 11(17), 3716</li>
+    	<li>Mingzhen Gui, Hua Yang, Dangjun Zhao, MingZhe Dai, Chengxi Zhang. Analysis and Compensation of Sun Direction Error on Solar Disk Velocity Difference <b>Mathematics</b>2023, 11(17), 3716</li>
     	<li>Shunyi Zhao, Zheng Zhou, Chengxi Zhang, Jin Wu, Fei Liu, Guangyi Shi. Localization of Underground Pipe Jacking Machinery: An Reliable, Real-time and Robust INS/OD Solution <b>Control Engineering Practice
 </b></li>
     	<li>Zhaoxiang Niu, Ming-Zhe Dai, Junyang Gao, Caisheng Wei, Chengxi Zhang. Performance-adjustable PPC policies for spacecraft attitude-orbit coupled tracking under event-triggered sampling
  <b>International Journal of Robust and Nonlinear Control</b></li>
 	<li>Qingxian Jia, Junnan Gao, Chengxi Zhang, Choon Ki Ahn, Dan Yu. Dynamic Event-Triggered Attitude Synchronization of Multi-Spacecraft Formation via a Learning Neural Network Control Approach  <b>Aerospace Science and Technology</b></li>
-	<li>Shunyi Zhao, Yingying Li, Chengxi Zhang, Xiaoli Luan, Fei Liu, Ruomu Tan. Robustification of Finite Impulse Response Filter for Nonlinear Systems with Model Uncertainties
-  <b>IEEE Transactions on Instrumentation and Measurement</b></li>
-    <li>Rui Shu, Qingxian Jia, Yunhua Wu, He Liao, Chengxi Zhang. Robust Active Fault-Tolerant Configuration Control for Spacecraft Formation via Learning RBFNN Approaches<b>ASCE Journal of Aerospace Engineering</b></li>
+	<li>Shunyi Zhao, Yingying Li, Chengxi Zhang, Xiaoli Luan, Fei Liu, Ruomu Tan. Robustification of Finite Impulse Response Filter for Nonlinear Systems with Model Uncertainties <b>IEEE Transactions on Instrumentation and Measurement</b></li>
+    <li>Rui Shu, Qingxian Jia, Yunhua Wu, He Liao, Chengxi Zhang. Robust Active Fault-Tolerant Configuration Control for Spacecraft Formation via Learning RBFNN Approaches<b> ASCE Journal of Aerospace Engineering</b></li>
+    <li>Xuan Liu, Hongmin Lu, Yifeng He, Fulin Wu, Chengxi Zhang, Xiaoliang Wang. Analysis on the Effect of Phase Noise on the Performance of Satellite Communication and Measurement System<b> Symmetry</b></li>
 </ol>
 
 
