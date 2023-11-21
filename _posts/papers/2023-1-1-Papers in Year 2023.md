@@ -27,6 +27,7 @@ comments: true
 	<li>Shunyi Zhao, Yingying Li, <b>Chengxi Zhang</b>, Xiaoli Luan, Fei Liu, Ruomu Tan. Robustification of Finite Impulse Response Filter for Nonlinear Systems with Model Uncertainties <b>IEEE Transactions on Instrumentation and Measurement</b></li>
     <li>Rui Shu, Qingxian Jia, Yunhua Wu, He Liao, <b>Chengxi Zhang</b>. Robust Active Fault-Tolerant Configuration Control for Spacecraft Formation via Learning RBFNN Approaches<b> ASCE Journal of Aerospace Engineering</b></li>
     <li>Xuan Liu, Hongmin Lu, Yifeng He, Fulin Wu, <b>Chengxi Zhang</b>, Xiaoliang Wang. Analysis on the Effect of Phase Noise on the Performance of Satellite Communication and Measurement System<b> Symmetry</b></li>
+    <li>Jihe Wang, Xing Guo, Zhijie Ma, Chengxi Zhang, Jinxiu Zhang. A low fuel-consumption drag-free tracking approach for space-based gravitational wave detection satellite<b> IEEE Transactions on Aerospace and Electronic Systems</b></li>
 </ol>
 
 
