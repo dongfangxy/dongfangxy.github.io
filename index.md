@@ -48,6 +48,7 @@ School of Internet of Things Engineering, Jiangnan University, Wuxi 214122, Chin
 
 ### Academic Services
 - Editorial Board, [Aerospace Systems](https://www.springer.com/journal/42401/editors) (Springer and Shanghai Jiao Tong University)
+- Editorial Board, Astrodynamics (Springer and Tsinghua University)
 - Editorial Board, [AI and Autonomous Systems](https://elspub.com/journals/artificial-intelligence-and-autonomous-systems/editorial_board/) (2023-present)
 - Editorial Board, [AppliedMath](https://www.mdpi.com/journal/appliedmath/editors) (2022-present) 
 - Editorial Board, [IoT (Internet of Things)](https://www.mdpi.com/journal/IoT/editors) (2022-present) 
