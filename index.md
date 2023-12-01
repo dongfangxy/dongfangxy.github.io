@@ -56,6 +56,8 @@ School of Internet of Things Engineering, Jiangnan University, Wuxi 214122, Chin
   -->
 - Session Chair, 2022 Jiangsu Annual Conference of Automation (JACA2022, Wuxi, 2022.11.19)
 - Invited Session Chair, 36th Chinese Control and Decision Conference (CCDC2024, Xi An 西安, Invited by Prof. Hanlin Dong)
+- 深圳市科技创新委员会评审专家
+
 
 ### Publications
 <ul>
