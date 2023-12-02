@@ -8,11 +8,6 @@ layout: sitepage
 [comment]: # (Insert my resume below)
 
 ### About Me
-<!--
-2019年上海交通大学控制学科博士学位，2012/2015年哈尔滨工业大学微电子学科本科、硕士学位。作为Guest Editor为[Symmetry](https://www.mdpi.com/journal/symmetry/special_issues/Recent_Progress_Robot_Control_Systems_Theory_Applications) (2021-今)、[Mathematics](https://www.mdpi.com/journal/mathematics/special_issues/09O2330789) (2022-今)组织专刊， 期刊 [AppliedMath](https://www.mdpi.com/journal/appliedmath/editors) 编委(2022-今)、[IoT (Internet of Things)](https://www.mdpi.com/journal/IoT/editors)编委(2022-今)。
-复制了师傅的主页，我还在修改中....[[My CV in PDF]]({{site.url}}/YuJiangCV.pdf) 
--->
-
 I was born in Qufu, China. I received the B.S. and M.S. degrees in electronic science and technology from the Harbin Institute of Technology (HIT, 哈尔滨工业大学), China, in 2012 and 2015, and the Ph.D. degree in control science and engineering from Shanghai Jiao Tong University (上海交通大学), China, in 2019. I worked at HIT (深圳市物联网终端关键技术重点实验室), China from 2020-2022 and received the [Outstanding Postdoctoral Awards of HIT Shenzhen](http://www.hitsz.edu.cn/article/view/id-118575.html). Since 2022, I have been an Associate Professor of [Jiangnan Univerisity, Wuxi China (江南大学, 中国无锡)](https://www.jiangnan.edu.cn/).
 
 
@@ -21,7 +16,7 @@ Robotics and control, intelligent planning, and applications.
 
 I have published over 90 Papers, including 2 ESI 1% Highly Cited Papers (See [Publications](https://dongfangxy.github.io/publications/)).
 
-I am Selected for Hangzhou Dinghu High-level Talent Program for Robotics(2023).
+I am Selected for Hangzhou Dinghu High-level Talent Program for Robotics (2023).
 
 I am listed in **[World’s Top 2% Scientists in 2022](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/6)**, by John P.A. Ioannidis, Stanford University and Elsevier (**[Rank 173th in mainland China in Aerospace](https://mp.weixin.qq.com/s/rkxaO_kFjHpIWuZNl1ezEw)**).
 
@@ -31,33 +26,43 @@ I am listed in **[World’s Top 2% Scientists in 2022](https://elsevier.digitalc
 
 入选杭州鼎湖高层次人才项目(2023年)
 
-入选**斯坦福大学-爱思唯尔全球前2%科学家名单**(2022年，**航空航天领域中国大陆地区173名**)
-
-### Contact
-- Follow me on:
-[Google Scholar](https://scholar.google.com/citations?user=oHzlz50AAAAJ&hl),
-[ResearchGate](https://www.researchgate.net/profile/Chengxi_Zhang5),
-[Orcid](https://orcid.org/0000-0002-3130-6497),
-[Official Page](http://iot.jiangnan.edu.cn/info/1060/5339.htm) 
-- Email: dongfangxy@163.com; cxzhang@jiangnan.edu.cn 
-- Key Laboratory of Advanced Control for Light Industry Processes, Ministry of Education, Jiangnan University; <br>
-School of Internet of Things Engineering, Jiangnan University, Wuxi 214122, China.
-- 轻工过程先进控制教育部重点实验室(感知与自主机器人组)
-
-
+入选斯坦福大学-爱思唯尔**全球前2%科学家名单**(2022年，**航空航天领域中国大陆地区173名**)
 
 ### Academic Services
-- Editorial Board, [Aerospace Systems](https://www.springer.com/journal/42401/editors) (Springer and Shanghai Jiao Tong University)
-- Editorial Board, Astrodynamics (Springer and Tsinghua University)
+- Editorial Board, [Aerospace Systems](https://www.springer.com/journal/42401/editors) (Shanghai Jiao Tong University)
+
+- Editorial Board, Astrodynamics (Tsinghua University)
+
 - Editorial Board, [AI and Autonomous Systems](https://elspub.com/journals/artificial-intelligence-and-autonomous-systems/editorial_board/) (2023-present)
+
 - Editorial Board, [AppliedMath](https://www.mdpi.com/journal/appliedmath/editors) (2022-present) 
+
 - Editorial Board, [IoT (Internet of Things)](https://www.mdpi.com/journal/IoT/editors) (2022-present) 
+
 - Associate Editor, [Frontiers in Aerospace Engineering](https://www.frontiersin.org/journals/aerospace-engineering/editors) (2022-present) 
-  <!--[Frontiers in Control Engineering](https://www.frontiersin.org/journals/control-engineering/sections/control-and-automation-systems/editors), Topic: Learning-type Control Strategy: Theory and Applications (2022-2023) 
-  -->
+  
 - Session Chair, 2022 Jiangsu Annual Conference of Automation (JACA2022, Wuxi, 2022.11.19)
+
 - Invited Session Chair, 36th Chinese Control and Decision Conference (CCDC2024, Xi An 西安, Invited by Prof. Hanlin Dong)
+
 - 深圳市科技创新委员会评审专家
+
+
+  ### Contact
+  - Follow me on:
+    [Google Scholar](https://scholar.google.com/citations?user=oHzlz50AAAAJ&hl),
+    [ResearchGate](https://www.researchgate.net/profile/Chengxi_Zhang5),
+    [ORCID](https://orcid.org/0000-0002-3130-6497), 
+    [Official Page](http://iot.jiangnan.edu.cn/info/1060/5339.htm) 
+
+  - Email: dongfangxy@163.com; cxzhang@jiangnan.edu.cn 
+
+  - Key Laboratory of Advanced Control for Light Industry Processes, Ministry of Education, Jiangnan University; <br>
+    School of Internet of Things Engineering, Jiangnan University, Wuxi 214122, China.
+
+  - 轻工过程先进控制教育部重点实验室(感知与自主机器人组)
+
+  
 
 
 ### Publications
