@@ -30,21 +30,13 @@ I am listed in **[World’s Top 2% Scientists in 2022](https://elsevier.digitalc
 
 ### Academic Services
 - Editorial Board, [Aerospace Systems](https://www.springer.com/journal/42401/editors) (Shanghai Jiao Tong University)
-
 - Editorial Board, Astrodynamics (Tsinghua University)
-
 - Editorial Board, [AI and Autonomous Systems](https://elspub.com/journals/artificial-intelligence-and-autonomous-systems/editorial_board/) (2023-present)
-
 - Editorial Board, [AppliedMath](https://www.mdpi.com/journal/appliedmath/editors) (2022-present) 
-
 - Editorial Board, [IoT (Internet of Things)](https://www.mdpi.com/journal/IoT/editors) (2022-present) 
-
 - Associate Editor, [Frontiers in Aerospace Engineering](https://www.frontiersin.org/journals/aerospace-engineering/editors) (2022-present) 
-  
 - Session Chair, 2022 Jiangsu Annual Conference of Automation (JACA2022, Wuxi, 2022.11.19)
-
 - Invited Session Chair, 36th Chinese Control and Decision Conference (CCDC2024, Xi An 西安, Invited by Prof. Hanlin Dong)
-
 - 深圳市科技创新委员会评审专家
 
 
@@ -54,12 +46,9 @@ I am listed in **[World’s Top 2% Scientists in 2022](https://elsevier.digitalc
     [ResearchGate](https://www.researchgate.net/profile/Chengxi_Zhang5),
     [ORCID](https://orcid.org/0000-0002-3130-6497), 
     [Official Page](http://iot.jiangnan.edu.cn/info/1060/5339.htm) 
-
   - Email: dongfangxy@163.com; cxzhang@jiangnan.edu.cn 
-
   - Key Laboratory of Advanced Control for Light Industry Processes, Ministry of Education, Jiangnan University; <br>
     School of Internet of Things Engineering, Jiangnan University, Wuxi 214122, China.
-
   - 轻工过程先进控制教育部重点实验室(感知与自主机器人组)
 
   
