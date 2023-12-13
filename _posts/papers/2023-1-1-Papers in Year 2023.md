@@ -28,6 +28,7 @@ comments: true
     <li>Rui Shu, Qingxian Jia, Yunhua Wu, He Liao, <b>Chengxi Zhang</b>. Robust Active Fault-Tolerant Configuration Control for Spacecraft Formation via Learning RBFNN Approaches<b> ASCE Journal of Aerospace Engineering</b></li>
     <li>Xuan Liu, Hongmin Lu, Yifeng He, Fulin Wu, <b>Chengxi Zhang</b>, Xiaoliang Wang. Analysis on the Effect of Phase Noise on the Performance of Satellite Communication and Measurement System<b> Symmetry</b></li>
     <li>Jihe Wang, Xing Guo, Zhijie Ma, Chengxi Zhang, Jinxiu Zhang. A low fuel-consumption drag-free tracking approach for space-based gravitational wave detection satellite<b> IEEE Transactions on Aerospace and Electronic Systems</b></li>
+<li>Qingxian Jia, Rui Shu, Choon Ki Ahn, Chengxi Zhang. Learning Neural Network-based Fault-Tolerant Formation Control for Elliptical Orbit Spacecraft <b>IEEE Transactions on Aerospace and Electronic Systems</b></li>
 </ol>
 
 
