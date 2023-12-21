@@ -9,8 +9,9 @@ tag: [Career]
 Related Research 
 
 
+Management of large-scale constellation systems
 
-<img src="{{site.url}}/images/posts/constellation.jpg" alt="" width="" height="" title="Management of large-scale constellation systems" align="" />
+<img src="{{site.url}}/images/posts/constellation.jpg" alt="" width="640" height="464" title="" align="" />
 
 
 
