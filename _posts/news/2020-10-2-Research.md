@@ -10,7 +10,7 @@ Related Research
 
 
 Management of large-scale constellation systems
-<img src="{{site.url}}/images/posts/constellation.JPG " alt="" width="640" height="320" title="" align="" />
+<img src="{{site.url}}/images/posts/constellation.jpg" alt="" width="640" height="320" title="" align="" />
 
 
 
