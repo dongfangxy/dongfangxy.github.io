@@ -30,14 +30,24 @@ I am listed in **[World’s Top 2% Scientists in 2022](https://elsevier.digitalc
 
 ### Academic Services
 - Editorial Board, [Aerospace Systems](https://www.springer.com/journal/42401/editors) (Shanghai Jiao Tong University)
+
 - Editorial Board, Astrodynamics (Tsinghua University)
+
 - Editorial Board, [AI and Autonomous Systems](https://elspub.com/journals/artificial-intelligence-and-autonomous-systems/editorial_board/) (2023-present)
+
 - Editorial Board, [AppliedMath](https://www.mdpi.com/journal/appliedmath/editors) (2022-present) 
+
 - Editorial Board, [IoT (Internet of Things)](https://www.mdpi.com/journal/IoT/editors) (2022-present) 
+
 - Associate Editor, [Frontiers in Aerospace Engineering](https://www.frontiersin.org/journals/aerospace-engineering/editors) (2022-present) 
+
 - Session Chair, 2022 Jiangsu Annual Conference of Automation (JACA2022, Wuxi, 2022.11.19)
+
 - Invited Session Chair, 36th Chinese Control and Decision Conference (CCDC2024, Xi An 西安, Invited by Prof. Hanlin Dong)
+
 - 深圳市科技创新委员会评审专家
+
+  
 
 
   ### Contact
