@@ -7,7 +7,7 @@ author: Chengxi Zhang
 comments: true
 ---
 <ol>
-	<li>... </li>
+	<li>Chengxi Zhang, Jin Wu, Chong Li. "Recent Progress in Robot Control Systems: Theory and Applications" <b>Symmetry</b> 2024, 16, no. 1: 43. https://doi.org/10.3390/sym16010043 </li>
 
 </ol>
 
