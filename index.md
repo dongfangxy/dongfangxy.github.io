@@ -12,7 +12,7 @@ I was born in Qufu, China. I received the B.S. and M.S. degrees in electronic sc
 
 
 ### Research Interests and Academic Information
-Robotics and control, intelligent planning, and applications. 
+Robotic systems, Space intelligent planning and control, and Smart city applications. 
 
 I have published over 90 Papers, including 2 ESI 1% Highly Cited Papers (See [Publications](https://dongfangxy.github.io/publications/)).
 
@@ -22,9 +22,10 @@ I am listed in **[World’s Top 2% Scientists in 2022](https://elsevier.digitalc
 
 
 
-发表学术论文90余篇、申请国防专利3项；主持国家自然科学基金1项，主持深圳市科技研发技术攻关重点项目子课题1项，主持中央高校基本科研计划基金1项，参与国家地球观测与导航重点研发计划、深圳科技计划基础研究学科布局项目等多项其他项目。
+发表学术论文90余篇、申请国防专利3项；主持国家自然科学基金1项，主持深圳市科技研发技术攻关重点项目子课题1项，主持中央高校基本科研计划基金1项，主持智慧市政水务系统横向项目等；参与国家地球观测与导航重点研发计划、深圳科技计划基础研究学科布局项目等多项其他项目。
 
-入选杭州鼎湖高层次人才项目(2023年)
+
+入选杭州\*高层次人才项目(2023年)
 
 入选斯坦福大学-爱思唯尔**全球前2%科学家名单**(2022年，**航空航天领域中国大陆地区173名**)
 
@@ -39,23 +40,18 @@ I am listed in **[World’s Top 2% Scientists in 2022](https://elsevier.digitalc
 - Invited Session Chair, 36th Chinese Control and Decision Conference (CCDC2024, Xi An 西安, Invited by Prof. Hanlin Dong)
 - 深圳市科技创新委员会评审专家
 
-  
 
-
-  ### Contact
-  - Follow me on:
+### Contact
+- Follow me on:
     [Google Scholar](https://scholar.google.com/citations?user=oHzlz50AAAAJ&hl),
     [ResearchGate](https://www.researchgate.net/profile/Chengxi_Zhang5),
     [ORCID](https://orcid.org/0000-0002-3130-6497), 
-    [Official Page](http://iot.jiangnan.edu.cn/info/1060/5339.htm),
+    [Official Page](https://iot.jiangnan.edu.cn/info/1099/3211.htm),
     [CSND](https://blog.csdn.net/Paolu2022/article/details/135201277) 
-    
-  - Email: dongfangxy@163.com; cxzhang@jiangnan.edu.cn 
-
-  - Key Laboratory of Advanced Control for Light Industry Processes, Ministry of Education, Jiangnan University; <br>
+- Email: dongfangxy@163.com; cxzhang@jiangnan.edu.cn 
+- Key Laboratory of Advanced Control for Light Industry Processes, Ministry of Education, Jiangnan University; <br>
     School of Internet of Things Engineering, Jiangnan University, Wuxi 214122, China.
-    
-  - 轻工过程先进控制教育部重点实验室(感知与自主机器人组)
+- 轻工过程先进控制教育部重点实验室(感知与自主机器人组)
 
   
 
