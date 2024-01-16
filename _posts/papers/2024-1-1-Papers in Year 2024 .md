@@ -8,7 +8,8 @@ comments: true
 ---
 <ol>
 	<li>Chengxi Zhang, Jin Wu, Chong Li. "Recent Progress in Robot Control Systems: Theory and Applications" <b>Symmetry</b> 2024, 16, no. 1: 43. https://doi.org/10.3390/sym16010043 </li>
-
+	<li>Zian Wang, Pengcheng Cai, Zheng Gong, Chengxi Zhang, Shunyi Zhao, Jin Wu, Peng Dong. Review on Guidance and Control of Aerospace Vehicles: Recent Progress and Prospect
+<b>Aerospace Systems</b></li>
 </ol>
 
 
