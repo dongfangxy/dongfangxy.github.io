@@ -10,6 +10,8 @@ comments: true
 	<li>Chengxi Zhang, Jin Wu, Chong Li. "Recent Progress in Robot Control Systems: Theory and Applications" <b>Symmetry</b> 2024, 16, no. 1: 43. https://doi.org/10.3390/sym16010043 </li>
 	<li>Zian Wang, Pengcheng Cai, Zheng Gong, Chengxi Zhang, Shunyi Zhao, Jin Wu, Peng Dong. Review on Guidance and Control of Aerospace Vehicles: Recent Progress and Prospect
 <b>Aerospace Systems</b></li>
+<li>Shunyi Zhao, Qingxin Lu, Chengxi Zhang, Choon Ki Ahn, Kunming Chen. Efficient Recognition of Word-wheel Water Meter Readings for Smart Urban Infrastructure
+<b>IEEE Internet of Things Journal</b></li>
 </ol>
 
 
