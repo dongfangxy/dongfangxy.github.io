@@ -13,6 +13,7 @@ comments: true
 	<li>Shunyi Zhao, Qingxin Lu, Chengxi Zhang, Choon Ki Ahn, Kunming Chen. Efficient Recognition of Word-wheel Water Meter Readings for Smart Urban Infrastructure
 <b>IEEE Internet of Things Journal</b></li>
     <li>Xiaoyu Tang, Xingming Chen, Jintao Cheng, Rui Fan, Jin Wu, Chengxi Zhang, Zebo Zhou. YOLO-Ant: A Lightweight Detector via Depthwise Separable Convolutional and Large Kernel Design for Antenna Interference Source Detection <b>IEEE Transactions on Instrumentation and Measurement</b>  </li>
+	<li>Jintao Cheng, Kang Zeng, Zhuoxu Huang, Xiaoyu Tang, Jin Wu, Chengxi Zhang, Xieyuanli Chen, Rui Fan.  MF-MOS: A Motion-Focused Model for Moving Object Segmentation <b>2024 IEEE International Conference on Robotics and Automation (ICRA)</b></li>
 </ol>
 
 
