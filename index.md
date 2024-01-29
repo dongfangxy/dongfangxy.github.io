@@ -12,7 +12,7 @@ I was born in Qufu, China. I received the B.S. and M.S. degrees in electronic sc
 
 
 ### Research Interests and Academic Information
-Space Engineering, Robotic systems, planning and control, and Smart city applications. 
+Space Engineering, Robotic systems, Planning and control, and Smart city applications. 
 
 I have published over 90 Papers, including 2 ESI 1% Highly Cited Papers (See [Publications](https://dongfangxy.github.io/publications/)).
 
