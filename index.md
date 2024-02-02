@@ -14,7 +14,7 @@ I was born in Qufu, China. I received the B.S. and M.S. degrees in electronic sc
 ### Research Interests and Academic Information
 Space Engineering, Robotic systems, Planning and control, and Smart city applications. 
 
-I have published over 90 Papers, including 2 ESI 1% Highly Cited Papers (See [Publications](https://dongfangxy.github.io/publications/)).
+I have published over 100 Papers, including 2 ESI 1% Highly Cited Papers (See [Publications](https://dongfangxy.github.io/publications/)).
 
 I am Selected for Hangzhou Dinghu High-level Talent Program for Robotics (2023).
 
@@ -22,7 +22,7 @@ I am listed in **[World’s Top 2% Scientists in 2022](https://elsevier.digitalc
 
 
 
-发表学术论文90余篇，申请专利、国防专利4项；主持国家自然科学基金1项，主持深圳市科技研发技术攻关重点项目子课题1项，主持中央高校基本科研计划基金1项，主持智慧市政水务系统横向项目等；参与国家地球观测与导航重点研发计划、深圳科技计划基础研究学科布局项目等多项其他项目。
+发表学术论文100余篇，申请专利、国防专利4项；主持国家自然科学基金1项，主持深圳市科技研发技术攻关重点项目子课题1项，主持中央高校基本科研计划基金1项，主持智慧市政水务系统横向项目等；参与国家地球观测与导航重点研发计划、深圳科技计划基础研究学科布局项目等多项其他项目。
 
 
 入选杭州\*高层次人才项目(2023年)
@@ -35,6 +35,7 @@ I am listed in **[World’s Top 2% Scientists in 2022](https://elsevier.digitalc
 - Editorial Board, [AI and Autonomous Systems](https://elspub.com/journals/artificial-intelligence-and-autonomous-systems/editorial_board/) (2023-present)
 - Editorial Board, [AppliedMath](https://www.mdpi.com/journal/appliedmath/editors) (2022-present) 
 - Editorial Board, [IoT (Internet of Things)](https://www.mdpi.com/journal/IoT/editors) (2022-present) 
+- Editorial Board, Complex Engineering Systems
 - Associate Editor, [Frontiers in Aerospace Engineering](https://www.frontiersin.org/journals/aerospace-engineering/editors) (2022-present) 
 - Session Chair, 2022 Jiangsu Annual Conference of Automation (JACA2022, Wuxi, 2022.11.19)
 - Invited Session Chair, 36th Chinese Control and Decision Conference (CCDC2024, Xi An 西安, Invited by Prof. Hanlin Dong)
