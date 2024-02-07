@@ -15,6 +15,7 @@ comments: true
     <li>Xiaoyu Tang, Xingming Chen, Jintao Cheng, Rui Fan, Jin Wu, Chengxi Zhang, Zebo Zhou. YOLO-Ant: A Lightweight Detector via Depthwise Separable Convolutional and Large Kernel Design for Antenna Interference Source Detection <b>IEEE Transactions on Instrumentation and Measurement</b>  </li>
 	<li>Jintao Cheng, Kang Zeng, Zhuoxu Huang, Xiaoyu Tang, Jin Wu, Chengxi Zhang, Xieyuanli Chen, Rui Fan.  MF-MOS: A Motion-Focused Model for Moving Object Segmentation <b>2024 IEEE International Conference on Robotics and Automation (ICRA)</b></li>
 	<li>Bohuan Xue, Xiaoyang Yan, Jin Wu, Jintao Cheng, Jianhao Jiao, Haoxuan Jiang, Rui Fan, Chengxi Zhang, Ming Liu. Visual-Marker Based Localization for Flat-Variation Scene.  <b>IEEE Transactions on Instrumentation and Measurement</b></li>
+	<li>Chunbiao Yang, Chengxi Zhang, Lining Tan, Guangwei Wang. Prescribed-Time Control with Time Transformation Method for Nanopositioning Stages <b>36th Chinese Control and Decision Conference (CCDC 2024)</b></li>
 </ol>
 
 
