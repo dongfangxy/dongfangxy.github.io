@@ -17,6 +17,7 @@ comments: true
 	<li>Bohuan Xue, Xiaoyang Yan, Jin Wu, Jintao Cheng, Jianhao Jiao, Haoxuan Jiang, Rui Fan, Chengxi Zhang, Ming Liu. Visual-Marker Based Localization for Flat-Variation Scene.  <b>IEEE Transactions on Instrumentation and Measurement</b></li>
 	<li>Chunbiao Yang, Chengxi Zhang, Lining Tan, Guangwei Wang. Prescribed-Time Control with Time Transformation Method for Nanopositioning Stages <b>36th Chinese Control and Decision Conference (CCDC 2024)</b></li>
 	<li>Qingxian Jia, Chengxi Zhang, Choon Ki Ahn, Jin Wu, Ming Liu Reconﬁgurable Fault-Tolerant Attitude Tracking for Spacecraft with Unknown Nonlinear Dynamics using Neural Network Estimators with Learning-Type Weight Updating <b>Nonlinear Dynamics</b></li>
+	<li>Qingxian Jia, Junnan Gao, Yunhua Wu, He Liao, Chengxi Zhang, Jin Wu. Dynamic Event-Triggered Orbit Coordination for Spacecraft Formation via A Self-Learning Sliding Mode Control Approach. <b>International Journal of Robust and Nonlinear Control</b></li>
 </ol>
 
 
