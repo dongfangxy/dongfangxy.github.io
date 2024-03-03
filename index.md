@@ -40,6 +40,7 @@ I am listed in **[World’s Top 2% Scientists in 2022](https://elsevier.digitalc
 - Session Chair, 2022 Jiangsu Annual Conference of Automation (JACA2022, Wuxi, 2022.11.19)
 - Invited Session Chair, 36th Chinese Control and Decision Conference (CCDC2024, Xi An 西安, Invited by Prof. Hanlin Dong)
 - Program Committee Member of FASTA2024, 3rd Conference on Fully Actuated System Theory and Applications, May 10-12, 2024, Shenzhen.
+- Technical Program Committee for IEEE GEM 2024 (2024 IEEE Gaming, Entertainment, and Media Conference (GEM))
 - 深圳市科技创新委员会评审专家
 
 
