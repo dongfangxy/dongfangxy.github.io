@@ -7,6 +7,7 @@ author: Chengxi Zhang
 comments: true
 ---
 <ol>
+	<li>王伟，赵顺毅，张承玺，栾小丽，刘飞，吴荩. t-分布的异步多速率系统迁移学习滤波算法.  <b>控制理论与应用</b> </li>
 	<li>Chengxi Zhang, Jin Wu, Chong Li. "Recent Progress in Robot Control Systems: Theory and Applications" <b>Symmetry</b> 2024, 16, no. 1: 43. https://doi.org/10.3390/sym16010043 </li>
 	<li>Zian Wang, Pengcheng Cai, Zheng Gong, Chengxi Zhang, Shunyi Zhao, Jin Wu, Peng Dong. Review on Guidance and Control of Aerospace Vehicles: Recent Progress and Prospect
 <b>Aerospace Systems</b></li>
@@ -18,7 +19,6 @@ comments: true
 	<li>Chunbiao Yang, Chengxi Zhang, Lining Tan, Guangwei Wang. Prescribed-Time Control with Time Transformation Method for Nanopositioning Stages <b>36th Chinese Control and Decision Conference (CCDC 2024)</b></li>
 	<li>Qingxian Jia, Chengxi Zhang, Choon Ki Ahn, Jin Wu, Ming Liu Reconﬁgurable Fault-Tolerant Attitude Tracking for Spacecraft with Unknown Nonlinear Dynamics using Neural Network Estimators with Learning-Type Weight Updating <b>Nonlinear Dynamics</b></li>
 	<li>Qingxian Jia, Junnan Gao, Yunhua Wu, He Liao, Chengxi Zhang, Jin Wu. Dynamic Event-Triggered Orbit Coordination for Spacecraft Formation via A Self-Learning Sliding Mode Control Approach. <b>International Journal of Robust and Nonlinear Control</b></li>
-	<li>王伟， 赵顺毅， 张承玺， 栾小丽， 刘飞， 吴荩. t-分布的异步多速率系统迁移学习滤波算法.  <b>控制理论与应用</b> </li>
 </ol>
 
 
