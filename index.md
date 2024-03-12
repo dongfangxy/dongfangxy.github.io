@@ -16,7 +16,7 @@ Space Engineering, Robotic systems, Planning and control, and Smart city applica
 
 I have published over 100 Papers, including 2 ESI 1% Highly Cited Papers (See [Publications](https://dongfangxy.github.io/publications/)).
 
-I am Selected for Hangzhou Dinghu High-level Talent Program for Robotics (2023).
+My work has received over 1000 citations since 2018, summarized by Google Scholar.
 
 I am listed in **[World’s Top 2% Scientists in 2022](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/6)**, by John P.A. Ioannidis, Stanford University and Elsevier (**[Rank 173th in mainland China in Aerospace](https://mp.weixin.qq.com/s/rkxaO_kFjHpIWuZNl1ezEw)**).
 
