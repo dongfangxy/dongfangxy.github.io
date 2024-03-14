@@ -8,7 +8,7 @@ layout: sitepage
 [comment]: # (Insert my resume below)
 
 ### About Me
-I was born in Qufu, China. I received the B.S. and M.S. degrees in electronic science and technology from the Harbin Institute of Technology (HIT, 哈尔滨工业大学), China, in 2012 and 2015, and the Ph.D. degree in control science and engineering from Shanghai Jiao Tong University (上海交通大学), China, in 2019. I worked at HIT (深圳市物联网终端关键技术重点实验室), China from 2020-2022 and received the [Outstanding Postdoctoral Awards of HIT Shenzhen](http://www.hitsz.edu.cn/article/view/id-118575.html). Since 2022, I have been an Associate Professor of [Jiangnan Univerisity, Wuxi China (江南大学, 中国无锡)](https://www.jiangnan.edu.cn/).
+I was born in Qufu, China. I received the B.S. and M.S. degrees in electronic science and technology from the Harbin Institute of Technology (HIT, 哈尔滨工业大学), China, in 2012 and 2015, and the Ph.D. degree in control science and engineering from Shanghai Jiao Tong University (上海交通大学), China, in 2019. I worked at HIT (深圳市物联网终端关键技术重点实验室), China from 2020-2022 and received the [Outstanding Postdoc Awards of HIT Shenzhen](http://www.hitsz.edu.cn/article/view/id-118575.html). Since 2022, I have been an Associate Professor of [Jiangnan Univerisity, Wuxi China (江南大学, 中国无锡)](https://www.jiangnan.edu.cn/).
 
 
 ### Research Interests and Academic Information
@@ -20,7 +20,7 @@ My work has received over 1000 citations since 2018, summarized by Google Schola
 
 I am listed in **[World’s Top 2% Scientists in 2022](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/6)**, by John P.A. Ioannidis, Stanford University and Elsevier (**[Rank 173th in mainland China in Aerospace](https://mp.weixin.qq.com/s/rkxaO_kFjHpIWuZNl1ezEw)**).
 
-
+I work with [Dr. Jin Wu 吴荩](https://zarathustr.github.io/) (香港科技大学HKUST)  [Prof. Chong Li 李崇](https://coe.ouc.edu.cn/2019/0819/c9094a256005/page.htm) (中国海洋大学OUC), and [Dr. Yi Jiang 姜艺](https://yijiang1992.github.io/) (东北大学) since 2018.
 
 发表学术论文100余篇，申请专利、国防专利4项；主持国家自然科学基金1项，主持深圳市科技研发技术攻关重点项目子课题1项，主持中央高校基本科研计划基金1项，主持智慧市政水务系统横向项目等；参与国家地球观测与导航重点研发计划、深圳科技计划基础研究学科布局项目等多项其他项目。
 
@@ -74,9 +74,7 @@ I am listed in **[World’s Top 2% Scientists in 2022](https://elsevier.digitalc
 {% endfor %}
 </ul>
 
-<!--
-Recently, I work closely with [Dr. Jin Wu (吴荩)](https://zarathustr.github.io/) from the Hong Kong University of Science and Technology (HKUST), Hong Kong, China.
--->
+
 
 
 
