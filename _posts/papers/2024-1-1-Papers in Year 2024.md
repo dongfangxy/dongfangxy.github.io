@@ -21,6 +21,7 @@ comments: true
 	<li>Qingxian Jia, Junnan Gao, Yunhua Wu, He Liao, Chengxi Zhang, Jin Wu. Dynamic Event-Triggered Orbit Coordination for Spacecraft Formation via A Self-Learning Sliding Mode Control Approach. <b>International Journal of Robust and Nonlinear Control</b></li>
     <li>Yanting Zhu, Shunyi Zhao, Yuxuan Zhang, Chengxi Zhang, Jin Wu, A Review of Statistical-based Fault Detection and Diagnosis with Probabilistic Models, <b>Symmetry</b></li>
 <li>Yiming Zhang, Jiaolong Wang, Chengxi Zhang, Shunyi Zhao, Jin Wu, Lining Tan. An Optimization SLAM Suitable for Noisy Environment Based on Boundary Expansion <b>3rd Conference on Fully Actuated System Theory and Applications (FASTA2024)</b></li>
+<li>Qingxian Jia, Genghuan Li, Dan Yu, Choon Ki Ahn, Chengxi Zhang. Learning Chebyshev Neural Network-based Spacecraft Attitude Tracking Control Ensuring Finite-time Prescribed Performance. <b>Aerospace Science and Technology</b> </li>
 </ol>
 
 
