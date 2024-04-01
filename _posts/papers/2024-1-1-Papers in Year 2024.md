@@ -22,6 +22,7 @@ comments: true
     <li>Yanting Zhu, Shunyi Zhao, Yuxuan Zhang, Chengxi Zhang, Jin Wu, A Review of Statistical-based Fault Detection and Diagnosis with Probabilistic Models, <b>Symmetry</b></li>
 <li>Yiming Zhang, Jiaolong Wang, Chengxi Zhang, Shunyi Zhao, Jin Wu, Lining Tan. An Optimization SLAM Suitable for Noisy Environment Based on Boundary Expansion <b>3rd Conference on Fully Actuated System Theory and Applications (FASTA2024)</b></li>
 <li>Qingxian Jia, Genghuan Li, Dan Yu, Choon Ki Ahn, Chengxi Zhang. Learning Chebyshev Neural Network-based Spacecraft Attitude Tracking Control Ensuring Finite-time Prescribed Performance. <b>Aerospace Science and Technology</b> </li>
+    <li>Chao Chen, Fuxin Du, Bin Chen, Detong Chen, Weikai He, Qiang Chen, Chengxi Zhang, Jin Wu, Jihe Wang. Practical Prescribed Tracking Control of n-DOF Robotic Manipulator with Uncertainties via Friction Compensation Approach <b>Symmetry</b></li>
 </ol>
 
 
