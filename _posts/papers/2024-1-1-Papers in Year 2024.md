@@ -23,7 +23,7 @@ comments: true
 <li>Yiming Zhang, Jiaolong Wang, Chengxi Zhang, Shunyi Zhao, Jin Wu, Lining Tan. An Optimization SLAM Suitable for Noisy Environment Based on Boundary Expansion <b>3rd Conference on Fully Actuated System Theory and Applications (FASTA2024)</b></li>
 <li>Qingxian Jia, Genghuan Li, Dan Yu, Choon Ki Ahn, Chengxi Zhang. Learning Chebyshev Neural Network-based Spacecraft Attitude Tracking Control Ensuring Finite-time Prescribed Performance. <b>Aerospace Science and Technology</b> </li>
     <li>Chao Chen, Fuxin Du, Bin Chen, Detong Chen, Weikai He, Qiang Chen, Chengxi Zhang, Jin Wu, Jihe Wang. Practical Prescribed Tracking Control of n-DOF Robotic Manipulator with Uncertainties via Friction Compensation Approach <b>Symmetry</b></li>
-	<li>Senmao Li, Chengxi Zhang, Jiaolong Wang, Jin Wu, Lining Tan, Peng Dong. Anchored to Features: An Image-Feature-Aware Planner for Stable Visual Localization. <b>Aerospace Systems</b></li>
+	<li>Senmao Li, Chengxi Zhang, Jiaolong Wang, Jin Wu, Lining Tan, Peng Dong. Anchored to Features: An Image-Feature-Aware Planner for Stable Visual Localization. <b>Aerospace Systems</b> (High-quality article recommended by EIC)</li>
 </ol>
 
 
