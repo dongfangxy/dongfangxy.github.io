@@ -16,13 +16,13 @@ I have published over 100 papers, including 2 ESI 1% Highly Cited Papers (See [P
 
 I am listed in **[World’s Top 2% Scientists in 2022](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/6)**, by Stanford University and Elsevier in 2023 (**[Rank 173th in mainland China in Aerospace](https://mp.weixin.qq.com/s/rkxaO_kFjHpIWuZNl1ezEw)**).
 
-发表学术论文100余篇，申请专利、国防专利4项；主持国家自然科学基金1项，主持深圳市科技研发技术攻关重点项目子课题1项，主持中央高校基本科研计划基金1项，主持智慧市政水务系统横向项目等；参与国家巨星星座重点研发计划、深圳科技计划基础研究学科布局项目等多项其他项目。
+发表学术论文100余篇，申请专利、国防专利4项；主持国家自然科学基金1项，主持深圳市科技研发技术攻关重点项目子课题1项，主持中央高校基本科研计划基金1项，主持多项横向项目；参与巨星星座重点研发计划、深圳科技计划基础研究学科布局项目等多项其他项目。
 
 入选斯坦福大学-爱思唯尔**全球前2%科学家名单**(2023年公布)
 
-入选杭州\*\*人才项目(2023年)
+入选杭州区人才项目(2023年)
 
-入选江苏\*\*人才项目(2024年)
+入选江苏省人才项目(2024年)
 
 ### Academic Services
 - Editorial Board, [Aerospace Systems](https://www.springer.com/journal/42401/editors) (Shanghai Jiao Tong University)
