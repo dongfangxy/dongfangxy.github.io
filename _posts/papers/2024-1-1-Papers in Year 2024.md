@@ -25,6 +25,7 @@ comments: true
     <li>Chao Chen, Fuxin Du, Bin Chen, Detong Chen, Weikai He, Qiang Chen, Chengxi Zhang, Jin Wu, Jihe Wang. Practical Prescribed Tracking Control of n-DOF Robotic Manipulator with Uncertainties via Friction Compensation Approach <b>Symmetry</b></li>
 	<li>Senmao Li, Chengxi Zhang, Jiaolong Wang, Jin Wu, Lining Tan, Peng Dong. Anchored to Features: An Image-Feature-Aware Planner for Stable Visual Localization. <b>Aerospace Systems</b> (High-quality article recommended by EIC)</li>
     <li>Jiaolong Wang, Chengxi Zhang, Shunyi Zhao, Jin Wu, Ming Liu. Log-Euclidean Metric based Covariance Propagation on SPD Manifold for Continuous-Discrete Extended Kalman Filtering. <b>ISA Transactions</b></li>
+    <li>Ziyan Ding, Haijun Tang, Haiying Wan, Chengxi Zhang, Ran Sun. A modular robotic arm configuration design method based on double DQN with prioritized experience replay. <b>Symmetry</b></li>
 </ol>
 
 
