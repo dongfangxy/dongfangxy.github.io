@@ -10,8 +10,9 @@ layout: sitepage
 ### About Me
 I was born in Qufu, China. I received the B.S. and M.S. degrees in electronic science and technology from the Harbin Institute of Technology (HIT, 哈尔滨工业大学), China, in 2012 and 2015, and the Ph.D. degree in control science and engineering from Shanghai Jiao Tong University (上海交通大学), China, in 2019. I worked at HIT (深圳市物联网终端关键技术重点实验室), China from 2020-2022 and received the Outstanding Postdoc Awards of HIT Shenzhen. Since 2022, I have been an Associate Professor of Jiangnan Univerisity, Wuxi China (江南大学, 轻工过程先进控制教育部重点实验室, 中国无锡).
 
-**My research interests**: Space engineering, Robotic systems, Planning and control, and Smart city applications. 
+**My research interests**: Space engineering, Robotic systems, and Smart IoT applications. 
 
+<<<<<<< HEAD
 I have published over 100 papers, including 2 ESI 1% Highly Cited Papers (See [Publications](https://dongfangxy.github.io/publications/)), and received over 1000 citations since 2018, summarized by Google Scholar. I work with [Dr. Jin Wu 吴荩](https://zarathustr.github.io/) (香港科技大学HKUST)  [Prof. Chong Li 李崇](https://coe.ouc.edu.cn/2019/0819/c9094a256005/page.htm) (中国海洋大学OUC), and [Prof. Yi Jiang 姜艺](https://yijiang1992.github.io/) (东北大学) since 2018.
 
 I am listed in **[World’s Top 2% Scientists in 2022](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/6)**, by Stanford University and Elsevier in 2023 (**[Rank 173th in mainland China in Aerospace](https://mp.weixin.qq.com/s/rkxaO_kFjHpIWuZNl1ezEw)**).
@@ -21,6 +22,19 @@ I am listed in **[World’s Top 2% Scientists in 2022](https://elsevier.digitalc
 入选斯坦福大学-爱思唯尔**全球前2%科学家名单**(2023年公布)
 
 入选杭州市\*人才项目(2023年)
+=======
+I have published over 100 papers, including 2 ESI 1% Highly Cited Papers (See [Publications](https://dongfangxy.github.io/publications/)), and received over 1000 citations since 2018, summarized by Google Scholar. 
+
+I work with [Dr. Jin Wu 吴荩](https://zarathustr.github.io/) (香港科技大学HKUST)  [Prof. Chong Li 李崇](https://coe.ouc.edu.cn/2019/0819/c9094a256005/page.htm) (中国海洋大学OUC), and [Dr. Yi Jiang 姜艺](https://yijiang1992.github.io/) (东北大学) since 2018.
+
+I am listed in **[World’s Top 2% Scientists in 2022](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/6)**, by Stanford University and Elsevier in 2023 (**[Rank 173th in mainland China in Aerospace](https://mp.weixin.qq.com/s/rkxaO_kFjHpIWuZNl1ezEw)**).
+
+发表学术论文100余篇，申请专利、国防专利4项；主持国家自然科学基金1项，主持深圳市科技研发技术攻关重点项目子课题1项，主持中央高校基本科研计划基金1项，主持多项横向项目；参与巨星星座重点研发计划、深圳科技计划基础研究学科布局项目等多项其他项目。
+
+入选斯坦福大学-爱思唯尔**全球前2%科学家名单**(2023年公布)
+
+入选杭州区人才项目(2023年)
+>>>>>>> 934f1bb43aadbeec679db2f545b393f6c25e9c1e
 
 入选江苏省人才项目(2024年)
 
