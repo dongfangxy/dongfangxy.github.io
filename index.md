@@ -38,6 +38,7 @@ I am listed in **[World’s Top 2% Scientists in 2022](https://elsevier.digitalc
 - Invited Session Chair, 36th Chinese Control and Decision Conference (CCDC2024, Xi An, Invited by Prof. Hanlin Dong)
 - Program Committee Member of FASTA2024, 3rd Conference on Fully Actuated System Theory and Applications, 2024, Shenzhen.
 - Technical Program Committee for IEEE GEM 2024 (2024 IEEE Gaming, Entertainment, and Media Conference (GEM))
+- TPC member (TPC) for ICCC'24 (2024 IEEE/CIC International Conference on Communications in China (ICCC))
 - 深圳市科技创新委员会评审专家
 
 
