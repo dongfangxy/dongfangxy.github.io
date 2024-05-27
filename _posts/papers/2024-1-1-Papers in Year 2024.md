@@ -27,6 +27,7 @@ comments: true
 	<li>Senmao Li, Chengxi Zhang, Jiaolong Wang, Jin Wu, Lining Tan, Peng Dong. Anchored to Features: An Image-Feature-Aware Planner for Stable Visual Localization. <b>Aerospace Systems</b> (High-quality article recommended by EIC)</li>
     <li>Jiaolong Wang, Chengxi Zhang, Shunyi Zhao, Jin Wu, Ming Liu. Log-Euclidean Metric based Covariance Propagation on SPD Manifold for Continuous-Discrete Extended Kalman Filtering. <b>ISA Transactions</b></li>
     <li>Ziyan Ding, Haijun Tang, Haiying Wan, Chengxi Zhang, Ran Sun. A modular robotic arm configuration design method based on double DQN with prioritized experience replay. <b>Symmetry</b></li>
+<li>Peng liu, Nianyi Sun, Haiying Wan, Chengxi Zhang, Jin Zhao, Guangwei Wang. Improved Adaptive Snake Optimization Algorithm with Application to Multi-UAV Path Planning. <b>Transactions of the Institute of Measurement and Control</b></li>
 </ol>
 
 
