@@ -7,7 +7,8 @@ author: Chengxi Zhang
 comments: true
 ---
 <ol>
-	<li>王伟，赵顺毅，张承玺，栾小丽，刘飞，吴荩. t-分布的异步多速率系统迁移学习滤波算法.  <b>控制理论与应用</b> </li>
+    <li>Jin Wu, Chaoqun Wang, Chong Li, Yi Jiang, Chengxi Zhang, Yulong Huang, Yuhua Qi, Bohuan Xue, Jianhao Jiao, Rui Fan, Wei Zhang. On Similarity Transformation Problems: Globally Optimal Results and Applications <b>IEEE Transactions on Instrumentation and Measurement</b></li>
+    <li>王伟，赵顺毅，张承玺，栾小丽，刘飞，吴荩. t-分布的异步多速率系统迁移学习滤波算法.  <b>控制理论与应用</b> </li>
     <li>Jihe Wang, Yuanyi Ren, Qiaoling Zeng, Chengxi Zhang, Jinxiu Zhang. Relative E/I Vector-Based Optimal and Suboptimal Control for Continuous Low Thrust Formation Reconfiguration in Circular Orbits. <b>Aerospace Science and Technology</b></li>
 	<li>Chengxi Zhang, Jin Wu, Chong Li. "Recent Progress in Robot Control Systems: Theory and Applications" <b>Symmetry</b> 2024, 16, no. 1: 43. https://doi.org/10.3390/sym16010043 </li>
 	<li>Zian Wang, Pengcheng Cai, Zheng Gong, Chengxi Zhang, Shunyi Zhao, Jin Wu, Peng Dong. Review on Guidance and Control of Aerospace Vehicles: Recent Progress and Prospect
