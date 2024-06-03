@@ -6,6 +6,11 @@ layout: news
 comments: true
 tag: [Career]
 ---
+
+New book of special issue
+
+<img src="{{site.url}}/images/posts/MDPIBook1.jpg" alt="" width="640" height="464" title="" align="" />
+
 Related Research 
 
 
