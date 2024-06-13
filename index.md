@@ -14,7 +14,7 @@ I was born in Qufu, China. I received the B.S. and M.S. degrees in electronic sc
 
 I have published over 100 papers, including 2 ESI 1% Highly Cited Papers (See [Publications](https://dongfangxy.github.io/publications/)), and received over 1000 citations since 2018, summarized by Google Scholar. 
 
-I work with [Dr. Jin Wu 吴荩](https://zarathustr.github.io/) (香港科技大学HKUST)  [Prof. Chong Li 李崇](https://coe.ouc.edu.cn/2019/0819/c9094a256005/page.htm) (中国海洋大学OUC), and [Prof. Yi Jiang 姜艺](https://yijiang1992.github.io/) (东北大学) since 2018.
+I work with [Prof. Jin Wu 吴荩](https://zarathustr.github.io/) (香港科技大学HKUST)  [Prof. Chong Li 李崇](https://coe.ouc.edu.cn/2019/0819/c9094a256005/page.htm) (中国海洋大学OUC), and [Prof. Yi Jiang 姜艺](https://yijiang1992.github.io/) (东北大学) since 2018.
 
 I am listed in **[World’s Top 2% Scientists in 2022](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/6)**, by Stanford University and Elsevier in 2023 (**[Rank 173th in mainland China in Aerospace](https://mp.weixin.qq.com/s/rkxaO_kFjHpIWuZNl1ezEw)**).
 
@@ -22,9 +22,19 @@ I am listed in **[World’s Top 2% Scientists in 2022](https://elsevier.digitalc
 
 入选斯坦福大学-爱思唯尔**全球前2%科学家名单**(2023年公布)
 
-入选杭州区人才项目(2023年)
-
 入选江苏省人才项目(2024年)
+
+### Contact
+- Follow me on:
+    [Google Scholar](https://scholar.google.com/citations?user=oHzlz50AAAAJ&hl),
+    [ResearchGate](https://www.researchgate.net/profile/Chengxi_Zhang5),
+    [ORCID](https://orcid.org/0000-0002-3130-6497), 
+    [Official Page](https://iot.jiangnan.edu.cn/info/1142/3595.htm),
+    [CSND](https://blog.csdn.net/Paolu2022/article/details/135201277) 
+- Email: dongfangxy@163.com; cxzhang@jiangnan.edu.cn 
+- Key Laboratory of Advanced Control for Light Industry Processes, Ministry of Education, Jiangnan University; <br>
+    School of Internet of Things Engineering, Jiangnan University, Wuxi 214122, China.
+- (感知与自主机器人组)
 
 ### Academic Services
 - Editorial Board, [Aerospace Systems](https://www.springer.com/journal/42401/editors) (Shanghai Jiao Tong University)
@@ -40,19 +50,6 @@ I am listed in **[World’s Top 2% Scientists in 2022](https://elsevier.digitalc
 - Technical Program Committee for IEEE GEM 2024 (2024 IEEE Gaming, Entertainment, and Media Conference (GEM))
 - TPC member (TPC) for ICCC'24 (2024 IEEE/CIC International Conference on Communications in China (ICCC))
 - 深圳市科技创新委员会评审专家
-
-
-### Contact
-- Follow me on:
-    [Google Scholar](https://scholar.google.com/citations?user=oHzlz50AAAAJ&hl),
-    [ResearchGate](https://www.researchgate.net/profile/Chengxi_Zhang5),
-    [ORCID](https://orcid.org/0000-0002-3130-6497), 
-    [Official Page](https://iot.jiangnan.edu.cn/info/1142/3595.htm),
-    [CSND](https://blog.csdn.net/Paolu2022/article/details/135201277) 
-- Email: dongfangxy@163.com; cxzhang@jiangnan.edu.cn 
-- Key Laboratory of Advanced Control for Light Industry Processes, Ministry of Education, Jiangnan University; <br>
-    School of Internet of Things Engineering, Jiangnan University, Wuxi 214122, China.
-- 轻工过程先进控制教育部重点实验室(感知与自主机器人组)
 
 
 ### Honoured students
