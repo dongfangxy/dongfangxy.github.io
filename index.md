@@ -54,7 +54,9 @@ I am listed in **[World’s Top 2% Scientists in 2022](https://elsevier.digitalc
     School of Internet of Things Engineering, Jiangnan University, Wuxi 214122, China.
 - 轻工过程先进控制教育部重点实验室(感知与自主机器人组)
 
-  
+
+### Honoured students
+- 2024 沈天奥(院优毕设论文)、栗森茂(校优毕设论文)  
 
 
 ### Publications
