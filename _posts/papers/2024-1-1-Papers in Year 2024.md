@@ -29,6 +29,7 @@ comments: true
     <li>Jiaolong Wang, Chengxi Zhang, Shunyi Zhao, Jin Wu, Ming Liu. Log-Euclidean Metric based Covariance Propagation on SPD Manifold for Continuous-Discrete Extended Kalman Filtering. <b>ISA Transactions</b></li>
     <li>Ziyan Ding, Haijun Tang, Haiying Wan, Chengxi Zhang, Ran Sun. A modular robotic arm configuration design method based on double DQN with prioritized experience replay. <b>Symmetry</b></li>
 <li>Peng liu, Nianyi Sun, Haiying Wan, Chengxi Zhang, Jin Zhao, Guangwei Wang. Improved Adaptive Snake Optimization Algorithm with Application to Multi-UAV Path Planning. <b>Transactions of the Institute of Measurement and Control</b></li>
+<li>Mingzhen Gui, Ming-Zhe Dai, Chengxi Zhang, Xing Zhang, Jin Wu. Prescribed Performance Spacecraft Attitude Control With Multiple Convergence Rates <b>Symmetry</b>s</li>
 </ol>
 
 
