@@ -8,6 +8,7 @@ comments: true
 ---
 <ol>
     <li>Jin Wu, Chaoqun Wang, Chong Li, Yi Jiang, Chengxi Zhang, Yulong Huang, Yuhua Qi, Bohuan Xue, Jianhao Jiao, Rui Fan, Wei Zhang. On Similarity Transformation Problems: Globally Optimal Results and Applications <b>IEEE Transactions on Instrumentation and Measurement</b></li>
+	<li>Weijia Lu, Chengxi Zhang, Fei Liu, Jin Wu, Jihe Wang, Lining Tan Self-Learning for Translational Control of Elliptical Orbit Spacecraft Formations <b>Aircraft Engineering and Aerospace Technology</b></li>
     <li>王伟，赵顺毅，张承玺，栾小丽，刘飞，吴荩. t-分布的异步多速率系统迁移学习滤波算法.  <b>控制理论与应用</b> </li>
     <li>Jihe Wang, Yuanyi Ren, Qiaoling Zeng, Chengxi Zhang, Jinxiu Zhang. Relative E/I Vector-Based Optimal and Suboptimal Control for Continuous Low Thrust Formation Reconfiguration in Circular Orbits. <b>Aerospace Science and Technology</b></li>
 	<li>Chengxi Zhang, Jin Wu, Chong Li. "Recent Progress in Robot Control Systems: Theory and Applications" <b>Symmetry</b> 2024, 16, no. 1: 43. https://doi.org/10.3390/sym16010043 </li>
