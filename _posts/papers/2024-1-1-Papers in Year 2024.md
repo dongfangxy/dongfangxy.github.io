@@ -8,6 +8,7 @@ comments: true
 ---
 <ol>
     <li>Jin Wu, Chaoqun Wang, Chong Li, Yi Jiang, Chengxi Zhang, Yulong Huang, Yuhua Qi, Bohuan Xue, Jianhao Jiao, Rui Fan, Wei Zhang. On Similarity Transformation Problems: Globally Optimal Results and Applications <b>IEEE Transactions on Instrumentation and Measurement</b></li>
+	<li>Weijia Lu, Chengxi Zhang, Fei Liu, Jin Wu, Jihe Wang, Lining Tan Self-Learning for Translational Control of Elliptical Orbit Spacecraft Formations <b>Aircraft Engineering and Aerospace Technology</b></li>
     <li>王伟，赵顺毅，张承玺，栾小丽，刘飞，吴荩. t-分布的异步多速率系统迁移学习滤波算法.  <b>控制理论与应用</b> </li>
     <li>Jihe Wang, Yuanyi Ren, Qiaoling Zeng, Chengxi Zhang, Jinxiu Zhang. Relative E/I Vector-Based Optimal and Suboptimal Control for Continuous Low Thrust Formation Reconfiguration in Circular Orbits. <b>Aerospace Science and Technology</b></li>
 	<li>Chengxi Zhang, Jin Wu, Chong Li. "Recent Progress in Robot Control Systems: Theory and Applications" <b>Symmetry</b> 2024, 16, no. 1: 43. https://doi.org/10.3390/sym16010043 </li>
@@ -29,6 +30,7 @@ comments: true
     <li>Jiaolong Wang, Chengxi Zhang, Shunyi Zhao, Jin Wu, Ming Liu. Log-Euclidean Metric based Covariance Propagation on SPD Manifold for Continuous-Discrete Extended Kalman Filtering. <b>ISA Transactions</b></li>
     <li>Ziyan Ding, Haijun Tang, Haiying Wan, Chengxi Zhang, Ran Sun. A modular robotic arm configuration design method based on double DQN with prioritized experience replay. <b>Symmetry</b></li>
 <li>Peng liu, Nianyi Sun, Haiying Wan, Chengxi Zhang, Jin Zhao, Guangwei Wang. Improved Adaptive Snake Optimization Algorithm with Application to Multi-UAV Path Planning. <b>Transactions of the Institute of Measurement and Control</b></li>
+<li>Mingzhen Gui, Ming-Zhe Dai, Chengxi Zhang, Xing Zhang, Jin Wu. Prescribed Performance Spacecraft Attitude Control With Multiple Convergence Rates <b>Symmetry</b></li>
 </ol>
 
 
