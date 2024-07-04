@@ -18,7 +18,7 @@ I work with [Dr. Jin Wu 吴荩](https://zarathustr.github.io/) (香港科技大�
 
 I am listed in **[World’s Top 2% Scientists in 2022](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/6)**, by Stanford University and Elsevier in 2023 (**[Rank 173th in mainland China in Aerospace](https://mp.weixin.qq.com/s/rkxaO_kFjHpIWuZNl1ezEw)**).
 
-发表学术论文100余篇，申请专利、国防专利4项；主持国家自然科学基金1项，主持深圳市科技研发技术攻关重点项目子课题1项，主持中央高校基本科研计划基金1项，主持多项横向项目；参与巨星星座重点研发计划(自主导航与轨道控制技术)、深圳科技计划基础研究学科布局项目等多项其他项目。
+发表学术论文100余篇，申请专利、国防专利4项，主编专著1本；主持国家自然科学基金1项，主持深圳市科技研发技术攻关重点项目子课题1项，主持中央高校基本科研计划基金1项，主持多项横向项目；参与巨星星座重点研发计划(自主导航与轨道控制技术)、深圳科技计划基础研究学科布局项目等多项其他项目。
 
 入选斯坦福大学-爱思唯尔**全球前2%科学家名单**(2023年公布)
 
