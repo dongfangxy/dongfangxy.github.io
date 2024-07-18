@@ -7,6 +7,8 @@ author: Chengxi Zhang
 comments: true
 ---
 <ol>
+     <li>Bing Huang, Hua Peng, Chengxi Zhang, Choon Ki Ahn. Distributed Optimal Coordinated Control for Unmanned Surface Vehicles with Interleaved Periodic Event-based Mechanism <b>IEEE Transactions on Vehicular Technology
+</b></li>	
     <li>Jin Wu, Chaoqun Wang, Chong Li, Yi Jiang, Chengxi Zhang, Yulong Huang, Yuhua Qi, Bohuan Xue, Jianhao Jiao, Rui Fan, Wei Zhang. On Similarity Transformation Problems: Globally Optimal Results and Applications <b>IEEE Transactions on Instrumentation and Measurement</b></li>
 	<li>Weijia Lu, Chengxi Zhang, Fei Liu, Jin Wu, Jihe Wang, Lining Tan Self-Learning for Translational Control of Elliptical Orbit Spacecraft Formations <b>Aircraft Engineering and Aerospace Technology</b></li>
     <li>王伟，赵顺毅，张承玺，栾小丽，刘飞，吴荩. t-分布的异步多速率系统迁移学习滤波算法.  <b>控制理论与应用</b> </li>
