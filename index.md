@@ -2,49 +2,8 @@
 layout: sitepage
 ---
 
-<style>
-    body {
-        font-family: 'Arial', sans-serif;
-        line-height: 1.6;
-        color: #333;
-        max-width: 800px;
-        margin: 20px auto;
-        padding: 20px;
-        box-shadow: 0 0 10px rgba(0,0,0,0.1);
-    }
-    h2, h3 {
-        color: #2A6496;
-    }
-    a {
-        color: #d35400;
-        text-decoration: none;
-    }
-    a:hover {
-        text-decoration: underline;
-    }
-    ul {
-        padding-left: 20px;
-    }
-    li {
-        margin-bottom: 10px;
-    }
-    .profile-pic {
-        width: 150px;
-        height: 150px;
-        border-radius: 75px;
-        overflow: hidden;
-        margin: 10px 0;
-    }
-    .profile-pic img {
-        width: 100%;
-    }
-    .contact-info {
-        background-color: #f9f9f9;
-        border-left: 5px solid #2A6496;
-        padding: 10px 20px;
-        margin: 20px 0;
-    }
-</style>
+
+
 
 [comment]: # (Insert my picture)
 {% include profile.html%}
