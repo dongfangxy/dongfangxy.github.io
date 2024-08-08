@@ -28,7 +28,7 @@
 
             // 创建地球
             const earthGeometry = new THREE.SphereGeometry(1, 64, 64);
-            const earthTexture = new THREE.TextureLoader().load('https://picx.zhimg.com/70/v2-f2cecd0be9fbda2ff4aaa0f6e7c8fe82_1440w.avis?source=172ae18b&biz_tag=Post');
+            const earthTexture = new THREE.TextureLoader().load('{{site.url}}/images/earth.png');
             const earthMaterial = new THREE.MeshPhongMaterial({map: earthTexture});
             earth = new THREE.Mesh(earthGeometry, earthMaterial);
             scene.add(earth);
