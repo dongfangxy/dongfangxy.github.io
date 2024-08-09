@@ -30,30 +30,29 @@
 </head>
 <body>
     <div id="controls">
+        <label>方块边长: <input type="number" id="size" value="0.1" step="0.01"></label>
         <label>质量: <input type="number" id="mass" value="1" step="0.1"></label>
         <label>初始速度X: <input type="number" id="initialVelocityX" value="0.5" step="0.1"></label>
         <label>初始速度Y: <input type="number" id="initialVelocityY" value="0.5" step="0.1"></label>
         <label>环境阻力最大值: <input type="range" id="dragMax" min="0" max="1" step="0.01" value="0.1"></label>
         <label>框的宽度: <input type="number" id="frameWidth" value="3" step="0.1"></label>
         <label>框的高度: <input type="number" id="frameHeight" value="3" step="0.1"></label>
-        <label>其他物体数量: <input type="number" id="objectCount" value="5" step="1"></label>
+        <label>小球数量: <input type="number" id="objectCount" value="5" step="1"></label>
         <button id="updateButton">更新参数</button>
         <button id="startButton">开始仿真</button>
         <button id="resetButton">复位</button>
         <div id="info">
             <p>速度X: <span id="velocityXDisplay">0</span></p>
             <p>速度Y: <span id="velocityYDisplay">0</span></p>
-            <p>位置X: <span id="positionXDisplay">0</span></p>
-            <p>位置Y: <span id="positionYDisplay">0</span></p>
         </div>
     </div>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
     <script>
-        let scene, camera, renderer, point, frame;
+        let scene, camera, renderer;
         let objects = [];
-        let velocityX = 0.5, velocityY = 0.5;
+        let userObject;
         let isSimulating = false;
-        const defaultPosition = { x: 0, y: 0 };
+        let lastDragValue = parseFloat(document.getElementById('dragMax').value);
 
         function init() {
             scene = new THREE.Scene();
@@ -64,18 +63,10 @@
             renderer.setSize(window.innerWidth, window.innerHeight);
             document.body.appendChild(renderer.domElement);
 
-            createPoint();
             createFrame();
             createObjects(parseInt(document.getElementById('objectCount').value));
             animate();
-        }
-
-        function createPoint() {
-            const geometry = new THREE.SphereGeometry(0.1, 32, 32);
-            const material = new THREE.MeshBasicMaterial({ color: 0x00ff00 });
-            point = new THREE.Mesh(geometry, material);
-            point.position.set(defaultPosition.x, defaultPosition.y, 0);
-            scene.add(point);
+            setInterval(checkDragChange, 2000);
         }
 
         function createFrame() {
@@ -83,15 +74,32 @@
             const height = parseFloat(document.getElementById('frameHeight').value);
             const geometry = new THREE.EdgesGeometry(new THREE.BoxGeometry(width, height, 0.1));
             const material = new THREE.LineBasicMaterial({ color: 0xffffff });
-            frame = new THREE.LineSegments(geometry, material);
+            const frame = new THREE.LineSegments(geometry, material);
             scene.add(frame);
         }
 
         function createObjects(count) {
             objects.forEach(obj => scene.remove(obj.mesh));
+            if (userObject) scene.remove(userObject.mesh);
             objects = [];
+
+            const size = parseFloat(document.getElementById('size').value);
+
+            // Create the user's initial cube
+            const userGeometry = new THREE.BoxGeometry(size, size, size);
+            const userMaterial = new THREE.MeshBasicMaterial({ color: 0xff0000 });
+            const userMesh = new THREE.Mesh(userGeometry, userMaterial);
+            userMesh.position.set(0, 0, 0);
+            scene.add(userMesh);
+            userObject = {
+                mesh: userMesh,
+                velocityX: parseFloat(document.getElementById('initialVelocityX').value),
+                velocityY: parseFloat(document.getElementById('initialVelocityY').value)
+            };
+
+            // Create other spheres
             for (let i = 0; i < count; i++) {
-                const geometry = new THREE.SphereGeometry(0.1, 32, 32);
+                const geometry = new THREE.SphereGeometry(size / 2, 32, 32);
                 const material = new THREE.MeshBasicMaterial({ color: Math.random() * 0xffffff });
                 const mesh = new THREE.Mesh(geometry, material);
                 mesh.position.set(
@@ -102,63 +110,87 @@
                 scene.add(mesh);
                 objects.push({
                     mesh: mesh,
-                    velocityX: (Math.random() - 0.5),
-                    velocityY: (Math.random() - 0.5)
+                    velocityX: (Math.random() - 0.5) * 0.5,
+                    velocityY: (Math.random() - 0.5) * 0.5
                 });
             }
         }
 
-        function getRandomDrag(maxDrag) {
-            return (Math.random() * 2 - 1) * maxDrag;
+        function checkDragChange() {
+            const currentDragValue = parseFloat(document.getElementById('dragMax').value);
+            if (currentDragValue !== lastDragValue) {
+                lastDragValue = currentDragValue;
+                [...objects, userObject].forEach(obj => {
+                    obj.velocityX *= (1 - currentDragValue * 0.01);
+                    obj.velocityY *= (1 - currentDragValue * 0.01);
+                });
+            }
+        }
+
+        function resolveCollision(obj1, obj2) {
+            const dx = obj2.mesh.position.x - obj1.mesh.position.x;
+            const dy = obj2.mesh.position.y - obj1.mesh.position.y;
+            const distance = Math.sqrt(dx * dx + dy * dy);
+            const minDistance = parseFloat(document.getElementById('size').value);
+
+            if (distance < minDistance) {
+                const angle = Math.atan2(dy, dx);
+                const sin = Math.sin(angle);
+                const cos = Math.cos(angle);
+
+                // Rotate velocities
+                const vx1 = obj1.velocityX * cos + obj1.velocityY * sin;
+                const vy1 = obj1.velocityY * cos - obj1.velocityX * sin;
+                const vx2 = obj2.velocityX * cos + obj2.velocityY * sin;
+                const vy2 = obj2.velocityY * cos - obj2.velocityX * sin;
+
+                // Exchange velocities
+                const newVx1 = vx2;
+                const newVx2 = vx1;
+
+                // Rotate back
+                obj1.velocityX = newVx1 * cos - vy1 * sin;
+                obj1.velocityY = vy1 * cos + newVx1 * sin;
+                obj2.velocityX = newVx2 * cos - vy2 * sin;
+                obj2.velocityY = vy2 * cos + newVx2 * sin;
+            }
         }
 
         function animate() {
             requestAnimationFrame(animate);
 
             if (isSimulating) {
-                const maxDrag = parseFloat(document.getElementById('dragMax').value);
-                const dragX = getRandomDrag(maxDrag);
-                const dragY = getRandomDrag(maxDrag);
-
-                velocityX += dragX * 0.01;
-                velocityY += dragY * 0.01;
-                point.position.x += velocityX * 0.01;
-                point.position.y += velocityY * 0.01;
-
                 const halfWidth = parseFloat(document.getElementById('frameWidth').value) / 2;
                 const halfHeight = parseFloat(document.getElementById('frameHeight').value) / 2;
+                const size = parseFloat(document.getElementById('size').value);
 
-                if (point.position.x > halfWidth || point.position.x < -halfWidth) {
-                    velocityX = -velocityX;
-                }
-                if (point.position.y > halfHeight || point.position.y < -halfHeight) {
-                    velocityY = -velocityY;
-                }
-
-                objects.forEach(obj => {
+                [userObject, ...objects].forEach(obj => {
                     obj.mesh.position.x += obj.velocityX * 0.01;
                     obj.mesh.position.y += obj.velocityY * 0.01;
 
-                    if (obj.mesh.position.x > halfWidth || obj.mesh.position.x < -halfWidth) {
+                    if (obj.mesh.position.x > halfWidth - size / 2 || obj.mesh.position.x < -halfWidth + size / 2) {
                         obj.velocityX = -obj.velocityX;
                     }
-                    if (obj.mesh.position.y > halfHeight || obj.mesh.position.y < -halfHeight) {
+                    if (obj.mesh.position.y > halfHeight - size / 2 || obj.mesh.position.y < -halfHeight + size / 2) {
                         obj.velocityY = -obj.velocityY;
                     }
                 });
 
-                document.getElementById('velocityXDisplay').textContent = velocityX.toFixed(2);
-                document.getElementById('velocityYDisplay').textContent = velocityY.toFixed(2);
-                document.getElementById('positionXDisplay').textContent = point.position.x.toFixed(2);
-                document.getElementById('positionYDisplay').textContent = point.position.y.toFixed(2);
+                for (let i = 0; i < objects.length; i++) {
+                    for (let j = i + 1; j < objects.length; j++) {
+                        resolveCollision(objects[i], objects[j]);
+                    }
+                    resolveCollision(objects[i], userObject);
+                }
+
+                document.getElementById('velocityXDisplay').textContent = userObject.velocityX.toFixed(2);
+                document.getElementById('velocityYDisplay').textContent = userObject.velocityY.toFixed(2);
             }
 
             renderer.render(scene, camera);
         }
 
         document.getElementById('updateButton').addEventListener('click', () => {
-            velocityX = parseFloat(document.getElementById('initialVelocityX').value);
-            velocityY = parseFloat(document.getElementById('initialVelocityY').value);
             updateFrame();
             createObjects(parseInt(document.getElementById('objectCount').value));
         });
@@ -169,13 +201,6 @@
 
         document.getElementById('resetButton').addEventListener('click', () => {
             isSimulating = false;
-            point.position.set(defaultPosition.x, defaultPosition.y, 0);
-            velocityX = parseFloat(document.getElementById('initialVelocityX').value);
-            velocityY = parseFloat(document.getElementById('initialVelocityY').value);
-            document.getElementById('velocityXDisplay').textContent = '0';
-            document.getElementById('velocityYDisplay').textContent = '0';
-            document.getElementById('positionXDisplay').textContent = '0';
-            document.getElementById('positionYDisplay').textContent = '0';
             createObjects(parseInt(document.getElementById('objectCount').value));
         });
 
