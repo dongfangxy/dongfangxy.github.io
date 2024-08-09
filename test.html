@@ -4,32 +4,46 @@
     <meta charset="utf-8">
     <title>高级卫星轨道模拟 - Three.js</title>
     <style>
-        body { margin: 0; display: flex; flex-direction: column; }
+        body { margin: 0; overflow: hidden; }
         canvas { display: block; }
-        #controls { 
-            position: absolute; 
-            bottom: 10px; 
-            left: 10px; 
-            background: rgba(255, 255, 255, 0.1); 
-            padding: 10px; 
-            border-radius: 5px; 
-            color: #ffcc00;
+        #controls {
+            position: absolute;
+            top: 10px;
+            left: 10px;
+            background: rgba(255, 255, 255, 0.05);
+            padding: 10px;
+            border-radius: 5px;
+            color: #00ccff;
         }
-        #pauseButton, #resetButton { 
-            position: absolute; 
-            bottom: 10px; 
-            left: 50%; 
-            transform: translateX(-50%); 
-            background: rgba(255, 255, 255, 0.1); 
-            color: #ffcc00; 
-            border: none; 
-            padding: 10px; 
+        #markerControls {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            background: rgba(255, 255, 255, 0.05);
+            padding: 10px;
+            border-radius: 5px;
+            color: #00ccff;
+        }
+        #buttons {
+            position: absolute;
+            bottom: 10px;
+            right: 10px;
+            display: flex;
+            gap: 10px;
+        }
+        button {
+            background: rgba(255, 255, 255, 0.05);
+            color: #00ccff;
+            border: none;
+            padding: 10px;
             cursor: pointer;
         }
-        #resetButton { left: 60%; }
-        input[type="range"], input[type="number"] { 
-            background: rgba(255, 255, 255, 0.1); 
-            color: #ffcc00; 
+        input[type="number"], input[type="color"] {
+            background: rgba(255, 255, 255, 0.05);
+            color: #00ccff;
+            border: 1px solid #00ccff;
+            margin-top: 5px;
+            width: 60px;
         }
         label { display: block; margin-top: 5px; }
     </style>
@@ -37,28 +51,49 @@
 <body>
     <div id="controls">
         <label>
-            视角 X:
-            <input type="range" id="cameraX" min="-10" max="10" step="0.1" value="0">
-            <input type="number" id="cameraXInput" min="-10" max="10" step="0.1" value="0">
+            轨道半径:
+            <input type="number" id="orbitRadius" value="2" step="0.1">
         </label>
         <label>
-            视角 Y:
-            <input type="range" id="cameraY" min="-10" max="10" step="0.1" value="5">
-            <input type="number" id="cameraYInput" min="-10" max="10" step="0.1" value="5">
+            初始角度 (度):
+            <input type="number" id="initialAngle" value="0" step="1">
         </label>
+        <button id="updateButton">更新轨道参数</button>
+        <button id="defaultParamsButton">恢复默认参数</button>
         <label>
-            视角 Z:
-            <input type="range" id="cameraZ" min="1" max="20" step="0.1" value="5">
-            <input type="number" id="cameraZInput" min="1" max="20" step="0.1" value="5">
+            地球旋转:
+            <input type="checkbox" id="earthRotation" checked>
         </label>
-        <button id="resetButton">恢复默认视角</button>
     </div>
-    <button id="pauseButton">Pause</button>
+    <div id="markerControls">
+        <label>
+            经度:
+            <input type="number" id="longitude" value="0" step="0.1" min="-180" max="180">
+        </label>
+        <label>
+            纬度:
+            <input type="number" id="latitude" value="0" step="0.1" min="-90" max="90">
+        </label>
+        <label>
+            颜色:
+            <input type="color" id="markerColor" value="#ff0000">
+        </label>
+        <button id="addMarkerButton">添加标记</button>
+        <button id="clearMarkerButton">清除标记</button>
+    </div>
+    <div id="buttons">
+        <button id="resetButton">恢复默认视角</button>
+        <button id="pauseButton">暂停</button>
+    </div>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/three@0.128.0/examples/js/controls/OrbitControls.js"></script>
     <script>
         let scene, camera, renderer, earth, satellite, orbit, controls;
         let paused = false;
+        let orbitRadius = 2;
+        let initialAngle = 0;
+        let earthRotating = true;
+        let markers = [];
 
         function init() {
             scene = new THREE.Scene();
@@ -71,7 +106,6 @@
             document.body.appendChild(renderer.domElement);
 
             controls = new THREE.OrbitControls(camera, renderer.domElement);
-            controls.addEventListener('change', updateControls);
 
             // 创建地球
             const earthGeometry = new THREE.SphereGeometry(1, 64, 64);
@@ -82,7 +116,7 @@
 
             // 创建卫星
             const satelliteGeometry = new THREE.SphereGeometry(0.05, 32, 32);
-            const satelliteTexture = new THREE.TextureLoader().load('https://picx.zhimg.com/70/v2-f2cecd0be9fbda2ff4aaa0f6e7c8fe82_1440w.avis?source=172ae18b&biz_tag=Post');
+            const satelliteTexture = new THREE.TextureLoader().load('https://dongfangxy.github.io/images/satellite.png');
             const satelliteMaterial = new THREE.MeshPhongMaterial({map: satelliteTexture});
             satellite = new THREE.Mesh(satelliteGeometry, satelliteMaterial);
             scene.add(satellite);
@@ -126,9 +160,9 @@
             for (let i = 0; i <= 360; i++) {
                 const angle = (i * Math.PI) / 180;
                 orbitPoints.push(new THREE.Vector3(
-                    Math.cos(angle) * 2,
-                    Math.sin(angle) * 2,
-                    Math.sin(angle * 0.5) * 0.5
+                    Math.cos(angle) * orbitRadius,
+                    0,
+                    Math.sin(angle) * orbitRadius
                 ));
             }
             orbit.geometry.setFromPoints(orbitPoints);
@@ -138,54 +172,77 @@
             requestAnimationFrame(animate);
 
             if (!paused) {
-                // 旋转地球
-                earth.rotation.y += 0.002;
+                if (earthRotating) {
+                    earth.rotation.y += 0.002;
+                }
 
-                // 移动卫星
                 const time = Date.now() * 0.001;
-                satellite.position.x = Math.cos(time) * 2;
-                satellite.position.y = Math.sin(time) * 2;
-                satellite.position.z = Math.sin(time * 0.5) * 0.5;
+                satellite.position.x = Math.cos(time + initialAngle) * orbitRadius;
+                satellite.position.z = Math.sin(time + initialAngle) * orbitRadius;
+
+                markers.forEach(marker => {
+                    marker.rotation.copy(earth.rotation);
+                });
             }
 
             controls.update();
             renderer.render(scene, camera);
         }
 
-        function updateControls() {
-            document.getElementById('cameraX').value = camera.position.x.toFixed(1);
-            document.getElementById('cameraXInput').value = camera.position.x.toFixed(1);
-            document.getElementById('cameraY').value = camera.position.y.toFixed(1);
-            document.getElementById('cameraYInput').value = camera.position.y.toFixed(1);
-            document.getElementById('cameraZ').value = camera.position.z.toFixed(1);
-            document.getElementById('cameraZInput').value = camera.position.z.toFixed(1);
+        function addMarker(longitude, latitude, color) {
+            const phi = (90 - latitude) * (Math.PI / 180);
+            const theta = (longitude + 180) * (Math.PI / 180);
+
+            const x = -Math.sin(phi) * Math.cos(theta);
+            const y = Math.cos(phi);
+            const z = Math.sin(phi) * Math.sin(theta);
+
+            const markerGeometry = new THREE.SphereGeometry(0.02, 16, 16);
+            const markerMaterial = new THREE.MeshBasicMaterial({color: color});
+            const marker = new THREE.Mesh(markerGeometry, markerMaterial);
+            marker.position.set(x, y, z);
+            earth.add(marker);
+            markers.push(marker);
         }
 
         document.getElementById('pauseButton').addEventListener('click', () => {
             paused = !paused;
-            document.getElementById('pauseButton').innerText = paused ? 'Resume' : 'Pause';
+            document.getElementById('pauseButton').innerText = paused ? '继续' : '暂停';
         });
 
-        document.querySelectorAll('input[type="range"], input[type="number"]').forEach(input => {
-            input.addEventListener('input', (event) => {
-                const target = event.target;
-                const value = parseFloat(target.value);
+        document.getElementById('updateButton').addEventListener('click', () => {
+            orbitRadius = parseFloat(document.getElementById('orbitRadius').value);
+            initialAngle = parseFloat(document.getElementById('initialAngle').value) * Math.PI / 180;
+            updateOrbit();
+        });
 
-                if (target.id.includes('X')) {
-                    camera.position.x = value;
-                } else if (target.id.includes('Y')) {
-                    camera.position.y = value;
-                } else if (target.id.includes('Z')) {
-                    camera.position.z = value;
-                }
-                camera.updateProjectionMatrix();
-                updateControls();
-            });
+        document.getElementById('defaultParamsButton').addEventListener('click', () => {
+            orbitRadius = 2;
+            initialAngle = 0;
+            document.getElementById('orbitRadius').value = orbitRadius;
+            document.getElementById('initialAngle').value = initialAngle;
+            updateOrbit();
+        });
+
+        document.getElementById('earthRotation').addEventListener('change', (event) => {
+            earthRotating = event.target.checked;
         });
 
         document.getElementById('resetButton').addEventListener('click', () => {
             camera.position.set(0, 5, 5);
-            updateControls();
+            controls.update();
+        });
+
+        document.getElementById('addMarkerButton').addEventListener('click', () => {
+            const longitude = parseFloat(document.getElementById('longitude').value);
+            const latitude = parseFloat(document.getElementById('latitude').value);
+            const color = document.getElementById('markerColor').value;
+            addMarker(longitude, latitude, color);
+        });
+
+        document.getElementById('clearMarkerButton').addEventListener('click', () => {
+            markers.forEach(marker => earth.remove(marker));
+            markers = [];
         });
 
         init();
