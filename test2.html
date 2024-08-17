@@ -135,7 +135,7 @@
 
             // 创建卫星
             const satelliteGeometry = new THREE.SphereGeometry(0.05, 32, 32);
-            const satelliteTexture = new THREE.TextureLoader().load('https://dongfangxy.github.io/images/satellite.png');
+            const satelliteTexture = new THREE.TextureLoader().load('https://dongfangxy.github.io/images/earth.png');
             const satelliteMaterial = new THREE.MeshPhongMaterial({map: satelliteTexture});
             satellite = new THREE.Mesh(satelliteGeometry, satelliteMaterial);
             scene.add(satellite);
