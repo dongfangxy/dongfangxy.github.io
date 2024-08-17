@@ -7,6 +7,7 @@ author: Chengxi Zhang
 comments: true
 ---
 <ol>
+	<li>Zheng Zhou, Shunyi Zhao, Chengxi Zhang, Jin Wu, Biao Huang. Factor Graph Optimization for Flexibly Modeled INS/GPS Navigation in Graphical State-Space. <b>IEEE Transactions on Industrial Informatics</b></li>
 	<li>Peng-fei Guo, Zian Wang, Rui Shi, Yang Yang, Hui-fang Huo, Chengxi Zhang.  Liquid Propellant Sloshing Characteristics and Suppression in New-Generation Space Vehicle. <b>Aerospace Systems</b></li>
      <li>Bing Huang, Hua Peng, Chengxi Zhang, Choon Ki Ahn. Distributed Optimal Coordinated Control for Unmanned Surface Vehicles with Interleaved Periodic Event-based Mechanism <b>IEEE Transactions on Vehicular Technology
 </b></li>	
