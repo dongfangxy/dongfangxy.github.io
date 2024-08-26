@@ -10,6 +10,7 @@ comments: true
     <li>Hang Ci, Chengxi Zhang, Shunyi Zhao. Joint state and process inputs estimation for state-space models with Student's t-distribution. <b>Chemometrics and Intelligent Laboratory Systems</b></li>
     <li>Xing Fang, Jiali Xiao, Xiang Gao, Yugang Ren, Chengxi Zhang, Zhenghao Liu. Trajectory Tracking of Jiaolong Submersible with Velocity Constraints via Dual Closed-Loop Control <b>Nonlinear Dynamics</b></li>
 	<li>Zheng Zhou, Shunyi Zhao, Chengxi Zhang, Jin Wu, Biao Huang. Factor Graph Optimization for Flexibly Modeled INS/GPS Navigation in Graphical State-Space. <b>IEEE Transactions on Industrial Informatics</b></li>
+    <li>Xing Fang, Chengxu Zhang, Chengxi Zhang, Yu Lu, Gaofei Xu, Yujia Shang. Differential flatness based unmanned surface vehicle control: planning and conditional disturbance-compensation. <b>Symmetry</b></li>
 	<li>Peng-fei Guo, Zian Wang, Rui Shi, Yang Yang, Hui-fang Huo, Chengxi Zhang.  Liquid Propellant Sloshing Characteristics and Suppression in New-Generation Space Vehicle. <b>Aerospace Systems</b></li>
      <li>Bing Huang, Hua Peng, Chengxi Zhang, Choon Ki Ahn. Distributed Optimal Coordinated Control for Unmanned Surface Vehicles with Interleaved Periodic Event-based Mechanism <b>IEEE Transactions on Vehicular Technology
 </b></li>	
