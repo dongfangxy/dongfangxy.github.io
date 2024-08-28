@@ -7,6 +7,7 @@ author: Chengxi Zhang
 comments: true
 ---
 <ol>
+	<li>Zian Wang, Chengxi Zhang, Haiying Wan, Xiong Zheng, Zheng Gong, Xingxing Zeng, Jin Wu. Practical Three-Dimensional Path Following and Control for UCAVs based on Expansion of $L_{1}^{+}$ Guidance Logic and Disturbance Rejection <b>Proceedings of the Institution of Mechanical Engineers, Part G: Journal of Aerospace Engineering</b></li>
     <li>Hang Ci, Chengxi Zhang, Shunyi Zhao. Joint state and process inputs estimation for state-space models with Student's t-distribution. <b>Chemometrics and Intelligent Laboratory Systems</b></li>
     <li>Xing Fang, Jiali Xiao, Xiang Gao, Yugang Ren, Chengxi Zhang, Zhenghao Liu. Trajectory Tracking of Jiaolong Submersible with Velocity Constraints via Dual Closed-Loop Control <b>Nonlinear Dynamics</b></li>
 	<li>Zheng Zhou, Shunyi Zhao, Chengxi Zhang, Jin Wu, Biao Huang. Factor Graph Optimization for Flexibly Modeled INS/GPS Navigation in Graphical State-Space. <b>IEEE Transactions on Industrial Informatics</b></li>
