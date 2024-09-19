@@ -11,7 +11,7 @@ layout: sitepage
 [comment]: # (Insert my resume below)
 
 ### About Me
-I was born in Qufu, China. I received the B.S. and M.S. degrees in electronic science and technology from the Harbin Institute of Technology (HIT, 哈尔滨工业大学), China, in 2012 and 2015, and the Ph.D. degree in control science and engineering from Shanghai Jiao Tong University (上海交通大学), China, in 2019. I worked at HIT (深圳市物联网终端关键技术重点实验室), China from 2020-2022 and received the Outstanding Postdoc Awards of HIT Shenzhen. Since 2022, I have been an Associate Professor of Jiangnan Univerisity, Wuxi China (江南大学, 轻工过程先进控制教育部重点实验室, 中国无锡).
+I was born in Qufu, China. I received the B.S. and M.S. degrees in electronic science and technology from the Harbin Institute of Technology (HIT, 哈尔滨工业大学), China, in 2012 and 2015, and the Ph.D. degree in control science and engineering from Shanghai Jiao Tong University (上海交通大学), China, in 2019. I worked at HIT (深圳市物联网终端关键技术重点实验室), China from 2020-2022 and received the Outstanding Postdoc Awards of HIT Shenzhen. Since 2022, I have been an Associate Professor of Jiangnan Univerisity, Wuxi China (副教授，江南大学, 轻工过程先进控制教育部重点实验室, 中国无锡).
 
 **My research interests**: Space engineering, Robotic systems, and Smart IoT applications. 
 
@@ -23,7 +23,7 @@ I am listed in **[World’s Top 2% Scientists in 2022](https://elsevier.digitalc
 
 发表学术论文100余篇，申请专利、国防专利4项，主编专著1本；主持国家自然科学基金1项，主持深圳市科技研发技术攻关重点项目子课题1项，主持中央高校基本科研计划基金1项，主持多项横向项目；参与巨星星座重点研发计划(自主导航与轨道控制技术)、深圳科技计划基础研究学科布局项目等多项其他项目。
 
-入选斯坦福大学-爱思唯尔**全球前2%科学家名单**(2023，2024, 更新)
+入选斯坦福大学-爱思唯尔**全球前2%科学家名单**([2023年](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/6)，[2024年](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/7))
 
 入选江苏省人才项目(2024年)
 
