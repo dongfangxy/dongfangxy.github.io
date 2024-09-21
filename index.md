@@ -55,8 +55,9 @@ I am listed in **[World’s Top 2% Scientists in 2022](https://elsevier.digitalc
 - 深圳市科技创新委员会评审专家
 
 
-### Honoured students
+### Teaching
 - 2024 沈天奥(院优毕设论文)、栗森茂(校优毕设论文)  
+- 2023 年本科生90分课程
 
 
 ### Publications
