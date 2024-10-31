@@ -7,6 +7,7 @@ author: Chengxi Zhang
 comments: true
 ---
 <ol>
+	<li>Bing Huang, Xiaotao Zhou, Chengxi Zhang, Choon Ki Ahn. Event-triggered L2 Performance Control for Affine Formation of Networked Unmanned Surface Vehicles with Intermittent Communication. <b>IEEE Transactions on Intelligent Transportation Systems</b></li>
 	<li>Xing Fang, Zhanfei Zhao, Haiying Wan, Chengxi Zhang, Shunyi Zhao. Observer-based backstepping control for manned submersible vehicle under measurement noises and environmental disturbances: finite-time convergence.  <b>Neural Computing and Applications</b></li>
 	<li>Zian Wang, Chengxi Zhang, Haiying Wan, Xiong Zheng, Zheng Gong, Xingxing Zeng, Jin Wu. Practical Three-Dimensional Path Following and Control for UCAVs based on Expansion of $L_{1}^{+}$ Guidance Logic and Disturbance Rejection <b>Proceedings of the Institution of Mechanical Engineers, Part G: Journal of Aerospace Engineering</b></li>
     <li>Hang Ci, Chengxi Zhang, Shunyi Zhao. Joint state and process inputs estimation for state-space models with Student's t-distribution. <b>Chemometrics and Intelligent Laboratory Systems</b></li>
