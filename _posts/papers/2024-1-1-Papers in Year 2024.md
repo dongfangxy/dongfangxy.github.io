@@ -7,6 +7,7 @@ author: Chengxi Zhang
 comments: true
 ---
 <ol>
+	<li>Yu Yan, Jihe Wang, Wei Wang, Lining Tan, Renuganth Varatharajoo, Chengxi Zhang. Fully-Distributed Autonomous Scheduling for Earth-Observing Constellations. <b>Astrodynamics</b></li>
 	<li>Qingxian Jia, Rui Shu, Dan Yu, Chengxi Zhang, Lining Tan. Neural Network-based Prescribed Performance Fault-Tolerant Control for Spacecraft Formation Reconfiguration with Collision Avoidance <b>Journal of the Franklin Institute</b></li>
 	<li>Bing Huang, Xiaotao Zhou, Chengxi Zhang, Choon Ki Ahn. Event-triggered L2 Performance Control for Affine Formation of Networked Unmanned Surface Vehicles with Intermittent Communication. <b>IEEE Transactions on Intelligent Transportation Systems</b></li>
 	<li>Xing Fang, Zhanfei Zhao, Haiying Wan, Chengxi Zhang, Shunyi Zhao. Observer-based backstepping control for manned submersible vehicle under measurement noises and environmental disturbances: finite-time convergence.  <b>Neural Computing and Applications</b></li>
