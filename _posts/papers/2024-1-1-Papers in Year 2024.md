@@ -7,6 +7,8 @@ author: Chengxi Zhang
 comments: true
 ---
 <ol>
+    <li>Jun Dong, Jintao Cheng, Jin Wu, Chengxi Zhang, Shunyi Zhao, Xiaoyu Tang. Real-Time AIoT for UAV Antenna Interference Detection via Edge-Cloud Collaboration <b>IEEE Internet of Things Journal</b>
+</li>
 	<li>Bing Huang, Jixiang Li, Zhen Zhang, Chengxi Zhang, Choon Ki Ahn. A Dynamic Time Assignment Communication Mechanism-based Formation Control for Internet of Unmanned Surface Vehicles under DoS Attacks <b>IEEE Internet of Things Journal</b></li>
     <li>Chenglong Xu, Chengxi Zhang, Jihe Wang, Analytic Solution for Combined In-plane and Out-of-plane Spacecraft Formation Reconfiguration with Passive Collision Avoidance <b>Acta Astronautica</b></li>
 	<li>Yu Yan, Jihe Wang, Wei Wang, Lining Tan, Renuganth Varatharajoo, Chengxi Zhang. Fully-Distributed Autonomous Scheduling for Earth-Observing Constellations. <b>Astrodynamics</b></li>
