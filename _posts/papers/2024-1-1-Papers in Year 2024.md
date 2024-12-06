@@ -7,6 +7,7 @@ author: Chengxi Zhang
 comments: true
 ---
 <ol>
+    <li>Xiaohe He, Zongwang Li, Wei Huang, Junyan Xiang, Chengxi Zhang, Zhuochen Xie, Xuwen Liang. Autonomous Agile Earth Observation Satellite Mission Planning with Task Clustering <b>IEICE Transactions on Fundamentals</b></li>
     <li>Jun Dong, Jintao Cheng, Jin Wu, Chengxi Zhang, Shunyi Zhao, Xiaoyu Tang. Real-Time AIoT for UAV Antenna Interference Detection via Edge-Cloud Collaboration <b>IEEE Internet of Things Journal</b>
 </li>
 	<li>Bing Huang, Jixiang Li, Zhen Zhang, Chengxi Zhang, Choon Ki Ahn. A Dynamic Time Assignment Communication Mechanism-based Formation Control for Internet of Unmanned Surface Vehicles under DoS Attacks <b>IEEE Internet of Things Journal</b></li>
