@@ -51,6 +51,8 @@ comments: true
 <li>Xia Lu, Yichong Shao, Minjie Zhang, Zian Wang, Chengxi Zhang, Hui-Jie Sun Trajectory Corridor Design for the Ascent Phase of Horizontal Takeoff and Landing Spaceplanes<b>Mathematical Foundations of Computing
 </b></li>
 <li>Jihe Wang, Chenglong Xu, Chengxi Zhang, Jinxiu Zhang. Passive Safety-Constrained Impulsive Maneuvers for Formation Reconfiguration: An Analytic Solution <b>Aerospace Science and Technology</b></li>
+<li>Yang Liu, Jin Wu, Fulong Ma, Chengxi Zhang. Biquaternion Evolution in Attitude Estimation Using A Generalized Vector Measurement <b>IEEE Sensors Letters
+</b></li>
 </ol>
 
 
