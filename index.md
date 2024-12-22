@@ -11,7 +11,7 @@ layout: sitepage
 [comment]: # (Insert my resume below)
 
 ### About Me
-I was born in Qufu, China. I received the B.S. and M.S. degrees in electronic science and technology from the Harbin Institute of Technology (HIT, 哈尔滨工业大学), China, in 2012 and 2015, and the Ph.D. degree in control science and engineering from Shanghai Jiao Tong University (上海交通大学), China, in 2019. I worked at HIT (深圳市物联网终端关键技术重点实验室), China from 2020-2022 and received the Outstanding Postdoc Awards of HIT Shenzhen. Since 2022, I have been an Associate Professor of Jiangnan Univerisity, Wuxi China (副教授，江南大学, 轻工过程先进控制教育部重点实验室, 中国无锡).
+I was born in Qufu, China. I received the B.S. and M.S. degrees in electronic science and technology from the Harbin Institute of Technology (HIT, 哈尔滨工业大学), China, in 2012 and 2015, and the Ph.D. degree in control science and engineering from Shanghai Jiao Tong University (上海交通大学), China, in 2019. I worked at HIT (深圳市物联网终端关键技术重点实验室), China from 2020-2022 and received the Outstanding Postdoc Awards of HIT Shenzhen. Since 2022, I have been an Associate Professor of Jiangnan Univerisity, Wuxi China (副教授，江南大学, 中国无锡).
 
 **My research interests**: Space engineering, Robotic systems, and Smart IoT applications. 
 
@@ -35,8 +35,7 @@ I am listed in [World’s Top 2% Scientists in 2023, 2024](https://elsevier.digi
     [Official Page](https://iot.jiangnan.edu.cn/info/1142/3595.htm),
     [CSND](https://blog.csdn.net/Paolu2022/article/details/135201277) 
 - Email: dongfangxy@163.com; cxzhang@jiangnan.edu.cn 
-- Key Laboratory of Advanced Control for Light Industry Processes, Ministry of Education, Jiangnan University; <br>
-    School of Internet of Things Engineering, Jiangnan University, Wuxi 214122, China.
+- School of Internet of Things Engineering, Jiangnan University, Wuxi 214122, China.
 - (感知与自主机器人组)
 
 ### Academic Services
