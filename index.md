@@ -38,7 +38,7 @@ I am listed in [World’s Top 2% Scientists in 2023, 2024](https://elsevier.digi
 - School of Internet of Things Engineering, Jiangnan University, Wuxi 214122, China.
 
 ### Academic Services and other information 
-- Editorial Board, [Aerospace Systems](https://www.springer.com/journal/42401/editors) (Shanghai Jiao Tong University)
+- Editorial Board, [Aerospace Systems](https://link.springer.com/journal/42401/editorial-board) (Shanghai Jiao Tong University)
 - Editorial Board, Astrodynamics (Tsinghua University)
 - Editorial Board, AI and Autonomous Systems (2023-present)
 - Editorial Board, [AppliedMath](https://www.mdpi.com/journal/appliedmath/editors) (2022-present) 
