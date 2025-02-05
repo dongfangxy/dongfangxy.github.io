@@ -11,13 +11,16 @@ layout: sitepage
 [comment]: # (Insert my resume below)
 
 ### About Me
-I was born in Qufu, China. I received the B.S. and M.S. degrees from the Harbin Institute of Technology (HIT, 哈尔滨工业大学), China, in 2012 and 2015, and the Ph.D. degree from Shanghai Jiao Tong University (上海交通大学), China, in 2019. I worked at HIT (深圳市物联网终端关键技术重点实验室), China from 2020-2022. Since 2022, I have been an Associate Professor of Jiangnan Univerisity, Wuxi China (副教授，江南大学, 中国无锡).
+I was born in Qufu, China. I received the B.S. and M.S. degrees from the Harbin Institute of Technology (HIT, 哈尔滨工业大学), China, in 2012 and 2015, and the Ph.D. degree from Shanghai Jiao Tong University (上海交通大学), China. I worked at HIT, China from 2020-2022. Since 2022, I have been an Associate Professor of Jiangnan Univerisity, Wuxi China.
 
-**My research interests**: Space engineering, Robotic systems, and Smart IoT applications. 
+**My research interests**: 
+- Space Engineering, Space Robotic Systems
+- Large-scale Constellation Management
+- Embedded Systems, Smart IoT Applications
 
 I have published over 100 papers, including several ESI Highly Cited Papers (See [Publications](https://dongfangxy.github.io/publications/)), and received over 1000 citations since 2018, by Google Scholar.  I received the Outstanding Postdoc Awards of HIT Shenzhen in 2022.
 
-I work with [**Prof. Jin Wu 吴荩**](https://zarathustr.github.io/) (香港科技大学)  [**Prof. Chong Li 李崇**](https://coe.ouc.edu.cn/2019/0819/c9094a256005/page.htm) (中国海洋大学), and [**Prof. Yi Jiang 姜艺**](https://yijiang1992.github.io/) (东北大学) since 2018.
+I work with [**Prof. Jin Wu 吴荩**](https://zarathustr.github.io/) (北京科技大学)  [**Prof. Chong Li 李崇**](https://coe.ouc.edu.cn/2019/0819/c9094a256005/page.htm) (中国海洋大学), and [**Prof. Yi Jiang 姜艺**](https://yijiang1992.github.io/) (华中科技大学) since 2018.
 
 I am listed in [World's Top 2% Scientists in 2023, 2024](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/7), by Stanford University and Elsevier.
 
