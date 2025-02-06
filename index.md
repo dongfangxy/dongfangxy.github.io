@@ -54,7 +54,7 @@ I am listed in [**World's Top 2% Scientists in 2023, 2024**](https://elsevier.di
 - Technical Program Committee for IEEE GEM 2024 (2024 IEEE Gaming, Entertainment, and Media Conference (GEM))
 - TPC member (TPC) for ICCC'24 (2024 IEEE/CIC International Conference on Communications in China (ICCC))
 - 深圳市科技创新委员会评审专家
-- YAC2025 机器人导航、定位、建图新进展 特邀专题Co-chair (主席 吴荩 北京科技大学)
+- YAC2025 机器人导航、定位、建图新进展 特邀专题Co-chair (主席 吴荩教授 北京科技大学)
 - Distinguished Reviewers for Intelligence & Robotics (IR),  2024.
 - TPC for ACA2025 Special Session (invited by Prof. Ruixia Liu)
 
