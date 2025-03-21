@@ -12,6 +12,7 @@ comments: true
     <li>Xiaohe He; Junyan Xiang; Mubiao Yan; <b>Chengxi Zhang</b>; Zhuochen Xie; Xuwen Liang Agile Earth Observation Satellite Constellation Mission Planning based on Multi-Agent Transformer <b>IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences</b></li>
 	<li>Ran Sun, Choon Ki Ahn, Deyun Liu, Wei Wang, Chengxi Zhang. Near-asteroid spacecraft formation control with prescribed-performance: a dynamic event-triggered reinforcement learning control approach. <b>Aerospace Science and Technology</b></li>
     <li>Mingzhen Gui, Jin Liu, Chengxi Zhang, Mingzhe Dai. Advances in Deep Space Probe Navigation. <b>Applied Sciences.</b></li>
+<li>Yang Liu, Fulong Ma, Xiaodong Mei, Bohuan Xue, Jin Wu, Chengxi Zhang. Autonomous Drifting Like Professional Racing Drivers: A Survey <b>AppliedMath</b></li>
 </ol>
 
 
