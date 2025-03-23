@@ -13,6 +13,7 @@ comments: true
 	<li>Ran Sun, Choon Ki Ahn, Deyun Liu, Wei Wang, Chengxi Zhang. Near-asteroid spacecraft formation control with prescribed-performance: a dynamic event-triggered reinforcement learning control approach. <b>Aerospace Science and Technology</b></li>
     <li>Mingzhen Gui, Jin Liu, Chengxi Zhang, Mingzhe Dai. Advances in Deep Space Probe Navigation. <b>Applied Sciences.</b></li>
 <li>Yang Liu, Fulong Ma, Xiaodong Mei, Bohuan Xue, Jin Wu, Chengxi Zhang. Autonomous Drifting Like Professional Racing Drivers: A Survey <b>AppliedMath</b></li>
+<li>薛飞,  金国栋,  谭力宁, 张承玺. 基于物理信息神经网络的航空发动机状态监测与剩余寿命预测方法研究 <b>2025 IEEE 14th Data Driven Control and Learning Systems Conference</b></li>
 </ol>
 
 
