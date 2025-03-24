@@ -1,95 +1,175 @@
-/* ========== 主画幅结构 ========== */
-table#tlayout {
-  border: none;
-  border-collapse: collapse;
-  background: white;
-  width: 100%;
-  max-width: 1200px; /* 控制内容最大宽度 */
-  margin: 0 auto;
-  box-shadow: none; /* 移除阴影 */
+/* ========== 基础样式与变量 ========== */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Lora:wght@500&display=swap');
+
+:root {
+  /* 字体系统 */
+
+  --base-font: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+
+  --article-font: 'Lora', Georgia, serif;
+  
+  /* 色彩系统 */
+
+  --primary-900: #1e3b8a;
+
+  --primary-500: #3b82f6;
+
+  --accent-500: #10b981;
+
+  --gray-900: #111827;
+
+  --gray-600: #4b5563;
+
+  --gray-200: #e5e7eb;
+
+  --surface-0: #ffffff;
 }
 
-/* ========== 新版导航栏样式 ========== */
+/* ========== 全局样式 ========== */
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: var(--base-font);
+  line-height: 1.6;
+  color: var(--gray-900);
+  background: var(--surface-0);
+
+  -webkit-font-smoothing: antialiased;
+}
+
+a {
+  color: var(--primary-500);
+  text-decoration: none;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  border-bottom: 1px solid transparent;
+}
+
+a:hover {
+  color: var(--primary-900);
+  border-bottom-color: currentColor;
+}
+
+/* ========== 布局系统 ========== */
+#tlayout {
+  border-collapse: collapse;
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  background: var(--surface-0);
+}
+
 #layout-menu {
   position: fixed;
   top: 0;
   width: 100%;
-  background: rgba(255, 255, 255, 0.98); /* 纯白微透明 */
-  border-bottom: 1px solid rgba(0, 0, 0, 0.08); /* 细分割线 */
+  background: rgba(255, 255, 255, 0.98);
+  backdrop-filter: blur(8px);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.08);
   padding: 0.8rem 0;
   z-index: 1000;
-  transition: all 0.2s ease;
 }
 
-/* 导航内容容器 */
 #layout-menu > div {
-  max-width: 1200px; /* 与主画幅同宽 */
+  max-width: 1200px;
   margin: 0 auto;
   padding: 0 2rem;
   display: flex;
   align-items: center;
 }
 
-/* 首个导航按钮对齐 */
-#layout-menu a:first-child {
-  margin-left: 0;
-  font-weight: 600;
-  color: var(--primary-color); /* 主色强调 */
-}
-
-/* 导航链接基础样式 */
-#layout-menu a {
-  margin: 0 1.2rem;
-  padding: 0.4rem 0;
-  color: #444;
-  position: relative;
-  transition: color 0.2s ease;
-}
-
-/* 悬停效果 */
-#layout-menu a:hover {
-  color: var(--primary-color);
-}
-
-/* 当前页面指示 */
-#layout-menu a.current {
-  border-bottom: 2px solid var(--primary-color);
-}
-
-/* ========== 内容区域调整 ========== */
 #layout-content {
-  padding: 5rem 2rem 2rem; /* 顶部留出导航空间 */
-  background: white;
+  padding: 6rem 2rem 2rem;
   margin: 0 auto;
   max-width: 1200px;
 }
 
-/* ========== 响应式优化 ========== */
-@media (max-width: 768px) {
-  #layout-menu > div {
-    padding: 0 1rem;
-  }
-  
-  #layout-menu a {
-    margin: 0 0.8rem;
-    font-size: 0.95rem;
-  }
-  
-  #layout-content {
-    padding: 4rem 1rem 1rem;
-  }
+/* ========== 组件样式 ========== */
+/* 导航链接 */
+.nav-link {
+  margin: 0 1.2rem;
+  padding: 0.4rem 0;
+  font-weight: 500;
+  color: var(--gray-600);
+  position: relative;
 }
 
-/* ========== 精简卡片样式 ========== */
+.nav-link.current {
+  color: var(--primary-900);
+  border-bottom: 2px solid var(--primary-500);
+}
+
+/* 项目卡片 */
 .project-card {
-  background: white;
-  border: 1px solid rgba(0, 0, 0, 0.08); /* 极细边框 */
-  border-radius: 6px;
-  padding: 1.2rem;
-  margin: 1rem 0;
-  transition: all 0.2s ease;
+  background: var(--surface-0);
+  border: 1px solid var(--gray-200);
+  border-radius: 8px;
+  padding: 1.5rem;
+  margin: 1.5rem 0;
+  transition: transform 0.2s, box-shadow 0.2s;
 }
 
 .project-card:hover {
-  border-color: rgba(0, 0, 0, 0.15);
+  transform: translateY(-3px);
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+}
+
+/* 排版系统 */
+h1 {
+  font-size: 2.75rem;
+  line-height: 1.2;
+  margin: 2.5rem 0 1.5rem;
+  font-family: var(--article-font);
+}
+
+h2 {
+  font-size: 2rem;
+  margin: 2rem 0 1rem;
+  padding-left: 1rem;
+  border-left: 4px solid var(--primary-500);
+}
+
+/* ========== 响应式设计 ========== */
+@media (max-width: 768px) {
+  body {
+    font-size: 15px;
+  }
+
+  #layout-menu > div {
+    padding: 0 1rem;
+  }
+
+  #layout-content {
+    padding: 4.5rem 1rem 1rem;
+  }
+
+  h1 {
+    font-size: 2rem;
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+
+    --gray-900: #f3f4f6;
+
+    --gray-600: #d1d5db;
+
+    --surface-0: #1f2937;
+
+    --primary-500: #60a5fa;
+  }
+  
+  #layout-menu {
+    background: rgba(31, 41, 55, 0.95);
+    border-bottom-color: rgba(255, 255, 255, 0.1);
+  }
+  
+  .project-card {
+    border-color: rgba(255, 255, 255, 0.1);
+  }
 }
