@@ -1,122 +1,86 @@
-/* ========== 基础变量与字体 ========== */
+/* ====== 标题层级间距系统 ====== */
 :root {
-  /* 中性色板 */
+  /* 间距基准单位 */
 
-  --neutral-50: #fafafa;
+  --space-unit: 1rem;
 
-  --neutral-100: #f5f5f5;
+  --space-ratio: 1.618; /* 黄金分割比例 */
 
-  --neutral-200: #e5e5e5;
+  /* 派生间距变量 */
 
-  --neutral-500: #737373;
-  
-  /* 主色调 */
+  --space-sm: calc(var(--space-unit) / var(--space-ratio));
 
-  --primary-400: #60a5fa;
+  --space-md: var(--space-unit);
 
-  --primary-600: #2563eb;
-  
-  /* 布局参数 */
+  --space-lg: calc(var(--space-unit) * var(--space-ratio));
 
-  --max-width: 1200px;
-
-  --nav-height: 64px;
+  --space-xl: calc(var(--space-unit) * 2.5);
 }
 
-/* ========== 全局重置 ========== */
-
-* {
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
+/* ====== 标题排版系统 ====== */
+h1 {
+  font-size: 2.5rem;
+  margin: var(--space-xl) 0 var(--space-lg);
+  line-height: 1.15;
+  padding-bottom: var(--space-sm);
+  border-bottom: 2px solid var(--neutral-200);
 }
 
-body {
-  font-family: 'Inter', system-ui, sans-serif;
-  background: var(--neutral-50);
-  color: #262626;
+h2 {
+  font-size: 2rem;
+  margin: var(--space-lg) 0 var(--space-md);
+  padding-left: var(--space-md);
+  border-left: 3px solid var(--primary-600);
+  line-height: 1.25;
 }
 
-/* ========== 导航栏重构 ========== */
-#layout-menu {
-  position: fixed;
-  top: 0;
-  width: 100%;
-  height: var(--nav-height);
-  background: rgba(255,255,255,0.98);
-  border-bottom: 1px solid var(--neutral-200);
-  z-index: 1000;
+h3 {
+  font-size: 1.5rem;
+  margin: var(--space-md) 0 var(--space-sm);
+  line-height: 1.35;
+  position: relative;
+  padding-left: 1.2rem;
 }
 
-/* 导航容器对齐优化 */
+h3::before {
+  content: "•";
+  position: absolute;
+  left: 0;
+  color: var(--primary-600);
+}
+
+/* ====== 段落排版优化 ====== */
+p {
+  margin-bottom: var(--space-md);
+  line-height: 1.7;
+  max-width: 65ch;
+}
+
+/* ====== 继承原有布局系统 ====== */
 #layout-menu > div {
   max-width: var(--max-width);
   margin: 0 auto;
-  padding: 0 32px;
-  height: 100%;
-  display: flex;
-  align-items: center;
-  justify-content: flex-start;
+  padding: 0 2rem;
 }
 
-/* 首按钮左对齐 */
-#layout-menu a:first-child {
-  margin-left: 0;
-  padding-left: 0;
-  color: var(--primary-600);
-  font-weight: 600;
-  position: relative;
-  left: -8px; /* 视觉对齐补偿 */
-}
-
-/* 导航项样式 */
-#layout-menu a {
-  margin: 0 20px;
-  padding: 8px 12px;
-  color: var(--neutral-500);
-  border-radius: 6px;
-  transition: all 0.2s ease;
-}
-
-#layout-menu a:hover {
-  background: var(--neutral-100);
-  color: var(--primary-600);
-}
-
-#layout-menu a.current {
-  color: var(--primary-600);
-  background: rgba(96,165,250,0.1);
-}
-
-/* ========== 主内容区 ========== */
-#layout-content {
-  padding: calc(var(--nav-height) + 32px) 32px 32px;
-  margin: 0 auto;
-  max-width: var(--max-width);
-}
-
-/* ========== 卡片组件 ========== */
 .project-card {
-  background: white;
-  border: 1px solid var(--neutral-200);
-  border-radius: 12px;
-  padding: 24px;
-  margin: 24px 0;
-  box-shadow: 0 1px 3px rgba(0,0,0,0.03);
+  margin: var(--space-lg) 0;
+  padding: var(--space-lg);
 }
 
-/* ========== 响应式优化 ========== */
+/* ====== 响应式调整 ====== */
 @media (max-width: 768px) {
-  #layout-menu > div {
-    padding: 0 16px;
+  :root {
+
+    --space-unit: 0.875rem;
   }
-  
-  #layout-menu a {
-    margin: 0 12px;
-    font-size: 15px;
+
+  h1 {
+    font-size: 2rem;
+    margin: var(--space-lg) 0 var(--space-md);
   }
-  
-  #layout-content {
-    padding: calc(var(--nav-height) + 24px) 16px 24px;
+
+  h2 {
+    font-size: 1.75rem;
   }
 }
