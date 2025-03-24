@@ -5,7 +5,7 @@ table#tlayout {
 }
 
 body {
-  font-family: "Roboto Condensed", Georgia, serif;
+  font-family: system-ui;
 	background: white;
   background-color: #fff;
 	padding-bottom: 8px;
