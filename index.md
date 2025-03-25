@@ -10,10 +10,12 @@ layout: sitepage
 
 [comment]: # (Insert my resume below)
 
+<!--
 ### About Me
 I was born in Qufu, China. I received the B.S. and M.S. degrees from the Harbin Institute of Technology (HIT, 哈尔滨工业大学), China, in 2012 and 2015, and the Ph.D. degree from Shanghai Jiao Tong University (上海交通大学), China. I worked at HIT, China from 2020-2022. Since 2022, I have been an Associate Professor of Jiangnan Univerisity, Wuxi China.
+-->
 
-**My research interests**: 
+### My Research Interests: 
 - Space Engineering, Space Robotic Systems
 - Large-scale Constellation Management
 - Embedded Systems, Smart IoT Applications
@@ -60,6 +62,8 @@ I am listed in [**World's Top 2% Scientists in 2023, 2024**](https://elsevier.di
 - [2024 Best Reviewer Award for Intelligence & Robotics (IR)]( https://mp.weixin.qq.com/s/PHyQPFkhlAKbvnnm8ppLbA ).
 - TPC for ACA2025 Special Session (invited by Prof. Ruixia Liu)
 
+
+<br />
 
 ### Teaching
 - 2024 沈天奥(院优毕设论文)、栗森茂(校优毕设论文)  
