@@ -23,6 +23,7 @@
   --max-width: 1200px;
   --nav-height: 70px;
   --transition-speed: 0.3s;
+  --transition-easing: cubic-bezier(0.4, 0, 0.2, 1);
   --border-radius: 8px;
 
   /* 字体大小 */
@@ -55,6 +56,7 @@ body {
   color: var(--neutral-900);
   line-height: 1.6;
   min-height: 100vh;
+  -webkit-font-smoothing: antialiased;
 }
 
 /* ========== 导航栏 ========== */
@@ -64,15 +66,15 @@ body {
   width: 100%;
   height: var(--nav-height);
   background: rgba(255, 255, 255, 0.95);
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.08);
   border-bottom: 1px solid var(--neutral-200);
   z-index: 1000;
-  transition: background var(--transition-speed) ease, box-shadow var(--transition-speed) ease;
+  transition: background var(--transition-speed) var(--transition-easing), box-shadow var(--transition-speed) var(--transition-easing);
 }
 
 #layout-menu.scrolled {
-  background: white;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  background: #fff;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
 #layout-menu > div {
@@ -110,7 +112,7 @@ body {
   color: var(--neutral-500);
   font-size: var(--font-size-sm);
   border-radius: var(--border-radius);
-  transition: background var(--transition-speed) ease, color var(--transition-speed) ease;
+  transition: background var(--transition-speed) var(--transition-easing), color var(--transition-speed) var(--transition-easing);
 }
 
 #layout-menu .nav-links a:hover {
@@ -132,13 +134,13 @@ body {
 
 /* ========== 卡片组件 ========== */
 .project-card {
-  background: white;
+  background: #fff;
   border: 1px solid var(--neutral-200);
   border-radius: var(--border-radius);
   padding: var(--spacing-lg);
   margin: var(--spacing-lg) 0;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
-  transition: transform var(--transition-speed) ease, box-shadow var(--transition-speed) ease;
+  transition: transform var(--transition-speed) var(--transition-easing), box-shadow var(--transition-speed) var(--transition-easing);
 }
 
 .project-card:hover {
@@ -150,12 +152,12 @@ body {
 button, .button {
   padding: var(--spacing-sm) var(--spacing-md);
   background: var(--primary-600);
-  color: white;
+  color: #fff;
   border: none;
   border-radius: var(--border-radius);
   font-size: var(--font-size-sm);
   cursor: pointer;
-  transition: background var(--transition-speed) ease, transform var(--transition-speed) ease;
+  transition: background var(--transition-speed) var(--transition-easing), transform var(--transition-speed) var(--transition-easing);
 }
 
 button:hover, .button:hover {
@@ -173,7 +175,7 @@ input, textarea, select {
   border: 1px solid var(--neutral-200);
   border-radius: var(--border-radius);
   font-size: var(--font-size-base);
-  transition: border-color var(--transition-speed) ease, box-shadow var(--transition-speed) ease;
+  transition: border-color var(--transition-speed) var(--transition-easing), box-shadow var(--transition-speed) var(--transition-easing);
 }
 
 input:focus, textarea:focus, select:focus {
@@ -221,7 +223,7 @@ input:focus, textarea:focus, select:focus {
     top: var(--nav-height);
     left: 0;
     width: 100%;
-    background: white;
+    background: #fff;
     border-top: 1px solid var(--neutral-200);
     padding: var(--spacing-md) 0;
   }
