@@ -45,13 +45,14 @@ I am listed in [**World's Top 2% Scientists in 2023, 2024**](https://elsevier.di
 <br />
 
 ### Academic Services and other information 
-- Editorial Board, [Aerospace Systems](https://link.springer.com/journal/42401/editorial-board) (Shanghai Jiao Tong University)
-- Editorial Board, Astrodynamics (Tsinghua University)
-- Editorial Board, AI and Autonomous Systems (2023-present)
-- Editorial Board, [AppliedMath](https://www.mdpi.com/journal/appliedmath/editors) (2022-present) 
-- Editorial Board, [IoT (Internet of Things)](https://www.mdpi.com/journal/IoT/editors) (2022-present) 
-- Editorial Board, Complex Engineering Systems
-- Associate Editor, Frontiers in Aerospace Engineering (2022-present) 
+- Editorial Board, [*Aerospace Systems*](https://link.springer.com/journal/42401/editorial-board) (Shanghai Jiao Tong University)
+- Editorial Board, *Astrodynamics* (Tsinghua University)
+- Editorial Board, *Symmetry* (Computer Section, 2025-present)
+- Editorial Board, *AI and Autonomous Systems* (2023-present)
+- Editorial Board, [*AppliedMath*](https://www.mdpi.com/journal/appliedmath/editors) (2022-present) 
+- Editorial Board, [*IoT (Internet of Things)*](https://www.mdpi.com/journal/IoT/editors) (2022-present) 
+- Editorial Board, *Complex Engineering Systems*
+- Associate Editor, *Frontiers in Aerospace Engineering* (2022-present) 
 - Session Chair, 2022 Jiangsu Annual Conference of Automation (JACA2022, Wuxi, 2022.11.19)
 - TPC for CCDC2024, Xi An, Invited by Prof. Hanlin Dong
 - Program Committee Member of FASTA2024, 3rd Conference on Fully Actuated System Theory and Applications, 2024, Shenzhen.
