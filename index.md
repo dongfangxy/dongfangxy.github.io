@@ -20,6 +20,8 @@ I was born in Qufu, China. I received the B.S. and M.S. degrees from the Harbin 
 - Large-scale Constellation Management
 - Embedded Systems, Smart IoT Applications
 
+<br />
+
 I have published over 100 papers, including several ESI 1% & 0.1% Papers (See [Publications](https://dongfangxy.github.io/publications/)), and received over 1500 citations since 2018, by Google Scholar.  I received the Outstanding Postdoc Awards of HIT Shenzhen in 2022.
 
 I work with [**Prof. Jin Wu 吴荩**](https://zarathustr.github.io/) (北京科技大学)  [**Prof. Chong Li 李崇**](https://coe.ouc.edu.cn/2019/0819/c9094a256005/page.htm) (中国海洋大学), and [**Prof. Yi Jiang 姜艺**](https://yijiang1992.github.io/) (华中科技大学) since 2018.
@@ -31,6 +33,8 @@ I am listed in [**World's Top 2% Scientists in 2023, 2024**](https://elsevier.di
 入选斯坦福大学-爱思唯尔**全球前2%科学家名单**([2023年，2024年](https://topresearcherslist.com/Home/Profile?AuthFull=Zhang,%20Chengxi&FirstYear=2018))
 
 入选江苏省人才项目(2024年)
+
+<br />
 
 ### Contact
 - Follow me on:
