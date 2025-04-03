@@ -59,7 +59,7 @@ I am listed in [**World's Top 2% Scientists in 2023, 2024**](https://elsevier.di
 - Associate Editor, *Frontiers in Aerospace Engineering* (2022-present) 
 - [AI and Autonomous Systems](https://elspub.com/journals/artificial-intelligence-and-autonomous-systems/editorial_board/) Special Issue, Planning,Control, and Learning in Mobile Robots (Prof. Shugen Ma马书根教授, Prof. Xin Xu, Dr. Jin Wu et al.)
 - [Mathematics](https://www.mdpi.com/journal/mathematics/special_issues/09O2330789), Special Issue: Applications of Machine Learning in Spacecraft and Aerospace Systems, (  [Prof. Ming Liu 刘明.](http://homepage.hit.edu.cn/liuming23), Prof. Zhiqiang Ma) ; 
-- Mathematics, Special Iuuse: Mathematical Methods in Spacecraft Relative Motion (Dr. Wei Wang, Dr. Zhaohui Dang, Dr. Jihe Wang, Dr. Chengxi Zhang, Dr. Ran Sun)
+- Mathematics, Special Iuuse: Mathematical Methods in Spacecraft Relative Motion (王伟, 党朝辉, 王继河, 孙然)
 - [Aerospace](https://www.mdpi.com/journal/aerospace/special_issues/U81MBDN1BK), Special Issue: Satellite Formation Flying: Dynamics and Control ( [Prof. Danil Ivanov](https://keldysh.ru/microsatellites/eng/team.html) , 王继河，王伟，孙然, 吴荩) ; 
 - [Applied Sciences](https://www.mdpi.com/journal/aerospace/special_issues/U81MBDN1BK), Special Issue: Autonomous Formation Systems: Guidance, Dynamics and Control, ( [Prof. Jihe Wang 王继河教授](https://tianqin.sysu.edu.cn/members/wang-ji-he) ) ; 
 - Applied Sciences, Special Issue: Advances in Deep Space Probe Navigation (Dr. Mingzhen Gui, Prof. Dr. Jin Liu, Dr. Chengxi Zhang, Dr. Mingzhe Dai)
