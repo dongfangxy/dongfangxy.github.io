@@ -44,14 +44,14 @@ I am listed in [**World's Top 2% Scientists in 2023, 2024**](https://elsevier.di
     [Official Page](https://iot.jiangnan.edu.cn/info/1142/3595.htm),
     [CSND](https://blog.csdn.net/Paolu2022/article/details/135201277) 
 - Email: dongfangxy@163.com
-- School of Internet of Things Engineering, Jiangnan University, Wuxi 214122, China.
+- Jiangnan University, Wuxi 214122, China.
 
 <br />
 
 ### Academic Services and Other Information 
 - Editorial Board, [*Aerospace Systems*](https://link.springer.com/journal/42401/editorial-board) (*Shanghai Jiao Tong University Press*, EI)
 - Editorial Board, *Astrodynamics* (*Tsinghua University Press*, EI/ESCI )
-- Editorial Board, *Symmetry* (Computer Section Board Member, 2025-present, SCI)
+- Editorial Board, *Symmetry* ([Computer Section Board Member](https://www.mdpi.com/journal/symmetry/sectioneditors/computer?page_no=2), 2025-present, SCI)
 - Editorial Board, [*AppliedMath*](https://www.mdpi.com/journal/appliedmath/editors) (2022-present) 
 - Editorial Board, [*IoT (Internet of Things)*](https://www.mdpi.com/journal/IoT/editors) (2022-present) 
 - Editorial Board, *AI and Autonomous Systems* (2023-present)
@@ -63,7 +63,7 @@ I am listed in [**World's Top 2% Scientists in 2023, 2024**](https://elsevier.di
 - TPC member (TPC) for ICCC'24 (2024 IEEE/CIC International Conference on Communications in China (ICCC))
 - 深圳市科技创新委员会评审专家
 - YAC2025 Advances in Robotic Navigation, Localization and Mapping自动化青工委年会 机器人导航、定位、建图新进展 专题Co-chair(主席 吴荩教授)
-- [2024 Best Reviewer Award for Intelligence & Robotics (IR)]( https://mp.weixin.qq.com/s/PHyQPFkhlAKbvnnm8ppLbA ).
+- [2024 Best Reviewer Award for *Intelligence & Robotics* (IR)]( https://mp.weixin.qq.com/s/PHyQPFkhlAKbvnnm8ppLbA ).
 - TPC for ACA2025 Special Session (invited by Prof. Ruixia Liu)
 
 
