@@ -64,7 +64,7 @@ I am listed in [**World's Top 2% Scientists in 2023, 2024**](https://elsevier.di
 - [Applied Sciences](https://www.mdpi.com/journal/aerospace/special_issues/U81MBDN1BK), Special Issue: Autonomous Formation Systems: Guidance, Dynamics and Control, ( [Prof. Jihe Wang 王继河教授](https://tianqin.sysu.edu.cn/members/wang-ji-he) ) ; 
 - Applied Sciences, Special Issue: Advances in Deep Space Probe Navigation (Dr. Mingzhen Gui, Prof. Dr. Jin Liu, Dr. Chengxi Zhang, Dr. Mingzhe Dai)
 - [Symmetry](https://www.mdpi.com/journal/symmetry/special_issues/Z28KR0YVB3), Special Issue: Recent Progress in Robot Control Systems: Theory and Applications (Volume I, Volume II); 
-- [AppliedMath](https://www.mdpi.com/journal/appliedmath/special_issues/E967F41N4U), Special Issue: Applied Mathematics in Robotics: Theory, Methods and Applications (Prof. Weisong Wen文伟松, Dr. Jin Wu吴荩)
+- [AppliedMath](https://www.mdpi.com/journal/appliedmath/special_issues/E967F41N4U), Special Issue: Applied Mathematics in Robotics: Theory, Methods and Applications (文伟松, 吴荩)
 - TPC for CCDC2024, Xi An, Invited by Prof. Hanlin Dong
 - Program Committee Member of FASTA2024, 3rd Conference on Fully Actuated System Theory and Applications, 2024, Shenzhen.
 - Technical Program Committee for IEEE GEM 2024 (2024 IEEE Gaming, Entertainment, and Media Conference (GEM))
