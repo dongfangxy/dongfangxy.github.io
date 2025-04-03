@@ -15,6 +15,7 @@ comments: true
 <li>Yang Liu, Fulong Ma, Xiaodong Mei, Bohuan Xue, Jin Wu, Chengxi Zhang. Autonomous Drifting Like Professional Racing Drivers: A Survey <b>AppliedMath</b></li>
 <li>薛飞,  金国栋,  谭力宁, 张承玺. 基于物理信息神经网络的航空发动机状态监测与剩余寿命预测方法研究 <b>2025 IEEE 14th Data Driven Control and Learning Systems Conference</b></li>
     <li>Ruiqiu Lu, Tianle Yin, Lianren Zhang, Caisheng Wei, Wei Wang, Chengxi Zhang. Fault-Tolerant Control of Industrial Pneumatic Valves using Self-Learning Observers <b>The 40th Youth Academic Annual Conference of Chinese Association of Automation (YAC2025)</b></li>
+<li>Chengxi Zhang, Tianle Yin, Wenshuo Wang, Jin Wu, Jihe Wang, Yuhua Qi, Wei He. Clustering Strategy for Megaconstellation with Synergistic Energy and Size Considerations <b>IEEE Transactions on Aerospace and Electronic Systems</b></li>
 </ol>
 
 
