@@ -52,12 +52,12 @@ I am listed in [**World's Top 2% Scientists in 2023, 2024**](https://elsevier.di
 - Editorial Board, [*Aerospace Systems*](https://link.springer.com/journal/42401/editorial-board) (*Shanghai Jiao Tong University Press*, EI)
 - Editorial Board, *Astrodynamics* (*Tsinghua University Press*, EI/ESCI )
 - Editorial Board, *Symmetry* ([Computer Section Board Member](https://www.mdpi.com/journal/symmetry/sectioneditors/computer?page_no=2), 2025-present, SCI)
-- Editorial Board, [*AppliedMath*](https://www.mdpi.com/journal/appliedmath/editors) (2022-present) 
-- Editorial Board, [*IoT (Internet of Things)*](https://www.mdpi.com/journal/IoT/editors) (2022-present) 
+- Editorial Board, [*AppliedMath*](https://www.mdpi.com/journal/appliedmath/editors) (2022-present, ESCI) 
+- Editorial Board, [*IoT (Internet of Things)*](https://www.mdpi.com/journal/IoT/editors) (2022-present, ESCI) 
 - Editorial Board, *AI and Autonomous Systems* (2023-present)
 - Editorial Board, *Complex Engineering Systems*
 - Associate Editor, *Frontiers in Aerospace Engineering* (2022-present) 
-- [AI and Autonomous Systems](https://elspub.com/journals/artificial-intelligence-and-autonomous-systems/editorial_board/) Special Issue, Planning,Control, and Learning in Mobile Robots (Prof. Shugen Ma马书根教授, Prof. Xin Xu, Dr. Jin Wu et al.)
+- AI and Autonomous Systems, Special Issue, Planning,Control, and Learning in Mobile Robots (Prof. Shugen Ma马书根教授, Prof. Xin Xu, Dr. Jin Wu et al.)
 - [Mathematics](https://www.mdpi.com/journal/mathematics/special_issues/09O2330789), Special Issue: Applications of Machine Learning in Spacecraft and Aerospace Systems, (  [Prof. Ming Liu 刘明.](http://homepage.hit.edu.cn/liuming23), Prof. Zhiqiang Ma) ; 
 - Mathematics, Special Iuuse: Mathematical Methods in Spacecraft Relative Motion (王伟, 党朝辉, 王继河, 孙然)
 - [Aerospace](https://www.mdpi.com/journal/aerospace/special_issues/U81MBDN1BK), Special Issue: Satellite Formation Flying: Dynamics and Control ( [Prof. Danil Ivanov](https://keldysh.ru/microsatellites/eng/team.html) , 王继河，王伟，孙然, 吴荩) ; 
