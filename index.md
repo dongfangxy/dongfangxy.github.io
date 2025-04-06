@@ -57,7 +57,7 @@ I am listed in [**World's Top 2% Scientists in 2023, 2024**](https://elsevier.di
 - Editorial Board, *AI and Autonomous Systems* (2023-present)
 - Editorial Board, *Complex Engineering Systems*
 - Associate Editor, *Frontiers in Aerospace Engineering* (2022-present) 
-- AI and Autonomous Systems, Special Issue, Planning,Control, and Learning in Mobile Robots (Prof. Shugen Ma马书根教授, Prof. Xin Xu, Dr. Jin Wu et al.)
+- AI and Autonomous Systems, Special Issue, Planning,Control, and Learning in Mobile Robots(Prof. Shugen Ma马书根教授, Prof. Xin Xu, 吴荩...)
 - [Mathematics](https://www.mdpi.com/journal/mathematics/special_issues/09O2330789), Special Issue: Applications of Machine Learning in Spacecraft and Aerospace Systems, (  [Prof. Ming Liu 刘明.](http://homepage.hit.edu.cn/liuming23), Prof. Zhiqiang Ma) ; 
 - Mathematics, Special Iuuse: Mathematical Methods in Spacecraft Relative Motion (王伟, 党朝辉, 王继河, 孙然)
 - [Aerospace](https://www.mdpi.com/journal/aerospace/special_issues/U81MBDN1BK), Special Issue: Satellite Formation Flying: Dynamics and Control ( [Prof. Danil Ivanov](https://keldysh.ru/microsatellites/eng/team.html) , 王继河，王伟，孙然, 吴荩) ; 
