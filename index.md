@@ -93,6 +93,7 @@ I am listed in [**World's Top 2% Scientists in 2023, 2024**](https://elsevier.di
 <li>
   {{papers.date | date: '%D'}} <a href="{{site.baseurl}}{{ papers.url }}">{{ papers.title }}</a>
   <p>{{papers.content}}</p>
+  <br />
 </li>
 {% endif %}
 {% endfor %}
