@@ -7,6 +7,7 @@ author: Chengxi Zhang
 comments: true
 ---
 <ol>
+    <li>Chenglong Xu, Chengxi Zhang, Jihe Wang. Passively Safe Configuration Design for Spacecraft Swarm Flying with Boundary Constraints. <b>Chinese Journal of Aeronautics</b></li>
     <li>Chengxi Zhang, Tianle Yin, Wenshuo Wang, Jin Wu, Jihe Wang, Yuhua Qi, Wei He. Clustering Strategy for Megaconstellation with Synergistic Energy and Size Considerations. <b>IEEE Transactions on Aerospace and Electronic Systems</b></li>
     <li>Yu Wang, Shunyi Zhao, Jin Wu, Lining Tan, Peng Dong, Chengxi Zhang. Sampled-Data Self-Learning Observer based Attitude Tracking Control Against Sensor-Actuator Faults. <b>Aerospace Systems</b></li>
     <li>卢瑞秋，谭力宁，蒋林华，张连仁，吴荩，张承玺. 基于时变学习强度学习观测器的姿态容错控制. <b>飞控与探测</b></li>
