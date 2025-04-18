@@ -7,7 +7,7 @@ author: Chengxi Zhang
 comments: true
 ---
 <ol> 
-     <li>6.Jihe Wang, Qiaoling Zeng, Chenglong Xu, Chengxi Zhang, Jinxiu Zhang. Low Computational Sequential Optimization for Large-scale Satellite Formation Reconfiguration
+     <li>Jihe Wang, Qiaoling Zeng, Chenglong Xu, Chengxi Zhang, Jinxiu Zhang. Low Computational Sequential Optimization for Large-scale Satellite Formation Reconfiguration
 <b>Aerospace Science and Technology</b></li>
     <li>Chenglong Xu, Chengxi Zhang, Jihe Wang. Passively Safe Configuration Design for Spacecraft Swarm Flying with Boundary Constraints. <b>Chinese Journal of Aeronautics</b></li>
     <li>Chengxi Zhang, Tianle Yin, Wenshuo Wang, Jin Wu, Jihe Wang, Yuhua Qi, Wei He. Clustering Strategy for Megaconstellation with Synergistic Energy and Size Considerations. <b>IEEE Transactions on Aerospace and Electronic Systems</b></li>
