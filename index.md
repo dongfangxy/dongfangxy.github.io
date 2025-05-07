@@ -75,6 +75,7 @@ I am listed in [**World's Top 2% Scientists in 2023, 2024**](https://elsevier.di
 - 深圳市科技创新委员会评审专家
 - YAC2025 Advances in Robotic Navigation, Localization and Mapping自动化青工委年会 机器人导航、定位、建图新进展 专题Co-chair(主席 Prof. 吴荩, Prof.姜艺)
 - [2024 Best Reviewer Award for *Intelligence & Robotics* (IR)]( https://mp.weixin.qq.com/s/PHyQPFkhlAKbvnnm8ppLbA ).
+- CSSCI期刊《中国科学基金》审稿人
 - TPC for ACA2025 Special Session (invited by Prof. 刘瑞霞)
 
 
