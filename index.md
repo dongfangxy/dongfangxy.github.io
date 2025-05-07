@@ -59,6 +59,10 @@ I am listed in [**World's Top 2% Scientists in 2023, 2024**](https://elsevier.di
 - Editorial Board, *AI and Autonomous Systems* (2023-present)
 - Editorial Board, *Complex Engineering Systems*
 - Associate Editor, *Frontiers in Aerospace Engineering* (2022-present) 
+- Co-chair,  Advances in Robotic Navigation, Localization and Mapping, YAC2025 机器人导航、定位、建图新进展 专题(主席 吴荩, 姜艺)
+- NSFC中文CSSCI期刊《中国科学基金》审稿人
+- 深圳市科技创新委员会评审专家
+- [2024 Best Reviewer Award for *Intelligence & Robotics* (IR)]( https://mp.weixin.qq.com/s/PHyQPFkhlAKbvnnm8ppLbA ).
 - AI and Autonomous Systems, Special Issue, Planning,Control, and Learning in Mobile Robots(Prof. Shugen Ma马书根教授, Prof. Xin Xu, 吴荩...)
 - [Mathematics](https://www.mdpi.com/journal/mathematics/special_issues/09O2330789), Special Issue: Applications of Machine Learning in Spacecraft and Aerospace Systems, (  [Prof. Ming Liu 刘明.](http://homepage.hit.edu.cn/liuming23), Prof. 马志强) ; 
 - Mathematics, Special Iuuse: Mathematical Methods in Spacecraft Relative Motion (王伟, 党朝辉, 王继河, 孙然)
@@ -72,10 +76,6 @@ I am listed in [**World's Top 2% Scientists in 2023, 2024**](https://elsevier.di
 - Program Committee Member of FASTA2025.
 - Technical Program Committee for IEEE GEM 2024 (2024 IEEE Gaming, Entertainment, and Media Conference (GEM))
 - TPC member (TPC) for ICCC'24 (2024 IEEE/CIC International Conference on Communications in China (ICCC))
-- 深圳市科技创新委员会评审专家
-- Advances in Robotic Navigation, Localization and Mapping, YAC2025 机器人导航、定位、建图新进展 专题Co-chair(主席 吴荩, 姜艺)
-- [2024 Best Reviewer Award for *Intelligence & Robotics* (IR)]( https://mp.weixin.qq.com/s/PHyQPFkhlAKbvnnm8ppLbA ).
-- NSFC主办中文CSSCI期刊《中国科学基金》审稿人
 - TPC for ACA2025 Special Session (invited by Prof. 刘瑞霞)
 
 
