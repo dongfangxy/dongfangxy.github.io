@@ -18,7 +18,9 @@ comments: true
     <li>Mingzhen Gui, Jin Liu, Chengxi Zhang, Mingzhe Dai. Advances in Deep Space Probe Navigation. <b>Applied Sciences.</b></li>
 <li>Yang Liu, Fulong Ma, Xiaodong Mei, Bohuan Xue, Jin Wu, Chengxi Zhang. Autonomous Drifting Like Professional Racing Drivers: A Survey <b>AppliedMath</b></li>
 <li>薛飞,  金国栋,  谭力宁, 张承玺. 基于物理信息神经网络的航空发动机状态监测与剩余寿命预测方法研究 <b>2025 IEEE 14th Data Driven Control and Learning Systems Conference</b></li>
+    <li>Xiaohe HE, Junyan XIANG, Mubiao YAN, Chengxi ZHANG, Zhuochen XIE, Xuwen LIANG. Integrated Clustering and Mission Planning for Agile Earth Observation Satellite Constellations <b>IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences</b></li>
     <li>Ruiqiu Lu, Tianle Yin, Lianren Zhang, Caisheng Wei, Wei Wang, Chengxi Zhang. Fault-Tolerant Control of Industrial Pneumatic Valves using Self-Learning Observers <b>The 40th Youth Academic Annual Conference of Chinese Association of Automation (YAC2025)</b></li>
+    <li>Yingqi LIANG, Jiaolong WANG, Jihe WANG, Shiaodi ZHOU, Chengxi ZHANG. Kalman Filtering Through Online Estimating the Power Spectral Density of Brownian Motion Process Noise for Target Tracking<b>IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences</b></li>
 </ol>
 
 
