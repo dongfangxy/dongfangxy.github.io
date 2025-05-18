@@ -36,6 +36,8 @@ I am listed in [**World's Top 2% Scientists in 2023, 2024**](https://elsevier.di
 
 入选江苏省人才项目(2024年)
 
+自动化学会青年工作委员会委员 (2025-)
+
 <br />
 
 ### Contact
@@ -60,7 +62,6 @@ I am listed in [**World's Top 2% Scientists in 2023, 2024**](https://elsevier.di
 - Editorial Board, *Complex Engineering Systems*
 - Associate Editor, *Frontiers in Aerospace Engineering* (2022-present) 
 - Co-chair,  Advances in Robotic Navigation, Localization and Mapping, YAC2025 机器人导航、定位、建图新进展 专题(主席 吴荩, 姜艺)
-- 自动化学会青年工作委员会委员(2025.6)
 - NSFC中文CSSCI期刊《中国科学基金》审稿人
 - 深圳市科技创新委员会评审专家
 - [2024 Best Reviewer Award for *Intelligence & Robotics* (IR)]( https://mp.weixin.qq.com/s/PHyQPFkhlAKbvnnm8ppLbA ).
