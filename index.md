@@ -36,7 +36,7 @@ I am listed in [**World's Top 2% Scientists in 2023, 2024**](https://elsevier.di
 
 入选江苏省人才项目(2024年)
 
-自动化学会青年工作委员会委员 (2025-)
+自动化学会青年工作委员会，委员 (2025-)
 
 <br />
 
@@ -58,12 +58,12 @@ I am listed in [**World's Top 2% Scientists in 2023, 2024**](https://elsevier.di
 - Editorial Board, *Symmetry* ([Computer Section Board Member](https://www.mdpi.com/journal/symmetry/sectioneditors/computer?page_no=2), 2025-present, SCI)
 - Editorial Board, [*AppliedMath*](https://www.mdpi.com/journal/appliedmath/editors) (2022-present, ESCI) 
 - Editorial Board, [*IoT (Internet of Things)*](https://www.mdpi.com/journal/IoT/editors) (2022-present, ESCI) 
+- Associate Editor, *Frontiers in Aerospace Engineering* (2022-present) 
 - Editorial Board, *AI and Autonomous Systems* (2023-present)
 - Editorial Board, *Complex Engineering Systems*
-- Associate Editor, *Frontiers in Aerospace Engineering* (2022-present) 
-- Co-chair,  Advances in Robotic Navigation, Localization and Mapping, YAC2025 机器人导航、定位、建图新进展 专题(主席 吴荩, 姜艺)
 - NSFC中文CSSCI期刊《中国科学基金》审稿人
 - 深圳市科技创新委员会评审专家
+- Co-chair,  Advances in Robotic Navigation, Localization and Mapping, YAC2025 机器人导航、定位、建图新进展 专题(主席 吴荩, 姜艺)
 - [2024 Best Reviewer Award for *Intelligence & Robotics* (IR)]( https://mp.weixin.qq.com/s/PHyQPFkhlAKbvnnm8ppLbA ).
 - AI and Autonomous Systems, Special Issue, Planning,Control, and Learning in Mobile Robots(Prof. Shugen Ma马书根教授, Prof. Xin Xu, 吴荩...)
 - [Mathematics](https://www.mdpi.com/journal/mathematics/special_issues/09O2330789), Special Issue: Applications of Machine Learning in Spacecraft and Aerospace Systems, (  [Prof. Ming Liu 刘明.](http://homepage.hit.edu.cn/liuming23), Prof. 马志强) ; 
