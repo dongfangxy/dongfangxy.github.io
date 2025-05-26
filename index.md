@@ -24,7 +24,7 @@ I was born in Qufu, China. I received the B.S. and M.S. degrees from the **Harbi
 
 I have published over 140 papers, including several ESI 1% & 0.1% Papers (See [**Publications**](https://dongfangxy.github.io/publications/)), and received 1600+ citations since 2018, by Google Scholar.  I received the Outstanding Postdoc Awards of HIT Shenzhen in 2022.
 
-I work with [**Prof. Jin Wu 吴荩**](https://zarathustr.github.io/) (北京科技大学)  [**Prof. Chong Li 李崇**](https://coe.ouc.edu.cn/2019/0819/c9094a256005/page.htm) (中国海洋大学), and [**Prof. Yi Jiang 姜艺**](https://yijiang1992.github.io/) (华中科技大学) since 2018.
+I work with [**Prof. Jin Wu 吴荩 教授**](https://zarathustr.github.io/) (北京科技大学)  **Prof. Chong Li 李崇教授** (中国海洋大学), and **Prof. Yi Jiang 姜艺教授**(华中科技大学) since 2018.
 
 I am listed in [**World's Top 2% Scientists in 2023, 2024**](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/7), by Stanford University and Elsevier.
 
@@ -36,7 +36,7 @@ I am listed in [**World's Top 2% Scientists in 2023, 2024**](https://elsevier.di
 
 入选江苏省人才项目(2024年)
 
-自动化学会青年工作委员会委员 (2025-)
+自动化学会青年工作委员会，委员 (2025-)
 
 <br />
 
