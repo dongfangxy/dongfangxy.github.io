@@ -26,7 +26,7 @@ I have published over 140 papers, including several ESI 1% & 0.1% Papers (See [*
 
 I work with [**Prof. Jin Wu 吴荩 教授**](https://zarathustr.github.io/) (北京科技大学)  **Prof. Chong Li 李崇教授** (中国海洋大学), and **Prof. Yi Jiang 姜艺教授**(华中科技大学) since 2018.
 
-Committee Member of Youth Work Committee, Chinese Association for Automation
+**Committee Member** of Youth Work Committee, Chinese Association for Automation
 
 I am listed in [**World's Top 2% Scientists in 2023, 2024**](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/7), by Stanford University and Elsevier.
 
