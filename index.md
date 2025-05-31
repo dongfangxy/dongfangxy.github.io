@@ -22,17 +22,17 @@ I was born in Qufu, China. I received the B.S. and M.S. degrees from the **Harbi
 
 <br />
 
-I have published over 140 papers, including several ESI 1% & 0.1% Papers (See [**Publications**](https://dongfangxy.github.io/publications/)), and received 1700+ citations since 2018, by Google Scholar.  I received the Outstanding Postdoc Awards of HIT Shenzhen in 2022.
+I have published over 150 papers, including several ESI 1% & 0.1% Papers (See [**Publications**](https://dongfangxy.github.io/publications/)), and received 1700+ citations since 2018, by Google Scholar.  I received the Outstanding Postdoc Awards of HIT Shenzhen in 2022.
 
 I work with [**Prof. Jin Wu 吴荩 教授**](https://zarathustr.github.io/) (北京科技大学)  **Prof. Chong Li 李崇教授** (中国海洋大学), and **Prof. Yi Jiang 姜艺教授**(华中科技大学) since 2018.
 
-**Committee Member** of Youth Work Committee, Chinese Association for Automation
+Committee Member of Youth Work Committee, Chinese Association for Automation
 
 I am listed in [**World's Top 2% Scientists in 2023, 2024**](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/7), by Stanford University and Elsevier.
 
 <br />
 
-发表学术论文140余篇，申请专利、国防专利4项，主编专著1本；主持国家自然科学基金1项，主持深圳市科技研发技术攻关重点项目子课题1项，主持中央高校基本科研计划基金1项，主持多项横向项目；参与巨星星座重点研发计划(自主导航与轨道控制技术)、深圳科技计划基础研究学科布局项目、机器学习及人工智能应用类项目等。
+发表学术论文150余篇，申请专利、国防专利4项，主编专著1本；主持国家自然科学基金1项，主持深圳市科技研发技术攻关重点项目子课题1项，主持中央高校基本科研计划基金1项，主持多项横向项目；参与巨星星座重点研发计划(自主导航与轨道控制技术)、深圳科技计划基础研究学科布局项目、机器学习及人工智能应用类项目等。
 
 首届哈尔滨工业大学(深圳)优秀博士后(2021)
 
