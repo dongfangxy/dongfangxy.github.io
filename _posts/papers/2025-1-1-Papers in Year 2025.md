@@ -23,6 +23,7 @@ comments: true
     <li>Xiaohe HE, Junyan XIANG, Mubiao YAN, Chengxi ZHANG, Zhuochen XIE, Xuwen LIANG. Integrated Clustering and Mission Planning for Agile Earth Observation Satellite Constellations <b>IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences</b></li>
     <li>Ruiqiu Lu, Tianle Yin, Lianren Zhang, Caisheng Wei, Wei Wang, Chengxi Zhang. Fault-Tolerant Control of Industrial Pneumatic Valves using Self-Learning Observers <b>The 40th Youth Academic Annual Conference of Chinese Association of Automation (YAC2025)</b></li>
     <li>Yingqi LIANG, Jiaolong WANG, Jihe WANG, Shiaodi ZHOU, Chengxi ZHANG. Kalman Filtering Through Online Estimating the Power Spectral Density of Brownian Motion Process Noise for Target Tracking<b>IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences</b></li>
+<li>Houcheng Jiang, Chengxi Zhang, Qijia Zhao, Shaolin Lv. Degree of Nonlinearity Analysis for Graphical State Space Model Solved by Factor Graph in Radar Tracking and GNSS/UWB Integration <b>Aerospace Systems</b></li>
 </ol>
 
 
