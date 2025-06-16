@@ -7,6 +7,7 @@ author: Chengxi Zhang
 comments: true
 ---
 <ol> 
+<li>Chengxi Zhang, Weijia Lu, Shunyi Zhao, Jin Wu, Xiaoyu Zhu, Zhijie Liu, Wei He. Enhancing Attitude Tracking with Self-learning Control using Tanh-type Learning Intensity. <b>IEEE Transactions on Automation Science and Engineering</b> </li>
     <li>Jihe Wang, Tianjie Liu, Chengxi Zhang, Jinxiu Zhang, Enhance Uniform Observation Ability of Remote Sensing Constellation using Ground Track Confguration Allocation <b>Aerospace Science and Technology</b></li>
 <li>Chengxi Zhang, Tianle Yin, Wenshuo Wang, Jin Wu, Jihe Wang, Yuhua Qi, Wei He. Clustering Strategy for Megaconstellation with Synergistic Energy and Size Considerations. <b>IEEE Transactions on Aerospace and Electronic Systems</b></li>     
 <li>Jihe Wang, Qiaoling Zeng, Chenglong Xu, Chengxi Zhang, Jinxiu Zhang. Low Computational Sequential Optimization for Large-scale Satellite Formation Reconfiguration
