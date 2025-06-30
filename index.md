@@ -36,7 +36,7 @@ I am listed in [**World's Top 2% Scientists in 2023, 2024**](https://elsevier.di
 
 首届哈尔滨工业大学(深圳)优秀博士后(2021)
 
-入选斯坦福大学-爱思唯尔([**全球前2%科学家名单**2023年, 2024年](https://topresearcherslist.com/Home/Profile?AuthFull=Zhang,%20Chengxi&FirstYear=2018))
+入选斯坦福大学-爱思唯尔[**全球前2%科学家名单**(2023年, 2024年)](https://topresearcherslist.com/Home/Profile?AuthFull=Zhang,%20Chengxi&FirstYear=2018)
 
 入选江苏省人才项目(2024年)
 
