@@ -159,6 +159,29 @@ I am listed in [**World's Top 2% Scientists in 2023, 2024**](https://elsevier.di
       </li>
     {% endif %}
   {% endfor %}
+
+
+{% for paper in site.data.selected_papers %}
+    <!-- 筛选条件二: journal 字段包含 "Journal of Guidance, Control, and Dynamics" -->
+    {% if paper.journal contains "Journal of Guidance, Control, and Dynamics" %}
+      <li class="paper-item">
+        <p class="paper-title">
+          {% if paper.url and paper.url != "" %}
+            <a href="{{ paper.url }}" target="_blank" rel="noopener noreferrer">{{ paper.title }}</a>
+          {% else %}
+            {{ paper.title }}
+          {% endif %}
+        </p>
+        <p class="paper-authors">{{ paper.authors }}</p>
+        <p class="paper-journal">
+          <span class="journal-name">{{ paper.journal }}</span>{% if paper.year %}, {{ paper.year }}{% endif %}.
+          {% if paper.notes and paper.notes != "" %}
+            <span class="paper-notes">[{{ paper.notes }}]</span>
+          {% endif %}
+        </p>
+      </li>
+    {% endif %}
+  {% endfor %}
 </ol>
 
 
