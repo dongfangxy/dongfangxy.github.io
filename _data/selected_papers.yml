@@ -1,0 +1,30 @@
+# _data/selected_papers.yml
+
+- authors: "Chengxi Zhang, Weijia Lu, Shunyi Zhao, Jin Wu, Xiaoyu Zhu, Zhijie Liu, Wei He"
+  title: "Enhancing Attitude Tracking with Self-learning Control using Tanh-type Learning Intensity"
+  journal: "IEEE Transactions on Automation Science and Engineering"
+  year: 2023 # 您可以添加年份字段
+  url: "https://doi.org/your-paper-link" # 您可以添加链接字段
+  notes: "ESI Highly cited paper" # 您可以添加备注字段
+
+- authors: "Chengxi Zhang, Tianle Yin, Wenshuo Wang, Jin Wu, Jihe Wang, Yuhua Qi, Wei He"
+  title: "Clustering Strategy for Megaconstellation with Synergistic Energy and Size Considerations"
+  journal: "IEEE Transactions on Aerospace and Electronic Systems"
+  year: 2023
+  url: ""
+  notes: ""
+
+- authors: "Tao Wang, Dezhi Xu, Chengxi Zhang, Bin Jiang"
+  title: "Resilient Control in Multi-Hydrofoil Crafts: Tackling Actuator Faults and False Data Injection for Attitude Consensus"
+  journal: "IEEE Transactions on Automation Science and Engineering"
+  year: 2022
+  url: ""
+  notes: ""
+
+- authors: "<b>Chengxi Zhang</b>, Jihe Wang, etc."
+  title: "Fault-tolerant adaptive finite-time attitude synchronization and tracking control for multi-spacecraft formation"
+  journal: "Aerospace Science and Technology"
+  year: 2018
+  notes: "Volume 73, Pages 197-209"
+
+# ... 在这里继续用这种结构化方式添加您所有的论文条目 ...
