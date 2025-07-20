@@ -107,48 +107,67 @@ I am listed in [**World's Top 2% Scientists in 2023, 2024**](https://elsevier.di
 <!-- /_includes/selected_papers.html 或者您放置代码的任何地方 -->
 
 <h3>精选论文 (仅显示 IEEE 相关期刊)</h3>
-<div class="papers-list">
+
+<!-- 1. 使用 <ol> 标签来自动生成序号 -->
+<ol class="papers-list">
   <!-- 遍历 _data/selected_papers.yml 文件中的每一篇论文 -->
   {% for paper in site.data.selected_papers %}
 
     <!-- 筛选条件: 检查 'journal' 字段是否包含 "IEEE" 字符串 -->
     {% if paper.journal contains "IEEE" %}
-      <div class="paper-item">
+
+      <!-- 每一个条目是一个 <li> 元素 -->
+      <li class="paper-item">
         <p class="paper-title">
-          <!-- 如果有链接，则标题可以点击；否则只显示标题 -->
           {% if paper.url and paper.url != "" %}
             <a href="{{ paper.url }}" target="_blank" rel="noopener noreferrer">{{ paper.title }}</a>
           {% else %}
             {{ paper.title }}
           {% endif %}
         </p>
+        <!-- 4. 要对 Chengxi Zhang 加粗，请直接在您的 .yml 文件中修改，例如: "authors: '<b>Chengxi Zhang</b>, Author Two'" -->
         <p class="paper-authors">{{ paper.authors }}</p>
         <p class="paper-journal">
-          <em>{{ paper.journal }}</em>{% if paper.year %}, {{ paper.year }}{% endif %}.
+          <!-- 3. 期刊名称斜体加粗 -->
+          <span class="journal-name">{{ paper.journal }}</span>{% if paper.year %}, {{ paper.year }}{% endif %}.
           {% if paper.notes and paper.notes != "" %}
             <span class="paper-notes">[{{ paper.notes }}]</span>
           {% endif %}
         </p>
-      </div>
+      </li>
     {% endif %}
 
   {% endfor %}
-</div>
+</ol>
 
-<!-- 您可以添加一些 CSS 来美化列表 -->
+<!-- 针对您的需求优化的 CSS -->
 <style>
+  /* 整体列表样式，设置左边距为序号留出空间 */
+  ol.papers-list {
+    padding-left: 2em; /* 为序号留出空间 */
+    margin-left: 0;
+  }
+
+  /* 5. 缩小条目间距 */
   .papers-list .paper-item {
-    margin-bottom: 1.5em; /* 每个条目之间的间距 */
-    padding-bottom: 1.5em;
+    padding-bottom: 0.8em; /* 条目下内边距，控制条目间距 */
+    margin-bottom: 0.8em;  /* 条目下外边距，进一步控制 */
     border-bottom: 1px solid #eee;
+    line-height: 1.3; /* 2. 缩小整体行距 */
   }
   .papers-list .paper-item:last-child {
     border-bottom: none;
+    margin-bottom: 0;
   }
+
+  /* 2. 缩小段落间距，实现更紧凑的行距效果 */
+  .paper-item p {
+    margin: 0 0 0.2em 0; /* 大大减小段落下方的间距 */
+  }
+
   .paper-title {
     font-weight: bold;
-    font-size: 1.1em;
-    margin: 0 0 0.25em 0;
+    font-size: 1.05em;
   }
   .paper-title a {
     text-decoration: none;
@@ -158,21 +177,23 @@ I am listed in [**World's Top 2% Scientists in 2023, 2024**](https://elsevier.di
     text-decoration: underline;
   }
   .paper-authors {
-    margin: 0 0 0.25em 0;
     font-size: 0.95em;
   }
   .paper-journal {
-    margin: 0;
     font-size: 1em;
     color: #555;
   }
-  .paper-journal em {
+
+  /* 3. 实现期刊名称斜体加粗 */
+  .paper-journal .journal-name {
     font-style: italic;
+    font-weight: bold;
   }
+
   .paper-notes {
     margin-left: 8px;
     font-size: 0.9em;
-    color: #c00; /* 红色，用于突出备注 */
+    color: #c00;
   }
 </style>
 
