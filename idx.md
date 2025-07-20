@@ -136,18 +136,9 @@ I am listed in [**World's Top 2% Scientists in 2023, 2024**](https://elsevier.di
       </li>
     {% endif %}
   {% endfor %}
-</ol>
 
-<br> <!-- 在两个列表之间增加一些间距 -->
 
-<!-- ================================================== -->
-<!-- ==  列表二: Aerospace Science and Technology   == -->
-<!-- ================================================== -->
-<h3>精选论文 (Aerospace Science and Technology)</h3>
-
-<ol class="papers-list">
-  <!-- 再次遍历数据文件 -->
-  {% for paper in site.data.selected_papers %}
+{% for paper in site.data.selected_papers %}
     <!-- 筛选条件二: journal 字段包含 "Aerospace Science and Technology" -->
     {% if paper.journal contains "Aerospace Science and Technology" %}
       <li class="paper-item">
@@ -169,6 +160,7 @@ I am listed in [**World's Top 2% Scientists in 2023, 2024**](https://elsevier.di
     {% endif %}
   {% endfor %}
 </ol>
+
 
 
 <!-- ================================================== -->
