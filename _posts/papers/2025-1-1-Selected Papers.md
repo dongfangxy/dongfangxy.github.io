@@ -75,32 +75,7 @@ synchronization and tracking control for multi-spacecraft formation.&nbsp;</span
 	<li>
 		<b><span style="line-height:1;">Chengxi Zhang,</span></b><span style="line-height:1;">&nbsp;Jihe Wang, etc. Learning observer based and event-triggered control to spacecraft against actuator faults,&nbsp;</span><b><span style="line-height:1;">Aerospace Science and Technology</span></b><i><span style="line-height:1;">,</span></i><span style="line-height:1;">&nbsp;78 (2018) 522–530.</span><span style="line-height:2;"></span> 
 	</li>
-	<li>
-		<b><span style="line-height:1;">Chengxi
-Zhang, </span></b><span style="line-height:1;">Jihe Wang, etc. Multi-spacecraft attitude cooperative control
-using model-based event-triggered methodology</span><b><span style="line-height:1;">, Advances in Space Research</span></b><span style="line-height:1;">,</span><b> </b><span style="line-height:1;">62 (2018) 2620–2630.&nbsp;</span> 
-	</li>
-	<li>
-		<b><span style="line-height:1;">Chengxi
-Zhang</span></b><span style="line-height:1;">, Jihe Wang, etc. Synchronization and tracking of multi-spacecraft
-formation attitude control using adaptive sliding mode, </span><b><span style="line-height:1;">Asian Journal of Control</span></b><span style="line-height:1;">, 21 (2019) 1–15.&nbsp;</span> 
-	</li>
-	<li>
-		<b><span style="line-height:1;">Chengxi
-Zhang</span></b><span style="line-height:1;">, Jin Wu, Ming-Zhe Dai, Bo Li, Mingjiang Wang. Event- and
-self-triggered control of attitude coordination to multi-spacecraft formation. </span><b><span style="line-height:1;">Aircraft Engineering and Aerospace
-Technology</span></b><span style="line-height:1;">, 2020.&nbsp;</span> 
-	</li>
-	<li>
-		<span style="line-height:2;"><strong><span style="line-height:1;">Chengxi Zhang</span></strong><span style="line-height:1;">, Jin Wu, Yulong Huang, Yu Jiang, Ming-Zhe Dai, Mingjiang Wang, Constructive Schemes to Spacecraft Attitude Control with Low Communication Frequency using Sampled-Data and Encryption Approaches,&nbsp;</span><strong><span style="line-height:1;">Aircraft Engineering and Aerospace Technology</span></strong><strong><span style="line-height:1;">,&nbsp;</span></strong><br />
-</span> 
-	</li>
-	<li>
-		<span style="line-height:2;"><strong><span style="line-height:1;">Chengxi Zhang</span></strong><span style="line-height:1;">, Bing Xiao, Jin Wu, Bo Li.&nbsp;On Low-Complexity Control Design to Spacecraft Attitude Stabilization: An Online-Learning Approach.&nbsp;</span></span><strong><span style="line-height:1;">Aerospace Science and Technology, </span></strong><span style="line-height:1;">2020. (in publishing)</span><span></span><strong></strong><span></span> 
-	</li>
-	<li>
-		<strong><span style="line-height:1;">Chengxi Zhang</span></strong><span style="line-height:1;">, Jin Wu, Ran Sun, Mingjiang Wang, Dechao Ran. Actuator Model for Spacecraft Attitude Control Simulation.</span><span style="line-height:1;">,&nbsp;</span><strong><span style="line-height:1;">Aircraft Engineering and Aerospace Technology</span></strong><strong><span style="line-height:1;">,&nbsp;</span></strong><span><span style="line-height:1;">2020. (to be published, doi: </span><span style="color:#31353B;font-family:Verdana, &quot;font-size:14px;line-height:1;">10.1108/AEAT-10-2020-0226</span><span style="line-height:1;">)</span></span><br />
-	</li>
+	<li>Chengxi Zhang, Bing Xiao, Jin Wu, Bo Li.&nbsp;On Low-Complexity Control Design to Spacecraft Attitude Stabilization: An Online-Learning Approach. <b>Aerospace Science and Technology, </b> 2020. </li>
 	<li>
 		<strong><span style="line-height:1;">Chengxi Zhang</span></strong><span style="line-height:1;">, Jin Wu, Choon Ki Ahn, Zhongyang Fei, Caisheng Wei. Learning Observer and Performance Tuning Based Robust Consensus Policy for Multi-agent Systems. </span><strong><span style="line-height:1;">IEEE Systems Journal. 2020. (Accepted)</span></strong><br />
 	</li>
@@ -113,16 +88,14 @@ Technology</span></b><span style="line-height:1;">, 2020.&nbsp;</span>
 Estimation for Hand-eye Calibration,</span><i> </i><b><span style="line-height:1;">IEEE Transactions on Instrumentation and
 Measurement</span></b><i><span style="line-height:1;">, </span></i><span style="line-height:1;">2020</span><i><span style="line-height:1;">.&nbsp;</span></i> 
 	</li>
-	<li>
-		<span style="line-height:1;">Ran Sun, Aidang Shan, </span><b><span style="line-height:1;">Chengxi Zhang</span></b><span style="line-height:1;">, Jin Wu, Qingxian Jia. Quantized
+	<li><span style="line-height:1;">Ran Sun, Aidang Shan, </span><b><span style="line-height:1;">Chengxi Zhang</span></b><span style="line-height:1;">, Jin Wu, Qingxian Jia. Quantized
 Fault-Tolerant Control for Attitude Stabilization with Fixed-Time Disturbance
 Observer, </span><b><span style="line-height:1;">Journal of Guidance, Control,
 and Dynamics</span></b><span style="line-height:1;">, 2020.&nbsp;</span><span style="line-height:1;">(to be published.)</span> 
 	</li>
 
 	
-	<li>
-		<span style="line-height:1;">Jin Wu, Ming Liu, Yilong Zhu, Zhuhao
+	<li><span style="line-height:1;">Jin Wu, Ming Liu, Yilong Zhu, Zhuhao
 Zou, Ming-Zhe Dai, </span><b><span style="line-height:1;">Chengxi Zhang</span></b><span style="line-height:1;">, Yi
 Jiang, Chong Li, Globally Optimal Symbolic Hand-Eye Calibration, </span><b><span style="line-height:1;">IEEE/ASME Transactions on Mechatronics</span></b><span style="line-height:1;">,</span><b> </b><span style="line-height:1;">2020.&nbsp;</span> 
 	</li>
