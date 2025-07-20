@@ -91,6 +91,7 @@ I am listed in [**World's Top 2% Scientists in 2023, 2024**](https://elsevier.di
 
 <br />
 
+<!-- 
 ### Selected Papers
 <ul>
 {% for papers in site.posts limit:10%}
@@ -103,10 +104,11 @@ I am listed in [**World's Top 2% Scientists in 2023, 2024**](https://elsevier.di
 {% endif %}
 {% endfor %}
 </ul>
+-->
 
 <!-- /_includes/selected_papers.html 或者您放置代码的任何地方 -->
 
-<h3>精选论文 (仅显示 IEEE 相关期刊)</h3>
+<h3>Selected Papers</h3>
 
 <!-- 1. 使用 <ol> 标签来自动生成序号 -->
 <ol class="papers-list">
