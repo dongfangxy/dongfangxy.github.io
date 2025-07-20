@@ -108,17 +108,16 @@ I am listed in [**World's Top 2% Scientists in 2023, 2024**](https://elsevier.di
 
 <!-- /_includes/selected_papers.html 或者您放置代码的任何地方 -->
 
-<h3>Selected Papers</h3>
+<!-- ================================================== -->
+<!-- ==           列表一: IEEE 相关期刊              == -->
+<!-- ================================================== -->
+<h3>精选论文 (IEEE 相关期刊)</h3>
 
-<!-- 1. 使用 <ol> 标签来自动生成序号 -->
 <ol class="papers-list">
-  <!-- 遍历 _data/selected_papers.yml 文件中的每一篇论文 -->
+  <!-- 遍历数据文件 -->
   {% for paper in site.data.selected_papers %}
-
-    <!-- 筛选条件: 检查 'journal' 字段是否包含 "IEEE" 字符串 -->
+    <!-- 筛选条件一: journal 字段包含 "IEEE" -->
     {% if paper.journal contains "IEEE" %}
-
-      <!-- 每一个条目是一个 <li> 元素 -->
       <li class="paper-item">
         <p class="paper-title">
           {% if paper.url and paper.url != "" %}
@@ -127,10 +126,8 @@ I am listed in [**World's Top 2% Scientists in 2023, 2024**](https://elsevier.di
             {{ paper.title }}
           {% endif %}
         </p>
-        <!-- 4. 要对 Chengxi Zhang 加粗，请直接在您的 .yml 文件中修改，例如: "authors: '<b>Chengxi Zhang</b>, Author Two'" -->
         <p class="paper-authors">{{ paper.authors }}</p>
         <p class="paper-journal">
-          <!-- 3. 期刊名称斜体加粗 -->
           <span class="journal-name">{{ paper.journal }}</span>{% if paper.year %}, {{ paper.year }}{% endif %}.
           {% if paper.notes and paper.notes != "" %}
             <span class="paper-notes">[{{ paper.notes }}]</span>
@@ -138,35 +135,63 @@ I am listed in [**World's Top 2% Scientists in 2023, 2024**](https://elsevier.di
         </p>
       </li>
     {% endif %}
-
   {% endfor %}
 </ol>
 
-<!-- 针对您的需求优化的 CSS -->
+<br> <!-- 在两个列表之间增加一些间距 -->
+
+<!-- ================================================== -->
+<!-- ==  列表二: Aerospace Science and Technology   == -->
+<!-- ================================================== -->
+<h3>精选论文 (Aerospace Science and Technology)</h3>
+
+<ol class="papers-list">
+  <!-- 再次遍历数据文件 -->
+  {% for paper in site.data.selected_papers %}
+    <!-- 筛选条件二: journal 字段包含 "Aerospace Science and Technology" -->
+    {% if paper.journal contains "Aerospace Science and Technology" %}
+      <li class="paper-item">
+        <p class="paper-title">
+          {% if paper.url and paper.url != "" %}
+            <a href="{{ paper.url }}" target="_blank" rel="noopener noreferrer">{{ paper.title }}</a>
+          {% else %}
+            {{ paper.title }}
+          {% endif %}
+        </p>
+        <p class="paper-authors">{{ paper.authors }}</p>
+        <p class="paper-journal">
+          <span class="journal-name">{{ paper.journal }}</span>{% if paper.year %}, {{ paper.year }}{% endif %}.
+          {% if paper.notes and paper.notes != "" %}
+            <span class="paper-notes">[{{ paper.notes }}]</span>
+          {% endif %}
+        </p>
+      </li>
+    {% endif %}
+  {% endfor %}
+</ol>
+
+
+<!-- ================================================== -->
+<!-- ==         共享的 CSS 样式 (无需修改)           == -->
+<!-- ================================================== -->
 <style>
-  /* 整体列表样式，设置左边距为序号留出空间 */
   ol.papers-list {
-    padding-left: 2em; /* 为序号留出空间 */
+    padding-left: 2em;
     margin-left: 0;
   }
-
-  /* 5. 缩小条目间距 */
   .papers-list .paper-item {
-    padding-bottom: 0.8em; /* 条目下内边距，控制条目间距 */
-    margin-bottom: 0.8em;  /* 条目下外边距，进一步控制 */
+    padding-bottom: 0.8em;
+    margin-bottom: 0.8em;
     border-bottom: 1px solid #eee;
-    line-height: 1.3; /* 2. 缩小整体行距 */
+    line-height: 1.3;
   }
   .papers-list .paper-item:last-child {
     border-bottom: none;
     margin-bottom: 0;
   }
-
-  /* 2. 缩小段落间距，实现更紧凑的行距效果 */
   .paper-item p {
-    margin: 0 0 0.2em 0; /* 大大减小段落下方的间距 */
+    margin: 0 0 0.2em 0;
   }
-
   .paper-title {
     font-weight: bold;
     font-size: 1.05em;
@@ -185,13 +210,10 @@ I am listed in [**World's Top 2% Scientists in 2023, 2024**](https://elsevier.di
     font-size: 1em;
     color: #555;
   }
-
-  /* 3. 实现期刊名称斜体加粗 */
   .paper-journal .journal-name {
     font-style: italic;
     font-weight: bold;
   }
-
   .paper-notes {
     margin-left: 8px;
     font-size: 0.9em;
