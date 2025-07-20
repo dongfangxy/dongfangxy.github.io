@@ -39,33 +39,25 @@ comments: true
 	<li>Jin Wu, Miaomiao Wang, Hassen Fourati, Hui Li, Yilong Zhu, <b>Chengxi Zhang</b>, Yi Jiang, Xiangcheng Hu, Ming Liu. Generalized n-Dimensional Rigid Registration: Theory and Applications.  <b>IEEE Transactions on Cybernetics</b> </li>
 	<li>Chong Li, Yuchen Wang, Choon Ki Ahn, Chengxi Zhang, Bo Wang. Milli-Hertz Frequency Tuning Architecture Towards High Repeatable Micromachined Axi-Symmetry Gyroscopes. <b>IEEE Transactions on Industrial Electronics</b></li>
 	
-<li>Haibin Wang, Mingyang Li, <b>Chengxi Zhang</b>, Xiaodong Shao. Event-Based Prescribed Performance Control for Dynamic Positioning Vessels, <b>IEEE Transactions on Circuits and Systems II: Express Briefs</b>. (in press, doi:10.1109/TCSII.2021.3050523)</li>
-	<li>Ming-Zhe Dai, Bing Xiao*, <b>Chengxi Zhang*</b>, Jin Wu. Event-Triggered Policy to Spacecraft Attitude Stabilization with Actuator Output Nonlinearities, <b>IEEE Transactions on Circuits and Systems II: Express Briefs</b>. (in press, doi:10.1109/TCSII.2021.3056761)</li>
-	<li>Yi Jiang, Kai Zhang, Jin Wu, <b>Chengxi Zhang</b>, Wenqian Xue, Tianyou Chai, Frank L. Lewis. H∞ based Minimal Energy Adaptive Control with Preset Convergence Rate, <b>IEEE Transactions on Cybernetics</b>. (in press, doi:10.1109/TCYB.2021.3061894)</li>
+<li>Haibin Wang, Mingyang Li, <b>Chengxi Zhang</b>, Xiaodong Shao. Event-Based Prescribed Performance Control for Dynamic Positioning Vessels, <b>IEEE Transactions on Circuits and Systems II: Express Briefs</b>. </li>
+	<li>Ming-Zhe Dai, Bing Xiao*, <b>Chengxi Zhang*</b>, Jin Wu. Event-Triggered Policy to Spacecraft Attitude Stabilization with Actuator Output Nonlinearities, <b>IEEE Transactions on Circuits and Systems II: Express Briefs</b>. </li>
+	<li>Yi Jiang, Kai Zhang, Jin Wu, <b>Chengxi Zhang</b>, Wenqian Xue, Tianyou Chai, Frank L. Lewis. H∞ based Minimal Energy Adaptive Control with Preset Convergence Rate, <b>IEEE Transactions on Cybernetics</b>. </li>
 	
 	<li>Caisheng Wei, Mingzhen Gui, <b>Chengxi Zhang</b>, Yuxin Liao, Ming-zhe Dai, Biao Luo. Adaptive Appointed-Time Consensus Control of Networked Euler-Lagrange Systems with Connectivity Preservation.<b> IEEE Transactions on Cybernetics</b>. (Accept, doi:)</li>
 	<li><b>Chengxi Zhang</b>, Ming-Zhe Dai, Jin Wu, Bing Xiao, Bo Li, Mingjiang Wang. Neural-networks and event-based fault-tolerant control for spacecraft attitude stabilization.<b> Aerospace Science and Technology</b></li>
-	<li><b>Chengxi Zhang</b>, Hui-Jie Sun, Jin Wu, Zhongyang Fei, Yu Jiang, Guanhua Zhang. Spacecraft Attitude Control with Mutating Orbital Rate and Actuator Fading under Markovian Jump Framework.<b> Aircraft Engineering and Aerospace Technology</b> </li>
-	
+
 	<li>Ming-Zhe Dai, Choon Ki Ahn, Jin Wu , <b>Chengxi Zhang</b>, Mingzhen Gui. Performance Adjustable Event-Triggered Synchronization Policies to Nonlinear Multi-Agent Systems. <b>IEEE Systems Journal </b>  </li>
 	<li>Jin Wu, Chong Li, <b>Chengxi Zhang</b>, Yi Jiang, Yulong Huang, Lujia Wang, Ming Liu. Trust-Region Solver of A Nonlinear Magnetometer Disturbance Estimation Problem. <b>IEEE Sensors Journal </b> </li>
 	<li>Mingzhen Gui, Xiaolin Ning, <b>Chengxi Zhang</b>, Ming-Zhe Dai. A Time Delay/Star Angle Integrated Navigation Method Based on the Event-triggered Implicit Unscented Kalman Filter. <b>IEEE Transactions on Instrumentation and Measurement</b> </li>
-	<li><b>Chengxi Zhang</b>, Peng Dong, Henry Leung, Jin Wu, Kai Shen. Reset and Prescribed Performance Approach to Spacecraft Attitude Regulation. <b>Aircraft Engineering and Aerospace Technology</b>. </li>
+	
 	<li><b>Chengxi Zhang</b>, Choon Ki Ahn, Jin Wu, Wei He. Online-Learning Control with Weakened Saturation Response to Attitude Tracking: A Variable Learning Intensity Approach. <b>Aerospace Science and Technology</b> </li>
 	<li>Zhenhua Pan, <b>Chengxi Zhang</b>, Yuanqing Xia, Hao Xiong, Xiaodong Shao. An Improved Artificial Potential Field Method for Path Planning and Formation Control of the Multi-UAV Systems. <b> IEEE Transactions on Circuits and Systems II: Express Briefs</b>. </li>
-	<li>Dechao Ran，<b>Chengxi Zhang*</b>, Bing Xiao. Limited-Information Learning Observer for Simultaneous Estimation of States and Parameters. <b> International Journal of Robust and Nonlinear Control</b>.  </li>
 	<li><b>Chengxi Zhang</b>, Choon Ki Ahn, Jin Wu, Wei He, Yi Jiang, Ming Liu. Robustification of Learning Observers to Uncertainty Identification via Time-varying Learning Intensity. <b>IEEE Transactions on Circuits and Systems II: Express Briefs</b></li>
 	<li>Yu Lu, Rong Su, <b>Chengxi Zhang</b>, Lei Qiao. Event-triggered Adaptive Formation Keeping and Interception Scheme for Autonomous Surface Vehicles under Malicious Attacks . <b>IEEE Transactions on Industrial Informatics </b> </li>
 	<li>Ming-Zhe Dai, <b>Chengxi Zhang*</b>, Henry Leung, Peng Dong, Bo Li. Distributed Integral-Type Edge Event- and Self-Triggered Synchronization for Nonlinear Multi-Agent Systems . <b>IEEE Transactions on Systems, Man and Cybernetics: Systems  </b> (Accept)</li>
 	<li>Ming-Zhe Dai, Choon Ki Ahn, Chengxi Zhang, Caisheng Wei, Jin Wu. On Prescribed Performance Synchronization to QUAD Nonlinear Multi-Agent Networks <b>IEEE Transactions on Circuits and Systems II: Express Briefs </b></li>
 
-<li>
-		<b><span style="line-height:1;">Chengxi
-Zhang</span></b><span style="line-height:1;">, Ming-Zhe Dai, Peng Dong, Henry Leung, Jihe Wang. Fault-Tolerant
-Attitude Stabilization for Spacecraft with Low-Frequency Actuator Updates: An
-Integral-Type Event-Triggered Approach, </span><b><span style="line-height:1;">IEEE
-Transactions on Aerospace and Electronic Systems (ESI Highly cited papers)</span> </b><span style="line-height:1;">, 2020.&nbsp;</span><span style="line-height:1;">&nbsp;</span> 
-	</li>
+<li><b>Chengxi Zhang</b>, Ming-Zhe Dai, Peng Dong, Henry Leung, Jihe Wang. Fault-Tolerant Attitude Stabilization for Spacecraft with Low-Frequency Actuator Updates: An Integral-Type Event-Triggered Approach, <b>IEEE Transactions on Aerospace and Electronic Systems (ESI Highly cited papers) </b>, 2020.</li>
 	<li>
 		<b><span style="line-height:1;">Chengxi
 Zhang</span></b><span style="line-height:1;">, Jihe</span><span style="line-height:1;"> Wang, etc., Fault-tolerant adaptive finite-time attitude
@@ -77,10 +69,10 @@ synchronization and tracking control for multi-spacecraft formation.&nbsp;</span
 	</li>
 	<li>Chengxi Zhang, Bing Xiao, Jin Wu, Bo Li.&nbsp;On Low-Complexity Control Design to Spacecraft Attitude Stabilization: An Online-Learning Approach. <b>Aerospace Science and Technology, </b> 2020. </li>
 	<li>
-		<strong><span style="line-height:1;">Chengxi Zhang</span></strong><span style="line-height:1;">, Jin Wu, Choon Ki Ahn, Zhongyang Fei, Caisheng Wei. Learning Observer and Performance Tuning Based Robust Consensus Policy for Multi-agent Systems. </span><strong><span style="line-height:1;">IEEE Systems Journal. 2020. (Accepted)</span></strong><br />
+		<strong><span style="line-height:1;">Chengxi Zhang</span></strong><span style="line-height:1;">, Jin Wu, Choon Ki Ahn, Zhongyang Fei, Caisheng Wei. Learning Observer and Performance Tuning Based Robust Consensus Policy for Multi-agent Systems. </span><strong><span style="line-height:1;">IEEE Systems Journal. 2020. </span></strong><br />
 	</li>
 	<li>
-		<strong><span style="line-height:1;">Chengxi Zhang, </span></strong><span style="line-height:1;">Choon Ki Ahn, Bing Xiao, Jin Wu,&nbsp;On Attitude Tracking Control with Communication-Saving: An Integrated Quantized and Event-Based Scheme, 2020. </span><strong><span style="line-height:1;">IEEE Transactions on Circuits and Systems II: Express Briefs</span></strong><span style="line-height:1;"> (Accept)</span> 
+		<strong><span style="line-height:1;">Chengxi Zhang, </span></strong><span style="line-height:1;">Choon Ki Ahn, Bing Xiao, Jin Wu,&nbsp;On Attitude Tracking Control with Communication-Saving: An Integrated Quantized and Event-Based Scheme, 2020. </span><strong><span style="line-height:1;">IEEE Transactions on Circuits and Systems II: Express Briefs</span></strong><span style="line-height:1;"> </span> 
 	</li>
 	
 	<li>
@@ -91,7 +83,7 @@ Measurement</span></b><i><span style="line-height:1;">, </span></i><span style="
 	<li><span style="line-height:1;">Ran Sun, Aidang Shan, </span><b><span style="line-height:1;">Chengxi Zhang</span></b><span style="line-height:1;">, Jin Wu, Qingxian Jia. Quantized
 Fault-Tolerant Control for Attitude Stabilization with Fixed-Time Disturbance
 Observer, </span><b><span style="line-height:1;">Journal of Guidance, Control,
-and Dynamics</span></b><span style="line-height:1;">, 2020.&nbsp;</span><span style="line-height:1;">(to be published.)</span> 
+and Dynamics</span></b><span style="line-height:1;">, 2020.&nbsp;</span><span style="line-height:1;"></span> 
 	</li>
 
 	
@@ -102,7 +94,7 @@ Jiang, Chong Li, Globally Optimal Symbolic Hand-Eye Calibration, </span><b><span
 	<li>
 		<span style="line-height:1;">Jin Wu, Yi Jiang, Chong Li, Ran Sun,</span><b><span style="line-height:1;"> Chengxi Zhang</span></b><span style="line-height:1;">, Yang Yu, Yilong Zhu,
 Ming Liu, Circuit Synthesis of 3-D Rotation Orthonormalization, </span><b><span style="line-height:1;">IEEE Transactions on Circuits and Systems
-II: Express Briefs</span></b><span style="line-height:1;">, 2020.&nbsp;</span><span style="line-height:1;">&nbsp;(Accept.)</span> 
+II: Express Briefs</span></b><span style="line-height:1;">, 2020.&nbsp;</span><span style="line-height:1;">&nbsp;</span> 
 	</li>
 	
 	
