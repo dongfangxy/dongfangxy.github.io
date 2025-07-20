@@ -91,7 +91,7 @@ I am listed in [**World's Top 2% Scientists in 2023, 2024**](https://elsevier.di
 
 <br />
 
-### Publications
+### Selected Papers
 <ul>
 {% for papers in site.posts limit:10%}
 {% if papers.category == "selectedPapers"%}
