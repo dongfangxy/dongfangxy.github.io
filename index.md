@@ -94,7 +94,7 @@ I am listed in [**World's Top 2% Scientists in 2023, 2024**](https://elsevier.di
 ### Publications
 <ul>
 {% for papers in site.posts limit:10%}
-{% if papers.category == "paper"%}
+{% if papers.category == "selectedPapers"%}
 <li>
   {{papers.date | date: '%D'}} <a href="{{site.baseurl}}{{ papers.url }}">{{ papers.title }}</a>
   <p>{{papers.content}}</p>
