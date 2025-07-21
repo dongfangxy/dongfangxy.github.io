@@ -275,7 +275,7 @@
   journal: "IEEE Transactions on Systems, Man and Cybernetics: Systems"
   year:
   url:
-  notes: "Accept"
+  notes: 
 
 - authors: "Ming-Zhe Dai, Choon Ki Ahn, <b>Chengxi Zhang</b>, Caisheng Wei, Jin Wu"
   title: "On Prescribed Performance Synchronization to QUAD Nonlinear Multi-Agent Networks"

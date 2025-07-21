@@ -111,6 +111,7 @@ I am listed in [**World's Top 2% Scientists in 2023, 2024**](https://elsevier.di
 <!-- 检查数据文件是否存在且不为空 -->
 {% if site.data.selected_papers and site.data.selected_papers.size > 0 %}
 
+
 <!-- ================================================== -->
 <!-- ==           列表一: IEEE 相关期刊              == -->
 <!-- ================================================== -->
@@ -118,15 +119,24 @@ I am listed in [**World's Top 2% Scientists in 2023, 2024**](https://elsevier.di
 <ol class="papers-list">
   <!-- 第一遍: 第一作者 -->
   {% for paper in site.data.selected_papers %}
-    {% if paper.journal contains "IEEE" and paper.authors starts_with "<b>Chengxi Zhang</b>" %}
-      {% include paper_item.html paper=paper %}
+    <!-- 防御性检查: 确保 paper.journal 和 paper.authors 存在后再进行判断 -->
+    {% if paper.journal and paper.authors and paper.journal contains "IEEE" and paper.authors starts_with "<b>Chengxi Zhang</b>" %}
+      <li class="paper-item">
+        <p class="paper-title">{% if paper.url and paper.url != "" %}<a href="{{ paper.url }}" target="_blank" rel="noopener noreferrer">{{ paper.title }}</a>{% else %}{{ paper.title }}{% endif %}</p>
+        <p class="paper-authors">{{ paper.authors }}</p>
+        <p class="paper-journal"><span class="journal-name">{{ paper.journal }}</span>{% if paper.year %}, {{ paper.year }}{% endif %}.{% if paper.notes and paper.notes != "" %}<span class="paper-notes">[{{ paper.notes }}]</span>{% endif %}</p>
+      </li>
     {% endif %}
   {% endfor %}
 
   <!-- 第二遍: 其他作者 -->
   {% for paper in site.data.selected_papers %}
-    {% if paper.journal contains "IEEE" and paper.authors starts_with "<b>Chengxi Zhang</b>" == false %}
-      {% include paper_item.html paper=paper %}
+    {% if paper.journal and paper.authors and paper.journal contains "IEEE" and paper.authors starts_with "<b>Chengxi Zhang</b>" == false %}
+      <li class="paper-item">
+        <p class="paper-title">{% if paper.url and paper.url != "" %}<a href="{{ paper.url }}" target="_blank" rel="noopener noreferrer">{{ paper.title }}</a>{% else %}{{ paper.title }}{% endif %}</p>
+        <p class="paper-authors">{{ paper.authors }}</p>
+        <p class="paper-journal"><span class="journal-name">{{ paper.journal }}</span>{% if paper.year %}, {{ paper.year }}{% endif %}.{% if paper.notes and paper.notes != "" %}<span class="paper-notes">[{{ paper.notes }}]</span>{% endif %}</p>
+      </li>
     {% endif %}
   {% endfor %}
 </ol>
@@ -136,18 +146,27 @@ I am listed in [**World's Top 2% Scientists in 2023, 2024**](https://elsevier.di
 <!-- ================================================== -->
 <!-- ==  列表二: Aerospace Science and Technology   == -->
 <!-- ================================================== -->
+
 <ol class="papers-list">
   <!-- 第一遍: 第一作者 -->
   {% for paper in site.data.selected_papers %}
-    {% if paper.journal contains "Aerospace Science and Technology" and paper.authors starts_with "<b>Chengxi Zhang</b>" %}
-      {% include paper_item.html paper=paper %}
+    {% if paper.journal and paper.authors and paper.journal contains "Aerospace Science and Technology" and paper.authors starts_with "<b>Chengxi Zhang</b>" %}
+      <li class="paper-item">
+        <p class="paper-title">{% if paper.url and paper.url != "" %}<a href="{{ paper.url }}" target="_blank" rel="noopener noreferrer">{{ paper.title }}</a>{% else %}{{ paper.title }}{% endif %}</p>
+        <p class="paper-authors">{{ paper.authors }}</p>
+        <p class="paper-journal"><span class="journal-name">{{ paper.journal }}</span>{% if paper.year %}, {{ paper.year }}{% endif %}.{% if paper.notes and paper.notes != "" %}<span class="paper-notes">[{{ paper.notes }}]</span>{% endif %}</p>
+      </li>
     {% endif %}
   {% endfor %}
 
   <!-- 第二遍: 其他作者 -->
   {% for paper in site.data.selected_papers %}
-    {% if paper.journal contains "Aerospace Science and Technology" and paper.authors starts_with "<b>Chengxi Zhang</b>" == false %}
-      {% include paper_item.html paper=paper %}
+    {% if paper.journal and paper.authors and paper.journal contains "Aerospace Science and Technology" and paper.authors starts_with "<b>Chengxi Zhang</b>" == false %}
+      <li class="paper-item">
+        <p class="paper-title">{% if paper.url and paper.url != "" %}<a href="{{ paper.url }}" target="_blank" rel="noopener noreferrer">{{ paper.title }}</a>{% else %}{{ paper.title }}{% endif %}</p>
+        <p class="paper-authors">{{ paper.authors }}</p>
+        <p class="paper-journal"><span class="journal-name">{{ paper.journal }}</span>{% if paper.year %}, {{ paper.year }}{% endif %}.{% if paper.notes and paper.notes != "" %}<span class="paper-notes">[{{ paper.notes }}]</span>{% endif %}</p>
+      </li>
     {% endif %}
   {% endfor %}
 </ol>
@@ -155,7 +174,6 @@ I am listed in [**World's Top 2% Scientists in 2023, 2024**](https://elsevier.di
 {% else %}
   <p>错误：无法加载论文数据。请检查 <code>_data/selected_papers.yml</code> 文件是否存在且格式正确。</p>
 {% endif %}
-
 
 <!-- ================================================== -->
 <!-- ==  列表3: 其他论文   == -->
