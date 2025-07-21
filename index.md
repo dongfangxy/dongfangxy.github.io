@@ -108,89 +108,53 @@ I am listed in [**World's Top 2% Scientists in 2023, 2024**](https://elsevier.di
 
 <!-- /_includes/selected_papers.html 或者您放置代码的任何地方 -->
 
+<!-- 检查数据文件是否存在且不为空 -->
+{% if site.data.selected_papers and site.data.selected_papers.size > 0 %}
+
 <!-- ================================================== -->
 <!-- ==           列表一: IEEE 相关期刊              == -->
 <!-- ================================================== -->
-<h3>Selected Papers</h3>
 
 <ol class="papers-list">
-  <!-- 第一遍循环: 筛选出您是第一作者的论文 -->
+  <!-- 第一遍: 第一作者 -->
   {% for paper in site.data.selected_papers %}
-    <!-- 筛选条件: (期刊是IEEE) AND (作者以'<b>Chengxi Zhang</b>'开头) -->
     {% if paper.journal contains "IEEE" and paper.authors starts_with "<b>Chengxi Zhang</b>" %}
-      <li class="paper-item">
-        <p class="paper-title">
-          {% if paper.url and paper.url != "" %}<a href="{{ paper.url }}" target="_blank" rel="noopener noreferrer">{{ paper.title }}</a>{% else %}{{ paper.title }}{% endif %}
-        </p>
-        <p class="paper-authors">{{ paper.authors }}</p>
-        <p class="paper-journal">
-          <span class="journal-name">{{ paper.journal }}</span>{% if paper.year %}, {{ paper.year }}{% endif %}.
-          {% if paper.notes and paper.notes != "" %}<span class="paper-notes">[{{ paper.notes }}]</span>{% endif %}
-        </p>
-      </li>
+      {% include paper_item.html paper=paper %}
     {% endif %}
   {% endfor %}
 
-  <!-- 第二遍循环: 筛选出其他作者的论文 -->
+  <!-- 第二遍: 其他作者 -->
   {% for paper in site.data.selected_papers %}
-    <!-- 筛选条件: (期刊是IEEE) AND (作者不以'<b>Chengxi Zhang</b>'开头) -->
-    {% if paper.journal contains "IEEE" %}
-      {% unless paper.authors starts_with "<b>Chengxi Zhang</b>" %}
-        <li class="paper-item">
-          <p class="paper-title">
-            {% if paper.url and paper.url != "" %}<a href="{{ paper.url }}" target="_blank" rel="noopener noreferrer">{{ paper.title }}</a>{% else %}{{ paper.title }}{% endif %}
-          </p>
-          <p class="paper-authors">{{ paper.authors }}</p>
-          <p class="paper-journal">
-            <span class="journal-name">{{ paper.journal }}</span>{% if paper.year %}, {{ paper.year }}{% endif %}.
-            {% if paper.notes and paper.notes != "" %}<span class="paper-notes">[{{ paper.notes }}]</span>{% endif %}
-          </p>
-        </li>
-      {% endunless %}
+    {% if paper.journal contains "IEEE" and paper.authors starts_with "<b>Chengxi Zhang</b>" == false %}
+      {% include paper_item.html paper=paper %}
     {% endif %}
   {% endfor %}
 </ol>
+
+<br>
 
 <!-- ================================================== -->
 <!-- ==  列表二: Aerospace Science and Technology   == -->
-<!-- ==      (第一作者为 Chengxi Zhang 的优先)       == -->
 <!-- ================================================== -->
-
 <ol class="papers-list">
-  <!-- 第一遍循环: 筛选出您是第一作者的论文 -->
+  <!-- 第一遍: 第一作者 -->
   {% for paper in site.data.selected_papers %}
     {% if paper.journal contains "Aerospace Science and Technology" and paper.authors starts_with "<b>Chengxi Zhang</b>" %}
-      <li class="paper-item">
-        <p class="paper-title">
-          {% if paper.url and paper.url != "" %}<a href="{{ paper.url }}" target="_blank" rel="noopener noreferrer">{{ paper.title }}</a>{% else %}{{ paper.title }}{% endif %}
-        </p>
-        <p class="paper-authors">{{ paper.authors }}</p>
-        <p class="paper-journal">
-          <span class="journal-name">{{ paper.journal }}</span>{% if paper.year %}, {{ paper.year }}{% endif %}.
-          {% if paper.notes and paper.notes != "" %}<span class="paper-notes">[{{ paper.notes }}]</span>{% endif %}
-        </p>
-      </li>
+      {% include paper_item.html paper=paper %}
     {% endif %}
   {% endfor %}
 
-  <!-- 第二遍循环: 筛选出其他作者的论文 -->
+  <!-- 第二遍: 其他作者 -->
   {% for paper in site.data.selected_papers %}
-    {% if paper.journal contains "Aerospace Science and Technology" %}
-      {% unless paper.authors starts_with "<b>Chengxi Zhang</b>" %}
-        <li class="paper-item">
-          <p class="paper-title">
-            {% if paper.url and paper.url != "" %}<a href="{{ paper.url }}" target="_blank" rel="noopener noreferrer">{{ paper.title }}</a>{% else %}{{ paper.title }}{% endif %}
-          </p>
-          <p class="paper-authors">{{ paper.authors }}</p>
-          <p class="paper-journal">
-            <span class="journal-name">{{ paper.journal }}</span>{% if paper.year %}, {{ paper.year }}{% endif %}.
-            {% if paper.notes and paper.notes != "" %}<span class="paper-notes">[{{ paper.notes }}]</span>{% endif %}
-          </p>
-        </li>
-      {% endunless %}
+    {% if paper.journal contains "Aerospace Science and Technology" and paper.authors starts_with "<b>Chengxi Zhang</b>" == false %}
+      {% include paper_item.html paper=paper %}
     {% endif %}
   {% endfor %}
 </ol>
+
+{% else %}
+  <p>错误：无法加载论文数据。请检查 <code>_data/selected_papers.yml</code> 文件是否存在且格式正确。</p>
+{% endif %}
 
 
 <!-- ================================================== -->
