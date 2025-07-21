@@ -26,7 +26,7 @@ Adjustable Event-Triggered Control. <b>Advances in Space Research</b> </li>
 	<li>Jiehui Su, Guangwei Wang, Chengxi Zhang. Complaint Constant Force Mechanism using Variable Stiffness Leaf-Spring-Like Beam: Design and Experiment <b>Mathematical Foundations of Computing</b> </li>
 	<li>Lei Zhao, Changqing Yuan, Ling Gao, Chengxi Zhang. Dynamics, stability, and cooperative formation control of Magnetic sail-based planetary displaced orbits. <b>International Journal of Aeronautical and Space Sciences</b></li>
 	<li>Chen Cheng , Zian Wang, Zheng Gong , Pengcheng Cai , Chengxi Zhang , Yi Li. Autonomous navigation and obstacle avoidance for Small VTOL UAV in unknown environments <b>Symmetry.</b></li>
-	<li>Zian Wang, Zheng Gong *, Yang Yang, YongZhen Liu, Pengcheng Cai, Chengxi Zhang. Guidance law for autonomous takeoff and landing of unmanned helicopter on mobile platform based on asymmetric tracking differentiator. <b>Mathematics</b>.</li>
+	<li>Zian Wang, Zheng Gong, Yang Yang, YongZhen Liu, Pengcheng Cai, Chengxi Zhang. Guidance law for autonomous takeoff and landing of unmanned helicopter on mobile platform based on asymmetric tracking differentiator. <b>Mathematics</b>.</li>
 	<li>Lei Zhao, Changqing Yuan, Shengping Gong, Chengxi Zhang, Qingbo Hao, Zhengguang Li. Formation Flying for Magnetic Sails around Artificial Equilibrium Points <b>Advances in Space Research</b></li>
 	<li>Lei Zhao, Changqing Yuan, Shengping Gong, Chengxi Zhang. Magneto Plasma Sail Formation Reconfiguration around Heliocentric Elliptic Displaced Orbit. <b>Astrophysics and Space Science</b></li>
 </ol>
