@@ -106,85 +106,116 @@ I am listed in [**World's Top 2% Scientists in 2023, 2024**](https://elsevier.di
 </ul>
 -->
 
-<!-- /_includes/selected_papers.html 或者您放置代码的任何地方 -->
+{% comment %}
+================================================================================
+  第一步: 数据准备与预处理 (只遍历一次，效率最高)
+  我们将所有论文遍历一次，并根据您的分类标准，将它们放入三个不同的“篮子”（数组）里。
+  - ieee_papers: 存放所有包含 "IEEE" 的论文。
+  - ast_papers: 存放所有包含 "Aerospace Science and Technology" 但不含 "IEEE" 的论文。
+  - other_papers: 存放其他指定期刊的论文。
+  这样做可以确保每个分类都是互斥的，避免重复，并且极大提高了效率。
+================================================================================
+{% endcomment %}
+{% assign ieee_papers = "" | split: "," %}
+{% assign ast_papers = "" | split: "," %}
+{% assign other_papers = "" | split: "," %}
 
-<!-- 检查数据文件是否存在且不为空 -->
-{% if site.data.selected_papers and site.data.selected_papers.size > 0 %}
+{% for paper in site.data.selected_papers %}
+  {% comment %}跳过任何缺少关键信息（作者或期刊）的条目，防止出错{% endcomment %}
+  {% unless paper.authors and paper.journal %}{% continue %}{% endunless %}
 
-<!-- ================================================== -->
-<!-- ==           列表一: IEEE 相关期刊              == -->
-<!-- ================================================== -->
-<h3>精选论文 (IEEE Journals & Conferences)</h3>
-<ol class="papers-list">
-  <!-- 第一遍: 第一作者 -->
-  {% for paper in site.data.selected_papers %}
-    {% if paper.journal and paper.authors and paper.journal contains "IEEE" and paper.authors starts_with "<b>Chengxi Zhang</b>" %}
-      {% include paper_item.html paper=paper %}
-    {% endif %}
-  {% endfor %}
+  {% if paper.journal contains "IEEE" %}
+    {% assign ieee_papers = ieee_papers | push: paper %}
+  {% elsif paper.journal contains "Aerospace Science and Technology" %}
+    {% assign ast_papers = ast_papers | push: paper %}
+  {% elsif paper.journal contains "Journal of Guidance, Control, and Dynamics" or paper.journal contains "Control Engineering Practice" %}
+    {% assign other_papers = other_papers | push: paper %}
+  {% endif %}
+{% endfor %}
 
-  <!-- 第二遍: 其他作者 -->
-  {% for paper in site.data.selected_papers %}
-    {% if paper.journal and paper.authors and paper.journal contains "IEEE" and paper.authors starts_with "<b>Chengxi Zhang</b>" == false %}
-      {% include paper_item.html paper=paper %}
-    {% endif %}
-  {% endfor %}
-</ol>
 
-<br>
+{% comment %}
+================================================================================
+  第二步: 分类展示
+  现在我们有了三个干净、互斥的论文列表，接下来分别对每个列表进行展示。
+  展示逻辑和您要求的一样：先显示您作为第一作者的，再显示其他的。
+================================================================================
+{% endcomment %}
 
-<!-- ================================================== -->
-<!-- ==  列表二: Aerospace Science and Technology   == -->
-<!-- ================================================== -->
-<h3>精选论文 (Aerospace Science and Technology)</h3>
-<ol class="papers-list">
-  <!-- 第一遍: 第一作者 -->
-  {% for paper in site.data.selected_papers %}
-    {% if paper.journal and paper.authors and paper.journal contains "Aerospace Science and Technology" and paper.authors starts_with "<b>Chengxi Zhang</b>" %}
-      {% include paper_item.html paper=paper %}
-    {% endif %}
-  {% endfor %}
+<!-- 检查是否有任何论文被分类，以决定是否显示内容 -->
+{% if ieee_papers.size > 0 or ast_papers.size > 0 or other_papers.size > 0 %}
 
-  <!-- 第二遍: 其他作者 -->
-  {% for paper in site.data.selected_papers %}
-    {% if paper.journal and paper.authors and paper.journal contains "Aerospace Science and Technology" and paper.authors starts_with "<b>Chengxi Zhang</b>" == false %}
-      {% include paper_item.html paper=paper %}
-    {% endif %}
-  {% endfor %}
-</ol>
+  <!-- ================================================== -->
+  <!-- ==           列表一: IEEE 相关期刊              == -->
+  <!-- ================================================== -->
+  {% if ieee_papers.size > 0 %}
+    <h3>精选论文 (IEEE Journals & Conferences)</h3>
+    <ol class="papers-list">
+      <!-- 第一遍: 筛选并显示 "Chengxi Zhang" 为第一作者的论文 -->
+      {% for paper in ieee_papers %}
+        {% if paper.authors startswith "<b>Chengxi Zhang</b>" %}
+          {% include paper_item.html paper=paper %}
+        {% endif %}
+      {% endfor %}
+      <!-- 第二遍: 筛选并显示其他作者的论文 -->
+      {% for paper in ieee_papers %}
+        {% unless paper.authors startswith "<b>Chengxi Zhang</b>" %}
+          {% include paper_item.html paper=paper %}
+        {% endunless %}
+      {% endfor %}
+    </ol>
+    <br>
+  {% endif %}
 
-<br>
+  <!-- ================================================== -->
+  <!-- ==  列表二: Aerospace Science and Technology   == -->
+  <!-- ================================================== -->
+  {% if ast_papers.size > 0 %}
+    <h3>精选论文 (Aerospace Science and Technology)</h3>
+    <ol class="papers-list">
+      <!-- 第一遍: 筛选并显示 "Chengxi Zhang" 为第一作者的论文 -->
+      {% for paper in ast_papers %}
+        {% if paper.authors startswith "<b>Chengxi Zhang</b>" %}
+          {% include paper_item.html paper=paper %}
+        {% endif %}
+      {% endfor %}
+      <!-- 第二遍: 筛选并显示其他作者的论文 -->
+      {% for paper in ast_papers %}
+        {% unless paper.authors startswith "<b>Chengxi Zhang</b>" %}
+          {% include paper_item.html paper=paper %}
+        {% endunless %}
+      {% endfor %}
+    </ol>
+    <br>
+  {% endif %}
 
-<!-- ================================================== -->
-<!-- ==           列表三: 其他精选期刊             == -->
-<!-- ================================================== -->
-<h3>其他精选论文</h3>
-<ol class="papers-list">
-  <!-- 合并循环以提高效率和可维护性 -->
-  {% for paper in site.data.selected_papers %}
-    <!-- 使用 'or' 来检查多个期刊 -->
-    {% assign is_other_journal = false %}
-    {% if paper.journal and paper.authors %}
-      {% if paper.journal contains "Journal of Guidance, Control, and Dynamics" or paper.journal contains "Control Engineering Practice" %}
-        {% assign is_other_journal = true %}
-      {% endif %}
-    {% endif %}
-
-    {% if is_other_journal %}
-      {% include paper_item.html paper=paper %}
-    {% endif %}
-  {% endfor %}
-</ol>
+  <!-- ================================================== -->
+  <!-- ==           列表三: 其他精选期刊             == -->
+  <!-- ================================================== -->
+  {% if other_papers.size > 0 %}
+    <h3>其他精选论文</h3>
+    <ol class="papers-list">
+      <!-- 第一遍: 筛选并显示 "Chengxi Zhang" 为第一作者的论文 -->
+      {% for paper in other_papers %}
+        {% if paper.authors startswith "<b>Chengxi Zhang</b>" %}
+          {% include paper_item.html paper=paper %}
+        {% endif %}
+      {% endfor %}
+      <!-- 第二遍: 筛选并显示其他作者的论文 -->
+      {% for paper in other_papers %}
+        {% unless paper.authors startswith "<b>Chengxi Zhang</b>" %}
+          {% include paper_item.html paper=paper %}
+        {% endunless %}
+      {% endfor %}
+    </ol>
+  {% endif %}
 
 {% else %}
-  <p>错误：无法加载论文数据。请检查 <code>_data/selected_papers.yml</code> 文件是否存在且格式正确。</p>
+  <p>错误：无法加载论文数据，或数据不符合分类标准。请检查 <code>_data/selected_papers.yml</code> 文件。</p>
 {% endif %}
 
-
-
-
 <!-- ================================================== -->
-<!-- ==         共享的 CSS 样式 (无需修改)           == -->
+<!-- ==         共享的 CSS 样式 (与您的一致)         == -->
 <!-- ================================================== -->
 <style>
   ol.papers-list {
@@ -232,5 +263,4 @@ I am listed in [**World's Top 2% Scientists in 2023, 2024**](https://elsevier.di
     color: #c00;
   }
 </style>
-
 

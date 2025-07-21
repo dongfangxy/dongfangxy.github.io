@@ -1,11 +1,16 @@
-<!-- /_includes/paper_item.html -->
 <li class="paper-item">
   <p class="paper-title">
-    {% if paper.url and paper.url != "" %}<a href="{{ paper.url }}" target="_blank" rel="noopener noreferrer">{{ paper.title }}</a>{% else %}{{ paper.title }}{% endif %}
+    {% if paper.url and paper.url != "" %}
+      <a href="{{ paper.url }}" target="_blank" rel="noopener noreferrer">{{ paper.title }}</a>
+    {% else %}
+      {{ paper.title }}
+    {% endif %}
   </p>
   <p class="paper-authors">{{ paper.authors }}</p>
   <p class="paper-journal">
-    <span class="journal-name">{{ paper.journal }}</span>{% if paper.year %}, {{ paper.year }}{% endif %}.
-    {% if paper.notes and paper.notes != "" %}<span class="paper-notes">[{{ paper.notes }}]</span>{% endif %}
+    <span class="journal-name">{{ paper.journal }}</span>, {{ paper.year }}.
+    {% if paper.notes and paper.notes != "" %}
+      <span class="paper-notes"><b>[{{ paper.notes }}]</b></span>
+    {% endif %}
   </p>
 </li>
