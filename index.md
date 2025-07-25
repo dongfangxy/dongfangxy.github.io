@@ -24,7 +24,9 @@ I was born in Qufu, China. I received the B.S. and M.S. degrees from the **Harbi
 
 I have published over 150 papers, including several ESI 1% & 0.1% Papers (See [**Publications**](https://dongfangxy.github.io/publications/)), and received 1800+ citations since 2018, by Google Scholar.  I received the Outstanding Postdoc Awards of HIT Shenzhen in 2022.
 
+<!--
 I work with [**Prof. Jin Wu 吴荩 教授**](https://zarathustr.github.io/) (北京科技大学)  **Prof. Chong Li 李崇教授** (中国海洋大学), and **Prof. Yi Jiang 姜艺教授**(华中科技大学) since 2018.
+-->
 
 Committee Member of Youth Work Committee, Chinese Association for Automation
 
