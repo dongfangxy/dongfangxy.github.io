@@ -25,16 +25,28 @@ Learning Neural Network-based Fault-Tolerant Formation Control for Elliptical Or
 <li>Tao Wang, Dezhi Xu, <b>Chengxi Zhang</b>, Bin Jiang. <br>
 Resilient Control in Multi-Hydrofoil Crafts: Tackling Actuator Faults and False Data Injection for Attitude Consensus<br>
 <b><i>IEEE Transactions on Automation Science and Engineering</i></b></li>
-<li>Kai Shen, <b>Chengxi Zhang</b>, Peng Dong, Zhongliang Jing, Henry Leung. Consensus-Based Labeled Multi-Bernoulli Filter with Event-triggered Communication. <b> IEEE Transactions on Signal Processing</b></li>
-<li>Ran Sun, Aidang Shan, <b>Chengxi Zhang</b>, Jin Wu, Qingxian Jia. Quantized Fault-Tolerant Control for Attitude Stabilization with Fixed-Time Disturbance Observer, <b>Journal of Guidance, Control, and Dynamics</b>, 2020.</li>
-<li><b>Chengxi Zhang</b>, Choon Ki Ahn, Bing Xiao, Jin Wu, On Attitude Tracking Control with Communication-Saving: An Integrated Quantized and Event-Based Scheme, <b>IEEE Transactions on Circuits and Systems II: Express Briefs</b> 2020.</li>
-<li><b>Chengxi Zhang</b>, Choon Ki Ahn, Jin Wu, Wei He, Yi Jiang, Ming Liu. Robustification of Learning Observers to Uncertainty Identification via Time-varying Learning Intensity. <b>IEEE Transactions on Circuits and Systems II: Express Briefs</b></li>
-<li><b>Chengxi Zhang</b>, Jin Wu, Choon Ki Ahn, Zhongyang Fei, Caisheng Wei. Learning Observer and Performance Tuning Based Robust Consensus Policy for Multi-agent Systems. <b>IEEE Systems Journal.</b> 2020.</li>
+<li>Kai Shen, <b>Chengxi Zhang</b>, Peng Dong, Zhongliang Jing, Henry Leung. <br>
+Consensus-Based Labeled Multi-Bernoulli Filter with Event-triggered Communication. <br>
+<b><i>IEEE Transactions on Signal Processing</i></b></li>
+<li>Ran Sun, Aidang Shan, <b>Chengxi Zhang</b>, Jin Wu, Qingxian Jia. <br>
+Quantized Fault-Tolerant Control for Attitude Stabilization with Fixed-Time Disturbance Observer, <br>
+<b><i>Journal of Guidance, Control, and Dynamics</i></b>, 2020.</li>
+<li><b>Chengxi Zhang</b>, Choon Ki Ahn, Bing Xiao, Jin Wu, <br>
+On Attitude Tracking Control with Communication-Saving: An Integrated Quantized and Event-Based Scheme, <br>
+<b><i>IEEE Transactions on Circuits and Systems II: Express Briefs</i></b> 2020.</li>
+<li><b>Chengxi Zhang</b>, Choon Ki Ahn, Jin Wu, Wei He, Yi Jiang, Ming Liu. <br>
+Robustification of Learning Observers to Uncertainty Identification via Time-varying Learning Intensity. <br>
+<b><i>IEEE Transactions on Circuits and Systems II: Express Briefs</i></b></li>
+<li><b>Chengxi Zhang</b>, Jin Wu, Choon Ki Ahn, Zhongyang Fei, Caisheng Wei. <br>
+Learning Observer and Performance Tuning Based Robust Consensus Policy for Multi-agent Systems. <br>
+<b><i>IEEE Systems Journal</i>.</b> 2020.</li>
 <li><b>Chengxi Zhang</b>, Bing Xiao, Jin Wu, Bo Li. On Low-Complexity Control Design to Spacecraft Attitude Stabilization: An Online-Learning Approach. <b>Aerospace Science and Technology</b>, 2020.</li>
 <li><b>Chengxi Zhang</b>, Choon Ki Ahn, Jin Wu, Wei He. Online-Learning Control with Weakened Saturation Response to Attitude Tracking: A Variable Learning Intensity Approach. <b>Aerospace Science and Technology</b> </li>
 <li><b>Chengxi Zhang</b>, Jihe Wang, etc. Learning observer based and event-triggered control to spacecraft against actuator faults, <b>Aerospace Science and Technology</b>, 78 (2018) 522–530.</li>
 <li><b>Chengxi Zhang</b>, Jihe Wang, etc., Fault-tolerant adaptive finite-time attitude synchronization and tracking control for multi-spacecraft formation. <b>Aerospace Science and Technology</b>, 73 (2018) 197-209.</li>
-<li><b>Chengxi Zhang</b>, Ming-Zhe Dai, Jin Wu, Bing Xiao, Bo Li, Mingjiang Wang. Neural-networks and event-based fault-tolerant control for spacecraft attitude stabilization.<b> Aerospace Science and Technology</b></li>
+<li><b>Chengxi Zhang</b>, Ming-Zhe Dai, Jin Wu, Bing Xiao, Bo Li, Mingjiang Wang. 
+Neural-networks and event-based fault-tolerant control for spacecraft attitude stabilization.
+<b> Aerospace Science and Technology</b></li>
 <li>Bohuan Xue, Jiachen Wang, Jin Wu, Tianyu Liu, Hongji Liu, Yang Yu, Shupei Li, Bowen Yang, <b>Chengxi Zhang</b>, Zhijian He. Constraint-Based Hand-Eye Calibration for Large-Scale Intelligent Guided Vehicles. <b>IEEE Transactions on Instrumentation and Measurement</b></li>
 <li>Xueli FAN, Zhijian HE, Jin Wu, Bohuan Xue, <b>Chengxi Zhang</b>, Lei XUE et al. Consensus-Based Cooperative Control for Connected Vehicle Platoon with Time-Varying Delays and Switching Topologies <b>IEEE Transactions on Vehicular Technology</b></li>
 <li>Jun Dong, Jintao Cheng, Jin Wu, <b>Chengxi Zhang</b>, Shunyi Zhao, Xiaoyu Tang. Real-Time AIoT for UAV Antenna Interference Detection via Edge-Cloud Collaboration <b>IEEE Internet of Things Journal</b></li>
