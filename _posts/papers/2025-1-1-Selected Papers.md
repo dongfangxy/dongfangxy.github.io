@@ -7,7 +7,9 @@ author: Chengxi Zhang
 comments: true
 ---
 <ol> 
-<li><b>Chengxi Zhang</b>, Weijia Lu, Shunyi Zhao, Jin Wu, Xiaoyu Zhu, Zhijie Liu, Wei He. Enhancing Attitude Tracking with Self-learning Control using Tanh-type Learning Intensity. <b>IEEE Transactions on Automation Science and Engineering</b> </li>
+<li><b>Chengxi Zhang</b>, Weijia Lu, Shunyi Zhao, Jin Wu, Xiaoyu Zhu, Zhijie Liu, Wei He.<br>
+Enhancing Attitude Tracking with Self-learning Control using Tanh-type Learning Intensity.<br>
+<b>IEEE Transactions on Automation Science and Engineering</b></li>
 <li><b>Chengxi Zhang</b>, Tianle Yin, Wenshuo Wang, Jin Wu, Jihe Wang, Yuhua Qi, Wei He. Clustering Strategy for Megaconstellation with Synergistic Energy and Size Considerations. <b>IEEE Transactions on Aerospace and Electronic Systems</b></li>
 <li><b>Chengxi Zhang</b>, Ming-Zhe Dai, Peng Dong, Henry Leung, Jihe Wang. Fault-Tolerant Attitude Stabilization for Spacecraft with Low-Frequency Actuator Updates: An Integral-Type Event-Triggered Approach, <b>IEEE Transactions on Aerospace and Electronic Systems </b>(ESI Highly cited papers), 2020.</li>
 <li>Jihe Wang, Xing Guo, Zhijie Ma, <b>Chengxi Zhang</b>, Jinxiu Zhang. A low fuel-consumption drag-free tracking approach for space-based gravitational wave detection satellite<b> IEEE Transactions on Aerospace and Electronic Systems</b></li>
