@@ -32,6 +32,7 @@ comments: true
     <li>Xueli FAN, Zhijian HE, Jin Wu, Bohuan Xue, Chengxi Zhang, Lei XUE et al. Consensus-Based Cooperative Control for Connected Vehicle Platoon with Time-Varying Delays and Switching Topologies <b>IEEE Transactions on Vehicular Technology</b></li>
 <li>Tinglong Pan, Heng Tang, Tao Wang, Chengxi Zhang, Lei Gao, Dezhi Xu. A Fuzzy Active Disturbance Rejection Control Strategy Based on an Improved Extended State Observer. <b>19th International Conference on Innovative Computing, Information and Control (ICICIC2025)</b></li>
 <li>Wenjun Zhu, Yuedong Wu, Chengxi Zhang, Yu Jiang, Wei Wang. Distributed Control For Spacecraft Formation Near Irregular Asteroids Via Quantized Information Exchange <b>Acta Astronautica</b></li>
+<li>Weijie XI, Tianle YIN, Zhe LIU, Jin WU, Dezhi XU, and Chengxi ZHANG. Uncertainty-Handling Balance of a Unicycle Robot with Low-Power Flywheels. <b>IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences</b></li>
 </ol>
 
 
