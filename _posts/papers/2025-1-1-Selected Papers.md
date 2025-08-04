@@ -11,6 +11,9 @@ comments: true
 <li><b>Chengxi Zhang</b>, Tianle Yin, Wenshuo Wang, Jin Wu, Jihe Wang, Yuhua Qi, Wei He.<br>Clustering Strategy for Megaconstellation with Synergistic Energy and Size Considerations.<br><b><i>IEEE Transactions on Aerospace and Electronic Systems</i></b></li>
 <li><b>Chengxi Zhang</b>, Ming-Zhe Dai, Peng Dong, Henry Leung, Jihe Wang.<br>Fault-Tolerant Attitude Stabilization for Spacecraft with Low-Frequency Actuator Updates: An Integral-Type Event-Triggered Approach.<br><b><i>IEEE Transactions on Aerospace and Electronic Systems</i></b>(ESI Highly cited papers), 2020.</li>
 <li>Jihe Wang, Xing Guo, Zhijie Ma, <b>Chengxi Zhang</b>, Jinxiu Zhang.<br>A low fuel-consumption drag-free tracking approach for space-based gravitational wave detection satellite.<br><b><i>IEEE Transactions on Aerospace and Electronic Systems</i></b></li>
+<li>Tianle Yin, <b>Chengxi Zhang</b>, Jihe Wang, Jin Wu, Renuganth Varatharajoo, Dezhi Xu, Bin Jiang. <br>
+Configuration Maintenance in Multi-Satellite Orbits via Co-Phase and Control Optimization<br>
+<b><i>IEEE Transactions on Aerospace and Electronic Systems</i></b></li>
 <li>Qingxian Jia, Rui Shu, Choon Ki Ahn, <b>Chengxi Zhang</b>.<br>Learning Neural Network-based Fault-Tolerant Formation Control for Elliptical Orbit Spacecraft.<br><b><i>IEEE Transactions on Aerospace and Electronic Systems</i></b></li>
 <li>Tao Wang, Dezhi Xu, <b>Chengxi Zhang</b>, Bin Jiang.<br>Resilient Control in Multi-Hydrofoil Crafts: Tackling Actuator Faults and False Data Injection for Attitude Consensus.<br><b><i>IEEE Transactions on Automation Science and Engineering</i></b></li>
 <li>Kai Shen, <b>Chengxi Zhang</b>, Peng Dong, Zhongliang Jing, Henry Leung.<br>Consensus-Based Labeled Multi-Bernoulli Filter with Event-triggered Communication.<br><b><i>IEEE Transactions on Signal Processing</i></b></li>
