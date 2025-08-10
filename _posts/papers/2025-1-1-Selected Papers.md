@@ -59,4 +59,7 @@ Configuration Maintenance in Multi-Satellite Orbits via Co-Phase and Control Opt
 <li>Shunyi Zhao, Qingxin Lu, <b>Chengxi Zhang</b>, Choon Ki Ahn, Kunming Chen.<br>Efficient Recognition of Word-wheel Water Meter Readings for Smart Urban Infrastructure.<br><b><i>IEEE Internet of Things Journal</i></b></li>
 <li>Jin Wu, Chong Li, <b>Chengxi Zhang</b>, Yi Jiang, Yulong Huang, Lujia Wang, Ming Liu.<br>Trust-Region Solver of A Nonlinear Magnetometer Disturbance Estimation Problem.<br><b><i>IEEE Sensors Journal </i></b> </li>
 <li>Yang Liu, Jin Wu, Fulong Ma, <b>Chengxi Zhang</b>.<br>Biquaternion Evolution in Attitude Estimation Using A Generalized Vector Measurement.<br><b><i>IEEE Sensors Letters</i></b></li>
+<li>Xing Fang, Zhanfei Zhao, Chengxi Zhang*, Xiang Gao, Choon Ki Ahn*. <br>
+Data-Driven Propulsion System Fault Diagnosis for Deep-sea Submersible<br>
+ <b><i>IEEE Internet of Things Journal</i></b></li>
 </ol>
