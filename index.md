@@ -22,7 +22,7 @@ I was born in Qufu, China. I received the B.S. and M.S. degrees from the **Harbi
 
 <br />
 
-I have published over 100 papers, including several ESI 1% & 0.1% Papers (See [**Publications**](https://dongfangxy.github.io/publications/)), and received 1900+ citations since 2018, by Google Scholar. 
+I have published 100+ papers, with several ESI 1% & 0.1% Papers (See [**Publications**](https://dongfangxy.github.io/publications/)), and received 1900+ citations since 2018, by Google Scholar. 
 
 <!--
 I work with [**Prof. Jin Wu 吴荩 教授**](https://zarathustr.github.io/) (北京科技大学)  **Prof. Chong Li 李崇教授** (中国海洋大学), and **Prof. Yi Jiang 姜艺教授**(华中科技大学) since 2018.
