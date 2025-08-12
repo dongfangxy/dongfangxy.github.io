@@ -66,6 +66,7 @@ I am listed in [**World's Top 2% Scientists in 2023, 2024**](https://elsevier.di
 - Editorial Board, [*IoT (Internet of Things)*](https://www.mdpi.com/journal/IoT/editors) (2022-present, ESCI) 
 - Associate Editor, *Frontiers in Aerospace Engineering* (2022-present)
 - Youth Editorial Board, *Mechatronics Technology* (2025 - present)
+- Junior Editorial Board, Complex Engineering Systems (2024-2026)
 - NSFC中文CSSCI期刊《中国科学基金》审稿人
 - 深圳市科技创新委员会评审专家
 - Co-chair,  Advances in Robotic Navigation, Localization and Mapping, YAC2025 机器人导航、定位、建图新进展 专题(主席 吴荩, 姜艺)
