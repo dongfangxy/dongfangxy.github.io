@@ -33,7 +33,7 @@ comments: true
 <li>Tinglong Pan, Heng Tang, Tao Wang, Chengxi Zhang, Lei Gao, Dezhi Xu. A Fuzzy Active Disturbance Rejection Control Strategy Based on an Improved Extended State Observer. <b>19th International Conference on Innovative Computing, Information and Control (ICICIC2025)</b></li>
 <li>Wenjun Zhu, Yuedong Wu, Chengxi Zhang, Yu Jiang, Wei Wang. Distributed Control For Spacecraft Formation Near Irregular Asteroids Via Quantized Information Exchange <b>Acta Astronautica</b></li>
 <li>Weijie XI, Tianle YIN, Zhe LIU, Jin WU, Dezhi XU, and Chengxi ZHANG. Uncertainty-Handling Balance of a Unicycle Robot with Low-Power Flywheels. <b>IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences</b></li>
-<li>44.Xing Fang, Zhanfei Zhao, Chengxi Zhang*, Xiang Gao, Choon Ki Ahn*. Data-Driven Propulsion System Fault Diagnosis for Deep-sea Submersible
+<li>Xing Fang, Zhanfei Zhao, Chengxi Zhang*, Xiang Gao, Choon Ki Ahn*. Data-Driven Propulsion System Fault Diagnosis for Deep-sea Submersible
   IEEE Internet of Things Journal (Accepted. 2025.8.9)</li>
 </ol>
 
