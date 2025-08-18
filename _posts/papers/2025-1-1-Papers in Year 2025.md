@@ -35,6 +35,7 @@ comments: true
 <li>Weijie XI, Tianle YIN, Zhe LIU, Jin WU, Dezhi XU, and Chengxi ZHANG. Uncertainty-Handling Balance of a Unicycle Robot with Low-Power Flywheels. <b>IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences</b></li>
 <li>Xing Fang, Zhanfei Zhao, Chengxi Zhang*, Xiang Gao, Choon Ki Ahn*. Data-Driven Propulsion System Fault Diagnosis for Deep-sea Submersible
   IEEE Internet of Things Journal (Accepted. 2025.8.9)</li>
+<li>45.Ran Sun, Ruiqiu Lu, Chengxi Zhang*, Wei Wang, Renuganth Varatharajoo, Dezhi Xu. Near-Asteroids Spacecraft Hovering Control: A Model-Free Approach with Appointed-time Performance Guarantees. Journal of the Franklin Institute(Accepted 2025.8.18)</li>
 </ol>
 
 
