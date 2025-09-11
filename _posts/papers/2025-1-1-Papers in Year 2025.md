@@ -36,6 +36,7 @@ comments: true
 <li>Xing Fang, Zhanfei Zhao, Chengxi Zhang*, Xiang Gao, Choon Ki Ahn*. Data-Driven Propulsion System Fault Diagnosis for Deep-sea Submersible
   IEEE Internet of Things Journal (Accepted. 2025.8.9)</li>
 <li>45.Ran Sun, Ruiqiu Lu, Chengxi Zhang*, Wei Wang, Renuganth Varatharajoo, Dezhi Xu. Near-Asteroids Spacecraft Hovering Control: A Model-Free Approach with Appointed-time Performance Guarantees. Journal of the Franklin Institute(Accepted 2025.8.18)</li>
+    <li>Fei Xue, Guodong Jin, Lining Tan, Chengxi Zhang, Ye Yu. Predictive Maintenance Programs for Aircraft Engines Based on Remaining Useful Life Prediction<b>Scientific Reports </b>(Accepted 2025.9.11)</li>
 </ol>
 
 
