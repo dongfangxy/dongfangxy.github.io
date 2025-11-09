@@ -67,6 +67,7 @@ I am listed in [**World's Top 2% Scientists in 2023, 2024, 2025**](https://elsev
 - Editorial Board, [*AppliedMath*](https://www.mdpi.com/journal/appliedmath/editors) (2022-present, ESCI) 
 - Editorial Board, [*IoT (Internet of Things)*](https://www.mdpi.com/journal/IoT/editors) (2022-present, ESCI) 
 - Associate Editor, *Frontiers in Aerospace Engineering* (2022-present) 
+- Associate Editor, *Frontiers in Mechanical Engineering* (2025-Present)
 - Youth Editorial Board, *Mechatronics Technology* (2025 - present)
 - Junior Editorial Board, Complex Engineering Systems (2024-2026)
 - Secretary of IEEE SMC Nanjing Section Chapter
