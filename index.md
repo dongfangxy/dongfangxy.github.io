@@ -59,14 +59,14 @@ I am listed in [**World's Top 2% Scientists in 2023, 2024, 2025**](https://elsev
 <br />
 
 ### Academic Services and Other Information 
-- Editorial Board, [*Aerospace Systems*](https://link.springer.com/journal/42401/editorial-board) (*Shanghai Jiao Tong University Press*, EI)
 - Editor in Chief, *Aerospace Engineering Communications* (Co-Eic Jin Wu, 2025-Present)
-- Young Editorial Board, *Astrodynamics* (*Tsinghua University Press*, EI/ESCI )
+- Editorial Board, [*Aerospace Systems*](https://link.springer.com/journal/42401/editorial-board) (*Shanghai Jiao Tong University Press*, EI)
 - Editorial Board, *Symmetry* ([Computer Section Board Member](https://www.mdpi.com/journal/symmetry/sectioneditors/computer?page_no=2), 2025-present, SCI)
 - Editorial Board, [*AppliedMath*](https://www.mdpi.com/journal/appliedmath/editors) (2022-present, ESCI) 
 - Editorial Board, [*IoT (Internet of Things)*](https://www.mdpi.com/journal/IoT/editors) (2022-present, ESCI) 
 - Associate Editor, *Frontiers in Aerospace Engineering* (2022-present) 
 - Associate Editor, *Frontiers in Mechanical Engineering* (2025-Present)
+- Young Editorial Board, *Astrodynamics* (*Tsinghua University Press*, EI/ESCI )
 - Youth Editorial Board, *Mechatronics Technology* (2025 - present)
 - Junior Editorial Board, Complex Engineering Systems (2024-2026)
 - Secretary of IEEE SMC Nanjing Section Chapter
