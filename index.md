@@ -30,6 +30,8 @@ I work with [**Prof. Jin Wu 吴荩 教授**](https://zarathustr.github.io/) (北
 
 Committee Member of Youth Work Committee, Chinese Association for Automation
 
+IEEE Senior Member
+
 I am listed in [**World's Top 2% Scientists in 2023, 2024, 2025**](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/8), by Stanford University and Elsevier.
 
 <br />
