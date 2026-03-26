@@ -58,4 +58,5 @@ Configuration Maintenance in Multi-Satellite Orbits via Co-Phase and Control Opt
 <li>Xing Fang, Zhanfei Zhao, <b>Chengxi Zhang</b>*, Xiang Gao, Choon Ki Ahn*. <br>
 Data-Driven Propulsion System Fault Diagnosis for Deep-sea Submersible<br>
 <b><i>IEEE Internet of Things Journal</i></b></li>
+    <li>张承玺，卢瑞秋，李权，吴荩，许德智. 变学习强度扑翼飞行器自学习控制策略. <b>自动化学报</b></li>
 </ol>
