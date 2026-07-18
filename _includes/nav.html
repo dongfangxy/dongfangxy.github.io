@@ -1,37 +1,13 @@
-<div id="layout-menu">
-<div class="menu-category"><a href="{{site.url}}/index.html">Home</a>
-<class="menu-category"><a href="{{site.url}}/research/">Research</a>
-<class="menu-category"><a href="{{site.url}}/blog/">Posts</a>
-<class="menu-category"><a href="{{site.url}}/publications/">Publications</a>
-<!--
-<class="menu-category"><a href="{{site.url}}/software/">Software</a>
-<class="menu-category"><a href="{{site.url}}/radpbook/">RADP</a>
--->
-</div>
-</div>
-<!--<class="menu-category"><a href="{{site.url}}/resources/">Resources</a></div></div>
-<div class="menu-category"><a href="{{site.url}}/index.html#publications"   >Publications</a></div>
-<div class="menu-category"><a href="{{site.url}}/radpbook/">RADP</a></div>
-<div class="menu-item"><a href="{{site.url}}/index.html#publications"> Publications </a></div>
-<div class="menu-item"><a href="{{site.url}}/index.html#resume-awards"   >Awards</a></div>
-<div class="menu-item"><a href="{{site.url}}/index.html#publications-patent"  >Patent</a></div>
-<div class="menu-item"><a href="{{site.url}}/index.html#publications-book"  >Book Chapter</a></div>
-<div class="menu-item"><a href="{{site.url}}/index.html#publications-journal"  >Journal</a></div>
-<div class="menu-item"><a href="{{site.url}}/index.html#publications-conf"  >Conference</a></div>
-<div class="menu-item"><a href="{{site.url}}/index.html#publications-thesis"  >Dissertation</a></div>
-<div class="menu-category"><a href="{{site.url}}/notes.html"  >Posts</a></div>
-
-<div class="menu-category"><a href="{{site.url}}/news.html" >Updates</a></div>
-
-<div class="menu-item"><a href="{{site.url}}#">MATLAB</a></div>
-<div class="menu-category">Publications</div>
-<div class="menu-item"><a href="#publications-patent">Patent</a></div> */
-<div class="menu-item"><a href="#publications-book">Book Chapter</a></div>
-<div class="menu-item"><a href="#publications-journal">Journal</a></div>
-<div class="menu-item"><a href="#publications-conf">Conference</a></div>
-<div class="menu-item"><a href="#publications-thesis">Dissertation</a></div>
-<div class="menu-category">Blogs</div>
-<div class="menu-item"><a href="#">News</a></div>
-<div class="menu-item"><a href="#">Notes</a></div>
--->
-</div>
+<header id="layout-menu">
+  <div class="nav-container">
+    <div class="logo">
+      <a href="{{ '/' | relative_url }}">Chengxi Zhang</a>
+    </div>
+    <nav class="nav-links" aria-label="Primary navigation">
+      <a href="{{ '/' | relative_url }}"{% if page.url == '/' %} class="active" aria-current="page"{% endif %}>Home</a>
+      <a href="{{ '/research/' | relative_url }}"{% if page.url contains '/research' %} class="active" aria-current="page"{% endif %}>Research</a>
+      <a href="{{ '/blog/' | relative_url }}"{% if page.url contains '/blog' %} class="active" aria-current="page"{% endif %}>Posts</a>
+      <a href="{{ '/publications/' | relative_url }}"{% if page.url contains '/publications' %} class="active" aria-current="page"{% endif %}>Publications</a>
+    </nav>
+  </div>
+</header>

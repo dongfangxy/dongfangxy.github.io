@@ -1,11 +1,13 @@
 ---
 layout: default
 ---
-<h1> Category Navigation (in Building) </h1>
-<pre>
-<h3>
-<a href = "{{site.url}}/blog/">Recent</a>     <a href = "{{site.url}}/blog-archive/">Archives</a>     <a href = "{{site.url}}/blog-categories/">Categories</a>     <a href = "{{site.url}}/blog-tags/">Tags</a>
-</h3>
-</pre>
+<div class="blog-header">
+  <h1>Category Navigation <span class="build-note">In development</span></h1>
+  <nav class="blog-subnav" aria-label="Post categories">
+    <a href="{{ '/blog/' | relative_url }}">Recent</a>
+    <a href="{{ '/blog-archive/' | relative_url }}">Archives</a>
+    <a href="{{ '/blog-categories/' | relative_url }}">Categories</a>
+    <a href="{{ '/blog-tags/' | relative_url }}">Tags</a>
+  </nav>
+</div>
 {{ content }}
-
