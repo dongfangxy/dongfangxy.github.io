@@ -7,6 +7,7 @@ author: Chengxi Zhang
 comments: true
 ---
 <ol>
+<li><b>Chengxi Zhang</b>, Tianle Yin, Jihe Wang, Dezhi Xu, Zehui Mao, Bin Jiang.<br>Optimization-Driven Hierarchical Coordination for Sustainable Megaconstellation Operations.<br><b><i>IEEE Transactions on Aerospace and Electronic Systems</i></b>, Accepted.</li>
 <li><b>Chengxi Zhang</b>, Weijia Lu, Shunyi Zhao, Jin Wu, Xiaoyu Zhu, Zhijie Liu, Wei He.<br>Enhancing Attitude Tracking with Self-learning Control using Tanh-type Learning Intensity.<br><b><i>IEEE Transactions on Automation Science and Engineering</i></b></li>
 <li><b>Chengxi Zhang</b>, Tianle Yin, Wenshuo Wang, Jin Wu, Jihe Wang, Yuhua Qi, Wei He.<br>Clustering Strategy for Megaconstellation with Synergistic Energy and Size Considerations.<br><b><i>IEEE Transactions on Aerospace and Electronic Systems</i></b></li>
 <li><b>Chengxi Zhang</b>, Ming-Zhe Dai, Peng Dong, Henry Leung, Jihe Wang.<br>Fault-Tolerant Attitude Stabilization for Spacecraft with Low-Frequency Actuator Updates: An Integral-Type Event-Triggered Approach.<br><b><i>IEEE Transactions on Aerospace and Electronic Systems</i></b>(ESI Highly cited papers), 2020.</li>
