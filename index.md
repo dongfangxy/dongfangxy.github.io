@@ -8,6 +8,29 @@ layout: sitepage
 [comment]: # (Insert my picture)
 {% include profile.html%}
 
+<div class="stats-row">
+  <div class="stat-badge">
+    <span class="stat-icon">📄</span>
+    <span><span class="stat-num">100+</span> Papers</span>
+  </div>
+  <div class="stat-badge">
+    <span class="stat-icon">📊</span>
+    <span><span class="stat-num">2400+</span> Citations</span>
+  </div>
+  <div class="stat-badge">
+    <span class="stat-icon">🏆</span>
+    <span><span class="stat-num">ESI</span> Highly Cited</span>
+  </div>
+  <div class="stat-badge">
+    <span class="stat-icon">🎓</span>
+    <span>Top <span class="stat-num">2%</span> Scientists</span>
+  </div>
+  <div class="stat-badge">
+    <span class="stat-icon">🔬</span>
+    <span>H-index <span class="stat-num">23</span></span>
+  </div>
+</div>
+
 [comment]: # (Insert my resume below)
 
 <!--
@@ -52,11 +75,13 @@ I am listed in [**World's Top 2% Scientists in 2023, 2024, 2025**](https://elsev
 
 ### Contact
 - Follow me on:
-    [Google Scholar](https://scholar.google.com/citations?user=oHzlz50AAAAJ&hl),
-    [ResearchGate](https://www.researchgate.net/profile/Chengxi_Zhang5),
-    [ORCID](https://orcid.org/0000-0002-3130-6497), 
-    [Official Page](https://iot.jiangnan.edu.cn/info/1142/3595.htm),
-    [CSND](https://blog.csdn.net/Paolu2022/article/details/135201277) 
+  <div class="social-links">
+    <a href="https://scholar.google.com/citations?user=oHzlz50AAAAJ&hl" class="social-link"><span class="si-icon">📚</span> Google Scholar</a>
+    <a href="https://www.researchgate.net/profile/Chengxi_Zhang5" class="social-link"><span class="si-icon">🔬</span> ResearchGate</a>
+    <a href="https://orcid.org/0000-0002-3130-6497" class="social-link"><span class="si-icon">🆔</span> ORCID</a>
+    <a href="https://iot.jiangnan.edu.cn/info/1142/3595.htm" class="social-link"><span class="si-icon">🏫</span> Official Page</a>
+    <a href="https://blog.csdn.net/Paolu2022/article/details/135201277" class="social-link"><span class="si-icon">📝</span> CSDN</a>
+  </div>
 - Email: dongfangxy@163.com
 - Jiangnan University, Wuxi 214122, China.
 
@@ -107,13 +132,12 @@ I am listed in [**World's Top 2% Scientists in 2023, 2024, 2025**](https://elsev
 
 
 ### Selected Papers
-<ul>
+<ul class="paper-list">
 {% for papers in site.posts limit:10%}
 {% if papers.category == "selectedPapers"%}
-<li>
+<li class="paper-item">
   {{papers.date | date: '%D'}} <a href="{{site.baseurl}}{{ papers.url }}">{{ papers.title }}</a>
-  <p>{{papers.content}}</p>
-  <br />
+  <div class="paper-authors">{{papers.content}}</div>
 </li>
 {% endif %}
 {% endfor %}
