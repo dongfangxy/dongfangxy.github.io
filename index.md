@@ -8,32 +8,13 @@ layout: sitepage
 [comment]: # (Insert my picture)
 {% include profile.html%}
 
-<div class="stats-row">
-  <div class="stat-badge">
-    <span class="stat-icon">📄</span>
-    <span><span class="stat-num">100+</span> Papers</span>
-  </div>
-  <div class="stat-badge">
-    <span class="stat-icon">📊</span>
-    <span><span class="stat-num">2400+</span> Citations</span>
-  </div>
-  <div class="stat-badge">
-    <span class="stat-icon">🏆</span>
-    <span><span class="stat-num">ESI</span> Highly Cited</span>
-  </div>
-  <div class="stat-badge">
-    <span class="stat-icon">🎓</span>
-    <span>Top <span class="stat-num">2%</span> Scientists</span>
-  </div>
-  <div class="stat-badge">
-    <span class="stat-icon">🔬</span>
-    <span>H-index <span class="stat-num">23</span></span>
-  </div>
-</div>
+
+
 
 [comment]: # (Insert my resume below)
 
 <!--
+
 ### About Me
 I was born in Qufu, China. I received the B.S. and M.S. degrees from the **Harbin Institute of Technology** (HIT, 哈尔滨工业大学), China, in 2012 and 2015, and the Ph.D. degree from **Shanghai Jiao Tong University** (上海交通大学), China. I worked at HIT, China from 2020-2022 ( I received the Outstanding Postdoc Awards of HIT Shenzhen in 2022.). Since 2022, I have been an Associate Professor of Jiangnan Univerisity, Wuxi China.
 -->
