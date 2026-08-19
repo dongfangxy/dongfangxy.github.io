@@ -20,9 +20,10 @@ I was born in Qufu, China. I received the B.S. and M.S. degrees from the **Harbi
 -->
 
 ### My Research Interests: 
-- Space Engineering, Space Robotic Systems
-- Large-scale Constellation Management
-- Embedded Systems, Smart IoT Applications
+- Space Robotic Systems, Constellation Management
+- Embedded Systems, Artificial Intelligence Application
+- New Energy System Contorol, Optimization
+
 
 <br />
 
@@ -41,7 +42,7 @@ I am listed in [**World's Top 2% Scientists in 2023, 2024, 2025**](https://elsev
 
 <br />
 
-发表学术论文100余篇，其中IEEE系列50余篇，唯一/第一/通信作者论文40余篇，包含ESI 1%高被引2篇，ESI 0.1%热点论文1篇，1篇入选AppliedMath期刊封面文章，谷歌学术引用2400+，H-index23, i10-index53；
+发表学术论文100余篇，其中IEEE系列50余篇，唯一/第一/通信作者论文50余篇，包含ESI 1%高被引2篇，ESI 0.1%热点论文1篇，1篇入选AppliedMath期刊封面文章，谷歌学术引用2900+，H-index26, i10-index64；
 申请专利、国防专利4项，主编专著1本；主持国家自然科学基金2项，主持深圳市科技研发技术攻关重点项目子课题1项，主持中央高校基本科研计划基金1项，主持多项横向项目；参与巨星星座重点研发计划(自主导航与轨道控制技术)、深圳科技计划基础研究学科布局项目、机器学习及人工智能应用类项目等。
 
 首届哈尔滨工业大学(深圳)优秀博士后(2021)
@@ -105,9 +106,27 @@ I am listed in [**World's Top 2% Scientists in 2023, 2024, 2025**](https://elsev
 <br />
 
 ### Teaching
-- 2025 尹天乐 江苏省研究生智能感知与自主控制学术创新论坛  最佳论文优秀奖
-- 2024 沈天奥(院优毕设论文)、栗森茂(校优毕设论文) 
-- 2023 年本科生90分课程
+-校优本科毕业论文(2024届)、90分本科课程(2024年3门)
+-本科生课程：物联网技术应用基础、文献检索与科技写作
+-研究生课程：线性控制系统
+-博士生
+-(26秋)夏睿
+-硕士生
+-(22级)陆伟佳* 发表MFC、AEAT、TASE
+-(23级)卢瑞秋 发表飞控与探测、2025YAC会议、ASST、IEICE
+-(23级)尹天乐 发表5篇论文，2篇IEEE-TAES，在审2篇IEEE、2025江苏研究生智能感知与自主控制学术创新论坛 最佳论文优秀奖，中山大学读博
+-(24级)翟峰（2在审），杨努(1SCI, 1在审)，张瑞芹（1在审）
+-(25级)乔正(1 EI，1在审)，徐士杰(1 SCI*), 张盼，鲁蓝灵，卢兴海
+-(26级)
+-近三年所带本科生：
+-吴昊(浙江大学读博推免，发表1篇，投稿SCI 1篇)
+-侯晨杨保研至西安交通大学
+-栗森茂保研至同济大学（发表EI）
+-胡宸恺保研至浙江大学
+-沈天奥读研至香港中文大学（发表SCI）
+-李骏驰考研至上海交通大学
+-席伟杰保研至上海交通大学（发表SCI）
+-祝伟铭考研至南京大学
 
 <br />
 
