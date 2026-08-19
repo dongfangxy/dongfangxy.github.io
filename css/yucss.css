@@ -355,6 +355,27 @@ h3 + ol {
   margin-top: -0.15rem;
 }
 
+/* Compact long-form homepage sections without affecting other lists. */
+#academic-services + ul {
+  line-height: 1.2;
+}
+
+#academic-services + ul > li {
+  margin: 0.18rem 0;
+}
+
+.teaching-compact {
+  line-height: 1.2;
+}
+
+.teaching-compact p {
+  margin-bottom: 0.42rem;
+}
+
+.teaching-compact > :last-child {
+  margin-bottom: 0;
+}
+
 .container ol > li {
   margin: 0.75rem 0;
   padding-left: 0.28rem;

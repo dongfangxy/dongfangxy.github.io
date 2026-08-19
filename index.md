@@ -67,7 +67,7 @@ I am listed in [**World's Top 2% Scientists in 2023, 2024, 2025**](https://elsev
 
 <br />
 
-### Academic Services and Other Information 
+### Academic Services and Other Information {#academic-services}
 - Editor in Chief, *Aerospace Engineering Communications* (Co-Eic Jin Wu, 2025-Present)
 - Editorial Board, *Aerospace Systems*(*Shanghai Jiao Tong University Press*, EI)
 - Editorial Board, *Symmetry* (Computer Section, 2025-present, SCI)
@@ -104,6 +104,8 @@ I am listed in [**World's Top 2% Scientists in 2023, 2024, 2025**](https://elsev
 <br />
 
 ### Teaching
+<div class="teaching-compact" markdown="1">
+
 校优本科毕业论文(2024届)、90分本科课程(2024年3门)
 
 本科生课程：物联网技术应用基础、文献检索与科技写作
@@ -141,6 +143,8 @@ I am listed in [**World's Top 2% Scientists in 2023, 2024, 2025**](https://elsev
 席伟杰保研至上海交通大学（发表SCI）
 
 祝伟铭考研至南京大学
+
+</div>
 
 <br />
 
