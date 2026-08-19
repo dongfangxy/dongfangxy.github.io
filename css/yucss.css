@@ -223,12 +223,12 @@ select:focus-visible {
 
 .profile-details h1 span[lang] {
   font-weight: 600;
-  color: var(--text-secondary);
+  color: inherit;
 }
 
 .profile-role {
   margin: 0 0 16px;
-  color: var(--primary-dark);
+  color: var(--text-secondary);
   font-size: 1rem;
   font-weight: 600;
   letter-spacing: 0.01em;
@@ -239,6 +239,11 @@ select:focus-visible {
   margin: 0;
   color: var(--text-secondary);
   font-size: 0.95rem;
+}
+
+.profile-bio strong,
+.profile-bio b {
+  color: inherit;
 }
 
 /* ========== Stats badges ========== */
