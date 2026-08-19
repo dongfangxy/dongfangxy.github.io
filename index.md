@@ -25,8 +25,6 @@ I was born in Qufu, China. I received the B.S. and M.S. degrees from the **Harbi
 - New Energy System Contorol, Optimization
 
 
-<br />
-
 I have published 100+ papers, with several ESI 1% & 0.1% Papers (See [**Publications**](https://dongfangxy.github.io/publications/)), 
 One paper selected as the cover article of AppliedMath；received 2400+ citations since 2018, by Google Scholar. 
 
@@ -106,27 +104,43 @@ I am listed in [**World's Top 2% Scientists in 2023, 2024, 2025**](https://elsev
 <br />
 
 ### Teaching
--校优本科毕业论文(2024届)、90分本科课程(2024年3门)
--本科生课程：物联网技术应用基础、文献检索与科技写作
--研究生课程：线性控制系统
--博士生
--(26秋)夏睿
--硕士生
--(22级)陆伟佳* 发表MFC、AEAT、TASE
--(23级)卢瑞秋 发表飞控与探测、2025YAC会议、ASST、IEICE
--(23级)尹天乐 发表5篇论文，2篇IEEE-TAES，在审2篇IEEE、2025江苏研究生智能感知与自主控制学术创新论坛 最佳论文优秀奖，中山大学读博
--(24级)翟峰（2在审），杨努(1SCI, 1在审)，张瑞芹（1在审）
--(25级)乔正(1 EI，1在审)，徐士杰(1 SCI*), 张盼，鲁蓝灵，卢兴海
--(26级)
--近三年所带本科生：
--吴昊(浙江大学读博推免，发表1篇，投稿SCI 1篇)
--侯晨杨保研至西安交通大学
--栗森茂保研至同济大学（发表EI）
--胡宸恺保研至浙江大学
--沈天奥读研至香港中文大学（发表SCI）
--李骏驰考研至上海交通大学
--席伟杰保研至上海交通大学（发表SCI）
--祝伟铭考研至南京大学
+校优本科毕业论文(2024届)、90分本科课程(2024年3门)
+
+本科生课程：物联网技术应用基础、文献检索与科技写作
+
+研究生课程：线性控制系统
+
+博士生
+
+(26秋)夏睿
+
+硕士生
+
+(22级)陆伟佳* 发表MFC、AEAT、TASE
+
+(23级)卢瑞秋 发表飞控与探测、2025YAC会议、ASST、IEICE、(23级)尹天乐 发表5篇论文，2篇IEEE-TAES，中山大学读博
+
+(24级)翟峰（2在审），杨努(1SCI, 1在审)，张瑞芹（1在审）
+
+(25级)乔正(1 EI，1在审)，徐士杰(1 SCI*), 张盼，鲁蓝灵，卢兴海
+
+(26级)
+
+近三年所带本科生：
+
+吴昊浙江大学读博推免(发表1篇，投稿SCI 1篇)
+
+侯晨杨保研至西安交通大学
+
+栗森茂保研至同济大学（发表EI）
+
+胡宸恺保研至浙江大学
+
+沈天奥读研至香港中文大学（发表SCI）
+
+席伟杰保研至上海交通大学（发表SCI）
+
+祝伟铭考研至南京大学
 
 <br />
 
