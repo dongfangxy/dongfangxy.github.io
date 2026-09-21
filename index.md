@@ -114,7 +114,7 @@ I am listed in [**World's Top 2% Scientists in 2023, 2024, 2025**](https://elsev
 
 博士生
 
-(26秋)夏睿
+(26)夏睿
 
 硕士生
 
@@ -126,7 +126,7 @@ I am listed in [**World's Top 2% Scientists in 2023, 2024, 2025**](https://elsev
 
 (25级)乔正(1 EI，1在审)，徐士杰(1 SCI*), 张盼，鲁蓝灵，卢兴海
 
-(26级)
+(26级) 余一聪 马友鹏 刘文乐 李昂 吴岱霖
 
 近三年所带本科生：
 
