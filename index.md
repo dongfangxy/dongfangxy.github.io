@@ -36,7 +36,7 @@ Committee Member of Youth Work Committee, Chinese Association for Automation
 
 IEEE Senior Member
 
-I am listed in [**World's Top 2% Scientists in 2023, 2024, 2025**](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/8), by Stanford University and Elsevier.
+I am listed in [**World's Top 2% Scientists in 2023, 2024, 2025, 2026**](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/8), by Stanford University and Elsevier.
 
 <br />
 
@@ -45,7 +45,7 @@ I am listed in [**World's Top 2% Scientists in 2023, 2024, 2025**](https://elsev
 
 首届哈尔滨工业大学(深圳)优秀博士后(2021)
 
-入选斯坦福大学-爱思唯尔[**全球前2%科学家名单**(2023年, 2024年, 2025年)](https://topresearcherslist.com/Home/Profile?AuthFull=Zhang,%20Chengxi&FirstYear=2018)
+入选斯坦福大学-爱思唯尔[**全球前2%科学家名单**(2023年, 2024年, 2025年,2026年)](https://topresearcherslist.com/Home/Profile?AuthFull=Zhang,%20Chengxi&FirstYear=2018)
 
 入选江苏省人才项目(2024年)
 
