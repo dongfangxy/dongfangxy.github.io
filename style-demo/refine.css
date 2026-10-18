@@ -1,0 +1,292 @@
+/* ===========================================================================
+   Refinements to an existing theme, not a new one.
+
+   Loaded after /css/yucss.css and only ever overrides: same palette, same
+   structure, same components. Three things the original does not do, plus a
+   light reduction of ornament:
+
+     1. A reading measure. The card is ~950px wide inside, so a paragraph runs
+        to nearly 130 characters. Prose is capped at ~74ch, lists at ~82ch.
+     2. Room to breathe where it was tight. Two long-form blocks were set at
+        line-height 1.2, which for a list of editorships is a caption rhythm,
+        not a reading one.
+     3. Quieter furniture. One shadow instead of three levels of it, a hairline
+        heading rule instead of a blue bar, a calmer sticky bar, and a link you
+        can see before you hover it.
+
+   Layout deltas live inside `min-width: 769px` on purpose. A stylesheet that
+   loads later beats the theme's own media queries at equal specificity, so a
+   bare `.container { padding: ... }` here would quietly undo the considered
+   phone layout the theme already has.
+   =========================================================================== */
+
+/* ------------------------------------------------------------------ tokens */
+:root {
+  --page-background: #f5f6f8;
+  --text-primary: #17222e;
+  --text-secondary: #51606f;
+  --border-color: #dde3ea;
+  --border-light: #e9eef3;
+  --radius: 6px;
+  --max-width: 1040px;
+  --shadow-md: 0 1px 2px rgba(23, 34, 46, 0.04), 0 8px 24px -12px rgba(23, 34, 46, 0.12);
+}
+
+/* -------------------------------------------------------------------- nav */
+#layout-menu {
+  background: rgba(255, 255, 255, 0.86);
+  -webkit-backdrop-filter: saturate(180%) blur(12px);
+  backdrop-filter: saturate(180%) blur(12px);
+}
+
+.logo a {
+  font-size: 0.95rem;
+  font-weight: 650;
+  letter-spacing: 0.015em;
+}
+
+.nav-links {
+  gap: 24px;
+}
+
+.nav-links a {
+  font-size: 0.875rem;
+  font-weight: 500;
+}
+
+.nav-links a::after {
+  height: 1.5px;
+  transform: none;
+}
+
+.nav-links a.active {
+  font-weight: 600;
+}
+
+/* ---------------------------------------------------------------- reading */
+body {
+  font-size: 1rem;
+  line-height: 1.7;
+}
+
+/*
+ * Cap the measure on prose only: publication rows and tables keep the full
+ * width, where a long author list legitimately needs the room.
+ */
+.container p,
+.profile-bio,
+blockquote {
+  max-width: 74ch;
+}
+
+/* Lists are reference material — a list of editorships is scanned, not read as
+   prose — so they keep a wider measure than paragraphs. */
+.container li {
+  max-width: 82ch;
+}
+
+.container table,
+.paper-list,
+.paper-card,
+.social-links,
+.infoblock,
+.stats-row {
+  max-width: none;
+}
+
+p {
+  margin: 0 0 1.05rem;
+}
+
+/* A link you can see before you hover it; the underline darkens on hover rather
+   than appearing from nothing. */
+.container a:not(.button):not(.social-link):not(.stat-badge) {
+  text-decoration: underline;
+  text-decoration-color: rgba(30, 96, 145, 0.28);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.19em;
+  transition: text-decoration-color var(--transition), color var(--transition);
+}
+
+.container a:not(.button):not(.social-link):not(.stat-badge):hover {
+  text-decoration-color: currentColor;
+}
+
+/* -------------------------------------------------------------- headings */
+/*
+ * The blue bar before every heading competes with the accent colour used
+ * elsewhere; a hairline rule separates a section well enough.
+ */
+h3::before {
+  display: none;
+}
+
+h3 {
+  padding-bottom: 0.5rem;
+  font-size: 1.12rem;
+  font-weight: 640;
+  letter-spacing: -0.005em;
+  border-bottom-color: var(--border-color);
+}
+
+h2 {
+  margin: 2.4rem 0 0.8rem;
+  font-size: 1.32rem;
+  font-weight: 640;
+  letter-spacing: -0.01em;
+}
+
+h4 {
+  margin: 1.6rem 0 0.55rem;
+  font-size: 1rem;
+}
+
+/* --------------------------------------------------------- long-form lists */
+/*
+ * These two blocks were set at line-height 1.2, which is a caption rhythm.
+ * A list of editorial boards is read.
+ */
+#academic-services + ul,
+.teaching-compact {
+  line-height: 1.55;
+}
+
+#academic-services + ul > li {
+  margin: 0.28rem 0;
+}
+
+.teaching-compact p {
+  margin-bottom: 0.6rem;
+}
+
+ul,
+ol {
+  margin: 0 0 1.25rem;
+  padding-left: 1.35rem;
+}
+
+li {
+  margin: 0.36rem 0;
+}
+
+li::marker {
+  color: #a9b4bf;
+}
+
+/* ---------------------------------------------------------------- papers */
+.paper-item {
+  padding: 0.6rem 0;
+}
+
+.paper-date {
+  font-variant-numeric: tabular-nums;
+  letter-spacing: 0.01em;
+  color: var(--text-muted);
+}
+
+.paper-title {
+  font-weight: 600;
+}
+
+.paper-authors,
+.paper-journal {
+  color: var(--text-secondary);
+  font-size: 0.92rem;
+}
+
+/* ------------------------------------------------------------ components */
+.infoblock {
+  border-left-width: 3px;
+  border-radius: var(--radius-sm);
+  padding: 1rem 1.2rem;
+}
+
+.social-link {
+  padding: 6px 13px;
+  border-radius: 999px;
+}
+
+hr {
+  margin: 2.2rem 0;
+}
+
+img {
+  border-radius: var(--radius-sm);
+}
+
+/* The name's Chinese half sits a step down from the Latin one at every width. */
+.profile-details h1 span[lang] {
+  font-size: 0.62em;
+  font-weight: 500;
+  letter-spacing: 0.05em;
+  color: var(--text-secondary);
+  margin-left: 0.3em;
+}
+
+/* --------------------------------------------------- layout (desktop only) */
+@media (min-width: 769px) {
+  #layout-content {
+    padding: 40px 32px 72px;
+  }
+
+  .container {
+    padding: 48px 60px 56px;
+    box-shadow: var(--shadow-md);
+  }
+
+  .profile {
+    grid-template-columns: 160px minmax(0, 1fr);
+    gap: 34px;
+    margin-bottom: 34px;
+    padding-bottom: 34px;
+  }
+
+  .profile-photo {
+    width: 160px;
+  }
+
+  .profile-details h1 {
+    font-size: clamp(1.85rem, 2.7vw, 2.05rem);
+    font-weight: 650;
+    letter-spacing: -0.015em;
+  }
+
+  .profile-role {
+    margin: 0 0 14px;
+    font-size: 0.95rem;
+    font-weight: 500;
+    color: var(--text-secondary);
+  }
+
+  .profile-bio {
+    font-size: 0.94rem;
+    line-height: 1.7;
+  }
+
+  h3 {
+    margin: 2.4rem 0 0.8rem;
+  }
+}
+
+/* ----------------------------------------------------------------- print */
+@media print {
+  #layout-menu {
+    display: none;
+  }
+
+  #layout-content {
+    padding: 0;
+    max-width: none;
+  }
+
+  .container {
+    border: 0;
+    box-shadow: none;
+    padding: 0;
+  }
+
+  .container a {
+    text-decoration: none;
+    color: inherit;
+  }
+}
