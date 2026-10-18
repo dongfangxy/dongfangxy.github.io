@@ -143,11 +143,10 @@ h4 {
 
 /* --------------------------------------------------------- long-form lists */
 /*
- * These two blocks were set at line-height 1.2, which is a caption rhythm.
- * A list of editorial boards is read.
+ * The service list was set at line-height 1.2, which is a caption rhythm; a list of
+ * editorial boards is read, so it gets room.
  */
-#academic-services + ul,
-.teaching-compact {
+#academic-services + ul {
   line-height: 1.55;
 }
 
@@ -155,8 +154,17 @@ h4 {
   margin: 0.28rem 0;
 }
 
+/*
+ * The teaching block is a register -- twenty-odd one-line entries naming cohorts of
+ * students. Giving it the same room as prose doubled its height for no gain, so it
+ * keeps a tighter rhythm and a smaller gap between entries.
+ */
+.teaching-compact {
+  line-height: 1.38;
+}
+
 .teaching-compact p {
-  margin-bottom: 0.6rem;
+  margin-bottom: 0.25rem;
 }
 
 ul,
