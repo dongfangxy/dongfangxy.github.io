@@ -250,15 +250,35 @@ img {
     box-shadow: var(--shadow-md);
   }
 
+  /*
+   * The portrait floats rather than sharing a grid row with the text.
+   *
+   * In a grid the biography lives in the second column, so its right edge sat exactly one
+   * portrait-plus-gap short of every other paragraph -- visible as two different right
+   * margins on the same page. Floated, the biography is a full-width block that simply
+   * wraps around the image, so its right edge lines up with the text below it, and it
+   * keeps doing so at every width without a magic number for the offset.
+   */
   .profile {
-    grid-template-columns: 160px minmax(0, 1fr);
-    gap: 34px;
+    display: block;
     margin-bottom: 34px;
     padding-bottom: 34px;
   }
 
-  .profile-photo {
+  .profile::after {
+    display: block;
+    clear: both;
+    content: "";
+  }
+
+  .profile-photo-wrap {
+    float: left;
     width: 160px;
+    margin: 0 34px 6px 0;
+  }
+
+  .profile-photo {
+    width: 100%;
   }
 
   .profile-details h1 {
