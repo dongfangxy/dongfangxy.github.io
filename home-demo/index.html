@@ -1,0 +1,346 @@
+<!doctype html>
+<html lang="en" data-theme="light">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Chengxi Zhang · 张承玺 — Homepage (preview)</title>
+<meta name="description" content="Chengxi Zhang, Associate Professor at Jiangnan University. Space robotic systems, constellation management, embedded systems and learning-based control.">
+<meta name="color-scheme" content="light dark">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%232f5d8f'/%3E%3Ctext x='16' y='22' font-family='Georgia,serif' font-size='17' fill='%23fff' text-anchor='middle'%3EC%3C/text%3E%3C/svg%3E">
+<style>
+  :root {
+    --bg: #fbfbf9;
+    --surface: #ffffff;
+    --text: #1b1e22;
+    --muted: #5d656f;
+    --dim: #8a9299;
+    --rule: #e4e3dd;
+    --rule-soft: #eeede8;
+    --accent: #2f5d8f;
+    --accent-soft: #4a7cad;
+    --chip: #f3f2ee;
+    --maxw: 820px;
+    --serif: "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, "Songti SC", "Source Han Serif SC", serif;
+    --sans: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Hiragino Sans GB",
+            "Microsoft YaHei", "Source Han Sans SC", Helvetica, Arial, sans-serif;
+    --mono: ui-monospace, SFMono-Regular, Consolas, monospace;
+  }
+
+  [data-theme="dark"] {
+    --bg: #0f1216;
+    --surface: #141a20;
+    --text: #e2e6ea;
+    --muted: #9aa4ae;
+    --dim: #6f7a85;
+    --rule: #242b33;
+    --rule-soft: #1b2128;
+    --accent: #a9c8e8;
+    --accent-soft: #8fb4dd;
+    --chip: #1a2028;
+  }
+
+  * { box-sizing: border-box; }
+
+  html { -webkit-text-size-adjust: 100%; scroll-behavior: smooth; }
+  @media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } * { transition: none !important; } }
+
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: var(--sans);
+    font-size: 15.5px;
+    line-height: 1.75;
+    -webkit-font-smoothing: antialiased;
+    transition: background .18s ease, color .18s ease;
+  }
+
+  .wrap { width: 100%; max-width: var(--maxw); margin: 0 auto; padding: 0 26px; }
+
+  a { color: var(--accent); text-decoration: none; }
+  a:hover { color: var(--accent-soft); text-decoration: underline; text-underline-offset: 3px; text-decoration-thickness: 1px; }
+  :focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; border-radius: 3px; }
+
+  /* ------------------------------------------------------- preview notice */
+  .notice {
+    background: var(--chip);
+    border-bottom: 1px solid var(--rule);
+    font-size: 12.5px;
+    color: var(--muted);
+  }
+  .notice .wrap { display: flex; flex-wrap: wrap; gap: 6px 12px; align-items: baseline; padding-top: 8px; padding-bottom: 8px; }
+  .notice b { color: var(--text); font-weight: 600; }
+  .notice .sp { flex: 1; }
+
+  /* ------------------------------------------------------------------ nav */
+  header.top { position: sticky; top: 0; z-index: 10; background: var(--bg); border-bottom: 1px solid var(--rule-soft); }
+  header.top .wrap { display: flex; align-items: center; gap: 20px; height: 54px; }
+  .me { font-family: var(--serif); font-size: 16.5px; letter-spacing: .01em; color: var(--text); }
+  .me:hover { text-decoration: none; color: var(--text); }
+  nav.links { display: flex; gap: 17px; margin-left: auto; font-size: 14px; }
+  nav.links a { color: var(--muted); }
+  nav.links a:hover { color: var(--text); text-decoration: none; }
+  .icon-btn {
+    appearance: none; border: 1px solid var(--rule); background: transparent; color: var(--muted);
+    width: 30px; height: 30px; border-radius: 7px; cursor: pointer; font-size: 13px; line-height: 1;
+    display: inline-flex; align-items: center; justify-content: center; flex: none;
+  }
+  .icon-btn:hover { color: var(--text); border-color: var(--dim); }
+
+  /* ---------------------------------------------------------------- intro */
+  .intro { display: grid; grid-template-columns: 132px minmax(0, 1fr); gap: 28px; padding: 46px 0 34px; align-items: start; }
+  .portrait {
+    width: 132px; height: 168px; object-fit: cover; border-radius: 4px;
+    border: 1px solid var(--rule); background: var(--chip); display: block;
+  }
+  h1 {
+    font-family: var(--serif); font-weight: 600; letter-spacing: -.01em;
+    font-size: 33px; line-height: 1.15; margin: 2px 0 0;
+  }
+  h1 .zh { font-size: 21px; color: var(--muted); font-weight: 400; margin-left: 9px; letter-spacing: .06em; }
+  .role { margin: 9px 0 0; color: var(--muted); font-size: 14.5px; }
+  .affil { margin: 3px 0 0; color: var(--dim); font-size: 13.5px; }
+  .oneline { margin: 13px 0 0; font-size: 15px; color: var(--text); max-width: 40em; }
+  .chips { display: flex; flex-wrap: wrap; gap: 7px; margin: 17px 0 0; }
+  .chip {
+    border: 1px solid var(--rule); border-radius: 999px; padding: 3.5px 11px;
+    font-size: 12.5px; color: var(--muted); background: transparent;
+  }
+  .chip:hover { color: var(--text); border-color: var(--dim); text-decoration: none; }
+
+  /* ------------------------------------------------------------- sections */
+  section { padding: 30px 0; border-top: 1px solid var(--rule-soft); }
+  section > h2 {
+    font-family: var(--mono); font-weight: 500; font-size: 11.5px; letter-spacing: .13em;
+    text-transform: uppercase; color: var(--dim); margin: 0 0 15px;
+  }
+  section p { margin: 0 0 12px; }
+  section p:last-child { margin-bottom: 0; }
+  .zh-line { color: var(--muted); font-size: 14.5px; }
+
+  ul.plain { list-style: none; margin: 0; padding: 0; }
+  ul.plain > li { padding: 0 0 9px; }
+  ul.plain > li:last-child { padding-bottom: 0; }
+  ul.plain > li b { font-weight: 600; }
+
+  .defs { margin: 0; }
+  .defs > div { display: grid; grid-template-columns: 92px minmax(0, 1fr); gap: 14px; padding: 4px 0; }
+  .defs dt { color: var(--dim); font-size: 13px; }
+  .defs dd { margin: 0; }
+
+  /* ----------------------------------------------------------- papers */
+  ol.papers { list-style: none; margin: 0; padding: 0; counter-reset: paper; }
+  ol.papers > li { padding: 13px 0; border-bottom: 1px solid var(--rule-soft); }
+  ol.papers > li:first-child { padding-top: 0; }
+  ol.papers > li:last-child { border-bottom: 0; padding-bottom: 0; }
+  .p-title { font-weight: 600; font-size: 15px; line-height: 1.5; }
+  .p-authors { color: var(--muted); font-size: 13.5px; margin-top: 3px; }
+  .p-authors b { color: var(--text); font-weight: 600; }
+  .p-venue { color: var(--dim); font-size: 13px; font-style: italic; margin-top: 2px; }
+
+  .more { margin-top: 14px; font-size: 13.5px; }
+
+  /* -------------------------------------------------------------- footer */
+  footer { border-top: 1px solid var(--rule-soft); padding: 26px 0 54px; color: var(--dim); font-size: 13px; }
+  footer .wrap { display: flex; flex-wrap: wrap; gap: 6px 22px; }
+  footer a { color: var(--muted); }
+  footer .sp { flex: 1; }
+
+  @media (max-width: 680px) {
+    .intro { grid-template-columns: 1fr; gap: 18px; padding-top: 34px; }
+    .portrait { width: 104px; height: 132px; }
+    h1 { font-size: 27px; }
+    h1 .zh { display: block; margin: 4px 0 0; font-size: 17px; }
+    nav.links { display: none; }
+    .defs > div { grid-template-columns: 1fr; gap: 0; padding: 6px 0; }
+    .defs dt { font-size: 12px; }
+  }
+</style>
+</head>
+<body>
+
+<div class="notice">
+  <div class="wrap">
+    <b>版式预览</b>
+    <span>这是拟替换的首页样式草稿，正式主页未改动。</span>
+    <span class="sp"></span>
+    <a href="/">← 返回现有主页</a>
+    <a href="/pdf-looker-pro/">PDF Looker Pro 页面 ↗</a>
+  </div>
+</div>
+
+<header class="top">
+  <div class="wrap">
+    <a class="me" href="#top">Chengxi Zhang</a>
+    <nav class="links">
+      <a href="#about">About</a>
+      <a href="#research">Research</a>
+      <a href="#papers">Publications</a>
+      <a href="#service">Service</a>
+      <a href="#teaching">Teaching</a>
+      <a href="#contact">Contact</a>
+    </nav>
+    <button class="icon-btn" id="theme" type="button" aria-label="Switch theme" title="Switch theme">☾</button>
+  </div>
+</header>
+
+<main class="wrap" id="top">
+
+  <div class="intro">
+    <img class="portrait" src="/zhangcx.jpg" alt="Portrait of Chengxi Zhang" width="132" height="168">
+    <div>
+      <h1>Chengxi Zhang <span class="zh" lang="zh-CN">张承玺</span></h1>
+      <p class="role">Associate Professor · Doctoral Supervisor <span lang="zh-CN" style="color:var(--dim)">副教授、博士生导师</span></p>
+      <p class="affil">School of Internet of Things, Jiangnan University, Wuxi, China</p>
+      <p class="oneline">Space robotic systems, constellation management, and learning-based control — with a long-running interest in the embedded systems that carry them.</p>
+      <div class="chips">
+        <a class="chip" href="https://scholar.google.com/citations?user=oHzlz50AAAAJ&amp;hl">Google Scholar</a>
+        <a class="chip" href="https://orcid.org/0000-0002-3130-6497">ORCID</a>
+        <a class="chip" href="https://www.researchgate.net/profile/Chengxi_Zhang5">ResearchGate</a>
+        <a class="chip" href="https://iot.jiangnan.edu.cn/info/1142/3595.htm">University page</a>
+        <a class="chip" href="mailto:dongfangxy@163.com">Email</a>
+      </div>
+    </div>
+  </div>
+
+  <section id="about">
+    <h2>About</h2>
+    <p>
+      I was born in Qufu, China. I received the B.S. and M.S. degrees from
+      <strong>Harbin Institute of Technology</strong> in 2012 and 2015, and the Ph.D. degree from
+      <strong>Shanghai Jiao Tong University</strong>. From 2020 to 2022 I worked at HIT, where I received the
+      Outstanding Postdoctoral Award of HIT Shenzhen in 2022. Since 2022 I have been an Associate Professor at
+      Jiangnan University, Wuxi.
+    </p>
+    <p class="zh-line" lang="zh-CN">
+      发表学术论文 100 余篇（IEEE 系列 50 余篇，第一/通信作者 50 余篇），含 ESI 高被引 2 篇、热点论文 1 篇，
+      1 篇入选 AppliedMath 封面文章；谷歌学术引用 3000 余次，H-index 26，i10-index 67。
+      主持国家自然科学基金 2 项，参研巨星座重点研发计划等。
+    </p>
+    <p class="zh-line" lang="zh-CN">
+      入选斯坦福大学—爱思唯尔全球前 2% 科学家（2023—2026）、江苏省人才项目（2024），
+      IEEE 高级会员，中国自动化学会青年工作委员会委员。
+    </p>
+  </section>
+
+  <section id="research">
+    <h2>Research</h2>
+    <ul class="plain">
+      <li><b>Space robotic systems and constellation management.</b> <span style="color:var(--muted)">Attitude tracking, formation flying, and clustering strategies for megaconstellations under energy and size constraints.</span></li>
+      <li><b>Embedded systems and applied learning.</b> <span style="color:var(--muted)">Control-oriented learning, sensor calibration, and the practical side of running these algorithms on real hardware.</span></li>
+      <li><b>Control and optimisation for new energy systems.</b> <span style="color:var(--muted)">Resilient control under faults and false data injection.</span></li>
+    </ul>
+    <p class="more"><a href="/research/">Research page →</a></p>
+  </section>
+
+  <section id="papers">
+    <h2>Selected publications</h2>
+    <ol class="papers">
+      <li>
+        <div class="p-title">Enhancing Attitude Tracking with Self-learning Control using Tanh-type Learning Intensity</div>
+        <div class="p-authors"><b>Chengxi Zhang</b>, Weijia Lu, Shunyi Zhao, Jin Wu, Xiaoyu Zhu, Zhijie Liu, Wei He</div>
+        <div class="p-venue">IEEE Transactions on Automation Science and Engineering</div>
+      </li>
+      <li>
+        <div class="p-title">Clustering Strategy for Megaconstellation with Synergistic Energy and Size Considerations</div>
+        <div class="p-authors"><b>Chengxi Zhang</b>, Tianle Yin, Wenshuo Wang, Jin Wu, Jihe Wang, Yuhua Qi, Wei He</div>
+        <div class="p-venue">IEEE Transactions on Aerospace and Electronic Systems</div>
+      </li>
+      <li>
+        <div class="p-title">Resilient Control in Multi-Hydrofoil Crafts: Tackling Actuator Faults and False Data Injection for Attitude Consensus</div>
+        <div class="p-authors">Tao Wang, Dezhi Xu, <b>Chengxi Zhang</b>, Bin Jiang</div>
+        <div class="p-venue">IEEE Transactions on Automation Science and Engineering</div>
+      </li>
+      <li>
+        <div class="p-title">Constraint-Based Hand-Eye Calibration for Large-Scale Intelligent Guided Vehicles</div>
+        <div class="p-authors">Bohuan Xue, Jiachen Wang, Jin Wu, Tianyu Liu, Hongji Liu, Yang Yu, Shupei Li, Bowen Yang, <b>Chengxi Zhang</b>, Zhijian He</div>
+        <div class="p-venue">IEEE Transactions on Instrumentation and Measurement</div>
+      </li>
+    </ol>
+    <p class="more"><a href="/publications/">All publications →</a> <span style="color:var(--dim)">(100+ papers)</span></p>
+  </section>
+
+  <section id="news">
+    <h2>Recent</h2>
+    <dl class="defs">
+      <div><dt>2026</dt><dd>Listed in the World's Top 2% Scientists for the fourth year, Stanford University and Elsevier.</dd></div>
+      <div><dt>2025</dt><dd>Co-Editor-in-Chief, <i>Aerospace Engineering Communications</i> (with Jin Wu).</dd></div>
+      <div><dt>2025</dt><dd>Member, Youth Work Committee, Chinese Association for Automation.</dd></div>
+      <div><dt>2024</dt><dd>Selected for a Jiangsu provincial talent programme.</dd></div>
+      <div><dt>2022</dt><dd>Outstanding Postdoctoral Award, HIT Shenzhen.</dd></div>
+    </dl>
+  </section>
+
+  <section id="service">
+    <h2>Academic service</h2>
+    <ul class="plain">
+      <li><b>Editor-in-Chief</b>, Aerospace Engineering Communications, 2025–</li>
+      <li><b>Editorial board</b>, Scientific Reports; Symmetry; AppliedMath; IoT; Aerospace Systems</li>
+      <li><b>Associate editor</b>, Frontiers in Aerospace Engineering; Frontiers in Mechanical Engineering</li>
+      <li><b>Reviewer and panellist</b>, NSFC; Shenzhen Science and Technology Innovation Committee</li>
+    </ul>
+    <p class="more"><a href="/#academic-services">Full service list →</a></p>
+  </section>
+
+  <section id="teaching">
+    <h2>Teaching</h2>
+    <ul class="plain">
+      <li><b>Undergraduate</b> — Applied Fundamentals of IoT Technology; Literature Search and Scientific Writing</li>
+      <li><b>Graduate</b> — Linear Control Systems</li>
+      <li><span style="color:var(--muted)">Students I supervise have published in IEEE TAES and TASE, won the university's outstanding thesis award, and gone on to doctoral study at Shanghai Jiao Tong, Zhejiang, Xi'an Jiaotong and Tongji.</span></li>
+    </ul>
+  </section>
+
+  <section id="software">
+    <h2>Software</h2>
+    <p>
+      <b>PDF Looker Pro</b> — a desktop PDF reader and annotator written from scratch: page virtualisation,
+      a self-written PDF writer that puts annotations into the file itself, page editing, stamps and replies.
+      <a href="/pdf-looker-pro/">Project page →</a><span style="color:var(--dim)"> · MIT licensed</span>
+    </p>
+  </section>
+
+  <section id="contact">
+    <h2>Contact</h2>
+    <dl class="defs">
+      <div><dt>Email</dt><dd><a href="mailto:dongfangxy@163.com">dongfangxy@163.com</a></dd></div>
+      <div><dt>Address</dt><dd>School of Internet of Things, Jiangnan University, Wuxi 214122, China</dd></div>
+      <div><dt>Elsewhere</dt><dd><a href="https://scholar.google.com/citations?user=oHzlz50AAAAJ&amp;hl">Google Scholar</a> · <a href="https://orcid.org/0000-0002-3130-6497">ORCID</a> · <a href="https://www.researchgate.net/profile/Chengxi_Zhang5">ResearchGate</a> · <a href="https://blog.csdn.net/Paolu2022/article/details/135201277">CSDN</a></dd></div>
+    </dl>
+  </section>
+</main>
+
+<footer>
+  <div class="wrap">
+    <span>© 2026 Chengxi Zhang</span>
+    <span class="sp"></span>
+    <a href="/">Existing homepage</a>
+    <a href="https://github.com/dongfangxy">GitHub</a>
+  </div>
+</footer>
+
+<script>
+  // Light by default — an academic page reads better on paper-white — with a dark option
+  // for people who want it.
+  (function () {
+    var KEY = 'cx-home-theme';
+    var btn = document.getElementById('theme');
+
+    function apply(theme) {
+      document.documentElement.dataset.theme = theme;
+      btn.textContent = theme === 'dark' ? '☀' : '☾';
+      btn.setAttribute('aria-label', theme === 'dark' ? 'Switch to light theme' : 'Switch to dark theme');
+      try { localStorage.setItem(KEY, theme); } catch (e) { /* private mode */ }
+    }
+
+    var saved = null;
+    try { saved = localStorage.getItem(KEY); } catch (e) { /* ignore */ }
+    apply(saved === 'dark' ? 'dark' : 'light');
+
+    btn.addEventListener('click', function () {
+      apply(document.documentElement.dataset.theme === 'dark' ? 'light' : 'dark');
+    });
+  })();
+</script>
+</body>
+</html>
