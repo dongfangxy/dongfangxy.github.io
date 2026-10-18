@@ -7,6 +7,18 @@ author: Chengxi Zhang
 meta: Release
 ---
 
+<figure class="post-figure">
+  <a href="https://dongfangxy.github.io/pdf-looker-pro/">
+    <img src="/pdf-looker-pro/assets/app.png" width="1200" height="750" loading="lazy"
+         alt="The PDF Looker Pro window: thumbnails and an annotation list on the left, and a page carrying a typewriter note, a highlight, a standard stamp and a distance measurement.">
+  </a>
+  <figcaption>
+    The application as it is: a typewriter note, a text highlight, a standard stamp and a
+    distance measurement, beside the list of annotations on the page. They are written
+    into the PDF itself, so Acrobat or Preview shows the same marks.
+  </figcaption>
+</figure>
+
 I have released **PDF Looker Pro 2.0**, a desktop PDF reader and annotator for Windows
 (MIT, portable, no installer). Rendering is pdf.js; two things that had no ready-made
 component are implemented from the bytes up — a writer that puts annotations *into* the

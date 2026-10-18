@@ -28,7 +28,7 @@
   --border-color: #dde3ea;
   --border-light: #e9eef3;
   --radius: 6px;
-  --max-width: 1040px;
+  --max-width: 1160px;
   --shadow-md: 0 1px 2px rgba(23, 34, 46, 0.04), 0 8px 24px -12px rgba(23, 34, 46, 0.12);
 }
 
@@ -70,19 +70,25 @@ body {
 }
 
 /*
- * Cap the measure on prose only: publication rows and tables keep the full
- * width, where a long author list legitimately needs the room.
+ * Width is set in px, not ch. A ch-based cap drifts with each page's font size --
+ * measured 600px on the homepage and 638px on a post -- which is not what a cap is
+ * for. One number, the same everywhere.
+ *
+ * The width is wider than the 65-75ch that long-form reading usually wants. That is a
+ * deliberate choice: the owner asked for a wider column twice, and an academic page is
+ * skimmed and cross-checked more than it is read line by line. The biography is
+ * narrower than this by construction -- it shares a grid row with the portrait.
  */
 .container p,
 .profile-bio,
 blockquote {
-  max-width: 74ch;
+  max-width: 900px;
 }
 
-/* Lists are reference material — a list of editorships is scanned, not read as
-   prose — so they keep a wider measure than paragraphs. */
+/* Lists and tables use the whole column; a long editorship line should not wrap
+   just to satisfy a measure meant for prose. */
 .container li {
-  max-width: 82ch;
+  max-width: none;
 }
 
 .container table,
@@ -238,7 +244,7 @@ img {
   }
 
   .container {
-    padding: 48px 60px 56px;
+    padding: 48px 56px 56px;
     box-shadow: var(--shadow-md);
   }
 
@@ -297,4 +303,31 @@ img {
     text-decoration: none;
     color: inherit;
   }
+}
+
+/*
+ * Lead image in a post: framed with a hairline like the screenshots on the project
+ * page, so a news entry and the product page look like the same hand.
+ */
+.post-figure {
+  margin: 0 0 1.5rem;
+}
+
+.post-figure a {
+  display: block;
+}
+
+.post-figure img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border: 1px solid var(--border-color);
+  border-radius: 4px;
+}
+
+.post-figure figcaption {
+  margin-top: 0.6rem;
+  font-size: 0.88rem;
+  line-height: 1.5;
+  color: var(--text-secondary);
 }
