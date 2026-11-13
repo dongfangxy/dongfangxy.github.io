@@ -74,7 +74,7 @@ I am listed in [**World's Top 2% Scientists in 2023, 2024, 2025, 2026**](https:/
 - Editorial Board, *Scientific Reports* (SCI，IF=3.9，2025-)
 - Editorial Board, *AppliedMath* (2022-present, ESCI) 
 - Editorial Board, *IoT (Internet of Things)* (2022-present, ESCI) 
-- Editorial Board, [*Computer Science & Systems* ](https://www.polymas.org/journals/POLYMAS-Computer-Science-&-Systems/editorial_board)
+- Editorial Board, [*POLYMAS Computer Science & Systems* ](https://www.polymas.org/journals/POLYMAS-Computer-Science-&-Systems/editorial_board)
 - Associate Editor, *Frontiers in Aerospace Engineering* (2022-present) 
 - Associate Editor, *Frontiers in Mechanical Engineering* (2025-Present)
 - Young Editorial Board, *Astrodynamics* (*Tsinghua University Press*, EI/ESCI )
