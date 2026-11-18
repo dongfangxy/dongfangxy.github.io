@@ -56,11 +56,11 @@ I am listed in [**World's Top 2% Scientists in 2023, 2024, 2025, 2026**](https:/
 ### Contact
 - Follow me on:
   <div class="social-links">
-    <a href="https://scholar.google.com/citations?user=oHzlz50AAAAJ&hl" class="social-link"><span class="si-icon">📚</span> Google Scholar</a>
-    <a href="https://www.researchgate.net/profile/Chengxi_Zhang5" class="social-link"><span class="si-icon">🔬</span> ResearchGate</a>
-    <a href="https://orcid.org/0000-0002-3130-6497" class="social-link"><span class="si-icon">🆔</span> ORCID</a>
-    <a href="https://iot.jiangnan.edu.cn/info/1142/3595.htm" class="social-link"><span class="si-icon">🏫</span> Official Page</a>
-    <a href="https://blog.csdn.net/Paolu2022/article/details/135201277" class="social-link"><span class="si-icon">📝</span> CSDN</a>
+    <a href="https://scholar.google.com/citations?user=oHzlz50AAAAJ&hl" class="social-link">Google Scholar</a>
+    <a href="https://www.researchgate.net/profile/Chengxi_Zhang5" class="social-link">ResearchGate</a>
+    <a href="https://orcid.org/0000-0002-3130-6497" class="social-link">ORCID</a>
+    <a href="https://iot.jiangnan.edu.cn/info/1142/3595.htm" class="social-link">Official Page</a>
+    <a href="https://blog.csdn.net/Paolu2022/article/details/135201277" class="social-link">CSDN</a>
   </div>
 - Email: dongfangxy@163.com
 - Jiangnan University, Wuxi 214122, China.

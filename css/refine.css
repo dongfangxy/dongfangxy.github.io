@@ -23,8 +23,9 @@
 /* ------------------------------------------------------------------ tokens */
 :root {
   --page-background: #f5f6f8;
-  --text-primary: #17222e;
-  --text-secondary: #51606f;
+  --text-primary: #000000;
+  --text-secondary: #333333;
+  --text-muted: #5f6368;
   --border-color: #dde3ea;
   --border-light: #e9eef3;
   --radius: 6px;
@@ -68,7 +69,7 @@
 /* ---------------------------------------------------------------- reading */
 body {
   font-size: 1rem;
-  line-height: 1.7;
+  line-height: 1.65;
 }
 
 /*
@@ -103,7 +104,11 @@ blockquote {
 }
 
 p {
-  margin: 0 0 1.05rem;
+  margin: 0 0 0.85rem;
+}
+
+.container p:has(> br:only-child) {
+  display: none;
 }
 
 /* A link you can see before you hover it; the underline darkens on hover rather
@@ -125,27 +130,42 @@ p {
  * The blue bar before every heading competes with the accent colour used
  * elsewhere; a hairline rule separates a section well enough.
  */
+h1,
+h2,
+h3,
+h4 {
+  color: var(--text-primary);
+  font-family: Georgia, "Times New Roman", "Noto Serif SC", "Songti SC", SimSun, serif;
+  text-wrap: balance;
+}
+
+.profile-details h1 {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans SC",
+    "PingFang SC", "Microsoft YaHei", Arial, sans-serif;
+}
+
 h3::before {
   display: none;
 }
 
 h3 {
-  padding-bottom: 0.5rem;
+  margin: 1.9rem 0 0.65rem;
+  padding-bottom: 0.45rem;
   font-size: 1.12rem;
-  font-weight: 640;
+  font-weight: 600;
   letter-spacing: -0.005em;
   border-bottom-color: var(--border-color);
 }
 
 h2 {
-  margin: 2.4rem 0 0.8rem;
+  margin: 1.9rem 0 0.65rem;
   font-size: 1.32rem;
-  font-weight: 640;
+  font-weight: 600;
   letter-spacing: -0.01em;
 }
 
 h4 {
-  margin: 1.6rem 0 0.55rem;
+  margin: 1.35rem 0 0.45rem;
   font-size: 1rem;
 }
 
@@ -155,11 +175,11 @@ h4 {
  * editorial boards is read, so it gets room.
  */
 #academic-services + ul {
-  line-height: 1.55;
+  line-height: 1.45;
 }
 
 #academic-services + ul > li {
-  margin: 0.28rem 0;
+  margin: 0.22rem 0;
 }
 
 /*
@@ -168,21 +188,25 @@ h4 {
  * keeps a tighter rhythm and a smaller gap between entries.
  */
 .teaching-compact {
-  line-height: 1.38;
+  line-height: 1.32;
 }
 
 .teaching-compact p {
-  margin-bottom: 0.25rem;
+  margin-bottom: 0.2rem;
 }
 
 ul,
 ol {
-  margin: 0 0 1.25rem;
+  margin: 0 0 1rem;
   padding-left: 1.35rem;
 }
 
 li {
-  margin: 0.36rem 0;
+  margin: 0.28rem 0;
+}
+
+.container ol > li {
+  margin: 0.55rem 0;
 }
 
 li::marker {
@@ -191,7 +215,8 @@ li::marker {
 
 /* ---------------------------------------------------------------- papers */
 .paper-item {
-  padding: 0.6rem 0;
+  padding: 0.5rem 0;
+  line-height: 1.55;
 }
 
 .paper-date {
@@ -223,7 +248,7 @@ li::marker {
 }
 
 hr {
-  margin: 2.2rem 0;
+  margin: 1.8rem 0;
 }
 
 img {
@@ -242,11 +267,11 @@ img {
 /* --------------------------------------------------- layout (desktop only) */
 @media (min-width: 769px) {
   #layout-content {
-    padding: 40px 32px 72px;
+    padding: 32px 32px 56px;
   }
 
   .container {
-    padding: 48px 56px 56px;
+    padding: 40px 48px 44px;
     box-shadow: var(--shadow-md);
   }
 
@@ -261,8 +286,8 @@ img {
    */
   .profile {
     display: block;
-    margin-bottom: 34px;
-    padding-bottom: 34px;
+    margin-bottom: 26px;
+    padding-bottom: 26px;
   }
 
   .profile::after {
@@ -274,7 +299,7 @@ img {
   .profile-photo-wrap {
     float: left;
     width: 160px;
-    margin: 0 34px 6px 0;
+    margin: 0 30px 6px 0;
   }
 
   .profile-photo {
@@ -288,7 +313,7 @@ img {
   }
 
   .profile-role {
-    margin: 0 0 14px;
+    margin: 0 0 12px;
     font-size: 0.95rem;
     font-weight: 500;
     color: var(--text-secondary);
@@ -296,11 +321,26 @@ img {
 
   .profile-bio {
     font-size: 0.94rem;
-    line-height: 1.7;
+    line-height: 1.65;
+  }
+}
+
+@media (max-width: 768px) {
+  .container {
+    padding: 24px 18px 30px;
+  }
+
+  .profile {
+    margin-bottom: 22px;
+    padding-bottom: 22px;
+  }
+
+  h2 {
+    margin-top: 1.8rem;
   }
 
   h3 {
-    margin: 2.4rem 0 0.8rem;
+    margin: 1.65rem 0 0.6rem;
   }
 }
 
