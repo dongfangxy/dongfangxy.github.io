@@ -9,12 +9,12 @@ comments: true
 <ol>
 <li><b>Chengxi Zhang</b>, Tianle Yin, Jihe Wang, Dezhi Xu, Zehui Mao, Bin Jiang.<br>Optimization-Driven Hierarchical Coordination for Sustainable Megaconstellation Operations.<br><b><i>IEEE Transactions on Aerospace and Electronic Systems</i></b>, 62, 15269-15282.</li>
 <li><b>Chengxi Zhang</b>, Weijia Lu, Shunyi Zhao, Jin Wu, Xiaoyu Zhu, Zhijie Liu, Wei He.<br>Enhancing Attitude Tracking with Self-learning Control using Tanh-type Learning Intensity.<br><b><i>IEEE Transactions on Automation Science and Engineering</i></b></li>
-<li><b>Chengxi Zhang</b>, Tianle Yin, Wenshuo Wang, Jin Wu, Jihe Wang, Yuhua Qi, Wei He.<br>Clustering Strategy for Megaconstellation with Synergistic Energy and Size Considerations.<br><b><i>IEEE Transactions on Aerospace and Electronic Systems</i></b></li>
+<li><b>Chengxi Zhang</b>, Tianle Yin, Wenshuo Wang, Jin Wu, Jihe Wang, Yuhua Qi, Wei He.<br>Clustering Strategy for Megaconstellation with Synergistic Energy and Size Considerations.<br><b><i>IEEE Transactions on Aerospace and Electronic Systems</i></b>, 61 (4), 10098-10109.</li>
 <li><b>Chengxi Zhang</b>, Ming-Zhe Dai, Peng Dong, Henry Leung, Jihe Wang.<br>Fault-Tolerant Attitude Stabilization for Spacecraft with Low-Frequency Actuator Updates: An Integral-Type Event-Triggered Approach.<br><b><i>IEEE Transactions on Aerospace and Electronic Systems</i></b>(ESI Highly cited papers), 2020.</li>
 <li>Jihe Wang, Xing Guo, Zhijie Ma, <b>Chengxi Zhang</b>, Jinxiu Zhang.<br>A low fuel-consumption drag-free tracking approach for space-based gravitational wave detection satellite.<br><b><i>IEEE Transactions on Aerospace and Electronic Systems</i></b></li>
 <li>Tianle Yin, <b>Chengxi Zhang</b>, Jihe Wang, Jin Wu, Renuganth Varatharajoo, Dezhi Xu, Bin Jiang. <br>
 Configuration Maintenance in Multi-Satellite Orbits via Co-Phase and Control Optimization<br>
-<b><i>IEEE Transactions on Aerospace and Electronic Systems</i></b></li>
+<b><i>IEEE Transactions on Aerospace and Electronic Systems</i></b>, 61 (6), 16738-16750.</li>
 <li>Qingxian Jia, Rui Shu, Choon Ki Ahn, <b>Chengxi Zhang</b>.<br>Learning Neural Network-based Fault-Tolerant Formation Control for Elliptical Orbit Spacecraft.<br><b><i>IEEE Transactions on Aerospace and Electronic Systems</i></b></li>
 <li>Tao Wang, Dezhi Xu, <b>Chengxi Zhang</b>, Bin Jiang.<br>Resilient Control in Multi-Hydrofoil Crafts: Tackling Actuator Faults and False Data Injection for Attitude Consensus.<br><b><i>IEEE Transactions on Automation Science and Engineering</i></b></li>
 <li>Kai Shen, <b>Chengxi Zhang</b>, Peng Dong, Zhongliang Jing, Henry Leung.<br>Consensus-Based Labeled Multi-Bernoulli Filter with Event-triggered Communication.<br><b><i>IEEE Transactions on Signal Processing</i></b></li>

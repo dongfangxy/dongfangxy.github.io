@@ -8,7 +8,7 @@ comments: true
 ---
 <ol> 
 <li>Chengxi Zhang, Weijia Lu, Shunyi Zhao, Jin Wu, Xiaoyu Zhu, Zhijie Liu, Wei He. Enhancing Attitude Tracking with Self-learning Control using Tanh-type Learning Intensity. <b>IEEE Transactions on Automation Science and Engineering</b> </li>
-    <li>Chengxi Zhang, Tianle Yin, Wenshuo Wang, Jin Wu, Jihe Wang, Yuhua Qi, Wei He. Clustering Strategy for Megaconstellation with Synergistic Energy and Size Considerations. <b>IEEE Transactions on Aerospace and Electronic Systems</b></li>
+    <li>Chengxi Zhang, Tianle Yin, Wenshuo Wang, Jin Wu, Jihe Wang, Yuhua Qi, Wei He. Clustering Strategy for Megaconstellation with Synergistic Energy and Size Considerations. <b>IEEE Transactions on Aerospace and Electronic Systems</b> 61 (4), 10098-10109</li>
     <li>Lining Tan, Ruiqiu Lu, Hui-jie Sun, Lianren Zhang, Jin Wu, Dezhi Xu, Chengxi Zhang. On Exponential Convergence of Self-Learning Observers for Fault Reconstruction via Halanay's Inequality Approach. <b>IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences</b></li>
 <li>Tao Wang, Dezhi Xu, Chengxi Zhang, Bin Jiang. Resilient Control in Multi-Hydrofoil Crafts: Tackling Actuator Faults and False Data Injection for Attitude Consensus <b>IEEE Transactions on Automation Science and Engineering</b></li>
 <li>Bohuan Xue, Jiachen Wang, Jin Wu, Tianyu Liu, Hongji Liu, Yang Yu, Shupei Li, Bowen Yang, Chengxi Zhang, Zhijian He. Constraint-Based Hand-Eye Calibration for Large-Scale Intelligent Guided Vehicles. <b>IEEE Transactions on Instrumentation and Measurement</b></li>
@@ -43,7 +43,7 @@ comments: true
     <li>C Zhang. Charting the Future of Aerospace. <b>Aerospace Engineering Communications</b> 1 (1), 1-2</li>
     <li>X Fang, X Tan, C Zhang, X Gao, Z He. Cross-System Anomaly Detection in Deep-Sea Submersibles via Coupled Feature Learning. <b>Symmetry</b> 17 (11), 1838</li>
     <li>Z Zhao, X Fang, C Zhang, F Liu, X Gao, G Xu. Data-Driven Fault Diagnosis for Multiple Subsystems of Deep-sea Submersible. <b>Proceedings of the Institution of Mechanical Engineers, Part M: Journal of Engineering for the Maritime Environment</b></li>
-    <li>T Yin, C Zhang, J Wang, J Wu, R Varatharajoo, D Xu, B Jiang. Configuration Maintenance in Multi-Satellite Orbits via Co-Phase and Control Optimization. <b>IEEE Transactions on Aerospace and Electronic Systems</b></li>
+    <li>T Yin, C Zhang, J Wang, J Wu, R Varatharajoo, D Xu, B Jiang. Configuration Maintenance in Multi-Satellite Orbits via Co-Phase and Control Optimization. <b>IEEE Transactions on Aerospace and Electronic Systems</b> 61 (6), 16738-16750</li>
     <li>B Xue, Y Zhu, T Liu, J Wu, J Jiao, Y Jiang, C Zhang, X Jiang, Z He. sQPEP: Global Optimal Solutions to Scaled Quadratic Pose Estimation Problems. <b>IEEE Transactions on Instrumentation and Measurement</b></li>
 </ol>
 

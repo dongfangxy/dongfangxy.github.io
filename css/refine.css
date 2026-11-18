@@ -394,3 +394,49 @@ img {
   line-height: 1.5;
   color: var(--text-secondary);
 }
+
+/* ------------------------------------------------------- research figures */
+/*
+ * Plots are not hero images. At the full 900px measure the small comparison
+ * table was upscaled into blur and the two-panel altitude plot grew taller
+ * than a laptop screen, so research figures get their own, smaller caps.
+ * Scoped to .research-entry: the lead image in a news post keeps the old rule.
+ */
+.research-entry .post-figure {
+  max-width: 520px;
+  margin: 1.1rem 0 1.35rem;
+  clear: both;
+}
+
+/* Side figures: text wraps beside the plot instead of leaving a blank column.
+   Floated right so the reading order in the markup stays text-first on mobile. */
+.research-entry .post-figure.figure-side {
+  float: right;
+  clear: right;
+  width: 300px;
+  margin: 0.15rem 0 0.9rem 1.4rem;
+}
+
+.research-entry .post-figure.figure-side-wide {
+  width: 340px;
+}
+
+.research-entry h3,
+.research-entry h4 {
+  clear: both;
+}
+
+.research-entry::after {
+  display: block;
+  clear: both;
+  content: "";
+}
+
+@media (max-width: 768px) {
+  .research-entry .post-figure.figure-side {
+    float: none;
+    width: auto;
+    max-width: 420px;
+    margin: 1rem 0;
+  }
+}
