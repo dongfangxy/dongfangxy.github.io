@@ -44,19 +44,19 @@ Technology</span></b><span style="line-height:1;">, 2020.&nbsp;</span>
 </span> 
 	</li>
 	<li>
-		<span style="line-height:2;"><strong><span style="line-height:1;">Chengxi Zhang</span></strong><span style="line-height:1;">, Bing Xiao, Jin Wu, Bo Li.&nbsp;On Low-Complexity Control Design to Spacecraft Attitude Stabilization: An Online-Learning Approach.&nbsp;</span></span><strong><span style="line-height:1;">Aerospace Science and Technology, </span></strong><span style="line-height:1;">2020. (in publishing)</span><span></span><strong></strong><span></span> 
+		<span style="line-height:2;"><strong><span style="line-height:1;">Chengxi Zhang</span></strong><span style="line-height:1;">, Bing Xiao, Jin Wu, Bo Li.&nbsp;On Low-Complexity Control Design to Spacecraft Attitude Stabilization: An Online-Learning Approach.&nbsp;</span></span><strong><span style="line-height:1;">Aerospace Science and Technology, </span></strong><span style="line-height:1;">110, 106441, 2021.</span><span></span><strong></strong><span></span> 
 	</li>
 	<li>
-		<strong><span style="line-height:1;">Chengxi Zhang</span></strong><span style="line-height:1;">, Jin Wu, Ran Sun, Mingjiang Wang, Dechao Ran. Actuator Model for Spacecraft Attitude Control Simulation.</span><span style="line-height:1;">,&nbsp;</span><strong><span style="line-height:1;">Aircraft Engineering and Aerospace Technology</span></strong><strong><span style="line-height:1;">,&nbsp;</span></strong><span><span style="line-height:1;">2020. (to be published, doi: </span><span style="color:#31353B;font-family:Verdana, &quot;font-size:14px;line-height:1;">10.1108/AEAT-10-2020-0226</span><span style="line-height:1;">)</span></span><br />
+		<strong><span style="line-height:1;">Chengxi Zhang</span></strong><span style="line-height:1;">, Jin Wu, Ran Sun, Mingjiang Wang, Dechao Ran. Actuator Model for Spacecraft Attitude Control Simulation.</span><span style="line-height:1;">,&nbsp;</span><strong><span style="line-height:1;">Aircraft Engineering and Aerospace Technology</span></strong><strong><span style="line-height:1;">,&nbsp;</span></strong><span><span style="line-height:1;">93 (4), 553-557, 2021.</span></span><br />
 	</li>
 	<li>
 		<span style="line-height:2;"><span style="line-height:1;">Jin Wu, </span><strong><span style="line-height:1;">Chengxi Zhang*</span></strong><span style="line-height:1;">, Ming Liu. Hybrid Geomagnetic Attitude and Orbit Estimation Using Time-Differential Feedback</span></span><span style="line-height:1;">.&nbsp;</span><strong><span style="line-height:1;">Transactions of the Japan Society for Aeronautical and Space Sciences</span></strong><span style="line-height:1;">. 2020.</span> 
 	</li>
 	<li>
-		<strong><span style="line-height:1;">Chengxi Zhang</span></strong><span style="line-height:1;">, Jin Wu, Choon Ki Ahn, Zhongyang Fei, Caisheng Wei. Learning Observer and Performance Tuning Based Robust Consensus Policy for Multi-agent Systems. </span><strong><span style="line-height:1;">IEEE Systems Journal. 2020. (Accepted)</span></strong><br />
+		<strong><span style="line-height:1;">Chengxi Zhang</span></strong><span style="line-height:1;">, Jin Wu, Choon Ki Ahn, Zhongyang Fei, Caisheng Wei. Learning Observer and Performance Tuning Based Robust Consensus Policy for Multi-agent Systems. </span><strong><span style="line-height:1;">IEEE Systems Journal, 16 (1), 431-439.</span></strong><br />
 	</li>
 	<li>
-		<strong><span style="line-height:1;">Chengxi Zhang, </span></strong><span style="line-height:1;">Choon Ki Ahn, Bing Xiao, Jin Wu,&nbsp;On Attitude Tracking Control with Communication-Saving: An Integrated Quantized and Event-Based Scheme, 2020. </span><strong><span style="line-height:1;">IEEE Transactions on Circuits and Systems II: Express Briefs</span></strong><span style="line-height:1;"> (Accept)</span> 
+		<strong><span style="line-height:1;">Chengxi Zhang, </span></strong><span style="line-height:1;">Choon Ki Ahn, Bing Xiao, Jin Wu,&nbsp;On Attitude Tracking Control with Communication-Saving: An Integrated Quantized and Event-Based Scheme, 2020. </span><strong><span style="line-height:1;">IEEE Transactions on Circuits and Systems II: Express Briefs</span></strong><span style="line-height:1;"> 68 (6), 2012-2016.</span> 
 	</li>
 	<li>
 		<span style="line-height:1;">&nbsp;Xiaoyu Zhu, </span><b><span style="line-height:1;">Chengxi Zhang</span></b><span style="line-height:1;">, Junli Chen, Xiangcheng Wan. Orbit determination for fuel
@@ -79,7 +79,7 @@ Measurement</span></b><i><span style="line-height:1;">, </span></i><span style="
 		<span style="line-height:1;">Ran Sun, Aidang Shan, </span><b><span style="line-height:1;">Chengxi Zhang</span></b><span style="line-height:1;">, Jin Wu, Qingxian Jia. Quantized
 Fault-Tolerant Control for Attitude Stabilization with Fixed-Time Disturbance
 Observer, </span><b><span style="line-height:1;">Journal of Guidance, Control,
-and Dynamics</span></b><span style="line-height:1;">, 2020.&nbsp;</span><span style="line-height:1;">(to be published.)</span> 
+and Dynamics</span></b><span style="line-height:1;">, 44 (2), 449-455, 2021.</span> 
 	</li>
 	<li>
 		<span style="line-height:1;">Ran Sun, Aidang Shan, </span><b><span style="line-height:1;">Chengxi Zhang</span></b><span style="line-height:1;">, Qingxian Jia. Optimal
@@ -115,7 +115,7 @@ Jiang, Chong Li, Globally Optimal Symbolic Hand-Eye Calibration, </span><b><span
 	<li>
 		<span style="line-height:1;">Jin Wu, Yi Jiang, Chong Li, Ran Sun,</span><b><span style="line-height:1;"> Chengxi Zhang</span></b><span style="line-height:1;">, Yang Yu, Yilong Zhu,
 Ming Liu, Circuit Synthesis of 3-D Rotation Orthonormalization, </span><b><span style="line-height:1;">IEEE Transactions on Circuits and Systems
-II: Express Briefs</span></b><span style="line-height:1;">, 2020.&nbsp;</span><span style="line-height:1;">&nbsp;(Accept.)</span> 
+II: Express Briefs</span></b><span style="line-height:1;">, 68 (4), 1502-1506, 2021.</span> 
 	</li>
 	<li>
 		<span style="line-height:1;">贾庆贤</span><span style="line-height:1;">,</span><b><span style="line-height:1;">张承玺</span></b><span style="font-weight:normal;"><span style="line-height:1;">, 李化</span><span style="line-height:2;"></span><span style="line-height:1;">义, 张迎春. 基于新型学习观测器的卫星执行机构故障重构.&nbsp;</span></span><b><span style="line-height:1;">系统工程与电子技术</span></b><span style="font-weight:normal;line-height:1;">，2019</span><b><span style="line-height:1;">.&nbsp;</span></b> 

@@ -33,10 +33,18 @@ comments: true
 <li>Tinglong Pan, Heng Tang, Tao Wang, Chengxi Zhang, Lei Gao, Dezhi Xu. A Fuzzy Active Disturbance Rejection Control Strategy Based on an Improved Extended State Observer. <b>19th International Conference on Innovative Computing, Information and Control (ICICIC2025)</b></li>
 <li>Wenjun Zhu, Yuedong Wu, Chengxi Zhang, Yu Jiang, Wei Wang. Distributed Control For Spacecraft Formation Near Irregular Asteroids Via Quantized Information Exchange <b>Acta Astronautica</b></li>
 <li>Weijie XI, Tianle YIN, Zhe LIU, Jin WU, Dezhi XU, and Chengxi ZHANG. Uncertainty-Handling Balance of a Unicycle Robot with Low-Power Flywheels. <b>IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences</b></li>
-<li>Xing Fang, Zhanfei Zhao, Chengxi Zhang*, Xiang Gao, Choon Ki Ahn*. Data-Driven Propulsion System Fault Diagnosis for Deep-sea Submersible
-  IEEE Internet of Things Journal (Accepted. 2025.8.9)</li>
-<li>45.Ran Sun, Ruiqiu Lu, Chengxi Zhang*, Wei Wang, Renuganth Varatharajoo, Dezhi Xu. Near-Asteroids Spacecraft Hovering Control: A Model-Free Approach with Appointed-time Performance Guarantees. Journal of the Franklin Institute(Accepted 2025.8.18)</li>
-    <li>Fei Xue, Guodong Jin, Lining Tan, Chengxi Zhang, Ye Yu. Predictive Maintenance Programs for Aircraft Engines Based on Remaining Useful Life Prediction <b>Scientific Reports </b>(Accepted 2025.9.11)</li>
+<li>Xing Fang, Zhanfei Zhao, Chengxi Zhang*, Xiang Gao, Choon Ki Ahn*. Data-Driven Propulsion System Fault Diagnosis for Deep-sea Submersible. <b>IEEE Internet of Things Journal</b> 12 (20), 43696-43706</li>
+<li>45.Ran Sun, Ruiqiu Lu, Chengxi Zhang*, Wei Wang, Renuganth Varatharajoo, Dezhi Xu. Near-Asteroids Spacecraft Hovering Control: A Model-Free Approach with Appointed-time Performance Guarantees. <b>Journal of the Franklin Institute</b> 362 (15), 107978</li>
+    <li>Fei Xue, Guodong Jin, Lining Tan, Chengxi Zhang, Ye Yu. Predictive Maintenance Programs for Aircraft Engines Based on Remaining Useful Life Prediction <b>Scientific Reports </b>5, 41756</li>
+    <li>Y Yan, C Zhang, J Wu, C Sun, Q Meng, C Chen, J Wang, G Wang. Autonomous Driving on Mountain Roads via an Adaptive Deep Reinforcement Learning Approach. <b>Journal of Intelligent and Connected Vehicles</b> 8 (4), 9210069-1 - 9210069-14</li>
+    <li>S Liu, D Xu, C Shen, Y Ye, C Zhang, Y Wang. Semisupervised Cross-Domain Capacity Prediction for Batteries via Granular Modeling and Confidence Aware Pseudolabeling. <b>IEEE Transactions on Industrial Informatics</b></li>
+    <li>ZY Huang, MZ Dai, X Zhang, C Zhang. Prescribed performance synchronization for nonlinear multi-agent systems with multiple convergence rates. <b>Asian Journal of Control</b></li>
+    <li>R Sun, S Ding, D Ding, C Zhang, D Xu. Semi-Centralized Deep Reinforcement Learning for Maneuver Decision-Making in Multi-UAV Collaborative Confrontation. <b>Journal of the Franklin Institute</b> 362 (18), 108173</li>
+    <li>C Zhang. Charting the Future of Aerospace. <b>Aerospace Engineering Communications</b> 1 (1), 1-2</li>
+    <li>X Fang, X Tan, C Zhang, X Gao, Z He. Cross-System Anomaly Detection in Deep-Sea Submersibles via Coupled Feature Learning. <b>Symmetry</b> 17 (11), 1838</li>
+    <li>Z Zhao, X Fang, C Zhang, F Liu, X Gao, G Xu. Data-Driven Fault Diagnosis for Multiple Subsystems of Deep-sea Submersible. <b>Proceedings of the Institution of Mechanical Engineers, Part M: Journal of Engineering for the Maritime Environment</b></li>
+    <li>T Yin, C Zhang, J Wang, J Wu, R Varatharajoo, D Xu, B Jiang. Configuration Maintenance in Multi-Satellite Orbits via Co-Phase and Control Optimization. <b>IEEE Transactions on Aerospace and Electronic Systems</b></li>
+    <li>B Xue, Y Zhu, T Liu, J Wu, J Jiao, Y Jiang, C Zhang, X Jiang, Z He. sQPEP: Global Optimal Solutions to Scaled Quadratic Pose Estimation Problems. <b>IEEE Transactions on Instrumentation and Measurement</b></li>
 </ol>
 
 

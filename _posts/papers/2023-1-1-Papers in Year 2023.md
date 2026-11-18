@@ -24,7 +24,7 @@ comments: true
     	<li>Zhaoxiang Niu, Ming-Zhe Dai, Junyang Gao, Caisheng Wei, <b>Chengxi Zhang</b>. Performance-adjustable PPC policies for spacecraft attitude-orbit coupled tracking under event-triggered sampling
  <b>International Journal of Robust and Nonlinear Control</b></li>
 	<li>Qingxian Jia, Junnan Gao, <b>Chengxi Zhang</b>, Choon Ki Ahn, Dan Yu. Dynamic Event-Triggered Attitude Synchronization of Multi-Spacecraft Formation via a Learning Neural Network Control Approach  <b>Aerospace Science and Technology</b></li>
-	<li>Shunyi Zhao, Yingying Li, <b>Chengxi Zhang</b>, Xiaoli Luan, Fei Liu, Ruomu Tan. Robustification of Finite Impulse Response Filter for Nonlinear Systems with Model Uncertainties <b>IEEE Transactions on Instrumentation and Measurement</b></li>
+	<li>Shunyi Zhao, Yingying Li, <b>Chengxi Zhang</b>, Xiaoli Luan, Fei Liu, Ruomu Tan. Robustification of Finite Impulse Response Filter for Nonlinear Systems with Model Uncertainties <b>IEEE Transactions on Instrumentation and Measurement</b> 72, 6506109</li>
     <li>Rui Shu, Qingxian Jia, Yunhua Wu, He Liao, <b>Chengxi Zhang</b>. Robust Active Fault-Tolerant Configuration Control for Spacecraft Formation via Learning RBFNN Approaches<b> ASCE Journal of Aerospace Engineering</b></li>
     <li>Xuan Liu, Hongmin Lu, Yifeng He, Fulin Wu, <b>Chengxi Zhang</b>, Xiaoliang Wang. Analysis on the Effect of Phase Noise on the Performance of Satellite Communication and Measurement System<b> Symmetry</b></li>
     <li>Jihe Wang, Xing Guo, Zhijie Ma, Chengxi Zhang, Jinxiu Zhang. A low fuel-consumption drag-free tracking approach for space-based gravitational wave detection satellite<b> IEEE Transactions on Aerospace and Electronic Systems</b></li>

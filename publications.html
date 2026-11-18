@@ -6,14 +6,13 @@ layout: default
 <span style="line-height:2;">-Source code and supplementary materials are avaialbe upon </span><a href="mailto:dongfangxy@163.com"><span style="line-height:2;">request</span></a> 
 
 <ul class="paper-list">
-{% for papers in site.posts limit:10%}
-{% if papers.category == "paper"%}
+{% assign all_papers = site.categories.paper | sort: 'date' | reverse %}
+{% for papers in all_papers %}
 <li class="paper-item">
   <span class="paper-date">{{papers.date | date: '%D'}}</span>
   <a href="{{site.baseurl}}{{ papers.url }}">{{ papers.title }}</a>
   <div class="paper-authors">{{papers.content}}</div>
 </li>
-{% endif %}
 {% endfor %}
 </ul>
 

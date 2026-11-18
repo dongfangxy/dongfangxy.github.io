@@ -2,7 +2,7 @@
 title: Co-Authors：
 layout: sitepage
 tag: jekyll
-category: paper
+category: misc
 author: Chengxi Zhang
 comments: true
 ---
