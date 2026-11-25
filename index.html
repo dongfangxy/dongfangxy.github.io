@@ -132,6 +132,15 @@
   .contact-strip a { color: var(--navy); }
   .contact-strip a:hover { text-decoration: underline; }
   .cs-sep { color: #c3d1de; }
+  .collab-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 12px; margin-top: 6px; }
+  .collab-card {
+    display: block; padding: 13px 16px; background: #fafcfe; border: 1px solid #e6edf4;
+    transition: border-color .25s, box-shadow .25s, transform .25s;
+  }
+  .collab-card:hover { border-color: #c3d8ea; box-shadow: 0 2px 12px rgba(14, 73, 127, .09); transform: translateY(-1px); }
+  .collab-name { font-size: 15.5px; color: var(--navy); font-weight: 500; margin-right: 8px; }
+  .collab-role { font-size: 12.5px; color: #8a97a3; }
+  .collab-aff { display: block; margin-top: 3px; font-size: 13px; color: #4a4a4a; }
   .intro-photo { width: 168px; flex: none; }
   .intro-photo img { width: 168px; height: 214px; object-fit: cover; border: 5px solid #fff; box-shadow: 0 2px 10px rgba(14, 73, 127, .16); }
   .intro-photo figcaption { text-align: center; font-size: 12px; color: var(--light); margin-top: 6px; }
@@ -556,6 +565,16 @@
       <a href="https://blog.csdn.net/Paolu2022/article/details/135201277" target="_blank" rel="noopener">CSDN</a>
     </div>
 
+    <div class="block" id="collaborators">
+      <div class="t_title"><h1>合作研究科学家<span>Collaborators</span></h1></div>
+      <div class="collab-grid">
+        <a class="collab-card" href="https://ai.ustb.edu.cn/szdw/xsszmjs/W/13dc8652ebfe4c349f3fd55f8fdd51d3.htm" target="_blank" rel="noopener">
+          <span class="collab-name">吴荩</span><span class="collab-role">教授</span>
+          <span class="collab-aff">北京科技大学</span>
+        </a>
+      </div>
+    </div>
+
   </div>
 </div>
 
@@ -604,6 +623,7 @@
 </script>
 </body>
 </html>
+
 
 
 
