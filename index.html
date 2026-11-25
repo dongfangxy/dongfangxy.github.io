@@ -1,0 +1,599 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>张承玺 | 航天器系统与空间机器人研究组</title>
+<meta name="description" content="张承玺，江南大学物联网工程学院副教授、博士生导师。研究方向：巨型星座运行管理、航天器集群协同控制、空间机器人系统与无人系统规划决策。">
+<style>
+  :root {
+    --navy: #0e497f;
+    --navy-d: #00406e;
+    --navy-l: #275e90;
+    --orange: #ff9900;
+    --text: #333333;
+    --gray: #666666;
+    --light: #999999;
+    --line: #dadada;
+    --soft: #f5f8fb;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: "Microsoft YaHei", "PingFang SC", "Hiragino Sans GB", "SimSun", sans-serif;
+    font-size: 14px; color: var(--text); background: #fff; line-height: 1.7;
+  }
+  ul { list-style: none; }
+  a { text-decoration: none; color: var(--gray); transition: color .3s; }
+  a:hover { color: var(--navy); }
+  img { border: 0; display: block; max-width: 100%; }
+  .w1200 { width: 1280px; max-width: 100%; margin: 0 auto; padding: 0 20px; }
+
+  /* ---------- 顶部条 ---------- */
+  .topline { background: var(--navy-d); height: 32px; line-height: 32px; font-size: 12px; color: #8eb0d7; font-family: SimSun, serif; }
+  .topline .w1200 { display: flex; justify-content: space-between; }
+  .topline a { color: #8eb0d7; }
+  .topline a:hover { color: #fff; }
+  .topline .links a { margin-left: 16px; }
+
+  /* ---------- 页头 ---------- */
+  .header {
+    background:
+      linear-gradient(100deg, rgba(6, 42, 74, .96) 0%, rgba(14, 73, 127, .86) 55%, rgba(14, 73, 127, .62) 100%),
+      url("assets/hero-space-ops.jpg") center 32% / cover no-repeat;
+    padding-top: 32px; height: 140px;
+  }
+  .header-in { display: flex; align-items: center; justify-content: space-between; gap: 30px; padding-top: 12px; }
+  .logo { display: flex; align-items: center; gap: 18px; }
+  .logo-cn { color: #fff; font-family: "STZhongsong", "SimSun", serif; font-size: 34px; letter-spacing: .12em; line-height: 1.1; }
+  .logo-sub { color: #b9d0e8; font-size: 13px; letter-spacing: .08em; margin-top: 2px; }
+  .header-right { text-align: right; color: #d6e4f2; font-size: 12px; }
+  .header-right .post { color: #fff; font-size: 15px; letter-spacing: .06em; }
+  .header-right .post span { color: #9dc0e2; margin-left: 8px; font-size: 12px; }
+  .header-right .quick { margin-top: 8px; }
+  .header-right .quick a { color: #cfe0f0; margin-left: 14px; font-size: 12px; }
+  .header-right .quick a:hover { color: #fff; text-decoration: underline; }
+
+  /* ---------- 导航 ---------- */
+  .i-menu { background: var(--navy); height: 46px; box-shadow: 0 2px 6px rgba(0, 0, 0, .12); position: relative; z-index: 20; }
+  .nav { display: flex; height: 46px; }
+  .nav li { position: relative; }
+  .nav a { display: block; padding: 0 34px; height: 46px; line-height: 46px; color: #fff; font-size: 16px; }
+  .nav a:hover, .nav li.on a { background: var(--navy-l); color: #fff; }
+  .nav .sub {
+    display: none; position: absolute; top: 46px; left: 0; width: 180px;
+    background: rgba(0, 0, 0, .82); z-index: 30;
+  }
+  .nav li:hover .sub { display: block; }
+  .nav .sub a { padding: 0 12px; height: 36px; line-height: 36px; font-size: 14px; text-align: center; }
+  .nav .sub a:hover { background: var(--navy); }
+
+  /* ---------- 轮播 ---------- */
+  .banner { background: #073e69; }
+  .ibanner { position: relative; height: 372px; overflow: hidden; }
+  .slide {
+    position: absolute; inset: 0; opacity: 0; transition: opacity .8s ease;
+    background-size: cover; background-position: center 45%;
+  }
+  .slide.on { opacity: 1; }
+  .slide::after {
+    content: ""; position: absolute; inset: 0;
+    background: linear-gradient(90deg, rgba(4, 30, 52, .72), rgba(4, 30, 52, .1) 70%);
+  }
+  .slide-cap {
+    position: absolute; left: 0; right: 0; bottom: 0; z-index: 2;
+    height: 46px; line-height: 46px; padding-left: 22px;
+    background: rgba(0, 20, 38, .62); color: #fff; font-size: 18px; letter-spacing: .06em;
+  }
+  .slide-cap small { color: #b9d0e8; font-size: 13px; margin-left: 14px; letter-spacing: 0; }
+  .ibanner .hd { position: absolute; right: 24px; bottom: 18px; z-index: 3; display: flex; gap: 8px; }
+  .ibanner .hd i {
+    width: 10px; height: 10px; border-radius: 50%; background: #fff; opacity: .75; cursor: pointer; display: block;
+  }
+  .ibanner .hd i.on { background: var(--navy); opacity: 1; box-shadow: 0 0 0 2px #fff; }
+
+  /* ---------- 简介 ---------- */
+  .intro { background: var(--soft); border-bottom: 1px solid #e3ebf3; padding: 28px 0; }
+  .intro-in { display: flex; gap: 30px; align-items: flex-start; }
+  .intro-txt { flex: 1; }
+  .intro-txt h2 {
+    font-size: 22px; font-weight: 500; color: var(--navy); letter-spacing: .06em;
+    padding-left: 12px; border-left: 4px solid var(--navy); line-height: 1.3; margin-bottom: 12px;
+  }
+  .intro-txt p { color: #4a4a4a; font-size: 15px; line-height: 2; text-indent: 2em; }
+  .intro-txt p + p { margin-top: 4px; }
+  .intro-kpi { display: flex; gap: 34px; margin-top: 16px; padding-left: 2em; }
+  .rc-row {
+    display: grid; grid-template-columns: 1.4fr 1fr; gap: 30px; align-items: center;
+    padding: 18px 0; border-bottom: 1px solid #eef2f6;
+  }
+  .rc-row:last-child { border-bottom: 0; }
+  .rc-txt p { font-size: 14.5px; color: #4a4a4a; line-height: 1.95; }
+  .rc-txt .sub-h { margin-top: 0; }
+  .rc-txt .block-note { padding-top: 6px; }
+  .rc-img { margin: 0; }
+  .rc-img img { width: 100%; height: 168px; object-fit: cover; }
+  .rc-img figcaption { font-size: 12px; color: #8a97a3; margin-top: 6px; }
+  .roster-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 0 46px; margin-top: 16px; }
+  .roster-p { font-size: 13.5px; line-height: 1.95; color: #4a4a4a; }
+  .contact-strip {
+    display: flex; flex-wrap: wrap; align-items: center; gap: 6px 14px;
+    background: var(--soft); border: 1px solid #e3ebf3;
+    padding: 13px 18px; margin-bottom: 30px; font-size: 13px; color: #5a6b7a;
+  }
+  .contact-strip .cs-label { color: var(--navy); font-weight: 500; letter-spacing: .04em; }
+  .contact-strip a { color: var(--navy); }
+  .contact-strip a:hover { text-decoration: underline; }
+  .cs-sep { color: #c3d1de; }
+
+  .intro-kpi div strong { color: var(--navy); font-size: 22px; font-family: "Times New Roman", serif; margin-right: 4px; }
+  .intro-kpi div span { color: var(--light); font-size: 12px; }
+  .intro-photo { width: 168px; flex: none; }
+  .intro-photo img { width: 168px; height: 214px; object-fit: cover; border: 5px solid #fff; box-shadow: 0 2px 10px rgba(14, 73, 127, .16); }
+  .intro-photo figcaption { text-align: center; font-size: 12px; color: var(--light); margin-top: 6px; }
+
+  /* ---------- 内容区 ---------- */
+  .main { padding: 28px 0 10px; }
+  .cols { display: grid; grid-template-columns: 1fr 1fr; gap: 0 46px; }
+  .block { margin-bottom: 30px; }
+  .t_title {
+    display: flex; align-items: flex-end; justify-content: space-between;
+    border-bottom: 1px solid var(--line); height: 50px;
+  }
+  .t_title h1 {
+    font-size: 24px; font-weight: 500; color: var(--text); letter-spacing: .04em;
+    padding: 0 10px; border-bottom: 2px solid var(--navy); height: 49px; line-height: 49px;
+  }
+  .t_title h1 span { color: var(--orange); font-size: 13px; font-weight: 400; margin-left: 8px; letter-spacing: 0; }
+  .t_title .more { font-size: 13px; color: var(--light); padding-bottom: 10px; }
+  .t_title .more:hover { color: var(--orange); }
+
+  .n_list { padding-top: 6px; }
+  .n_list li {
+    display: flex; align-items: baseline; gap: 12px;
+    padding: 11px 0; border-bottom: 1px dashed #e2e2e2; font-size: 15px; line-height: 1.6;
+  }
+  .n_list li:last-child { border-bottom: 0; }
+  .n_list li a { flex: 1; color: var(--text); }
+  .n_list li a:hover { color: var(--navy); }
+  .n_list li a::before { content: "▍"; color: var(--navy); font-size: 12px; margin-right: 8px; vertical-align: 1px; }
+  .n_list .date { color: var(--orange); font-size: 13px; flex: none; font-family: Arial, sans-serif; }
+  .n_list .note { display: block; color: var(--light); font-size: 12px; margin-top: 2px; }
+
+  .txt_list li {
+    position: relative; padding: 9px 0 9px 16px; border-bottom: 1px dashed #e2e2e2;
+    font-size: 14.5px; color: #4a4a4a;
+  }
+  .txt_list li:last-child { border-bottom: 0; }
+  .txt_list li::before {
+    content: ""; position: absolute; left: 0; top: 17px;
+    width: 5px; height: 5px; background: var(--navy); border-radius: 50%;
+  }
+  .txt_list b { color: var(--navy); font-weight: 500; }
+  .txt_list i { font-style: normal; color: var(--orange); font-size: 13px; }
+  .txt_list.tight li { padding: 6px 0 6px 16px; font-size: 14px; line-height: 1.75; }
+  .txt_list.tight li::before { top: 14px; }
+  .txt_list em { font-style: italic; color: #55606b; }
+
+  .block-note { font-size: 12.5px; color: var(--light); line-height: 1.95; padding-top: 8px; }
+  .svc-grid { display: grid; grid-template-columns: 1fr 1.2fr; gap: 0 46px; margin-top: 8px; }
+  .sub-h {
+    font-size: 15px; font-weight: 500; color: var(--navy);
+    border-left: 3px solid var(--navy); padding-left: 9px; margin: 10px 0 8px; line-height: 1.2;
+  }
+  .svc-h { font-size: 13.5px; font-weight: 500; color: #4a6f92; margin: 12px 0 4px; }
+  .h-list li {
+    display: flex; gap: 14px; align-items: baseline;
+    padding: 9px 0; border-bottom: 1px dashed #e2e2e2; font-size: 14.5px; color: #4a4a4a;
+  }
+  .h-list .yr {
+    flex: none; width: 86px; color: var(--orange); font-size: 13px; font-family: Arial, sans-serif;
+  }
+  .teach-grid { display: grid; grid-template-columns: 1fr 1.15fr; gap: 0 46px; margin-top: 8px; }
+  .course-row { display: flex; gap: 10px; align-items: flex-start; padding: 9px 0; border-bottom: 1px dashed #e2e2e2; }
+  .course-type {
+    flex: none; background: var(--navy); color: #fff; font-size: 11px;
+    padding: 1px 6px; line-height: 18px; margin-top: 3px;
+  }
+  .course-name { font-size: 14.5px; color: #333; }
+  .course-note { font-size: 12px; color: var(--light); }
+  .roster p { font-size: 13.5px; line-height: 1.95; color: #4a4a4a; }
+
+  details.pub-more-group { margin-top: 4px; }
+  details.pub-more-group > summary {
+    list-style: none; cursor: pointer; padding: 10px 0 8px; font-size: 14px; color: var(--navy);
+    border-top: 1px solid #eef2f6;
+  }
+  details.pub-more-group > summary::-webkit-details-marker { display: none; }
+  details.pub-more-group > summary::before { content: "＋ "; color: var(--orange); }
+  details.pub-more-group[open] > summary::before { content: "－ "; }
+
+  /* ---------- 页脚 ---------- */
+  .footer { background: var(--navy); color: #cfe0f0; margin-top: 18px; }
+  .footer-in { display: flex; justify-content: space-between; gap: 30px; padding: 26px 0 24px; }
+  .footer h3 { color: #fff; font-size: 15px; font-weight: 500; letter-spacing: .06em; margin-bottom: 10px; }
+  .footer p, .footer li { font-size: 13px; line-height: 2; color: #b9d0e8; }
+  .footer a { color: #dbe8f4; }
+  .footer a:hover { color: #fff; text-decoration: underline; }
+  .copyright { border-top: 1px solid rgba(255, 255, 255, .16); padding: 12px 0 16px; font-size: 12px; color: #9dbdd9; text-align: center; font-family: SimSun, serif; }
+
+  @media (max-width: 1100px) {
+    .header { height: auto; padding-bottom: 16px; }
+    .header-in { flex-direction: column; align-items: flex-start; }
+    .header-right { text-align: left; }
+    .nav { flex-wrap: wrap; }
+    .nav a { padding: 0 18px; font-size: 15px; }
+    .ibanner { height: 240px; }
+    .cols { grid-template-columns: 1fr; gap: 0; }
+    .svc-grid, .teach-grid, .roster-grid { grid-template-columns: 1fr; gap: 0; }
+    .rc-row { grid-template-columns: 1fr; gap: 12px; }
+    .intro-in { flex-direction: column; }
+    .intro-photo { width: 100%; display: flex; gap: 12px; align-items: flex-end; }
+    .footer-in { flex-direction: column; gap: 8px; }
+  }
+</style>
+</head>
+<body>
+
+<div class="topline">
+  <div class="w1200">
+    <div>航天器系统与空间机器人研究组</div>
+    <div class="links">
+      <a href="#contact">联系我们</a>
+      <a href="legacy.html">旧版主页 / English</a>
+    </div>
+  </div>
+</div>
+
+<div class="header">
+  <div class="w1200 header-in">
+    <div class="logo">
+      <div>
+        <div class="logo-cn">张承玺</div>
+        <div class="logo-sub">航天器系统与空间机器人研究组</div>
+      </div>
+    </div>
+    <div class="header-right">
+      <div class="post">副教授 · 博士生导师</div>
+      <div class="quick">
+        <a href="https://scholar.google.com/citations?user=oHzlz50AAAAJ&amp;hl" target="_blank" rel="noopener">Google Scholar</a>
+        <a href="https://orcid.org/0000-0002-3130-6497" target="_blank" rel="noopener">ORCID</a>
+        <a href="mailto:cxzhang@jiangnan.edu.cn">邮箱</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="i-menu">
+  <div class="w1200">
+    <ul class="nav">
+      <li class="on"><a href="#top">首页</a></li>
+      <li><a href="#about">个人简介</a></li>
+      <li>
+        <a href="#research">研究方向</a>
+        <ul class="sub">
+          <li><a href="#research">巨型星座运行管理</a></li>
+          <li><a href="#research">航天器集群协同</a></li>
+          <li><a href="#research">空间机器人感知</a></li>
+        </ul>
+      </li>
+      <li><a href="papers.html">论文发表</a></li>
+      <li><a href="#projects">科研项目</a></li>
+      <li><a href="#honors">荣誉与任职</a></li>
+      <li><a href="#teaching">教学与团队</a></li>
+      <li><a href="#contact">联系方式</a></li>
+    </ul>
+  </div>
+</div>
+
+<div class="banner" id="top">
+  <div class="w1200">
+    <div class="ibanner">
+      <div class="slide on" style="background-image:url('assets/hero-space-ops.jpg')">
+        <div class="slide-cap">巨型星座运行管理<small>万颗级星座的分层分簇构型设计与运行调度</small></div>
+      </div>
+      <div class="slide" style="background-image:url('assets/satellite-servicing.jpg')">
+        <div class="slide-cap">航天器集群协同<small>被动安全约束下的集群构型维持与重构</small></div>
+      </div>
+      <div class="slide" style="background-image:url('assets/station-arm.jpg')">
+        <div class="slide-cap">空间机器人感知<small>单目跨域位姿估计与视觉伺服</small></div>
+      </div>
+      <div class="hd"><i class="on"></i><i></i><i></i></div>
+    </div>
+  </div>
+</div>
+
+<div class="intro" id="about">
+  <div class="w1200 intro-in">
+    <div class="intro-txt">
+      <h2>个人简介</h2>
+      <p>张承玺，江南大学物联网工程学院副教授、博士生导师。2008—2015 年就读于哈尔滨工业大学，获电子科学与技术学士、微电子学硕士学位；2015—2019 年于上海交通大学获控制科学与工程博士学位；2019—2022 年在哈尔滨工业大学（深圳）从事博士后研究；2022 年起任江南大学副教授、博士生导师。</p>
+      <p>长期从事巨型星座运行管理、航天器集群协同控制、空间机器人系统与无人系统规划决策研究，发表论文 200 余篇，其中 IEEE 系列期刊论文 50 余篇，谷歌学术引用 3300 余次（H-index 28，i10-index 71）。主持国家自然科学基金面上项目、青年项目及深圳市科技计划等项目，担任《Astrodynamics》副编辑、《Aerospace Systems》编委，IEEE SMC 南京分部秘书、中国自动化学会青年工作委员会委员。</p>
+      <div class="intro-kpi">
+        <div><strong>200</strong><span>+ 篇论文</span></div>
+        <div><strong>50</strong><span>+ 篇 IEEE 论文</span></div>
+        <div><strong>3300</strong><span>+ 次引用</span></div>
+        <div><strong>28</strong><span>H-index</span></div>
+      </div>
+    </div>
+    <figure class="intro-photo">
+      <img src="assets/portrait.jpg" alt="张承玺">
+    </figure>
+  </div>
+</div>
+
+<div class="main">
+  <div class="w1200">
+
+    <div class="block" id="research">
+      <div class="t_title"><h1>研究方向<span>Research</span></h1></div>
+      <div class="rc-list">
+        <div class="rc-row">
+          <div class="rc-txt">
+            <h4 class="sub-h">巨型星座分层分簇管理</h4>
+            <p>面向万颗级星座规模扩大带来的运维与星间通信开销问题，研究簇首选举与多目标簇划分、条件-行动动态分簇，以及大规模星座的构型设计与运行调度。</p>
+            <p class="block-note">IEEE TAES 2025, 61(4): 10098–10109</p>
+          </div>
+          <figure class="rc-img">
+            <img src="assets/launch.jpg" alt="星座部署与入轨">
+            <figcaption>星座部署与入轨</figcaption>
+          </figure>
+        </div>
+        <div class="rc-row">
+          <div class="rc-txt">
+            <h4 class="sub-h">巨型星座协同式构型维持</h4>
+            <p>面向 J2 与大气阻力摄动下的长期运行，解决相位漂移与碰撞风险问题，研究双层相位优化、被动安全约束下的构型重构与万星级分层协调。</p>
+            <p class="block-note">IEEE TAES 2025, 61(6): 16738–16750 · IEEE TAES 2026, 62: 15269–15282</p>
+          </div>
+          <figure class="rc-img">
+            <img src="assets/satellite-servicing.jpg" alt="卫星在轨服务与交会">
+            <figcaption>卫星在轨服务与交会</figcaption>
+          </figure>
+        </div>
+        <div class="rc-row">
+          <div class="rc-txt">
+            <h4 class="sub-h">单目航天器跨域位姿估计</h4>
+            <p>面向非合作目标的交会、巡检与在轨服务，解决跨域图像分布差异导致位姿精度下降的问题，研究无监督域适应、关键点—深度联合估计与几何约束下的位姿求解。</p>
+            <p class="block-note">应用 · 非合作目标交会、巡检与在轨服务</p>
+          </div>
+          <figure class="rc-img">
+            <img src="assets/station-arm.jpg" alt="空间站机械臂在轨操作">
+            <figcaption>空间站机械臂在轨操作</figcaption>
+          </figure>
+        </div>
+      </div>
+      <p class="block-note" style="margin-top:14px;padding-top:10px;border-top:1px solid #eef2f6">
+        <b style="color:#0e497f">Other Topics</b>　航天器集群协同与容错控制 · 空间机器人与在轨服务 · 无人系统规划决策 · 嵌入式系统与 AI 应用 · 新能源系统控制与优化
+      </p>
+    </div>
+
+    <div class="cols">
+      <div class="block" id="papers">
+        <div class="t_title"><h1>部分论文<span>Selected Papers</span></h1><a class="more" href="papers.html">全部论文 »</a></div>
+        <ul class="n_list">
+          <li>
+            <a href="#papers">Observer-Based Finite-Time Control of Crewed Submersible Vehicle Against Multiple Uncertainties<span class="note">IEEE Transactions on Intelligent Vehicles</span></a>
+            <span class="date">2026</span>
+          </li>
+          <li>
+            <a href="#papers">Enhancing Attitude Tracking with Self-learning Control using Tanh-type Learning Intensity<span class="note">IEEE Transactions on Automation Science and Engineering</span></a>
+            <span class="date">2025</span>
+          </li>
+          <li>
+            <a href="#papers">Clustering Strategy for Megaconstellation with Synergistic Energy and Size Considerations<span class="note">IEEE Transactions on Aerospace and Electronic Systems</span></a>
+            <span class="date">2025</span>
+          </li>
+          <li>
+            <a href="#papers">Configuration Maintenance in Multi-Satellite Orbits<span class="note">IEEE Transactions on Aerospace and Electronic Systems</span></a>
+            <span class="date">2025</span>
+          </li>
+          <li>
+            <a href="#papers">sQPEP: Global Optimal Solutions to Scaled Quadratic Pose Estimation Problems<span class="note">IEEE Transactions on Instrumentation and Measurement</span></a>
+            <span class="date">2025</span>
+          </li>
+          <li>
+            <a href="#papers">Factor Graph Optimization for GNSS/INS Integration<span class="note">IEEE Transactions on Industrial Informatics</span></a>
+            <span class="date">2024</span>
+          </li>
+        </ul>
+        <details class="pub-more-group">
+          <summary>Aerospace Science and Technology / Aerospace Systems 系列（18 篇）</summary>
+          <ul class="n_list">
+            <li>
+              <a href="#papers">Passive Safety Maintenance for Long-Term Spacecraft Cluster Flying Utilizing Relative Motion Perturbed Evolution Law<span class="note">Aerospace Science and Technology</span></a>
+              <span class="date">2025</span>
+            </li>
+            <li>
+              <a href="#papers">Learning Chebyshev Neural Network-based Spacecraft Attitude Tracking Control Ensuring Finite-time Prescribed Performance<span class="note">Aerospace Science and Technology</span></a>
+              <span class="date">2024</span>
+            </li>
+            <li>
+              <a href="#papers">Neural-Networks and Event-Based Fault-Tolerant Control for Spacecraft Attitude Stabilization<span class="note">Aerospace Science and Technology</span></a>
+              <span class="date">2021</span>
+            </li>
+            <li>
+              <a href="#papers">Sampled-Data Self-Learning Observer based Attitude Tracking Control Against Sensor-Actuator Faults<span class="note">Aerospace Systems</span></a>
+              <span class="date">2025</span>
+            </li>
+          </ul>
+        </details>
+      </div>
+
+      <div class="block" id="projects">
+        <div class="t_title"><h1>科研项目<span>Projects</span></h1></div>
+        <ul class="n_list">
+          <li><a href="#projects">基于自学习策略的轻量化航天器姿态容错控制研究<span class="note">国家自然科学基金 · 面上项目 · 负责人 · 2026.01 – 2029.12</span></a></li>
+          <li><a href="#projects">事件通信方式下多航天器姿态协同控制研究<span class="note">国家自然科学基金 · 青年项目 · 负责人 · 2021.01 – 2022.12</span></a></li>
+          <li><a href="#projects">柔性 OLED 驱动电路封装机关键技术研发<span class="note">深圳市技术攻关重点项目 重2021N007 · 子课题负责人 · 2021.07 – 2024.07</span></a></li>
+          <li><a href="#projects">性能可调事件方式的姿态控制研究<span class="note">中央高校基本科研业务费（江南大学）· 负责人 · 2023</span></a></li>
+          <li><a href="#projects">智能位姿估计视觉算法分析与评估<span class="note">横向课题 · 负责人 · 2026</span></a></li>
+          <li><a href="#projects">星地协同巨型星座分布式自主导航与一致性协调轨道控制软件测试<span class="note">横向课题 · 负责人 · 2024</span></a></li>
+        </ul>
+        <p class="block-note">另主持液压伺服控制系统、大用户水管线路漏损系统等横向课题；参与国家重点研发计划「面向集群 / 巨型星座应用的卫星平台技术」子课题、国家自然科学基金优青项目、深圳科技计划基础研究学科布局项目等。申请及授权专利 5 项（含国防专利 3 项）。主编英文专著《Recent Progress in Robot Control Systems: Theory and Applications》（MDPI, 2024）。</p>
+      </div>
+    </div>
+
+    <div class="block" id="honors">
+      <div class="t_title"><h1>荣誉与学术兼职<span>Honors &amp; Academic Service</span></h1></div>
+      <div class="svc-grid">
+        <div>
+          <h4 class="sub-h">荣誉</h4>
+          <ul class="h-list">
+            <li><span class="yr">2026</span><span>IEEE Senior Member（高级会员）</span></li>
+            <li><span class="yr">2023 – 2026</span><span>斯坦福大学—爱思唯尔 全球前 2% 科学家（连续四年）</span></li>
+            <li><span class="yr">2024</span><span>江苏省人才项目（双创博士）</span></li>
+            <li><span class="yr">2026</span><span>江南大学物联网学院优秀研究生导师</span></li>
+            <li><span class="yr">2025</span><span>Intelligence &amp; Robotics 2024 Best Reviewer Award</span></li>
+            <li><span class="yr">2021</span><span>首届哈尔滨工业大学（深圳）优秀博士后（全校 15 名）</span></li>
+          </ul>
+
+          <h4 class="sub-h" style="margin-top:16px">学会与评审</h4>
+          <ul class="txt_list tight">
+            <li>IEEE SMC 南京分部 · 秘书</li>
+            <li>中国自动化学会青年工作委员会 · 委员（2025–）</li>
+            <li>国家自然科学基金 · 通信评议专家</li>
+            <li>《中国科学基金》· 审稿人</li>
+            <li>深圳市科技创新委员会 · 评审专家</li>
+            <li>AppliedMath Travel Award · Award Committee（2026）</li>
+          </ul>
+        </div>
+        <div>
+          <h4 class="sub-h">期刊任职</h4>
+          <ul class="txt_list tight">
+            <li><em>Aerospace Engineering Communications</em> · 主编 Editor-in-Chief（Co-EiC Jin Wu, 2025–）</li>
+            <li><em>Aerospace Systems</em>（上海交通大学出版）· 编委</li>
+            <li><em>Scientific Reports</em>（2025–）/ <em>Symmetry</em>（2025–）· 编委</li>
+            <li><em>Astrodynamics</em>（清华大学 / Springer）· 青年编委（2024–）</li>
+            <li><em>Frontiers in Aerospace Engineering</em>（2022–）/ <em>Frontiers in Mechanical Engineering</em>（2025–）· Associate Editor（副编辑）</li>
+            <li><em>AppliedMath</em> / <em>IoT</em> / <em>POLYMAS CS&amp;S</em> · 编委</li>
+          </ul>
+          <h4 class="sub-h" style="margin-top:16px">会议组织</h4>
+          <ul class="txt_list tight">
+            <li>ICGNC 2026 · 专题共同主席（与吴荩、贺威；Multi-Agent Collaboration for Autonomous Mapping and Navigation）</li>
+            <li>YAC 2025 · 专题 Co-chair（与吴荩、姜艺；机器人导航、定位、建图新进展）</li>
+            <li>CCDC 2024 · Invited Session Chair（董瀚林邀请）；FASTA 2024 / 2025 · 程序委员会</li>
+            <li>IEEE GEM 2024、IEEE ICCC'24 · TPC；ACA 2025 · TPC（刘瑞霞邀请）</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+
+    <div class="block" id="teaching">
+      <div class="t_title"><h1>教学与团队<span>Teaching &amp; Team</span></h1></div>
+      <div class="teach-grid">
+        <div>
+          <h4 class="sub-h">授课</h4>
+          <div class="course-row"><span class="course-type">UG</span><div><div class="course-name">物联网技术应用基础</div><div class="course-note">本科 · 2024 年 90 分课程</div></div></div>
+          <div class="course-row"><span class="course-type">UG</span><div><div class="course-name">文献检索与科技写作</div><div class="course-note">本科 · 2024 年 90 分课程</div></div></div>
+          <div class="course-row"><span class="course-type">PG</span><div><div class="course-name">线性控制系统</div><div class="course-note">研究生课程</div></div></div>
+        </div>
+        <div>
+          <h4 class="sub-h">获奖与班主任</h4>
+          <ul class="txt_list tight">
+            <li>校优秀本科毕业设计指导教师：栗森茂（2024）、席伟杰（2026）</li>
+            <li>十五届、十六届蓝桥杯全国软件比赛优秀指导教师</li>
+            <li>2026 年度学院青年教师教学竞赛三等奖</li>
+            <li>2023 级本科生班主任</li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="roster-grid">
+        <div>
+          <h4 class="sub-h">课题组 · Orbital Systems Lab</h4>
+          <h5 class="svc-h">博士生</h5>
+          <p class="roster-p">(26) 夏睿</p>
+          <h5 class="svc-h">硕士生</h5>
+          <p class="roster-p">
+            (22级) 陆伟佳* 发表 MFC、AEAT、TASE<br>
+            (23级) 卢瑞秋 发表 飞控与探测、2025YAC会议、ASST、IEICE<br>
+            (23级) 尹天乐 发表 5 篇论文，3 篇 IEEE-TAES，中山大学读博<br>
+            (24级) 翟峰（1EI，1SCI 在审）、杨努（1SCI，1SCI 在审）、张瑞芹（1EI，1SCI 在审）<br>
+            (25级) 乔正（1EI，2SCI 在审）、徐士杰（1SCI 在审）、张盼（1SCI 在审）、鲁蓝灵（1SCI 在审）、卢兴海<br>
+            (26级) 余一聪、马友鹏、刘文乐、李昂、吴岱霖
+          </p>
+        </div>
+        <div>
+          <h4 class="sub-h">近三年所带本科生</h4>
+          <p class="roster-p">
+            王昊（现大二，SCI 论文准备投稿）<br>
+            刘安琪 保研（直博）上海交通大学<br>
+            吴昊 保研（直博）浙江大学（发表 1 篇，投稿 SCI 1 篇）<br>
+            侯晨杨 保研（直博）西安交通大学<br>
+            栗森茂 保研（直博）同济大学（发表 EI）<br>
+            胡宸恺 保研（直博）浙江大学<br>
+            沈天奥 读研 香港中文大学（发表 SCI）<br>
+            席伟杰 保研（直博）上海交通大学（发表 SCI）<br>
+            祝伟铭 考研 南京大学
+          </p>
+          <p class="block-note" style="margin-top:10px">招生方向：控制科学与工程（0811）、电子信息 / 控制工程（085406），欢迎交叉学科背景的同学。</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="contact-strip" id="contact">
+      <span class="cs-label">联系方式</span>
+      <a href="mailto:cxzhang@jiangnan.edu.cn">cxzhang@jiangnan.edu.cn</a>
+      <span class="cs-sep">|</span>
+      <a href="mailto:dongfangxy@163.com">dongfangxy@163.com</a>
+      <span class="cs-sep">|</span>
+      <span>江苏省无锡市蠡湖大道 1800 号 · 214122</span>
+      <span class="cs-sep">|</span>
+      <a href="https://scholar.google.com/citations?user=oHzlz50AAAAJ&amp;hl" target="_blank" rel="noopener">Google Scholar</a>
+      <a href="https://www.researchgate.net/profile/Chengxi_Zhang5" target="_blank" rel="noopener">ResearchGate</a>
+      <a href="https://orcid.org/0000-0002-3130-6497" target="_blank" rel="noopener">ORCID</a>
+      <a href="https://iot.jiangnan.edu.cn/info/1142/3595.htm" target="_blank" rel="noopener">官方主页</a>
+      <a href="https://blog.csdn.net/Paolu2022/article/details/135201277" target="_blank" rel="noopener">CSDN</a>
+    </div>
+
+  </div>
+</div>
+
+<div class="footer">
+  <div class="w1200 footer-in">
+    <div>
+      <h3>航天器系统与空间机器人研究组</h3>
+      <p>江苏省无锡市蠡湖大道 1800 号 · 214122</p>
+    </div>
+    <div>
+      <h3>快速链接</h3>
+      <ul>
+        <li><a href="legacy.html">旧版主页（English Homepage）</a></li>
+        <li><a href="https://scholar.google.com/citations?user=oHzlz50AAAAJ&amp;hl" target="_blank" rel="noopener">Google Scholar</a></li>
+        <li><a href="https://orcid.org/0000-0002-3130-6497" target="_blank" rel="noopener">ORCID</a></li>
+      </ul>
+    </div>
+    <div>
+      <h3>联系</h3>
+      <p><a href="mailto:cxzhang@jiangnan.edu.cn">cxzhang@jiangnan.edu.cn</a></p>
+      <p><a href="mailto:dongfangxy@163.com">dongfangxy@163.com</a></p>
+    </div>
+  </div>
+  <div class="copyright">Copyright © 航天器系统与空间机器人研究组　建议使用 1280×720 以上分辨率浏览</div>
+</div>
+
+<script>
+  (function () {
+    var slides = document.querySelectorAll(".ibanner .slide");
+    var dots = document.querySelectorAll(".ibanner .hd i");
+    var idx = 0, timer = null;
+
+    function show(n) {
+      idx = (n + slides.length) % slides.length;
+      slides.forEach(function (s, i) { s.classList.toggle("on", i === idx); });
+      dots.forEach(function (d, i) { d.classList.toggle("on", i === idx); });
+    }
+    function start() { timer = setInterval(function () { show(idx + 1); }, 5200); }
+    function stop() { clearInterval(timer); }
+
+    dots.forEach(function (d, i) {
+      d.addEventListener("click", function () { stop(); show(i); start(); });
+    });
+    start();
+  })();
+</script>
+</body>
+</html>
+
+
+
+
