@@ -102,17 +102,26 @@
   .intro-txt p { color: #4a4a4a; font-size: 15px; line-height: 2; text-indent: 2em; }
   .intro-txt p + p { margin-top: 4px; }
   .intro-kpi { display: flex; gap: 34px; margin-top: 16px; padding-left: 2em; }
-  .rc-row {
-    display: grid; grid-template-columns: 1.4fr 1fr; gap: 30px; align-items: center;
-    padding: 18px 0; border-bottom: 1px solid #eef2f6;
+  .research-layout { display: grid; grid-template-columns: minmax(0, 1fr) 300px; gap: 40px; margin-top: 4px; }
+  .rc-item {
+    display: grid; grid-template-columns: minmax(0, 1fr) 150px; gap: 20px; align-items: center;
+    padding: 14px 0; border-bottom: 1px dashed #e6edf4;
   }
-  .rc-row:last-child { border-bottom: 0; }
-  .rc-txt p { font-size: 14.5px; color: #4a4a4a; line-height: 1.95; }
-  .rc-txt .sub-h { margin-top: 0; }
-  .rc-txt .block-note { padding-top: 6px; }
+  .rc-item:last-child { border-bottom: 0; }
+  .rc-item .sub-h { margin-top: 0; }
+  .rc-item p { font-size: 14px; color: #4a4a4a; line-height: 1.9; }
   .rc-img { margin: 0; }
-  .rc-img img { width: 100%; height: 168px; object-fit: cover; }
-  .rc-img figcaption { font-size: 12px; color: #8a97a3; margin-top: 6px; }
+  .rc-img img { width: 150px; height: 92px; object-fit: cover; }
+  .rc-img figcaption { font-size: 11.5px; color: #8a97a3; margin-top: 4px; }
+  .news-box { background: #f7f9fc; border: 1px solid #e6edf4; padding: 16px 20px; align-self: start; }
+  .news-box h3 {
+    font-size: 16px; font-weight: 500; color: #222; margin-bottom: 8px; padding-bottom: 8px;
+    border-bottom: 1px solid #e2eaf2;
+  }
+  .news-box h3 span { font-size: 10.5px; color: #9aa8b5; letter-spacing: .12em; margin-left: 8px; text-transform: uppercase; }
+  .news-list li { padding: 9px 0; border-bottom: 1px dashed #e6edf4; font-size: 13px; color: #4a4a4a; line-height: 1.75; }
+  .news-list li:last-child { border-bottom: 0; padding-bottom: 0; }
+  .news-date { display: block; font-family: Arial, sans-serif; font-size: 11.5px; color: var(--orange); margin-bottom: 2px; }
   .roster-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 0 46px; margin-top: 16px; }
   .roster-p { font-size: 13.5px; line-height: 1.95; color: #4a4a4a; }
   .contact-strip {
@@ -226,6 +235,9 @@
     .cols { grid-template-columns: 1fr; gap: 0; }
     .svc-grid, .teach-grid, .roster-grid { grid-template-columns: 1fr; gap: 0; }
     .rc-row { grid-template-columns: 1fr; gap: 12px; }
+    .research-layout { grid-template-columns: 1fr; gap: 20px; }
+    .rc-item { grid-template-columns: minmax(0, 1fr) 110px; gap: 14px; }
+    .rc-img img { width: 110px; height: 70px; }
     .intro-in { flex-direction: column; }
     .intro-photo { width: 100%; display: flex; gap: 12px; align-items: flex-end; }
     .footer-in { flex-direction: column; gap: 8px; }
@@ -239,7 +251,7 @@
     <div>航天器系统与空间机器人</div>
     <div class="links">
       <a href="mailto:dongfangxy@163.com">联系我们</a>
-      <a href="legacy/">旧版主页 / English</a>
+      <a href="legacy/" target="_blank" rel="noopener">旧版主页 / English</a>
     </div>
   </div>
 </div>
@@ -326,40 +338,49 @@
 
     <div class="block" id="research">
       <div class="t_title"><h1>研究方向<span>Research</span></h1></div>
-      <div class="rc-list">
-        <div class="rc-row">
-          <div class="rc-txt">
-            <h4 class="sub-h">巨型星座分层分簇管理</h4>
-            <p>面向万颗级星座规模扩大带来的运维与星间通信开销问题，研究簇首选举与多目标簇划分、条件-行动动态分簇，以及大规模星座的构型设计与运行调度。</p>
-            <p class="block-note">IEEE TAES 2025, 61(4): 10098–10109</p>
+      <div class="research-layout">
+        <div class="rc-list">
+          <div class="rc-item">
+            <div>
+              <h4 class="sub-h">巨型星座分层分簇管理</h4>
+              <p>面向万颗级星座规模扩大带来的运维与星间通信开销问题，研究簇首选举与多目标簇划分、条件-行动动态分簇，以及大规模星座的构型设计与运行调度。</p>
+              <p class="block-note">IEEE TAES 2025, 61(4): 10098–10109</p>
+            </div>
+            <figure class="rc-img">
+              <img src="assets/launch.jpg" alt="星座部署与入轨">
+              <figcaption>星座部署与入轨</figcaption>
+            </figure>
           </div>
-          <figure class="rc-img">
-            <img src="assets/launch.jpg" alt="星座部署与入轨">
-            <figcaption>星座部署与入轨</figcaption>
-          </figure>
-        </div>
-        <div class="rc-row">
-          <div class="rc-txt">
-            <h4 class="sub-h">巨型星座协同式构型维持</h4>
-            <p>面向 J2 与大气阻力摄动下的长期运行，解决相位漂移与碰撞风险问题，研究双层相位优化、被动安全约束下的构型重构与万星级分层协调。</p>
-            <p class="block-note">IEEE TAES 2025, 61(6): 16738–16750 · IEEE TAES 2026, 62: 15269–15282</p>
+          <div class="rc-item">
+            <div>
+              <h4 class="sub-h">巨型星座协同式构型维持</h4>
+              <p>面向 J2 与大气阻力摄动下的长期运行，解决相位漂移与碰撞风险问题，研究双层相位优化、被动安全约束下的构型重构与万星级分层协调。</p>
+              <p class="block-note">IEEE TAES 2025, 61(6): 16738–16750 · IEEE TAES 2026, 62: 15269–15282</p>
+            </div>
+            <figure class="rc-img">
+              <img src="assets/satellite-servicing.jpg" alt="卫星在轨服务与交会">
+              <figcaption>卫星在轨服务与交会</figcaption>
+            </figure>
           </div>
-          <figure class="rc-img">
-            <img src="assets/satellite-servicing.jpg" alt="卫星在轨服务与交会">
-            <figcaption>卫星在轨服务与交会</figcaption>
-          </figure>
-        </div>
-        <div class="rc-row">
-          <div class="rc-txt">
-            <h4 class="sub-h">单目航天器跨域位姿估计</h4>
-            <p>面向非合作目标的交会、巡检与在轨服务，解决跨域图像分布差异导致位姿精度下降的问题，研究无监督域适应、关键点—深度联合估计与几何约束下的位姿求解。</p>
-            <p class="block-note">应用 · 非合作目标交会、巡检与在轨服务</p>
+          <div class="rc-item">
+            <div>
+              <h4 class="sub-h">单目航天器跨域位姿估计</h4>
+              <p>面向非合作目标的交会、巡检与在轨服务，解决跨域图像分布差异导致位姿精度下降的问题，研究无监督域适应、关键点—深度联合估计与几何约束下的位姿求解。</p>
+              <p class="block-note">应用 · 非合作目标交会、巡检与在轨服务</p>
+            </div>
+            <figure class="rc-img">
+              <img src="assets/station-arm.jpg" alt="空间站机械臂在轨操作">
+              <figcaption>空间站机械臂在轨操作</figcaption>
+            </figure>
           </div>
-          <figure class="rc-img">
-            <img src="assets/station-arm.jpg" alt="空间站机械臂在轨操作">
-            <figcaption>空间站机械臂在轨操作</figcaption>
-          </figure>
         </div>
+
+        <aside class="news-box">
+          <h3>课题组新闻<span>News</span></h3>
+          <ul class="news-list">
+            <li><span class="news-date">待补充</span>课题组新闻将陆续在此更新。</li>
+          </ul>
+        </aside>
       </div>
       <p class="block-note" style="margin-top:14px;padding-top:10px;border-top:1px solid #eef2f6">
         <b style="color:#0e497f">Other Topics</b>　航天器集群协同与容错控制 · 空间机器人与在轨服务 · 无人系统规划决策 · 嵌入式系统与 AI 应用 · 新能源系统控制与优化
@@ -557,7 +578,7 @@
     <div>
       <h3>快速链接</h3>
       <ul>
-        <li><a href="legacy/">旧版主页（English Homepage）</a></li>
+        <li><a href="legacy/" target="_blank" rel="noopener">旧版主页（English Homepage）</a></li>
         <li><a href="https://scholar.google.com/citations?user=oHzlz50AAAAJ&amp;hl" target="_blank" rel="noopener">Google Scholar</a></li>
         <li><a href="https://orcid.org/0000-0002-3130-6497" target="_blank" rel="noopener">ORCID</a></li>
       </ul>
@@ -593,7 +614,6 @@
 </script>
 </body>
 </html>
-
 
 
 
