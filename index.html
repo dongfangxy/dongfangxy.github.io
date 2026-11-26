@@ -112,19 +112,23 @@
   .rc-img { margin: 0; }
   .rc-img img { width: 150px; height: 92px; object-fit: cover; }
   .rc-img figcaption { font-size: 11.5px; color: #8a97a3; margin-top: 4px; }
-  .news-box { background: #f7f9fc; border: 1px solid #e6edf4; padding: 16px 20px; align-self: start; }
+  .news-box { background: #f7f9fc; border: 1px solid #e6edf4; padding: 16px 20px; display: flex; flex-direction: column; }
   .news-box h3 {
-    font-size: 16px; font-weight: 500; color: #222; margin-bottom: 8px; padding-bottom: 8px;
+    display: flex; align-items: baseline; justify-content: space-between; gap: 10px;
+    font-size: 16px; font-weight: 500; color: #222; margin-bottom: 6px; padding-bottom: 8px;
     border-bottom: 1px solid #e2eaf2;
   }
   .news-box h3 span { font-size: 10.5px; color: #9aa8b5; letter-spacing: .12em; margin-left: 8px; text-transform: uppercase; }
-  .news-list li { padding: 0; border-bottom: 1px dashed #e6edf4; font-size: 13px; color: #4a4a4a; line-height: 1.75; }
+  .news-box h3 .nw { font-size: 16px; color: #222; letter-spacing: 0; text-transform: none; margin: 0; }
+  .news-box h3 .more { font-size: 12px; color: #9aa8b5; font-weight: 400; letter-spacing: 0; white-space: nowrap; }
+  .news-box h3 .more:hover { color: var(--navy); }
+  .news-list { flex: 1; display: flex; flex-direction: column; justify-content: space-between; }
+  .news-list li { border-bottom: 1px dashed #e6edf4; font-size: 13px; color: #4a4a4a; line-height: 1.75; }
   .news-list li:last-child { border-bottom: 0; }
-  .news-list li a { display: block; padding: 11px 0; }
+  .news-list li a { display: block; padding: 12px 0; }
   .news-list li a:hover .news-title { color: var(--orange); }
   .news-date { display: inline-block; font-family: Arial, sans-serif; font-size: 11.5px; color: var(--orange); border: 1px solid #f6dcc0; background: #fff8f0; padding: 0 6px; margin-right: 7px; vertical-align: 1px; }
   .news-title { font-size: 14px; color: var(--navy); font-weight: 500; transition: color .25s; }
-  .news-sum { display: block; margin-top: 5px; font-size: 12.5px; color: #6b7a88; line-height: 1.8; }
   .roster-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 0 46px; margin-top: 16px; }
   .roster-p { font-size: 13.5px; line-height: 1.95; color: #4a4a4a; }
   .contact-strip {
@@ -379,30 +383,26 @@
         </div>
 
         <aside class="news-box" id="news">
-          <h3>课题组新闻<span>News</span></h3>
+          <h3><span class="nw">课题组新闻<span>News</span></span><a class="more" href="news.html" target="_blank" rel="noopener">全部新闻 »</a></h3>
           <ul class="news-list">
             <li>
               <a href="news-2026-10-dehazing.html">
                 <span class="news-date">2026-10</span><span class="news-title">徐士杰：无人机视频轻量化去雾方法被 AEAT 接收</span>
-                <span class="news-sum">在 LAB 色彩空间以 OpenCL 加速 CLAHE，结合空间降采样、跳帧与异步多线程，在集成显卡上保持 30 fps 连续处理，离线测速达 745.5 fps。</span>
               </a>
             </li>
             <li>
               <a href="news-2026-09-pose-uncertainty.html">
                 <span class="news-date">2026-09</span><span class="news-title">翟峰：不确定性感知的单目航天器位姿估计被 Aerospace Systems 接收</span>
-                <span class="news-sum">为每个 2D 关键点预测完整各向异性协方差并带入 PnP 优化，SPEED 验证集平移误差 0.1246 m、旋转误差 1.3284°，真实图像 KPEC 分数进入赛后提交前三。</span>
               </a>
             </li>
             <li>
               <a href="news-2025-12-configuration-maintenance.html">
                 <span class="news-date">2025-12</span><span class="news-title">尹天乐：多星构型维持的共相位与控制优化发表于 IEEE TAES</span>
-                <span class="news-sum">双目标优化框架分别调整虚拟标称点与控制输入，保证各星进入站位保持区并最小化总能耗，同时显式处理星间相位误差，在 550–850 km 三种轨道高度场景下验证。</span>
               </a>
             </li>
             <li>
               <a href="news-2025-08-megaconstellation-clustering.html">
                 <span class="news-date">2025-08</span><span class="news-title">巨型星座能量与规模协同的分簇策略发表于 IEEE TAES</span>
-                <span class="news-sum">簇首选举加孤儿节点处理保证全网覆盖，再以两阶段多目标优化完成成员划分与簇内多跳连接；OneWeb 仿真显示能耗较离散梯度优化降低 55.9%，簇规模更均衡。</span>
               </a>
             </li>
           </ul>

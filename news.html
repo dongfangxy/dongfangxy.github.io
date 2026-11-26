@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>课题组新闻 | 航天器系统与空间机器人</title>
+<style>
+  :root {
+    --navy: #0e497f; --navy-d: #00406e; --navy-l: #275e90; --orange: #ff9900;
+    --text: #333333; --gray: #666666; --light: #999999; --line: #dadada; --soft: #f5f8fb;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { font-family: "Microsoft YaHei", "PingFang SC", "Hiragino Sans GB", SimSun, sans-serif; font-size: 14px; color: var(--text); background: #fff; line-height: 1.7; }
+  ul { list-style: none; }
+  a { text-decoration: none; color: var(--gray); transition: color .3s; }
+  a:hover { color: var(--navy); }
+  .w1200 { width: 1280px; max-width: 100%; margin: 0 auto; padding: 0 20px; }
+
+  .topline { background: var(--navy-d); height: 32px; line-height: 32px; font-size: 12px; color: #8eb0d7; font-family: SimSun, serif; }
+  .topline .w1200 { display: flex; justify-content: space-between; }
+  .topline a { color: #8eb0d7; }
+  .topline a:hover { color: #fff; }
+  .topline .links a { margin-left: 16px; }
+
+  .header { background: var(--navy); padding-top: 32px; height: 140px; }
+  .header-in { display: flex; align-items: center; justify-content: space-between; gap: 30px; padding-top: 12px; }
+  .logo-cn { color: #fff; font-family: "STZhongsong", SimSun, serif; font-size: 34px; letter-spacing: .12em; line-height: 1.1; }
+  .logo-sub { color: #b9d0e8; font-size: 13px; letter-spacing: .08em; margin-top: 2px; }
+  .header-right { text-align: right; color: #d6e4f2; font-size: 12px; }
+  .header-right .post { color: #fff; font-size: 15px; letter-spacing: .06em; }
+  .header-right .quick { margin-top: 8px; }
+  .header-right .quick a { color: #cfe0f0; margin-left: 14px; font-size: 12px; }
+  .header-right .quick a:hover { color: #fff; text-decoration: underline; }
+
+  .i-menu { background: var(--navy); height: 46px; box-shadow: 0 2px 6px rgba(0,0,0,.12); position: relative; z-index: 20; }
+  .nav { display: flex; height: 46px; }
+  .nav a { display: block; padding: 0 34px; height: 46px; line-height: 46px; color: #fff; font-size: 16px; }
+  .nav a:hover, .nav li.on a { background: var(--navy-l); color: #fff; }
+
+  .crumb { background: var(--soft); border-bottom: 1px solid #e3ebf3; height: 40px; line-height: 40px; font-size: 13px; color: var(--light); }
+  .crumb span { color: var(--navy); }
+
+  .main { padding: 26px 0 40px; }
+  .page-head { border-bottom: 1px solid var(--line); padding-bottom: 12px; margin-bottom: 6px; }
+  .page-head h1 { font-size: 26px; font-weight: 500; color: var(--text); letter-spacing: .04em; }
+  .page-head h1 span { color: var(--orange); font-size: 13px; font-weight: 400; margin-left: 10px; letter-spacing: 0; }
+  .page-head p { font-size: 13px; color: var(--light); margin-top: 4px; }
+
+  .t_title { display: flex; align-items: flex-end; justify-content: space-between; border-bottom: 1px solid var(--line); height: 50px; margin-top: 26px; }
+  .t_title h2 { font-size: 22px; font-weight: 500; color: var(--text); padding: 0 10px; border-bottom: 2px solid var(--navy); height: 49px; line-height: 49px; }
+  .t_title h2 span { color: var(--orange); font-size: 13px; font-weight: 400; margin-left: 8px; }
+  .t_title .top-link { font-size: 13px; color: var(--light); padding-bottom: 10px; }
+
+  .n_list { padding-top: 2px; }
+  .n_list li { display: flex; align-items: baseline; gap: 12px; padding: 10px 0; border-bottom: 1px dashed #e2e2e2; font-size: 15px; line-height: 1.65; }
+  .n_list li:last-child { border-bottom: 0; }
+  .n_list .t { flex: 1; color: var(--text); }
+  .n_list .t::before { content: "▍"; color: var(--navy); font-size: 12px; margin-right: 8px; vertical-align: 1px; }
+  .n_list .note { display: block; color: var(--light); font-size: 12px; margin-top: 2px; padding-left: 12px; }
+  .n_list .note em { font-style: italic; color: #7c8b99; }
+  .n_list .date { color: var(--orange); font-size: 13px; flex: none; font-family: Arial, sans-serif; }
+  .badge { display: inline-block; font-size: 11px; color: var(--navy); border: 1px solid #c8d8e8; background: #f2f7fc; padding: 0 6px; margin-left: 8px; vertical-align: 1px; }
+
+  .footer { background: var(--navy); color: #cfe0f0; margin-top: 18px; }
+  .footer-in { display: flex; justify-content: space-between; gap: 30px; padding: 26px 0 24px; }
+  .footer h3 { color: #fff; font-size: 15px; font-weight: 500; letter-spacing: .06em; margin-bottom: 10px; }
+  .footer p, .footer li { font-size: 13px; line-height: 2; color: #b9d0e8; }
+  .footer a { color: #dbe8f4; }
+  .footer a:hover { color: #fff; text-decoration: underline; }
+  .copyright { border-top: 1px solid rgba(255,255,255,.16); padding: 12px 0 16px; font-size: 12px; color: #9dbdd9; text-align: center; font-family: SimSun, serif; }
+
+  @media (max-width: 1100px) {
+    .header { height: auto; padding-bottom: 16px; }
+    .header-in { flex-direction: column; align-items: flex-start; }
+    .header-right { text-align: left; }
+    .nav { flex-wrap: wrap; }
+    .nav a { padding: 0 16px; font-size: 15px; }
+    .footer-in { flex-direction: column; gap: 8px; }
+  }
+  /* ---- 新闻详情 ---- */
+  .news-wrap { display: grid; grid-template-columns: minmax(0, 1fr) 260px; gap: 36px; align-items: start; }
+  .news-head h1 { font-size: 22px; font-weight: 500; color: var(--navy); line-height: 1.55; letter-spacing: .02em; }
+  .news-meta { font-size: 12.5px; color: var(--light); margin-top: 8px; padding-bottom: 12px; border-bottom: 1px solid var(--line); }
+  .news-meta b { color: var(--orange); font-weight: 400; margin-right: 14px; font-family: Arial, sans-serif; }
+  .news-lead { margin-top: 18px; padding: 14px 18px; background: var(--soft); border-left: 3px solid var(--navy); font-size: 15px; line-height: 1.95; color: #2f3d4a; }
+  .news-body h2 { font-size: 16px; font-weight: 500; color: var(--navy); margin: 24px 0 8px; padding-left: 9px; border-left: 3px solid var(--orange); line-height: 1.4; }
+  .news-body p { font-size: 14.5px; line-height: 1.95; color: #3b4855; margin-top: 8px; }
+  .news-body ul { margin-top: 6px; }
+  .news-body li { position: relative; padding: 5px 0 5px 16px; font-size: 14.5px; line-height: 1.9; color: #3b4855; }
+  .news-body li::before { content: ""; position: absolute; left: 2px; top: 15px; width: 5px; height: 5px; background: var(--navy); border-radius: 50%; }
+  .news-body em { font-style: italic; }
+  .news-figure { margin: 16px 0 6px; }
+  .news-figure img { width: 100%; border: 1px solid #e3ebf3; background: #fff; }
+  .news-figure figcaption { font-size: 12px; color: #8a97a3; text-align: center; margin-top: 6px; line-height: 1.7; }
+  .news-kv { margin-top: 10px; border-top: 1px solid #e8eef5; }
+  .news-kv div { display: flex; gap: 14px; padding: 7px 0; border-bottom: 1px dashed #e8eef5; font-size: 13.5px; line-height: 1.7; }
+  .news-kv dt { flex: none; width: 74px; color: var(--light); }
+  .news-kv dd { color: #3b4855; }
+  .research-side h3 { font-size: 14px; color: var(--navy); border-bottom: 1px solid var(--line); padding-bottom: 8px; margin-bottom: 6px; }
+  .research-side p, .research-side li { font-size: 13px; line-height: 1.9; color: var(--gray); }
+  .research-side ul { padding-left: 0; }
+  .research-side li { padding: 6px 0; border-bottom: 1px dashed #eee; }
+  .news-back { display: inline-block; margin-top: 26px; font-size: 13px; color: var(--navy); border: 1px solid #c8d8e8; padding: 7px 16px; background: #f7fafd; }
+  .news-back:hover { background: var(--navy); color: #fff; border-color: var(--navy); }
+  @media (max-width: 900px) { .news-wrap { grid-template-columns: 1fr; } }
+  .n_list .t a { color: var(--text); }
+  .n_list .t a:hover { color: var(--navy); }
+  .n_list li { padding: 13px 0; }
+  .n_list .note { padding-left: 12px; }
+</style>
+</head>
+<body>
+
+<div class="topline">
+  <div class="w1200">
+    <div>航天器系统与空间机器人</div>
+    <div class="links">
+      <a href="index-jnu.html">首页</a>
+      <a href="legacy/" target="_blank" rel="noopener">旧版主页 / English</a>
+    </div>
+  </div>
+</div>
+
+<div class="header">
+  <div class="w1200 header-in">
+    <div class="logo">
+      <div>
+        <div class="logo-cn">张承玺</div>
+        <div class="logo-sub">航天器系统与空间机器人</div>
+      </div>
+    </div>
+    <div class="header-right">
+      <div class="post">副教授 · 博士生导师</div>
+      <div class="quick">
+        <a href="https://scholar.google.com/citations?user=oHzlz50AAAAJ&amp;hl" target="_blank" rel="noopener">Google Scholar</a>
+        <a href="https://orcid.org/0000-0002-3130-6497" target="_blank" rel="noopener">ORCID</a>
+        <a href="mailto:cxzhang@jiangnan.edu.cn">邮箱</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="i-menu">
+  <div class="w1200">
+    <ul class="nav">
+      <li><a href="index-jnu.html">首页</a></li>
+      <li><a href="index-jnu.html#about">个人简介</a></li>
+      <li><a href="index-jnu.html#research">研究方向</a></li>
+      <li><a href="papers.html">论文发表</a></li>
+      <li><a href="index-jnu.html#projects">科研项目</a></li>
+      <li><a href="index-jnu.html#honors">荣誉与任职</a></li>
+      <li><a href="index-jnu.html#teaching">教学与团队</a></li>
+      <li><a href="index-jnu.html#contact">联系方式</a></li>
+    </ul>
+  </div>
+</div>
+
+<div class="crumb">
+  <div class="w1200">当前位置：<a href="index.html">首页</a> &gt; <span>课题组新闻</span></div>
+</div>
+
+<div class="main">
+  <div class="w1200">
+    <div class="t_title">
+      <h2>课题组新闻<span>News</span></h2>
+      <a class="top-link" href="index.html">« 返回首页</a>
+    </div>
+    <ul class="n_list">
+      <li>
+        <div class="t">
+          <a href="news-2026-10-dehazing.html">徐士杰：无人机视频轻量化去雾方法被 Aircraft Engineering and Aerospace Technology 接收</a>
+          <span class="note">在 LAB 色彩空间以 OpenCL 加速 CLAHE，结合空间降采样、跳帧与异步多线程，在集成显卡上保持 30 fps 连续处理，离线测速达 745.5 fps。</span>
+        </div>
+        <span class="date">2026-10</span>
+      </li>
+      <li>
+        <div class="t">
+          <a href="news-2026-09-pose-uncertainty.html">翟峰：不确定性感知的单目航天器位姿估计被 Aerospace Systems 接收</a>
+          <span class="note">为每个 2D 关键点预测完整各向异性协方差并带入 PnP 优化，SPEED 验证集平移误差 0.1246 m、旋转误差 1.3284°，真实图像 KPEC 分数进入赛后提交前三。</span>
+        </div>
+        <span class="date">2026-09</span>
+      </li>
+      <li>
+        <div class="t">
+          <a href="news-2025-12-configuration-maintenance.html">尹天乐：多星构型维持的共相位与控制优化发表于 IEEE Transactions on Aerospace and Electronic Systems</a>
+          <span class="note">双目标优化框架分别调整虚拟标称点与控制输入，保证各星进入站位保持区并最小化总能耗，同时显式处理星间相位误差，在 550–850 km 三种轨道高度场景下验证。</span>
+        </div>
+        <span class="date">2025-12</span>
+      </li>
+      <li>
+        <div class="t">
+          <a href="news-2025-08-megaconstellation-clustering.html">巨型星座能量与规模协同的分簇策略发表于 IEEE Transactions on Aerospace and Electronic Systems</a>
+          <span class="note">簇首选举加孤儿节点处理保证全网覆盖，再以两阶段多目标优化完成成员划分与簇内多跳连接；OneWeb 仿真显示能耗较离散梯度优化降低 55.9%，簇规模更均衡。</span>
+        </div>
+        <span class="date">2025-08</span>
+      </li>
+    </ul>
+  </div>
+</div>
+
+<div class="footer" id="top">
+  <div class="w1200 footer-in">
+    <div>
+      <h3>航天器系统与空间机器人</h3>
+      <p>江苏省无锡市蠡湖大道 1800 号 · 214122</p>
+    </div>
+    <div>
+      <h3>快速链接</h3>
+      <ul>
+        <li><a href="index-jnu.html">研究组主页</a></li>
+        <li><a href="legacy/" target="_blank" rel="noopener">旧版主页（English Homepage）</a></li>
+        <li><a href="https://scholar.google.com/citations?user=oHzlz50AAAAJ&amp;hl" target="_blank" rel="noopener">Google Scholar</a></li>
+      </ul>
+    </div>
+    <div>
+      <h3>联系</h3>
+      <p><a href="mailto:cxzhang@jiangnan.edu.cn">cxzhang@jiangnan.edu.cn</a></p>
+      <p><a href="mailto:dongfangxy@163.com">dongfangxy@163.com</a></p>
+    </div>
+  </div>
+  <div class="copyright">Copyright © 航天器系统与空间机器人　建议使用 1280×720 以上分辨率浏览</div>
+</div>
+
+</body>
+</html>
+
+
+
