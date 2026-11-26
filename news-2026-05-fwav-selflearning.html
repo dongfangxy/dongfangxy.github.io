@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>卢瑞秋：变学习强度扑翼飞行器自学习控制发表于 自动化学报 | 张承玺课题组</title>
+<style>
+  :root {
+    --navy: #0e497f; --navy-d: #00406e; --navy-l: #275e90; --orange: #ff9900;
+    --text: #333333; --gray: #666666; --light: #999999; --line: #dadada; --soft: #f5f8fb;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { font-family: "Microsoft YaHei", "PingFang SC", "Hiragino Sans GB", SimSun, sans-serif; font-size: 14px; color: var(--text); background: #fff; line-height: 1.7; }
+  ul { list-style: none; }
+  a { text-decoration: none; color: var(--gray); transition: color .3s; }
+  a:hover { color: var(--navy); }
+  .w1200 { width: 1280px; max-width: 100%; margin: 0 auto; padding: 0 20px; }
+
+  .topline { background: var(--navy-d); height: 32px; line-height: 32px; font-size: 12px; color: #8eb0d7; font-family: SimSun, serif; }
+  .topline .w1200 { display: flex; justify-content: space-between; }
+  .topline a { color: #8eb0d7; }
+  .topline a:hover { color: #fff; }
+  .topline .links a { margin-left: 16px; }
+
+  .header { background: var(--navy); padding-top: 32px; height: 140px; }
+  .header-in { display: flex; align-items: center; justify-content: space-between; gap: 30px; padding-top: 12px; }
+  .logo-cn { color: #fff; font-family: "STZhongsong", SimSun, serif; font-size: 34px; letter-spacing: .12em; line-height: 1.1; }
+  .logo-sub { color: #b9d0e8; font-size: 13px; letter-spacing: .08em; margin-top: 2px; }
+  .header-right { text-align: right; color: #d6e4f2; font-size: 12px; }
+  .header-right .post { color: #fff; font-size: 15px; letter-spacing: .06em; }
+  .header-right .quick { margin-top: 8px; }
+  .header-right .quick a { color: #cfe0f0; margin-left: 14px; font-size: 12px; }
+  .header-right .quick a:hover { color: #fff; text-decoration: underline; }
+
+  .i-menu { background: var(--navy); height: 46px; box-shadow: 0 2px 6px rgba(0,0,0,.12); position: relative; z-index: 20; }
+  .nav { display: flex; height: 46px; }
+  .nav a { display: block; padding: 0 34px; height: 46px; line-height: 46px; color: #fff; font-size: 16px; }
+  .nav a:hover, .nav li.on a { background: var(--navy-l); color: #fff; }
+
+  .crumb { background: var(--soft); border-bottom: 1px solid #e3ebf3; height: 40px; line-height: 40px; font-size: 13px; color: var(--light); }
+  .crumb span { color: var(--navy); }
+
+  .main { padding: 26px 0 40px; }
+  .page-head { border-bottom: 1px solid var(--line); padding-bottom: 12px; margin-bottom: 6px; }
+  .page-head h1 { font-size: 26px; font-weight: 500; color: var(--text); letter-spacing: .04em; }
+  .page-head h1 span { color: var(--orange); font-size: 13px; font-weight: 400; margin-left: 10px; letter-spacing: 0; }
+  .page-head p { font-size: 13px; color: var(--light); margin-top: 4px; }
+
+  .t_title { display: flex; align-items: flex-end; justify-content: space-between; border-bottom: 1px solid var(--line); height: 50px; margin-top: 26px; }
+  .t_title h2 { font-size: 22px; font-weight: 500; color: var(--text); padding: 0 10px; border-bottom: 2px solid var(--navy); height: 49px; line-height: 49px; }
+  .t_title h2 span { color: var(--orange); font-size: 13px; font-weight: 400; margin-left: 8px; }
+  .t_title .top-link { font-size: 13px; color: var(--light); padding-bottom: 10px; }
+
+  .n_list { padding-top: 2px; }
+  .n_list li { display: flex; align-items: baseline; gap: 12px; padding: 10px 0; border-bottom: 1px dashed #e2e2e2; font-size: 15px; line-height: 1.65; }
+  .n_list li:last-child { border-bottom: 0; }
+  .n_list .t { flex: 1; color: var(--text); }
+  .n_list .t::before { content: "▍"; color: var(--navy); font-size: 12px; margin-right: 8px; vertical-align: 1px; }
+  .n_list .note { display: block; color: var(--light); font-size: 12px; margin-top: 2px; padding-left: 12px; }
+  .n_list .note em { font-style: italic; color: #7c8b99; }
+  .n_list .date { color: var(--orange); font-size: 13px; flex: none; font-family: Arial, sans-serif; }
+  .badge { display: inline-block; font-size: 11px; color: var(--navy); border: 1px solid #c8d8e8; background: #f2f7fc; padding: 0 6px; margin-left: 8px; vertical-align: 1px; }
+
+  .footer { background: var(--navy); color: #cfe0f0; margin-top: 18px; }
+  .footer-in { display: flex; justify-content: space-between; gap: 30px; padding: 26px 0 24px; }
+  .footer h3 { color: #fff; font-size: 15px; font-weight: 500; letter-spacing: .06em; margin-bottom: 10px; }
+  .footer p, .footer li { font-size: 13px; line-height: 2; color: #b9d0e8; }
+  .footer a { color: #dbe8f4; }
+  .footer a:hover { color: #fff; text-decoration: underline; }
+  .copyright { border-top: 1px solid rgba(255,255,255,.16); padding: 12px 0 16px; font-size: 12px; color: #9dbdd9; text-align: center; font-family: SimSun, serif; }
+
+  @media (max-width: 1100px) {
+    .header { height: auto; padding-bottom: 16px; }
+    .header-in { flex-direction: column; align-items: flex-start; }
+    .header-right { text-align: left; }
+    .nav { flex-wrap: wrap; }
+    .nav a { padding: 0 16px; font-size: 15px; }
+    .footer-in { flex-direction: column; gap: 8px; }
+  }
+  /* ---- 新闻详情 ---- */
+  .news-wrap { display: grid; grid-template-columns: minmax(0, 1fr) 260px; gap: 36px; align-items: start; }
+  .news-head h1 { font-size: 22px; font-weight: 500; color: var(--navy); line-height: 1.55; letter-spacing: .02em; }
+  .news-meta { font-size: 12.5px; color: var(--light); margin-top: 8px; padding-bottom: 12px; border-bottom: 1px solid var(--line); }
+  .news-meta b { color: var(--orange); font-weight: 400; margin-right: 14px; font-family: Arial, sans-serif; }
+  .news-lead { margin-top: 18px; padding: 14px 18px; background: var(--soft); border-left: 3px solid var(--navy); font-size: 15px; line-height: 1.95; color: #2f3d4a; }
+  .news-body h2 { font-size: 16px; font-weight: 500; color: var(--navy); margin: 24px 0 8px; padding-left: 9px; border-left: 3px solid var(--orange); line-height: 1.4; }
+  .news-body p { font-size: 14.5px; line-height: 1.95; color: #3b4855; margin-top: 8px; }
+  .news-body ul { margin-top: 6px; }
+  .news-body li { position: relative; padding: 5px 0 5px 16px; font-size: 14.5px; line-height: 1.9; color: #3b4855; }
+  .news-body li::before { content: ""; position: absolute; left: 2px; top: 15px; width: 5px; height: 5px; background: var(--navy); border-radius: 50%; }
+  .news-body em { font-style: italic; }
+  .news-figure { margin: 16px 0 6px; }
+  .news-figure img { width: 100%; border: 1px solid #e3ebf3; background: #fff; }
+  .news-figure figcaption { font-size: 12px; color: #8a97a3; text-align: center; margin-top: 6px; line-height: 1.7; }
+  .news-kv { margin-top: 10px; border-top: 1px solid #e8eef5; }
+  .news-kv div { display: flex; gap: 14px; padding: 7px 0; border-bottom: 1px dashed #e8eef5; font-size: 13.5px; line-height: 1.7; }
+  .news-kv dt { flex: none; width: 74px; color: var(--light); }
+  .news-kv dd { color: #3b4855; }
+  .research-side h3 { font-size: 14px; color: var(--navy); border-bottom: 1px solid var(--line); padding-bottom: 8px; margin-bottom: 6px; }
+  .research-side p, .research-side li { font-size: 13px; line-height: 1.9; color: var(--gray); }
+  .research-side ul { padding-left: 0; }
+  .research-side li { padding: 6px 0; border-bottom: 1px dashed #eee; }
+  .news-back { display: inline-block; margin-top: 26px; font-size: 13px; color: var(--navy); border: 1px solid #c8d8e8; padding: 7px 16px; background: #f7fafd; }
+  .news-back:hover { background: var(--navy); color: #fff; border-color: var(--navy); }
+  @media (max-width: 900px) { .news-wrap { grid-template-columns: 1fr; } }
+</style>
+</head>
+<body>
+
+<div class="topline">
+  <div class="w1200">
+    <div>航天器系统与空间机器人</div>
+    <div class="links">
+      <a href="index.html">首页</a>
+      <a href="https://dongfangxy.github.io/legacy/" target="_blank" rel="noopener">旧版主页 / English</a>
+    </div>
+  </div>
+</div>
+
+<div class="header">
+  <div class="w1200 header-in">
+    <div class="logo">
+      <div>
+        <div class="logo-cn">张承玺</div>
+        <div class="logo-sub">航天器系统与空间机器人</div>
+      </div>
+    </div>
+    <div class="header-right">
+      <div class="post">副教授 · 博士生导师</div>
+      <div class="quick">
+        <a href="https://scholar.google.com/citations?user=oHzlz50AAAAJ&amp;hl" target="_blank" rel="noopener">Google Scholar</a>
+        <a href="https://orcid.org/0000-0002-3130-6497" target="_blank" rel="noopener">ORCID</a>
+        <a href="mailto:cxzhang@jiangnan.edu.cn">邮箱</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="i-menu">
+  <div class="w1200">
+    <ul class="nav">
+      <li><a href="index.html">首页</a></li>
+      <li><a href="index.html#about">个人简介</a></li>
+      <li><a href="index.html#research">研究方向</a></li>
+      <li><a href="papers.html">论文发表</a></li>
+      <li><a href="index.html#projects">科研项目</a></li>
+      <li><a href="index.html#honors">荣誉与任职</a></li>
+      <li><a href="index.html#teaching">教学与团队</a></li>
+      <li><a href="index.html#contact">联系方式</a></li>
+    </ul>
+  </div>
+</div>
+
+<div class="crumb">
+  <div class="w1200">当前位置：<a href="index.html">首页</a> &gt; <a href="index.html#news">课题组新闻</a> &gt; <span>变学习强度扑翼飞行器自学习控制</span></div>
+</div>
+
+<div class="main">
+  <div class="w1200">
+    <div class="news-wrap">
+            <article>
+        <div class="news-head">
+          <h1>卢瑞秋：变学习强度扑翼飞行器自学习控制发表于 <em>自动化学报</em></h1>
+          <div class="news-meta"><b>2026-05</b>卢瑞秋（第二作者）　｜　导师张承玺为第一作者</div>
+        </div>
+
+        <p class="news-lead">卢瑞秋同学参与完成的研究成果《变学习强度扑翼飞行器自学习控制》发表于《自动化学报》（2026, 52(5): 1092−1100，导师张承玺为第一作者）。方法用一个代数方程学习历史控制信息，并按误差用自定义函数调节学习强度：误差大时压低学习强度，避免历史记忆导致控制量饱和；误差小时提高学习强度，加快补偿与收敛。</p>
+
+        <figure class="news-figure">
+          <img src="assets/news-fwav-trajectory.jpg" alt="四种控制策略下扑翼飞行器的三维盘旋轨迹对比">
+          <figcaption>图 1　三维飞行轨迹：参考轨迹为半径 6 m、高度 5 m 的盘旋圆。传统 PD（Non-SLC）受非定常气动力与模型误差影响明显偏离，自学习控制能较快收敛到期望轨迹。</figcaption>
+        </figure>
+
+        <div class="news-body">
+          <h2>问题：非线性气动、模型不确定与算力受限</h2>
+          <p>扑翼飞行器依靠非定常气动力产生升力，翼面柔性形变、涡结构演化与气流分离让受力具有明显的非线性与周期性，精确的气动力模型难以建立。常用的增广状态观测器、自适应控制、自抗扰与神经网络补偿虽然提升了鲁棒性，但控制结构复杂、参数多、计算量大，难以在微型嵌入式飞控上实时运行。</p>
+
+          <h2>方法：一个代数方程加一条可定制的学习强度曲线</h2>
+          <ul>
+            <li><b>自学习控制律</b>：导航力由历史导航力与当前 PD 控制力加权得到，即 F<sub>nav</sub>(t) = k<sub>1</sub>(t)F<sub>nav</sub>(t − τ) + F<sub>nav</sub>(t)，不需要观测器，也不依赖精确模型。</li>
+            <li><b>变学习强度</b>：用分段三次 Hermite 插值（PCHIP）按误差分段构造 k<sub>1</sub>(e)，取值从 0.007 到 0.92，保证曲线连续、单调、可定制。</li>
+            <li><b>稳定性</b>：在 0 &lt; k<sub>1</sub> ≤ k<sub>1</sub>(t) ≤ k̄<sub>1</sub> &lt; 1 的条件下给出闭环跟踪误差一致最终有界（UUB）的证明。</li>
+          </ul>
+
+          <h2>结果：精度更高，计算量约为对比方法的二十分之一</h2>
+          <ul>
+            <li>在半径 6 m、高度 5 m 的盘旋任务中，与固定学习强度、指数型变学习强度及传统 PD 相比，所提方法的 X、Y、Z 三轴误差收敛最快，稳态振荡最小。</li>
+            <li>三轴控制任务下，算法仅需 40 Bytes 存储、9 次浮点运算、单次计算耗时 0.2512 µs。</li>
+            <li>增广状态观测器需 1152 Bytes、162 FLOPs、1.3917 µs，自适应控制需 1120 Bytes、240 FLOPs、11.3533 µs；本文方法内存占用降低约 96.5%，运算量约为两者的二十分之一。</li>
+          </ul>
+
+          <figure class="news-figure">
+            <img src="assets/news-fwav-errors.jpg" alt="四种控制策略下 X、Y、Z 三轴轨迹跟踪误差对比">
+            <figcaption>图 2　跟踪误差：左列为 0–40 s，右列为 40–80 s。传统 PD 在稳态仍有明显周期性振荡，所提变学习强度方法的误差幅值最小。</figcaption>
+          </figure>
+
+          <figure class="news-figure">
+            <img src="assets/news-fwav-intensity.jpg" alt="变学习强度随时间的变化曲线">
+            <figcaption>图 3　学习强度曲线：初始误差较大时 k<sub>1</sub> 迅速下降，随后稳定在 0.92 附近；局部放大显示 10–20 s 区间的细微调节。</figcaption>
+          </figure>
+
+          <h2>论文信息</h2>
+          <div class="news-kv">
+            <div><dt>期刊</dt><dd><em>自动化学报</em>，2026, 52(5): 1092−1100</dd></div>
+            <div><dt>DOI</dt><dd>10.16383/j.aas.c250664</dd></div>
+            <div><dt>作者</dt><dd>张承玺, 卢瑞秋, 李权, 吴荩, 许德智</dd></div>
+            <div><dt>时间</dt><dd>收稿 2025-11-24　录用 2026-03-26</dd></div>
+          </div>
+
+          <h2>基金信息</h2>
+          <div class="news-kv">
+            <div><dt>资助</dt><dd>Supported by National Natural Science Foundation of China (62573211).</dd></div>
+          </div>
+
+          <a class="news-back" href="index.html#news">« 返回课题组新闻</a>
+        </div>
+      </article>
+
+            <aside class="research-side">
+        <h3>相关方向</h3>
+        <ul>
+          <li>扑翼飞行器控制</li>
+          <li>自学习与低复杂度控制</li>
+          <li>嵌入式飞控实现</li>
+        </ul>
+        <h3 style="margin-top:20px">其他新闻</h3>
+        <ul>
+          <li><a href="news-2026-11-tiv-csv.html">2026-11　载人深潜器多重不确定性下的有限时间控制发表于 IEEE TIV</a></li>
+          <li><a href="news-2026-10-battery-rul.html">2026-10　多尺度时序学习的锂电池剩余寿命预测发表于 MFC</a></li>
+          <li><a href="news-2026-10-dehazing.html">2026-10　无人机视频轻量化去雾方法被 AEAT 接收</a></li>
+          <li><a href="news-2026-09-pose-uncertainty.html">2026-09　不确定性感知的单目航天器位姿估计被 Aerospace Systems 接收</a></li>
+          <li><a href="news-2026-07-megaconstellation-coordination.html">2026-07　巨型星座层级协同的构型维持优化发表于 IEEE TAES</a></li>
+          <li><a href="news-2025-12-configuration-maintenance.html">2025-12　多星构型维持的共相位与控制优化</a></li>
+          <li><a href="news-2025-08-megaconstellation-clustering.html">2025-08　兼顾能耗与簇规模的巨型星座分簇策略</a></li>
+        </ul>
+      </aside>
+    </div>
+  </div>
+</div>
+
+<div class="footer" id="top">
+  <div class="w1200 footer-in">
+    <div>
+      <h3>航天器系统与空间机器人</h3>
+      <p>江苏省无锡市蠡湖大道 1800 号 · 214122</p>
+    </div>
+    <div>
+      <h3>快速链接</h3>
+      <ul>
+        <li><a href="index.html">研究组主页</a></li>
+        <li><a href="https://dongfangxy.github.io/legacy/" target="_blank" rel="noopener">旧版主页（English Homepage）</a></li>
+        <li><a href="https://scholar.google.com/citations?user=oHzlz50AAAAJ&amp;hl" target="_blank" rel="noopener">Google Scholar</a></li>
+      </ul>
+    </div>
+    <div>
+      <h3>联系</h3>
+      <p><a href="mailto:cxzhang@jiangnan.edu.cn">cxzhang@jiangnan.edu.cn</a></p>
+      <p><a href="mailto:dongfangxy@163.com">dongfangxy@163.com</a></p>
+    </div>
+  </div>
+  <div class="copyright">Copyright © 航天器系统与空间机器人　建议使用 1280×720 以上分辨率浏览</div>
+</div>
+
+</body>
+</html>
+
