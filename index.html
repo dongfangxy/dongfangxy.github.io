@@ -101,7 +101,7 @@
   }
   .intro-txt p { color: #4a4a4a; font-size: 15px; line-height: 2; text-indent: 2em; }
   .intro-txt p + p { margin-top: 4px; }
-  .research-layout { display: grid; grid-template-columns: minmax(0, 1fr) 300px; gap: 40px; margin-top: 4px; }
+  .research-layout { display: grid; grid-template-columns: minmax(0, 2fr) minmax(0, 1fr); gap: 36px; margin-top: 4px; }
   .rc-item {
     display: grid; grid-template-columns: minmax(0, 1fr) 150px; gap: 20px; align-items: center;
     padding: 14px 0; border-bottom: 1px dashed #e6edf4;
@@ -118,9 +118,13 @@
     border-bottom: 1px solid #e2eaf2;
   }
   .news-box h3 span { font-size: 10.5px; color: #9aa8b5; letter-spacing: .12em; margin-left: 8px; text-transform: uppercase; }
-  .news-list li { padding: 9px 0; border-bottom: 1px dashed #e6edf4; font-size: 13px; color: #4a4a4a; line-height: 1.75; }
-  .news-list li:last-child { border-bottom: 0; padding-bottom: 0; }
-  .news-date { display: block; font-family: Arial, sans-serif; font-size: 11.5px; color: var(--orange); margin-bottom: 2px; }
+  .news-list li { padding: 0; border-bottom: 1px dashed #e6edf4; font-size: 13px; color: #4a4a4a; line-height: 1.75; }
+  .news-list li:last-child { border-bottom: 0; }
+  .news-list li a { display: block; padding: 11px 0; }
+  .news-list li a:hover .news-title { color: var(--orange); }
+  .news-date { display: inline-block; font-family: Arial, sans-serif; font-size: 11.5px; color: var(--orange); border: 1px solid #f6dcc0; background: #fff8f0; padding: 0 6px; margin-right: 7px; vertical-align: 1px; }
+  .news-title { font-size: 14px; color: var(--navy); font-weight: 500; transition: color .25s; }
+  .news-sum { display: block; margin-top: 5px; font-size: 12.5px; color: #6b7a88; line-height: 1.8; }
   .roster-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 0 46px; margin-top: 16px; }
   .roster-p { font-size: 13.5px; line-height: 1.95; color: #4a4a4a; }
   .contact-strip {
@@ -374,10 +378,15 @@
           </div>
         </div>
 
-        <aside class="news-box">
+        <aside class="news-box" id="news">
           <h3>课题组新闻<span>News</span></h3>
           <ul class="news-list">
-            <li><span class="news-date">2026-10</span>徐士杰论文《A lightweight adaptive dehazing method for UAV video》被 <em>Aircraft Engineering and Aerospace Technology</em> 接收。该方法在 LAB 色彩空间以 OpenCL 加速 CLAHE，结合降采样、跳帧与异步多线程，在集成显卡上保持 30 fps 连续处理，离线测速达 745.5 fps，为雾霾环境下的无人机实时视觉提供轻量方案。</li>
+            <li>
+              <a href="news-2026-10-dehazing.html">
+                <span class="news-date">2026-10</span><span class="news-title">徐士杰：无人机视频轻量化去雾方法被 AEAT 接收</span>
+                <span class="news-sum">在 LAB 色彩空间以 OpenCL 加速 CLAHE，结合空间降采样、跳帧与异步多线程，在集成显卡上保持 30 fps 连续处理，离线测速达 745.5 fps。</span>
+              </a>
+            </li>
           </ul>
         </aside>
       </div>
@@ -634,7 +643,6 @@
 </script>
 </body>
 </html>
-
 
 
 
